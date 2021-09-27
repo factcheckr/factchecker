@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FactCheckr.github.io/factchecker/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-09-27T00:12:58.480Z</updated>
+    <id>https://factchecker.or.kr/fc_subjects</id>
+    <title>팩트체크넷</title>
+    <updated>2021-09-27T00:12:58.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[8억짜리 집 하나 파는데 세금만 3억? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[8억짜리 집 하나 파는데 세금만 3억?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/203</id>
         <link href="https://factchecker.or.kr/fc_subjects/203"/>
         <updated>2021-09-27T00:12:57.749Z</updated>
@@ -18,7 +19,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[포털 팩트체크] 김연아에 “색기 넘친다” 일본 언론 보도 팩트는 (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[[포털 팩트체크] 김연아에 “색기 넘친다” 일본 언론 보도 팩트는]]></title>
         <id>https://factchecker.or.kr/fc_subjects/202</id>
         <link href="https://factchecker.or.kr/fc_subjects/202"/>
         <updated>2021-09-27T00:12:57.752Z</updated>
@@ -26,7 +27,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[약한 처벌 때문에 피싱 사기 근절되지 않는다? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[약한 처벌 때문에 피싱 사기 근절되지 않는다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/201</id>
         <link href="https://factchecker.or.kr/fc_subjects/201"/>
         <updated>2021-09-27T00:12:57.752Z</updated>
@@ -37,7 +38,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/200</id>
         <link href="https://factchecker.or.kr/fc_subjects/200"/>
         <updated>2021-09-27T00:12:57.752Z</updated>
@@ -48,7 +49,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국은 UN이 정한 물부족 국가? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[한국은 UN이 정한 물부족 국가?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/199</id>
         <link href="https://factchecker.or.kr/fc_subjects/199"/>
         <updated>2021-09-27T00:12:57.753Z</updated>
@@ -57,7 +58,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[음료에 빨대 부착해서 판매하는 것, 금지되나? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[음료에 빨대 부착해서 판매하는 것, 금지되나?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/198</id>
         <link href="https://factchecker.or.kr/fc_subjects/198"/>
         <updated>2021-09-27T00:12:57.753Z</updated>
@@ -66,7 +67,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공익신고, 언론 제보 안하고 통상 60일 기다려야 한다? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[공익신고, 언론 제보 안하고 통상 60일 기다려야 한다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/197</id>
         <link href="https://factchecker.or.kr/fc_subjects/197"/>
         <updated>2021-09-27T00:12:57.757Z</updated>
@@ -77,7 +78,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[포털 팩트체크] 탈레반 100조 원대 미군 무기 획득했다? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[[포털 팩트체크] 탈레반 100조 원대 미군 무기 획득했다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/196</id>
         <link href="https://factchecker.or.kr/fc_subjects/196"/>
         <updated>2021-09-27T00:12:57.758Z</updated>
@@ -86,7 +87,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커피에 든 카페인이 Ca흡수를 막아 뼈 건강을 해치는 주범이 될 수 있다 (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[커피에 든 카페인이 Ca흡수를 막아 뼈 건강을 해치는 주범이 될 수 있다]]></title>
         <id>https://factchecker.or.kr/fc_subjects/195</id>
         <link href="https://factchecker.or.kr/fc_subjects/195"/>
         <updated>2021-09-27T00:12:57.759Z</updated>
@@ -98,7 +99,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성충동 약물치료(화학적 거세) 받으면 재범률 0%다? (팩트체크넷)]]></title>
+        <title type="html"><![CDATA[성충동 약물치료(화학적 거세) 받으면 재범률 0%다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/193</id>
         <link href="https://factchecker.or.kr/fc_subjects/193"/>
         <updated>2021-09-27T00:12:57.760Z</updated>
