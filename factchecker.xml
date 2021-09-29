@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-09-29T11:16:06.649Z</updated>
+    <updated>2021-09-29T12:29:25.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -24,7 +24,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환경손익분기점, 텀블러 39회, 에코백 2만회?]]></title>
+        <title type="html"><![CDATA[환경손익분기점: 텀블러 39회, 에코백 2만회?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/205</id>
         <link href="https://factchecker.or.kr/fc_subjects/205"/>
         <updated>2021-09-29T03:19:46.822Z</updated>
