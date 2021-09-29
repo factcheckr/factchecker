@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-09-29T05:17:18.476Z</updated>
+    <updated>2021-09-29T06:22:45.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전기료 인상은 '급격한 탈원전' 탓이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/206</id>
+        <link href="https://factchecker.or.kr/fc_subjects/206"/>
+        <updated>2021-09-29T06:22:44.616Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/206">[검증대상]
+-전기료 인상은 급격한 탈원전 탓이라는 다수의 언론 보도
+-원희룡 전 제주지사, “급격한 탈원전 정책 때문에 전기요금이 올랐다”는 주장
+&nbsp;
+
+▲“탈원전이 전기료 인상 야기했다”는 다수의 언론 보도. MBC 뉴스데스크 갈무리.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▲“전기요금 인상은 탈원전 청구서” (원희룡 전 제주지사 페이스북)
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텀블러∙에코백, 환경 손익분기점은?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/205</id>
@@ -94,15 +112,6 @@
 &nbsp;
 &nbsp;
 &nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포털 팩트체크] 탈레반 100조 원대 미군 무기 획득했다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/196</id>
-        <link href="https://factchecker.or.kr/fc_subjects/196"/>
-        <updated>2021-09-27T00:12:57.758Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/196">탈레반이 100조원대 미군 무기를 획득했다는 복수의 주요언론 보도.
-일례로 연합뉴스는 “지난 20년간 미국이 아프간에 쏟아부은 100조 원 상당의 군사자산이 아프가니스탄을 장악한 탈레반의 손에 들어가게 됐다고 백악관이 밝혔다”며 “AP통신도 미국이 20년 동안 아프간 정부군에 제공한 830억 달러(97조 원 상당) 규모의 무기를 탈레반이 노획했다고 보도했다”고 보도했음.
 </a>]]></content>
     </entry>
 </feed>
