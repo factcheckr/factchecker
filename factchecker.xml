@@ -2,19 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-09-29T00:58:48.620Z</updated>
+    <updated>2021-09-29T01:59:22.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[텀블러∙에코백, 환경 손익분기점은?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/205</id>
-        <link href="https://factchecker.or.kr/fc_subjects/205"/>
-        <updated>2021-09-28T14:17:11.753Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/205">※ 이 기사는 지난 5월 시민팩트체커 양성교육에서 같은 조였던 시민팩트체커 전해리님, 정진희님, 장진호님, 조선희님과 함께 한 팩트체크 기사입니다.
-머니투데이 기사에는 에코백과 텀블러를 일정 회수 이상 사용하지 않으면 환경 보호 효과가 미비하며 오히려 환경에 악영향을 준다고 내용이 나옵니다. 그 근거로 미국 수명 주기 사용 에너지량 분석연구소와 영국 환경청, 그리고 덴마크 기관의 자료를 인용했습니다. 그 근거 자료의 수치를 검증하고 최신의 데이터가 있는지 확인해봤습니다.
-
-</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[아프간 난민, 한 달 사이 2000명 임신?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/204</id>
@@ -104,6 +94,18 @@
         <updated>2021-09-27T00:12:57.758Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/196">탈레반이 100조원대 미군 무기를 획득했다는 복수의 주요언론 보도.
 일례로 연합뉴스는 “지난 20년간 미국이 아프간에 쏟아부은 100조 원 상당의 군사자산이 아프가니스탄을 장악한 탈레반의 손에 들어가게 됐다고 백악관이 밝혔다”며 “AP통신도 미국이 20년 동안 아프간 정부군에 제공한 830억 달러(97조 원 상당) 규모의 무기를 탈레반이 노획했다고 보도했다”고 보도했음.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피에 든 카페인이 Ca흡수를 막아 뼈 건강을 해치는 주범이 될 수 있다]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/195</id>
+        <link href="https://factchecker.or.kr/fc_subjects/195"/>
+        <updated>2021-09-29T01:59:22.153Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/195">골다공증 환자에겐 최악... 칼슘 흡수 막는 음식 3가지중 커피&nbsp; &nbsp;카페인
+
+이기상 헬스조선 기자&nbsp; 2017.09.20
+나이가 들면 뼈의 밀도가 줄어들어 골다공증·골절 등에 취약해진다. 이때 뼈 건강에 도움이 되는 영양소가 칼슘이라는 것은 익히 알고 있는 사실이다. 칼슘은 뼛속 물질인 수산화인회석을 구성하는 주요 영양소로 뼈를 단단하게 하는 대표적인 영양소다. 칼슘은 우유·콩·멸치·굴 등에 풍부하게 들어있다. 그러나 칼슘을 충분히 보충해야 하는 사람들이 주의해서 먹어야 할 음식이 있다. 이는 과다 복용 시 몸속 칼슘의 흡수를 방해해 효과를 낮추기 때문이다. 어떤 음식을 주의해야 할까?
+▶커피= 커피는 많은 사람이 즐겨 먹는 음료이다. 한국관세무역개발원이 발표한 자료에 따르면 성인 1인당 연간 커피 소비량은 341잔으로, 최소 하루에 한잔을 마시는 셈이다. 그러나 커피에 든 카페인은 뼈 건강을 해치는 주범이 될 수 있다. 카페인이 칼슘·비타민 등 몸속 영양소를 몸 밖으로 ...
 </a>]]></content>
     </entry>
 </feed>
