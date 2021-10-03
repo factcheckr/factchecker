@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-10-03T15:18:58.601Z</updated>
+    <updated>2021-10-03T16:27:22.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임대차 3법, 즉각 폐지해야 할 정도로 악법인가?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/209</id>
+        <link href="https://factchecker.or.kr/fc_subjects/209"/>
+        <updated>2021-10-03T16:27:21.716Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/209">
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입국심사에서 난민들에게 더 엄격한 기준을 적용하는가?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/207</id>
@@ -103,15 +111,6 @@
         <updated>2021-09-27T00:12:57.753Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/199">특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
 관련검증 : https://factchecker.or.kr/fc_suggests/202
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음료에 빨대 부착해서 판매하는 것, 금지되나?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/198</id>
-        <link href="https://factchecker.or.kr/fc_subjects/198"/>
-        <updated>2021-09-27T00:12:57.753Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/198">플라스틱 폐기물을 줄이기 위해 빨대 사용을 줄이는 지침을 환경부에서 발표했다. 이를 살펴보고, 일회용 플라스틱 폐기물을 줄이기 위한 바람직한 방향은 무엇인지 알아보고자 한다.
-관련제안 : https://factchecker.or.kr/fc_suggests/291
 </a>]]></content>
     </entry>
 </feed>
