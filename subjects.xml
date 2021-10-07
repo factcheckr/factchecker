@@ -1,120 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/fc_subjects</id>
-    <title>팩트체크넷</title>
-    <updated>2021-10-07T01:30:31.176Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.400Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/520/profile">김광훈</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">시민팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/209">임대차 3법, 서울 아파트 전세난의 유일한 원인인가?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/209">
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%9E%84%EB%8C%80%EC%B0%A83%EB%B2%95">임대차3법</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%84%EC%9B%94%EC%84%B8%EC%83%81%ED%95%9C%EC%A0%9C">전월세상한제</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B3%84%EC%95%BD%EA%B0%B1%EC%8B%A0%EC%B2%AD%EA%B5%AC%EA%B6%8C">계약갱신청구권</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%9E%84%EB%8C%80%EC%B0%A8%EC%8B%A0%EA%B3%A0%EC%A0%9C">임대차신고제</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%84%9C%EC%9A%B8%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%A0%84%EC%84%B8%EB%82%9C">서울아파트 전세난</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A7%91%EA%B0%92%EA%B8%89%EB%93%B1">집값급등</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김광훈" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-7
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김광훈" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-7
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.401Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/499/profile">전준홍</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">전문팩트체커</div>
-<div class="ml-2"></div>
-<a href="/presses/2"><img class="h-4" alt="MBC" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04fdfdcf201881a8289a14af9cf3a9cc279e0069/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNITUdrWCIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a5cc55bf23213f618c37dfbd2812e1f91ae42aed/01_primary%20(1).png"></a>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/206">전기료 인상은 '급격한 탈원전' 탓이다?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/206">[검증대상]
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>팩트체크넷</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 07 Oct 2021 01:36:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임대차 3법, 서울 아파트 전세난의 유일한 원인인가?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/209</link>
+            <guid>https://factchecker.or.kr/fc_subjects/209</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전기료 인상은 '급격한 탈원전' 탓이다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/206</link>
+            <guid>https://factchecker.or.kr/fc_subjects/206</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[[검증대상]
 -전기료 인상은 급격한 탈원전 탓이라는 다수의 언론 보도
 -원희룡 전 제주지사, “급격한 탈원전 정책 때문에 전기요금이 올랐다”는 주장
 &nbsp;
@@ -124,752 +29,84 @@
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▲“전기요금 인상은 탈원전 청구서” (원희룡 전 제주지사 페이스북)
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%83%88%EC%9B%90%EC%A0%84">탈원전</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%84%EA%B8%B0%EB%A3%8C">전기료</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%9D%B8%EC%83%81">인상</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="전준홍" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-3
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="전준홍" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-3
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.401Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/520/profile">김광훈</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">시민팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/205">환경손익분기점: 텀블러 39회, 에코백 2만회?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/205">※ 이 기사는 지난 5월 시민팩트체커 양성교육에서 같은 조였던 시민팩트체커 전해리님, 정진희님, 장진호님, 조선희님과 함께 한 팩트체크 기사입니다.
-머니투데이 기사에는 에코백과 텀블러를 일정 회수 이상 사용하지 않으면 환경 보호 효과가 미비하며 오히려 환경에 악영향을 준다는 내용이 나옵니다. 그 근거로 미국 수명 주기 사용 에너지량 분석연구소와 영국 환경청, 그리고 덴마크 기관의 자료를 인용했습니다. 그 근거 자료의 수치를 검증하고 최신의 데이터가 있는지 확인해봤습니다.
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%85%80%EB%B8%94%EB%9F%AC">텀블러</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%97%90%EC%BD%94%EB%B0%B1">에코백</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%99%98%EA%B2%BD%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90">환경손익분기점</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8">환경보호</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%83%84%EC%86%8C%EC%A4%91%EB%A6%BD">탄소중립</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png">
-<img class="w-full md:hidden" src="/packs/media/images/truelike_sign_c-a7bdbe1aaefe84ffa2cf1b5cc011db62.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김광훈" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-8
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png">
-<img class="w-full md:hidden" src="/packs/media/images/truelike_sign_c-a7bdbe1aaefe84ffa2cf1b5cc011db62.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김광훈" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4a21cdc0f650aa044b4f06110e97b482648e82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%82%AC%EB%B3%B8%20-%EA%B9%80%EA%B4%91%ED%9B%88_%EC%9B%90%20%EB%B3%B5%EC%82%AC.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-8
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.410Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/24/profile">김지우</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">시민팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/204">아프간 난민, 한 달 사이 2000명 임신? 
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/204">
-오늘 27일, 팩트체크넷 시민 제안에 &lt;아프간 난민 한 달 새 2000명 임신 보도 정말인가요&gt;라는 팩트체크 요청이 접수됐다. 이데일리, 해럴드경제, 데일리안, 국민일보, MBN, 아시아경제,나우뉴스 등의 매체에서 “한 달 새 2000명 임신” 보도를 내놓았다. 이 보도는 사실일까?
-&nbsp;
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%95%84%ED%94%84%EA%B0%80%EB%8B%88%EC%8A%A4%ED%83%84">아프가니스탄</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%95%9C%EB%8B%AC%EC%83%882000%EB%AA%85%EC%9E%84%EC%8B%A0">한달새2000명임신</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B8%B0%EB%A0%88%EA%B8%B0">기레기</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%82%9C%EB%AF%BC">난민</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-1
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-1
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.413Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/24/profile">김지우</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">시민팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/203">8억짜리 집 하나 파는데 세금만 3억?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/203">
-
-지난 18일 서울의 한 대학 온라인 커뮤니티에는 “8억 집 팔면 세금 3억?”이라는 게시글이 올라왔습니다. 터무니없이 높은 세금을 부과하니 사람들이 아파트 매물을 내놓지 않는다는 내용이었습니다.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▲“전기요금 인상은 탈원전 청구서” (원희룡 전 제주지사 페이스북)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[환경손익분기점: 텀블러 39회, 에코백 2만회?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/205</link>
+            <guid>https://factchecker.or.kr/fc_subjects/205</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[※ 이 기사는 지난 5월 시민팩트체커 양성교육에서 같은 조였던 시민팩트체커 전해리님, 정진희님, 장진호님, 조선희님과 함께 한 팩트체크 기사입니다.
+머니투데이 기사에는 에코백과 텀블러를 일정 회수 이상 사용하지 않으면 환경 보호 효과가 미비하며 오히려 환경에 악영향을 준다는 내용이 나옵니다. 그 근거로 미국 수명 주기 사용 에너지량 분석연구소와 영국 환경청, 그리고 덴마크 기관의 자료를 인용했습니다. 그 근거 자료의 수치를 검증하고 최신의 데이터가 있는지 확인해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아프간 난민, 한 달 사이 2000명 임신?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/204</link>
+            <guid>https://factchecker.or.kr/fc_subjects/204</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 27일, 팩트체크넷 시민 제안에 &lt;아프간 난민 한 달 새 2000명 임신 보도 정말인가요&gt;라는 팩트체크 요청이 접수됐다. 이데일리, 해럴드경제, 데일리안, 국민일보, MBN, 아시아경제,나우뉴스 등의 매체에서 “한 달 새 2000명 임신” 보도를 내놓았다. 이 보도는 사실일까?
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[8억짜리 집 하나 파는데 세금만 3억?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/203</link>
+            <guid>https://factchecker.or.kr/fc_subjects/203</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난 18일 서울의 한 대학 온라인 커뮤니티에는 “8억 집 팔면 세금 3억?”이라는 게시글이 올라왔습니다. 터무니없이 높은 세금을 부과하니 사람들이 아파트 매물을 내놓지 않는다는 내용이었습니다.
 커뮤니티 게시글의 원출처는 7월 2일 자 한국경제 기사였습니다. &lt;“8억짜리 집 하나 파는데 세금만 3억... 갈아타기 포기합니다”&gt;라는 제목의 기사로 SNS를 통해 꾸준히 퍼지고 있었습니다. ▲정말 8억짜리 집 하나 파는데 세금이 무려 3억인지 ▲그래서 소형 아파트 매물이 씨가 말랐는지 기사 내용을 중심으로 검증하였습니다.
 &nbsp;
-※ 이 기사는 팩트체크넷 검증 제안에도 올라왔습니다. (https://factchecker.or.kr/fc_suggests/250)
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%96%91%EB%8F%84%EC%86%8C%EB%93%9D%EC%84%B8">양도소득세</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%B6%80%EB%8F%99%EC%82%B0">부동산</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C">한국경제</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%95%88%ED%98%9C%EC%9B%90%EA%B8%B0%EC%9E%90">안혜원기자</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%86%8C%ED%98%95%EC%95%84%ED%8C%8C%ED%8A%B8">소형아파트</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-4
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-4
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.415Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f960d714b26e3151a5910d5fa1bd8133bf866bea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/21313.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/58/profile">금준경</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">전문팩트체커</div>
-<div class="ml-2"></div>
-<a href="/presses/7"><img class="h-4" alt="미디어오늘" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBRdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8bd5b9d64558b1a16f4dd5c415d9942df12f1daa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNITUdrWCIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a5cc55bf23213f618c37dfbd2812e1f91ae42aed/%EB%AF%B8%EB%94%94%EC%96%B4%EC%98%A4%EB%8A%98.png"></a>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/202">[포털 팩트체크] 김연아에 “색기 넘친다” 일본 언론 보도 팩트는
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/202">일본 언론 ‘뉴스포스트세븐’이 김연아 선수에 대해 부정적 뉘앙스로 색기가 넘친다고 보도했다는 한국 언론 보도.
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B9%80%EC%97%B0%EC%95%84">김연아</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%89%B4%EC%8A%A4%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%84%B8%EB%B8%90">뉴스포스트세븐</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="금준경_전문팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f960d714b26e3151a5910d5fa1bd8133bf866bea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/21313.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-1
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png">
-<img class="w-full md:hidden" src="/packs/media/images/falselike_sign_c-937a223fadae809c72ec9b4a6c389d6a.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="금준경_전문팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f960d714b26e3151a5910d5fa1bd8133bf866bea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/21313.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-1
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.418Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/499/profile">전준홍</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">전문팩트체커</div>
-<div class="ml-2"></div>
-<a href="/presses/2"><img class="h-4" alt="MBC" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04fdfdcf201881a8289a14af9cf3a9cc279e0069/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNITUdrWCIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a5cc55bf23213f618c37dfbd2812e1f91ae42aed/01_primary%20(1).png"></a>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/201">약한 처벌 때문에 피싱 사기 근절되지 않는다?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/201">우리가 전자금융사기로도 부르는 ‘피싱(Phishing)’은 개인 정보(Private Data)와 낚시(fishing)를 합친 말입니다. 개인 정보를 활용해 문자메시지, 사칭 전화, 메신저 등을 활용해 벌이는 범죄입니다. 최근 국민지원금과 소상공인대출 등의 정책이 시행되면서 문자메시지를 활용한 피싱 범죄가 기승을 부리고 있습니다. 온라인에서는 “피싱사기가 근절되지 않는 이유는 처벌이 약해서다”라는 비판들이 나오고 있습니다. 전국민을 잠재적 피해자로 만드는 전자금융사기의 처벌과 방지대책이 약한 게 사실인지 MBC &lt;알고보니&gt; 팀이 따져봤습니다.
+※ 이 기사는 팩트체크넷 검증 제안에도 올라왔습니다. (https://factchecker.or.kr/fc_suggests/250)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[포털 팩트체크] 김연아에 “색기 넘친다” 일본 언론 보도 팩트는]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/202</link>
+            <guid>https://factchecker.or.kr/fc_subjects/202</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[일본 언론 ‘뉴스포스트세븐’이 김연아 선수에 대해 부정적 뉘앙스로 색기가 넘친다고 보도했다는 한국 언론 보도.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[약한 처벌 때문에 피싱 사기 근절되지 않는다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/201</link>
+            <guid>https://factchecker.or.kr/fc_subjects/201</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 전자금융사기로도 부르는 ‘피싱(Phishing)’은 개인 정보(Private Data)와 낚시(fishing)를 합친 말입니다. 개인 정보를 활용해 문자메시지, 사칭 전화, 메신저 등을 활용해 벌이는 범죄입니다. 최근 국민지원금과 소상공인대출 등의 정책이 시행되면서 문자메시지를 활용한 피싱 범죄가 기승을 부리고 있습니다. 온라인에서는 “피싱사기가 근절되지 않는 이유는 처벌이 약해서다”라는 비판들이 나오고 있습니다. 전국민을 잠재적 피해자로 만드는 전자금융사기의 처벌과 방지대책이 약한 게 사실인지 MBC &lt;알고보니&gt; 팀이 따져봤습니다.
 &nbsp;
 
-▲보이스피싱 관련 기사 댓글,보이스피싱 범죄자들 대부분 형량 1년
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%B3%B4%EC%9D%B4%EC%8A%A4%ED%94%BC%EC%8B%B1">보이스피싱</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%B2%98%EB%B2%8C">처벌</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%98%95%EB%9F%89">형량</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png">
-<img class="w-full md:hidden" src="/packs/media/images/truelike_sign_c-a7bdbe1aaefe84ffa2cf1b5cc011db62.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="전준홍" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-7
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png">
-<img class="w-full md:hidden" src="/packs/media/images/truelike_sign_c-a7bdbe1aaefe84ffa2cf1b5cc011db62.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="전준홍" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29TIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89cfc72aed02c63a2324efc5a1a942f2a47ec54a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQnlEQT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--639f74d829d5a1d48372146dff32566db9a38ad6/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%87%E1%85%A9%E1%84%82%E1%85%B5.jpeg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-7
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.419Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/24/profile">김지우</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">시민팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/200">가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/200">
-지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
+▲보이스피싱 관련 기사 댓글,보이스피싱 범죄자들 대부분 형량 1년]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/200</link>
+            <guid>https://factchecker.or.kr/fc_subjects/200</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
 김 대표는 영상 말미에 “제가 도주의 우려가 있습니까”, “증거인멸의 우려가 있습니까”라며 체포영장의 부당함을 강조했다. 영상 댓글에는 김 대표의 주장처럼 “도주나 증거인멸의 우려가 없는데도 체포 가능한 나라가 정상이냐”라며 무섭다는 반응들도 존재했다.
-과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B0%80%EC%84%B8%EC%97%B0">가세연</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B9%80%EC%84%B8%EC%9D%98">김세의</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EA%B0%95%EC%A0%9C%EC%B2%B4%ED%8F%AC">강제체포</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="김지우_시민팩트체커" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6e266b8330321609c405899d241bae0f2d3f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFISU1BPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--5f49c984779b5546252ba805a90dffb0ff0d787d/%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84_%EA%B9%80%EC%A7%80%EC%9A%B0.jpg">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.421Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/651/profile">박효경</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">전문팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/199">한국은 UN이 정한 물부족 국가?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/199">특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
-관련검증 : https://factchecker.or.kr/fc_suggests/202
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%AC%BC%EB%B6%80%EC%A1%B1">물부족</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%AC%BC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4">물스트레스</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="박효경" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png">
-<img class="w-full md:hidden" src="/packs/media/images/false_sign_c-a695110ec6342628fdf5a63f9715044e.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="박효경" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://factchecker.or.kr/fc_subjects</id>
-        <link href="https://factchecker.or.kr/fc_subjects"/>
-        <updated>2021-10-07T01:30:30.423Z</updated>
-        <content type="html"><![CDATA[<div class="flex">
-<div class="flex-1 min-w-0">
-<div class="flex justify-between items-center">
-<div class="flex justify-start space-x-1 items-center text-xs leading-5 tracking-light text-gray-600">
-<img class="h-6 w-6 object-cover rounded-full" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-<div class="font-bold whitespace-no-wrap">
-<a href="/users/651/profile">박효경</a>
-</div>
-<div class="ml-2 whitespace-no-wrap">전문팩트체커</div>
-<div class="ml-2"></div>
-</div>
-
-</div>
-<div class="mt-2 text-xl font-medium text-gray-900">
-<a href="/fc_subjects/198">음료에 빨대 부착해서 판매하는 것, 금지되나?
-</a></div>
-<div class="mt-2 text-sm text-gray-600 line-clamp-2">
-<a href="/fc_subjects/198">플라스틱 폐기물을 줄이기 위해 빨대 사용을 줄이는 지침을 환경부에서 발표했다. 이를 살펴보고, 일회용 플라스틱 폐기물을 줄이기 위한 바람직한 방향은 무엇인지 알아보고자 한다.
-관련제안 : https://factchecker.or.kr/fc_suggests/291
-</a></div>
-<div class="flex mt-2 items-center justify-between space-x-2">
-</div>
-<div class="mt-4">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%B9%A8%EB%8C%80">빨대</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%9D%BC%ED%9A%8C%EC%9A%A9%ED%92%88">일회용품</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%8F%90%EA%B8%B0%EB%AC%BC">폐기물</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1">플라스틱</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A2%85%EC%9D%B4%EB%B9%A8%EB%8C%80">종이빨대</a>
-
-</div>
-</div>
-<div class="hidden md:block flex-none ml-4 w-32 md:w-44">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png">
-<img class="w-full md:hidden" src="/packs/media/images/true_sign_c-1ccad9d294418f4c4265001519681f1c.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="박효경" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<div class="flex items-stretch md:block my-auto md:p-2 rounded-sm border-0 md:border-solid md:border md:bg-gray-100">
-<div class="flex-1">
-<img class="w-full hidden md:inline" src="/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png">
-<img class="w-full md:hidden" src="/packs/media/images/true_sign_c-1ccad9d294418f4c4265001519681f1c.jpg">
-</div>
-<div class="flex-none items-stretch w-1/2 md:w-full">
-<div class="flex justify-center items-center h-full md:w-full md:py-3 ml-2 md:ml-0 md:mt-2 bg-white rounded-sm border md:border-0 border-gray-300">
-<div class="flex-1 ml-3 md:ml-2 border-r border-gray-200 flex justify-center">
-<img title="박효경" class=" md:inline w-7 h-7 object-cover rounded-full -ml-3 md:-ml-2" style="z-index: 5" src="https://factchecker.or.kr/packs/media/images/no_photo-eee973897f88a77745fc9cd81983e73b.png">
-</div>
-<div class="flex md:flex-col items-center justify-center w-16 md:w-14">
-<div class="text-xxs">
-자료
-</div>
-<div class="text-sm font-bold text-primary-light-200">
-2
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>]]></content>
-    </entry>
-</feed>
+과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국은 UN이 정한 물부족 국가?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/199</link>
+            <guid>https://factchecker.or.kr/fc_subjects/199</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
+관련검증 : https://factchecker.or.kr/fc_suggests/202]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[음료에 빨대 부착해서 판매하는 것, 금지되나?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/198</link>
+            <guid>https://factchecker.or.kr/fc_subjects/198</guid>
+            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[플라스틱 폐기물을 줄이기 위해 빨대 사용을 줄이는 지침을 환경부에서 발표했다. 이를 살펴보고, 일회용 플라스틱 폐기물을 줄이기 위한 바람직한 방향은 무엇인지 알아보고자 한다.
+관련제안 : https://factchecker.or.kr/fc_suggests/291]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
