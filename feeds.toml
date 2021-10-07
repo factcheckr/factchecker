@@ -29,5 +29,5 @@ contentSelector = "//div[2]/div[1]/div[1]/div[2]"
 imageSelector = "div[2]/div[2]/a/img"
 dateSelector = "//div[2]/div[1]/div[1]/div[3]/div"
 dateFormat = " yyyy.MM.dd "
-waitUntil = "networkidle
+waitUntil = "networkidle"
 onFail = "stale"
