@@ -27,6 +27,7 @@ titleSelector = "//div/div/div[1]/a/div[1]/span[2]"
 linkSelector = "//div/div/div[1]/a"
 contentSelector = "//div/div/div[1]/a/div[2]"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [press]
 title = "팩트체크넷 ─ 팩트체크 ─ 언론사"
@@ -66,3 +67,12 @@ dateFormat = " yyyy.MM.dd "
 waitUntil = "networkidle"
 onFail = "stale"
 
+[trends]
+title = "팩트체크넷 ─ 자료실 ─ 주요동향"
+url = "https://factchecker.or.kr/trends"
+entrySelector = "//html/body/div[1]/main/div[2]/div/div[3]/div"
+titleSelector = "//a/div[1]"
+linkSelector = "//a"
+contentSelector = "a/div[2]"
+waitUntil = "networkidle"
+onFail = "stale"
