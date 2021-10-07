@@ -9,7 +9,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [subjects]
-title = "팩트체크넷"
+title = "팩트체크넷 ─ 검증센터 ─ 팩트 검증"
 url = "https://factchecker.or.kr/fc_subjects"
 entrySelector = "//html/body/div[1]/main/div[2]/div[1]/ul/turbo-frame/li"
 titleSelector = "//div[1]/div[1]/div[2]/a"
@@ -19,8 +19,17 @@ imageSelector = "//div[1]/div[2]/div/div[1]/img[@class='w-full hidden md:inline'
 waitUntil = "networkidle"
 onFail = "stale"
 
+[suggests]
+title = "팩트체크넷 ─ 검증센터 ─ 검증 제안"
+url = "https://factchecker.or.kr/fc_suggests"
+entrySelector = "//html/body/div[1]/main/div[2]/div[1]/ul/turbo-frame/li"
+titleSelector = "//div/div/div[1]/a/div[1]/span[2]"
+linkSelector = "//div/div/div[1]/a"
+contentSelector = "//div/div/div[1]/a/div[2]"
+waitUntil = "networkidle"
+
 [press]
-title = "팩트체크넷 ─ 언론사"
+title = "팩트체크넷 ─ 팩트체크 ─ 언론사"
 url = "https://factchecker.or.kr/fc_archives/press"
 entrySelector = "//html/body/div[1]/main/div[2]/div[1]/ul/li"
 titleSelector = "//div[2]/div[1]/div[1]/div[1]/a"
@@ -33,7 +42,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [gov]
-title = "팩트체크넷 ─ 정부기관"
+title = "팩트체크넷 ─ 팩트체크 ─ 정부기관"
 url = "https://factchecker.or.kr/fc_archives/gov"
 entrySelector = "//html/body/div[1]/main/div[2]/div[1]/ul/li"
 titleSelector = "//div[2]/div[1]/div[1]/div[1]/a"
@@ -46,7 +55,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [publications]
-title = "팩트체크넷 ─ 언론사"
+title = "팩트체크넷 ─ 팩트체크 ─ 언론사"
 url = "https://factchecker.or.kr/fc_publications"
 entrySelector = "//html/body/div[1]/main/div[2]/div[1]/ul/li"
 titleSelector = "//div/div/div[2]/a"
