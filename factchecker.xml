@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-10-08T11:18:31.314Z</updated>
+    <updated>2021-10-08T12:30:38.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/213</id>
+        <link href="https://factchecker.or.kr/fc_subjects/213"/>
+        <updated>2021-10-08T12:29:41.077Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/213">뉴스 보도를 캡쳐한 것을 &nbsp;커뮤니티에서 봤는데요. &nbsp;핵연료 저장조? 가 6년간 바닥이 뚫렸엇는데한수원이 몰랐다고 합니다. 사실이 맞는지 확인했으면 합니다.
+&nbsp;
+관련기사 : https://bbs.ruliweb.com/best/board/300143/read/5388747
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/211</id>
@@ -99,15 +109,6 @@
 지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
 김 대표는 영상 말미에 “제가 도주의 우려가 있습니까”, “증거인멸의 우려가 있습니까”라며 체포영장의 부당함을 강조했다. 영상 댓글에는 김 대표의 주장처럼 “도주나 증거인멸의 우려가 없는데도 체포 가능한 나라가 정상이냐”라며 무섭다는 반응들도 존재했다.
 과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 UN이 정한 물부족 국가?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/199</id>
-        <link href="https://factchecker.or.kr/fc_subjects/199"/>
-        <updated>2021-10-06T13:35:11.621Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/199">특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
-관련검증 : https://factchecker.or.kr/fc_suggests/202
 </a>]]></content>
     </entry>
 </feed>

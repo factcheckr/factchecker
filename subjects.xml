@@ -4,9 +4,19 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 11:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 12:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/213</link>
+            <guid>https://factchecker.or.kr/fc_subjects/213</guid>
+            <pubDate>Fri, 08 Oct 2021 12:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스 보도를 캡쳐한 것을 &nbsp;커뮤니티에서 봤는데요. &nbsp;핵연료 저장조? 가 6년간 바닥이 뚫렸엇는데한수원이 몰랐다고 합니다. 사실이 맞는지 확인했으면 합니다.
+&nbsp;
+관련기사 : https://bbs.ruliweb.com/best/board/300143/read/5388747]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/211</link>
@@ -96,15 +106,6 @@
             <content:encoded><![CDATA[지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
 김 대표는 영상 말미에 “제가 도주의 우려가 있습니까”, “증거인멸의 우려가 있습니까”라며 체포영장의 부당함을 강조했다. 영상 댓글에는 김 대표의 주장처럼 “도주나 증거인멸의 우려가 없는데도 체포 가능한 나라가 정상이냐”라며 무섭다는 반응들도 존재했다.
 과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국은 UN이 정한 물부족 국가?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/199</link>
-            <guid>https://factchecker.or.kr/fc_subjects/199</guid>
-            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
-관련검증 : https://factchecker.or.kr/fc_suggests/202]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
