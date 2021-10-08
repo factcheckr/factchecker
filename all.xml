@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 12:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 13:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,7 +117,7 @@
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/213</link>
             <guid>https://factchecker.or.kr/fc_subjects/213</guid>
-            <pubDate>Fri, 08 Oct 2021 12:29:48 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 12:29:41 GMT</pubDate>
             <content:encoded><![CDATA[뉴스 보도를 캡쳐한 것을 &nbsp;커뮤니티에서 봤는데요. &nbsp;핵연료 저장조? 가 6년간 바닥이 뚫렸엇는데한수원이 몰랐다고 합니다. 사실이 맞는지 확인했으면 합니다.
 &nbsp;
 관련기사 : https://bbs.ruliweb.com/best/board/300143/read/5388747]]></content:encoded>
@@ -695,6 +695,16 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 * 본 소개글은 SOMA 프로젝트 홈페이지 (https://www.dis...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[관련자료] 팩트체크 동향리포트 1호 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
+            <link>https://factchecker.or.kr/papers/295</link>
+            <guid>https://factchecker.or.kr/papers/295</guid>
+            <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 1호
+1. 인사말팩트체크 동향리포트 1호를 발행하며
+2. 허위정보 예방과 팩트체크 활성화 캠페인을 위한 요청
+3. 글로벌 팩트체크팩트체크 자동화는 어떻게 작동하는가?우리에게...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[관련서적] 팩트체크의 정석 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
             <link>https://factchecker.or.kr/papers/275</link>
             <guid>https://factchecker.or.kr/papers/275</guid>
@@ -812,19 +822,6 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 저자 : 김여라
 &nbsp;
 출처 : http://drm.nars.go.kr:7003/sd/...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[국회입법조사처] 딥페이크(Deepfake)의 발전과 해외 법제도 대응 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
-            <link>https://factchecker.or.kr/papers/199</link>
-            <guid>https://factchecker.or.kr/papers/199</guid>
-            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : 딥페이크(Deepfake)의 발전과 해외 법제도 대응
-&nbsp;
-저자 : 김유향
-&nbsp;
-출처 : http://drm.nars.go.kr:7003/sd/imageview...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉽게 따라하는 팩트체크 가이드북 (포켓용) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>
