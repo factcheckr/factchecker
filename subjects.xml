@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 23:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 01:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/211</link>
+            <guid>https://factchecker.or.kr/fc_subjects/211</guid>
+            <pubDate>Fri, 08 Oct 2021 01:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확산은 고용 시장에 작지 않은 충격을 가져왔습니다. 그런데 코로나19가 남성보다 여성에게 큰 고용 타격을 줬고, 여기에 남성 중심 정부 지원 정책이 영향을 줬다는 이야기도 나오는데요. 사실인지 따져봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[임대차 3법, 서울 아파트 전세난의 유일한 원인인가?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/209</link>
@@ -98,15 +106,6 @@
             <content:encoded><![CDATA[특별한 문제가 발생하지 않고서는 우리는 일상에서 물 부족으로 인한 어려움을 느끼지 못한다. 하지만 물 부족국가라는 표현은 익숙하다. 물 부족 국가의 정확한 의미를 확인하고, 물 사용과 관련해 어떤 인식들이 필요한지 검증을 통해 살펴보고자 한다.
 관련검증 : https://factchecker.or.kr/fc_suggests/202]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[음료에 빨대 부착해서 판매하는 것, 금지되나?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/198</link>
-            <guid>https://factchecker.or.kr/fc_subjects/198</guid>
-            <pubDate>Thu, 07 Oct 2021 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[플라스틱 폐기물을 줄이기 위해 빨대 사용을 줄이는 지침을 환경부에서 발표했다. 이를 살펴보고, 일회용 플라스틱 폐기물을 줄이기 위한 바람직한 방향은 무엇인지 알아보고자 한다.
-관련제안 : https://factchecker.or.kr/fc_suggests/291]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
