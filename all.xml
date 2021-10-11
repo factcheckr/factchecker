@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 12:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 13:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -387,6 +387,14 @@ https://www.fmkorea.com/3966084642]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcThUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e37f3530265f799c27d1bcd79ee9e25689180db/3736d9c9a6ba495e4fd3d938ce8e44eb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[건강보험 보장성 강화로 실손보험료 부담 커져? 사실 아니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2588</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2588</guid>
+            <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “‘건강보험 보장성 강화정책’으로 인해 실손보험료 부담이 커졌다는 것은 사실이 아니다”며 “‘건강보험 보장성 강화 분야’와 ‘실손보험금 지급증가가 주로 발생하는 분야’에는 차이가 있어 양자를 연관짓는 것이 맞지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b70045be0e8b3c1853e01d835083b69c9a6c89d5/158d16b5b43084acd409ab0d36d4dc38.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[한국형 FIT 지원금액, 경쟁입찰 평균낙찰가격 등 영향 따라 유동적 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2587</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2587</guid>
@@ -457,14 +465,6 @@ https://www.fmkorea.com/3966084642]]></content:encoded>
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “금융노사의 기부는 진행중이며, 예정 기부액은 사업 지출액보다 많다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ff8d7b5b2be1d57c1c14b8e6863f88eec34375e/65093b759a9b98f3a004a5f1e25b1aa4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산 상승·주가 하락 전망해 내년 국세수입 예산 편성? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2571</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2571</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “‘부동산 가격 상승, 주가 하락’을 전망해 내년도 국세수입 예산을 편성했다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclFUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5726e9a7ef3e5e35dcfd4b575dccf60a82efe5f4/43ba33a52847416c473333313f7659e9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
