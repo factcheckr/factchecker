@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 08:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가계부채 관리방안, 아직 미확정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2607</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2607</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “가계부채 관리방안은 아직 확정된 것이 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b57340ef493779fb7c29f17bbd481434c66e608c/856dbac23785bf8419f7349be7fe0b20.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘신은총 예비역 하사’의 상이등급, 객관적으로 판정…추가 요청시 재판정 검토]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2605</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2605</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가보훈처는 “‘신은총 예비역 하사’의 상이등급은 전투 중 부상(질환 포함)으로 인정된 상이처에 대해 의학적 소견 등을 반영해 객관적으로 판정되었으며, 본인이 신청하지 않은 질환은 추가 확인 요청을 하면 재판정 신체검사 등을 검토하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea2fe7bd3a20f0bf72fa77abd0edadfbc3440f9e/cf12f6d8cc416c40599153c4e02a3d27.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[교육부, 시도교육청과 지방교육재정 효율적 활용 노력]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2591</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국세청은 “‘세무조사 때마다 특혜를 받았다’라는 기사내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0423abdd12834908391a22f7a696aa1dafc3f974/18b50699759381857c65dc2bf2401e61.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공·민간클라우드 이용, 업무특성 및 보안수준 등으로 결정]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2583</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2583</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “공공 또는 민간클라우드 이용은 업무특성과 보안수준 등에 따라 결정된다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16882968c5a796a70f9a93ef01b4fd24b8463a2b/6fc40f219c8558a44b03f224557fcadb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전속도 5030 시행 기간 도로변 미세먼지 등 농도 전년과 유사]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2582</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2582</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “안전속도 5030 시행 기간 동안 황사 영향을 제외할 경우 도로변 미세먼지 등의 농도는 전년과 유사하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89c89fd48a63c2653d40d57f135a85acce436ebe/b0df9aaec22fe90820bd31bdde24d61b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
