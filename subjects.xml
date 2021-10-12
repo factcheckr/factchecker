@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 06:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <pubDate>Fri, 08 Oct 2021 01:05:41 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 확산은 고용 시장에 작지 않은 충격을 가져왔습니다. 그런데 코로나19가 남성보다 여성에게 큰 고용 타격을 줬고, 여기에 남성 중심 정부 지원 정책이 영향을 줬다는 이야기도 나오는데요. 사실인지 따져봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 이후 아동폭력 신고수와 증가율은 줄어들었는가?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/210</link>
+            <guid>https://factchecker.or.kr/fc_subjects/210</guid>
+            <pubDate>Tue, 12 Oct 2021 06:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[이 내용은 팩트체크넷 커뮤니티( 팩트체크 함께하기)에서 시민팩트체커 정채빈님, 김민선님, 김광훈님과 미디어오늘 박서연기자님이 함께 하였습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[임대차 3법, 서울 아파트 전세난의 유일한 원인인가?]]></title>
@@ -97,16 +105,6 @@
 
 ▲보이스피싱 관련 기사 댓글,보이스피싱 범죄자들 대부분 형량 1년]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/200</link>
-            <guid>https://factchecker.or.kr/fc_subjects/200</guid>
-            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
-김 대표는 영상 말미에 “제가 도주의 우려가 있습니까”, “증거인멸의 우려가 있습니까”라며 체포영장의 부당함을 강조했다. 영상 댓글에는 김 대표의 주장처럼 “도주나 증거인멸의 우려가 없는데도 체포 가능한 나라가 정상이냐”라며 무섭다는 반응들도 존재했다.
-과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

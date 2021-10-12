@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-10-12T05:18:10.698Z</updated>
+    <updated>2021-10-12T06:23:18.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -21,6 +21,15 @@
         <link href="https://factchecker.or.kr/fc_subjects/211"/>
         <updated>2021-10-08T01:05:34.064Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/211">코로나19 확산은 고용 시장에 작지 않은 충격을 가져왔습니다. 그런데 코로나19가 남성보다 여성에게 큰 고용 타격을 줬고, 여기에 남성 중심 정부 지원 정책이 영향을 줬다는 이야기도 나오는데요. 사실인지 따져봤습니다.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 이후 아동폭력 신고수와 증가율은 줄어들었는가?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/210</id>
+        <link href="https://factchecker.or.kr/fc_subjects/210"/>
+        <updated>2021-10-12T06:22:20.330Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/210">이 내용은 팩트체크넷 커뮤니티( 팩트체크 함께하기)에서 시민팩트체커 정채빈님, 김민선님, 김광훈님과 미디어오늘 박서연기자님이 함께 하였습니다.
+
 </a>]]></content>
     </entry>
     <entry>
@@ -98,17 +107,6 @@
 &nbsp;
 
 ▲보이스피싱 관련 기사 댓글,보이스피싱 범죄자들 대부분 형량 1년
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/200</id>
-        <link href="https://factchecker.or.kr/fc_subjects/200"/>
-        <updated>2021-10-06T13:35:11.619Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/200">
-지난 7일, 가로세로연구소 김세의 대표가 자택에서 강제체포됐다. 김 대표는 본인이 체포되는 장면을 생중계했다. 가로세로연구소는 영상 생중계로 1200만 원이 넘는 수익을 냈고&nbsp;해당 영상은 현재 40만 회가 넘는 조회 수를 기록 중이다.
-김 대표는 영상 말미에 “제가 도주의 우려가 있습니까”, “증거인멸의 우려가 있습니까”라며 체포영장의 부당함을 강조했다. 영상 댓글에는 김 대표의 주장처럼 “도주나 증거인멸의 우려가 없는데도 체포 가능한 나라가 정상이냐”라며 무섭다는 반응들도 존재했다.
-과연 김세의 대표의 체포 사유는 도주 및 증거인멸의 우려 때문일까?
 </a>]]></content>
     </entry>
 </feed>
