@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-12T04:26:39.281Z</updated>
+    <updated>2021-10-12T05:18:10.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동물학대 실험을 한 러시아인 외과의사가 장기 이식 수술을 최초로 했다는 게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/331</id>
+        <link href="https://factchecker.or.kr/fc_suggests/331"/>
+        <updated>2021-10-12T05:17:23.807Z</updated>
+        <content type="html"><![CDATA[인터넷 커뮤니티를 보다보니까 동물학대 실험을 한 러시아 과학자가 그 기술로 장기 이식 수술을 최초로 했다고 나오던데요. 동물학대 실험만으로도 너무 끔찍한데요.😣🤬 게시글 속 내용이 정말 사실인가요?&nbsp;
+&nbsp;
+https:/...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신 사망자수 확인]]></title>
         <id>https://factchecker.or.kr/fc_suggests/330</id>
@@ -89,12 +98,5 @@ https://www.fmkorea.com/3966084642]]></content>
 &nbsp;
 &nbsp;
 현재 시중은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상 우주론에 의하면, 우주는 시작과 끝이 없이 영원히 같은 상태를 유지한다고 한다. 팩트인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/320</id>
-        <link href="https://factchecker.or.kr/fc_suggests/320"/>
-        <updated>2021-10-07T02:42:35.572Z</updated>
-        <content type="html"><![CDATA[정상우주론은 우주가 아주 먼 과거에도 현재와 같이 정상 상태를 유지했다는 우주론이다. 이 우주론에 의하면, 우주가 팽창하더라도 우주 안에서 물질이 계속 생성되어 우주는 시작과 끝이 없이 영원히 같은 상태를 유지한다고 한다.]]></content>
     </entry>
 </feed>
