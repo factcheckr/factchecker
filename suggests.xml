@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-13T07:19:15.067Z</updated>
+    <updated>2021-10-13T08:23:16.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강원랜드에서 도박중독을 막기 위해 다양한 장치를 마련해뒀다는게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/335</id>
+        <link href="https://factchecker.or.kr/fc_suggests/335"/>
+        <updated>2021-10-13T08:22:35.478Z</updated>
+        <content type="html"><![CDATA[강원랜드에 도박 중독을 줄이기 위해 여러 장치가 있다고 하는데요.&nbsp;맞는 말인지 확인해 봤으면 좋겠습니다.&nbsp;
+&nbsp;
+https://blog.naver.com/5844gogogo/222533790114
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 오징어게임 속 신체포기각서는 실제로 법적 효력이 있나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/334</id>
@@ -80,17 +90,5 @@ https://blog.daum.net/ymlee720/1388]]></content>
         <content type="html"><![CDATA[&nbsp;
 한국 평균 수명이 일본에 이어서 2위라고 하는 게시물을 봤습니다. 맞는 내용인지 확인해봤으면 좋겠습니다
 https://www.fmkorea.com/3966084642]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화학세제 는 하수 배출후 자연분해 되는가? 아니면 강이나 바다에 계속 쌓이면서 축적되는것인가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/322</id>
-        <link href="https://factchecker.or.kr/fc_suggests/322"/>
-        <updated>2021-10-07T02:42:35.572Z</updated>
-        <content type="html"><![CDATA[화학세제가 하수처리장에서 처리된다고 하지만, (속 편하게 그렇다고 믿으며 사는수 밖에 없겠지만..)
-그에 대한 의문을 품기 시작하니&nbsp;
-&nbsp;
-화학세제가 하수처리장에서 100% 처리되지는 않을 것이고,
-&nbsp;
-이러한 화학...]]></content>
     </entry>
 </feed>
