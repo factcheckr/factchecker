@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 23:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 01:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민연금 개혁 사회적 논의에 적극 참여 계획]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2622</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2622</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “국민연금 개혁에 관한 사회적 논의에 적극 참여할 계획이며, 제5차 재정계산을 철저히 준비 중”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--546fffc7696173a1840d175ab6155cc17b165cb3/cb801c07d19bfe537d09e6c724d7ccaf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[가계부채 관리방안, 아직 미확정]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2607</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “탄소중립위가 산업부의 검토의견을 빼고, 발표하지 않았다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b12a6e8398c7d0371f93f64f6fa69f85e4d93a87/0cafd3be821d2cbc714c2574a2bd6c8e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국세청, 세무조사 때마다 특혜? 사실과 다르다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2584</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2584</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국세청은 “‘세무조사 때마다 특혜를 받았다’라는 기사내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0423abdd12834908391a22f7a696aa1dafc3f974/18b50699759381857c65dc2bf2401e61.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
