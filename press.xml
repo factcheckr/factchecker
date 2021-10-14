@@ -4,9 +4,53 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 13:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 14:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에너지전환 팩트체크] ① 태양광 발전은 환경파괴 시설이다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2629</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2629</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기 해결은 인류의 생존이 걸린 문제입니다. 전 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 제로(0)로 만든다는 큰 틀의 합의를 한 상태입니다. 구체적으로 유럽연합은 2023년부터 시범적으로 탄소국경세를 적용하기로 했습니다. 탄소를 기준치이상으로 배출한 제품에 일종에 관세를 매기는 겁니다. 2035년 이후로는 화석연료로 움직이는 내연기관 자동차 생산을 중단하고 수입을 안하기로 한 상태입니다. 에너지 산업은 물론, 다른 산업에도 지각변동이 예상되고 있습니다.한국도 재생에너지 전원의 비중을 높이고 석탄발전을 줄이는]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--24a0bf62bc2ff221490079765e80aab12b5fb389/b1191ae35ea3b2671182fa203bb3099c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[로딩 중입니다.
+https://news.lawtalk.co.kr/article/SWIACYH66BYX]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2628</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2628</guid>
+            <pubDate>Thu, 14 Oct 2021 14:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="flex items-center justify-between items-center">
+<div class="inline text-sm md:text-xs h-6 md:h-4">
+로톡뉴스
+</div>
+<div class="-mt-1">
+</div>
+</div>
+<div class="flex">
+<div class="flex-1 pr-4">
+<div>
+<div class="strong text-gray-400">
+<a target="_blank" href="/fc_archives/press/2628">로딩 중입니다.
+https://news.lawtalk.co.kr/article/SWIACYH66BYX
+</a></div>
+</div>
+<div class="mt-4 hidden md:block">
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%82%AC%ED%9A%8C">사회</a>
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%99%98%EB%B6%88+%EC%A1%B0%EA%B1%B4">환불 조건</a>
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%B2%95">전자상거래법</a>
+
+</div>
+</div>
+</div>
+<div class="mt-4 md:hidden">
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%82%AC%ED%9A%8C">사회</a>
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%99%98%EB%B6%88+%EC%A1%B0%EA%B1%B4">환불 조건</a>
+<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%B2%95">전자상거래법</a>
+
+</div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[사실확인] 음주측정 거부가 음주운전보다 처벌 덜하다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2621</link>
@@ -70,22 +114,6 @@
             <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]쇼트트랙 국가대표 심석희 선수가 동료인 최민정 선수를 평창올림픽 쇼트트랙 여자 1000ｍ 결승에서 메달을 따지 못하도록 고의 충돌했다는 논란이 가라앉지 않...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e64b8cdcf6e19667c436dd2b58b627eba20a17d/fe33c720f478867c1cff35ab17f637bd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 오징어게임으로 본 ‘고발 사주 의혹’]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2613</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2613</guid>
-            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[9월2일, 윤석열 후보가 검찰총장이었을 당시 검찰이 미래통합당한테 민주당 쪽 사람들을 고발하라고 시킨 것 아니냐는 의혹이 ‘뉴스버스’ 보도를 통해 제기되었습니다. 사건은 현재 공수처에서 수사 중입니다. 윤석열 측에서는 정치 공작이다 제보 사주다 조작이다 등의 주장으로 의혹을 반박했는데요. 과연 이 주장은 사실이었을까요? Netflix 화제작 〈오징어게임〉 대사와 함께 〈시사IN〉이 팩트체크했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmNUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6fbb5576ecef19e61208ac9a0f68977cea67955/6832fd05df01a3fc052139e0e5b711e2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이것이 대선이다] 李 구속까지 더 거세진 與 사사오입 논란...팩트체크 세 가지]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2611</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2611</guid>
-            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[본선 직행을 거머쥔 이재명 더불어민주당 대선 후보가 사사오입 논란에 부딪혔다.이 후보는 지난 10일 경선 결과&nbsp;제20대 대통령 선거 민주당 후보로 최종 선출됐지만, 이낙연...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92361c310d5b5b1c33310c491424a23180584ebe/b02cfb09cc639969d7dfa0d0e01585e9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
