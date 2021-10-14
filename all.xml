@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 07:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 08:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,6 +377,22 @@ https://blog.daum.net/ymlee720/1388]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92361c310d5b5b1c33310c491424a23180584ebe/b02cfb09cc639969d7dfa0d0e01585e9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[여수 현장 실습생 사망사고 조사 중…위법시 엄정 조치 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2624</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2624</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “여수 현장 실습생 사망사고와 관련하여 산업안전보건법 위반 여부에 대하여 조사 중이며, 위법 사항이 확인될 경우 엄정히 조치하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9376f769bc12166b6a976934669215b6253c6f54/21ba2923d13edbc641c9815cf603c502.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[원활한 살생물제 승인제도 이행 위해 산업계에 다양한 지원 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2623</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2623</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “원활한 살생물제 승인제도 이행을 위해 산업계에 안내·홍보뿐 아니라 일부 시험자료 면제, 유해성 자료 생산 지원 등 다양한 지원사업을 추진해 산업계에서 살생물제 승인제도를 이행하는데 어려움이 없도록 노력하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53d365c596f3bc17c0307928d3e9c2b4e5f6d4a3/1875cb87efb5b6880f666d0fccb1fe8b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[국민연금 개혁 사회적 논의에 적극 참여 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2622</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2622</guid>
@@ -439,22 +455,6 @@ https://blog.daum.net/ymlee720/1388]]></content:encoded>
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “소형태양광 고정가격계약 제도(한국형 FIT)의 농·축산·어민 및 협동조합에 대한 매입가격이 1.5배라는 것은 사실과 다르며, 한국형 FIT의 지원금액은 경쟁입찰 평균낙찰가격, 계통한계가격(SMP) 등의 영향에 따라 유동적”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a578a35bf3b583ac397b7ff7d863f67a45c6504/f2571c1b04be7395c9f4b5c1afd617a8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[RPS 의무비율 상향으로 인한 전기요금 영향은 제한적 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2586</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2586</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “이번 RPS 의무비율 상향으로 인한 전기요금 영향은 제한적일 것으로 예상된다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c0dd545c754853171f4849cd9672c8cbc8160ac/380d84c9403d7958848b349e56b2e019.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소중립위, 산업부 검토의견 빼고 발표하지 않았다는 것 사실과 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2585</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2585</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “탄소중립위가 산업부의 검토의견을 빼고, 발표하지 않았다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b12a6e8398c7d0371f93f64f6fa69f85e4d93a87/0cafd3be821d2cbc714c2574a2bd6c8e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
