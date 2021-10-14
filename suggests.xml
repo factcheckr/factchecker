@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-14T05:19:22.586Z</updated>
+    <updated>2021-10-14T06:23:19.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비례대표 여성할당제는 우리나라에만 있는 법인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/336</id>
+        <link href="https://factchecker.or.kr/fc_suggests/336"/>
+        <updated>2021-10-14T06:22:39.314Z</updated>
+        <content type="html"><![CDATA[커뮤니티에서 비례대표 여성할당제가 가장 쓸 모 없다고 주장하는 글을 봤는데요.
+일단 비례대표 여성할당제가 우리나라에만 있는 법인가요???
+그리고 우리나라 국회 여성 의원 비율이 심각하게 낮아서 여성할당제가 법제화 되지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원랜드에서 도박중독을 막기 위해 다양한 장치를 마련해뒀다는게 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/335</id>
@@ -81,14 +90,5 @@ https://newsis.com/view/?id=NISX2021...]]></content>
         <content type="html"><![CDATA[불소는 독성물질이고 이게 태아의 뇌 발달에 영향을 줄 수 있다는&nbsp; 글을 봤어요.
 불소 독성 논란이 있었는데, 어떤 게 맞을까요?
 https://blog.daum.net/ymlee720/1388]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 평균수명 세계 2위로 올라갔나요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/323</id>
-        <link href="https://factchecker.or.kr/fc_suggests/323"/>
-        <updated>2021-10-07T02:42:35.571Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-한국 평균 수명이 일본에 이어서 2위라고 하는 게시물을 봤습니다. 맞는 내용인지 확인해봤으면 좋겠습니다
-https://www.fmkorea.com/3966084642]]></content>
     </entry>
 </feed>
