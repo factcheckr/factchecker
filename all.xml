@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[여성 10명 중 1명은 갑상선 기능 저하증에 걸린다는 말이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/337</link>
+            <guid>https://factchecker.or.kr/fc_suggests/337</guid>
+            <pubDate>Fri, 15 Oct 2021 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[추위에 예민해진다, 남들은 안 춥다는데 나만 춥다 등&nbsp;여성 100명중 10명은 걸린다는 병이라는 제목으로 글이 올라왔더라구요.&nbsp;
+사실 확인해 봤으면 좋겠어요
+https://www.82cook.com/entiz/read...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비례대표 여성할당제는 우리나라에만 있는 법인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/336</link>
             <guid>https://factchecker.or.kr/fc_suggests/336</guid>
@@ -286,15 +295,6 @@ https://www.instiz.net/pt/7034678?page=1&amp;srt=...]]></content:encoded>
             <pubDate>Thu, 07 Oct 2021 02:42:35 GMT</pubDate>
             <content:encoded><![CDATA[투명 페트병을 별도로 분리하라고 해서 분리배출 하고 있었는데요. 이게 수거과정에서 다 섞인다는 기사를 봤습니다. 맞는지 &nbsp;확인해 보면 좋을 것 같습니다.
 https://newsis.com/view/?id=NISX2021...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불소는 신경독성 물질이며 태아의 뇌 발달에 영향을 줄 수 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/324</link>
-            <guid>https://factchecker.or.kr/fc_suggests/324</guid>
-            <pubDate>Thu, 07 Oct 2021 02:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[불소는 독성물질이고 이게 태아의 뇌 발달에 영향을 줄 수 있다는&nbsp; 글을 봤어요.
-불소 독성 논란이 있었는데, 어떤 게 맞을까요?
-https://blog.daum.net/ymlee720/1388]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본 확진자 급감소, 스가의 '총선용 선물'인가 음모론인가 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
