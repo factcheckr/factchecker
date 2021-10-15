@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 06:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 확진자 급감소, 스가의 '총선용 선물'인가 음모론인가]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2642</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2642</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본에서 10월을 전후해 코로나 확진자 숫자가 갑작스럽게 크게 줄어들었다. 도쿄만 보면 8월 한때 5000여명을 넘나들다 지난 1일에는 200명을 기록했고, 11일에는 49명이었다. 49명은 1년 4개월만에 가장 낮은 숫자라고 한다. 숫자의 급격한 변화에 일본 현지 사람들도 적응을 못하는 분위기다. 일본 언론이나 전문가들도 추측만 제기할 뿐 정확한 원인은 찾지 못한 상황이다. 그저 백신이 영향을 미쳤으리라는 추측만 무성하다. 이런 상황에 한국에서는 일본 확진자수 급감에 대한 음모론도 제기되고 있다.한국에서 제기되는 의혹은 크게 두]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2450fc5192f72478a8a0d75343723b98074ef67/011e75efec869c2c0d54c2ab80fd2467.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 SNS 팩트체크-국민의힘③] 유승민·윤석열·원희룡·홍준표]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2639</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘 홍준표 의원이 더불어민주당 대선후보로 이재명 경기도지사가 선출된 것에 대해 ‘대선이 범죄자 대선이 되어서는 안되겠지요. 전과 4범이 대통령된 일은 유사이래 없었습니다.’고 밝혔습니다. 해당 게시물을 다룬 언론보도와 온라인 커뮤니티에는 ‘전과 14범 이명박이 있다’는 댓글이 많이 달렸습니다. 관련된 사실들을 확인했습니다.홍준표 의원은 지난 10일 자신의 페이스북에,“청와대가 아니라 대장동 비리로 구치소에 가야할 사람이 민주당 대선후보가 되었네요. 아무튼 축하 합니다. 우리로서는 참 고마운 일입니다. 대선이 범죄자 대선이 되어]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2tVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5be30e6a72e82a0df03ccd4229e16f63bb0a6acf/c978dfa6172690d85822f6d5f66faf8d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["대장동 공공환수액, 역대 도시개발사업의 3배"... 판정 불가]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2630</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2630</guid>
-            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 개발부담금=공공환수액 아니야... 공공개발 이윤도 공공환수에 포함]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60e8e4c1c31c8b5f11cad2a842ca29c420f22a58/3d60682a8b2b07b4cb852b39c223a24f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
