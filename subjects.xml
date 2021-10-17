@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 13:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 14:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영양실조로 지난해 345명 사망, 외환위기 후 최다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/217</link>
+            <guid>https://factchecker.or.kr/fc_subjects/217</guid>
+            <pubDate>Sun, 17 Oct 2021 14:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7일, 동아일보가 지난해 우리나라에서 345명이 영양실조로 사망했다는 제목의 보도를 내보냈습니다. 또 이 수치는 ‘외환위기 이후 최다’이며, 영양실조 사망이 폭증한 것은 코로나로 인해 ‘결식’이 늘어난 것과 밀접한 관련이 있어보인다는 분석도 덧붙였습니다. 사회적 취약계층이 제대로 먹지 못해서 영양실조로 숨진다는 기사에 독자들의 반응은 뜨거웠습니다. 그런데 근 몇 년 사이 보도된 기사와 정부 발표를 보면 영양실조 사망자가 100명대 안팎이라고 나와 있었습니다. 345명과 100명 안팎의 3배나 차이가 납니다. 이런 숫자의 차이는 어디에서 비롯된 것인지, 이를 근거로 외환위기 이후 최다 사망자가 맞는지, 몇 년 사이 사망자가 급증한 이유는 무엇인지를 MBC &lt;알고보니&gt; 팀이 따져봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/213</link>
@@ -94,17 +102,6 @@
             <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
             <content:encoded><![CDATA[일본 언론 ‘뉴스포스트세븐’이 김연아 선수에 대해 부정적 뉘앙스로 색기가 넘친다고 보도했다는 한국 언론 보도.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[약한 처벌 때문에 피싱 사기 근절되지 않는다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/201</link>
-            <guid>https://factchecker.or.kr/fc_subjects/201</guid>
-            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 전자금융사기로도 부르는 ‘피싱(Phishing)’은 개인 정보(Private Data)와 낚시(fishing)를 합친 말입니다. 개인 정보를 활용해 문자메시지, 사칭 전화, 메신저 등을 활용해 벌이는 범죄입니다. 최근 국민지원금과 소상공인대출 등의 정책이 시행되면서 문자메시지를 활용한 피싱 범죄가 기승을 부리고 있습니다. 온라인에서는 “피싱사기가 근절되지 않는 이유는 처벌이 약해서다”라는 비판들이 나오고 있습니다. 전국민을 잠재적 피해자로 만드는 전자금융사기의 처벌과 방지대책이 약한 게 사실인지 MBC &lt;알고보니&gt; 팀이 따져봤습니다.
-&nbsp;
-
-▲보이스피싱 관련 기사 댓글,보이스피싱 범죄자들 대부분 형량 1년]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
