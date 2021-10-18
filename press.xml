@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 01:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 02:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["프랑스, 탈원전 뒤집고 유턴" 언론 보도는 '대체로 거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2649</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2649</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 원전 비중 감축 계획 변화 없어... 소형 원자로 투자, 한국도 5800억 원 검토]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d181cc69f04ae6421c5ca67963f7bee9da63b946/edee217adeb731ba9bb891a86f3e6a76.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 코로나19 백신 맞고 많이 아프면 젊고 건강하다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2646</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2646</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내 코로나19 백신 접종자가 4천만 명을 넘어섰습니다. 지난 16일 0시 기준 1차 접종자는 40,333,027명으...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbElVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--556f242f4d3ff23287330cb9998055e5a6f0d579/84f704bc9416bea8494672f6a2ab124a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] 접종자 옆에만 가도 '백신 부작용' 전염된다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2648</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2648</guid>
+            <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]일부 미접종자들 사이에서 백신을 맞은 사람 옆에만...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bdd25f9b1d6e003109d6f756b87dde224fab454/0115f0ae066bd4e72aff74d271769430.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 공영주차장 주차구역에 텐트 쳐도 처벌 규정이 없다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2647</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2647</guid>
+            <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 공영 주차장의 주차구역에 텐트를 쳐 다른 사람의 주차를 방해할 경우 어떤 처벌을 받게 될까?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0efe797e8b924921691959580eea9e331e0fce75/af1ee07dc0a84bdf6d821187ace09e55.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 오징어게임은 안 되면서, '재편집' 오징어게임은 괜찮다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2645</link>
@@ -54,38 +86,6 @@
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 1억원짜리 집이나 10억원짜리 집이나 가액만 다르지, 행정 서류는 같은데 건당으로 하는 게 옳은 거 아닌가?]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85a0fc2d766b8f973a2fa4c427a7a7cbb735187a/cad57912f5a2cea9ac5a64dbff871b31.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]윤석열만 당 해체 주장 했나? 홍준표‧유승민‧원희룡도 과거 당 해체 주장...′전형적인 내로남불′]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2638</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2638</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더퍼블릭 = 김영일 기자] 홍준표‧유승민‧원희룡 등 국민의힘 대선 예비후보가 ‘정신머리부터 바꾸지 않으면 우리 당은 없어지는 것이 낫다’는 윤석열 후보의 발언을 겨냥해 집중포화를 쏟아 부은 가운데, 홍준표‧유승민‧원희룡 후보도 과거 당 해체를 주장했던 것으로 확인돼 논란이 되고 있다.  특히 윤석열 후보의 발언이 ′당 해체 발언이 아니냐′는 지적이 있는  ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c91cc4545549b783b839def9d04081bf5e6dce10/107839cde8351ddcbb492a15b487295a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아주 정확한 팩트체크] 이재명, '흙수저 출신' 강조한 소년공 시절 흑백사진...원래 컬러]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2636</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2636</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보의 소년공 시절 모습이 담긴 흑백 사진이 여론의 주목을 받았지만 당초 컬러 사진이었던 것으로 드러나 논란이다.민주당 대선 경선이 한창이던 때에 이 후보...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1da0689862b8e26b4576a1eb8223b7a060cafc7c/ea35fa82d9c9cd07331a16243221de3e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-제3지대③] 심상정·안철수]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2635</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2635</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 ‘대선후보 SNS 발언 검증대, 스낵 팩트’ 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 ‘팩트체크 평가위원회’검토를 거칩니다.[뉴스포스트=박재령 기자] 국민의당과 정의당 등 제3지대 대선 예비후보인 심상정·안철수]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7f4f81be10ad74ea7f2564831ee34249602acc3/9fdc21329515775358ac24edfc558a3f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에너지전환 팩트체크] ②태양광 패널은 중금속 덩어리?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2634</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2634</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기 해결은 인류의 생존이 걸린 문제입니다. 전 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 제로(0)로 만든다는 큰 틀의 합의를 한 상태입니다. 구체적으로 유럽연합은 2023년부터 시범적으로 탄소국경세를 적용하기로 했습니다. 탄소를 기준치이상으로 배출한 제품에 일종에 관세를 매기는 겁니다. 2035년 이후로는 화석연료로 움직이는 내연기관 자동차 생산을 중단하고 수입을 안하기로 한 상태입니다. 에너지 산업은 물론, 다른 산업에도 지각변동이 예상되고 있습니다.한국도 재생에너지 전원의 비중을 높이고 석탄발전을 줄이는]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2b2edb8bb8455c6f2ae3371088ac65ccd25e5ed1/e11f1fe05f98af609eda5eba74ef81ea.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
