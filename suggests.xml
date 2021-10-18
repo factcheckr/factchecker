@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-17T23:20:06.179Z</updated>
+    <updated>2021-10-18T01:06:04.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연대 출신이면 세브란스 우선 입원 가능한가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/340</id>
+        <link href="https://factchecker.or.kr/fc_suggests/340"/>
+        <updated>2021-10-18T01:05:24.111Z</updated>
+        <content type="html"><![CDATA[연세대 졸업생은 세브란스 병원 우선 입원이 가능하다는 얘기가 사실인가요?&nbsp;
+&nbsp;
+
+https://twitter.com/jjahn504/status/1449538313702952960?s=21
+&nbsp;
+&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주에 맨몸으로 가면 피가 끓어 죽는다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/339</id>
+        <link href="https://factchecker.or.kr/fc_suggests/339"/>
+        <updated>2021-10-18T01:05:24.119Z</updated>
+        <content type="html"><![CDATA[주말에 트위터를 보다가 지식 아카이브 계정에서 이런 내용을 봤습니다. 맨몸으로 우주로 갈 경우 압력 때문에 피가 끓어 죽는다는 내용이었는데, 사실인지 궁금합니다. 만약 이대로라면 심해에서도 이런 일이 가능하지 않을까 싶고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양광 발전은 환경파괴 시설이다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/338</id>
@@ -72,22 +91,5 @@ https:/...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/329"/>
         <updated>2021-10-07T10:21:29.358Z</updated>
         <content type="html"><![CDATA[보건소에서 임산부 등록하러 갔다가&nbsp; 모유 수유 서약을 강요 받았다는 사연을 봤어요.&nbsp;확인해봤으면 좋겠습니다.https://blog.naver.com/idea2826/222529497295]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 영양실조 사망자가 외환위기 후 최다인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/328</id>
-        <link href="https://factchecker.or.kr/fc_suggests/328"/>
-        <updated>2021-10-07T07:18:48.127Z</updated>
-        <content type="html"><![CDATA[코로나19 여파로 소외계층 사망자 수가 증가??한국에서 영양실조·영양결핍으로 사망자가 수백 명씩 발생한다는 건 충격적인 일인것 같아요. 사실확인 부탁합니다
-https://www.fmkorea.com/index.php?m...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검지와 약지의 길이 차이는 식습관과 연결되어 있다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/326</id>
-        <link href="https://factchecker.or.kr/fc_suggests/326"/>
-        <updated>2021-10-07T02:42:35.549Z</updated>
-        <content type="html"><![CDATA[손가락 길이만 보고 식성을 판단할 수 있다는 게시글을 봤습니다. 
-검지와 약지 길이 차이로 식성을 파악할 수 있다는데...사실일까요?&nbsp;
-https://www.instiz.net/pt/7034678?page=1&amp;srt=...]]></content>
     </entry>
 </feed>
