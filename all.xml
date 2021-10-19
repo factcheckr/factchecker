@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 03:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 04:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[계좌 주인이 원한다면 수색 영장 없이 계좌를 들여다 볼 수 있습니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/341</link>
+            <guid>https://factchecker.or.kr/fc_suggests/341</guid>
+            <pubDate>Tue, 19 Oct 2021 04:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스를 보니까 이재명 경기도지사가 수사기관에 영장없이 자기 계좌를 들여다봐도 좋다고 했습니다. 본인한테 제기되는 의혹을 반박하는 차원의 발언이지요.
+그런데 정치적 주장을 떠나서 이재명 경기도지사의 발언대로 진행될 수 있...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연대 출신이면 세브란스 우선 입원 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/340</link>
             <guid>https://factchecker.or.kr/fc_suggests/340</guid>
@@ -283,13 +291,6 @@ https:/...]]></content:encoded>
             <content:encoded><![CDATA[각종 커뮤니티 및 기사 댓글에 코로나 백신 사망자수가 1,000명을 훨씬 넘었다는 얘기가 많이 보입니다.&nbsp;
 그런 댓글을 다는 사람들에게 정확한 근거나 자료를 물어보면 근거나 출처를 얘기하지는 않는데 수 많은 사람들이&nbsp;
 보...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보건소에서 임산부 등록 시 모유 수유 서약이 의무인가 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/329</link>
-            <guid>https://factchecker.or.kr/fc_suggests/329</guid>
-            <pubDate>Thu, 07 Oct 2021 10:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[보건소에서 임산부 등록하러 갔다가&nbsp; 모유 수유 서약을 강요 받았다는 사연을 봤어요.&nbsp;확인해봤으면 좋겠습니다.https://blog.naver.com/idea2826/222529497295]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가 [팩트체크] | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
