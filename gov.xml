@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 01:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 02:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 유류세 인하 방안 검토한 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2660</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2660</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “정부는 유류세 인하방안을 검토한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--488bf5d05519e8f5fa5e5565e25f1ef6e5d99ff2/83addec1c10d6830cb62b74e35e52627.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[패트롤 안전점검 실시사업장, 사고사망만인율 감소 등 성과]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2654</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회는 “다크웹 등에서 불법으로 거래되는 아이디 비밀번호 등 계정정보의 2차 유출피해를 방지하기 위해 ‘계정정보 유출확인 서비스’를 연 내 개시할 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df2eb05cd83a9fb144cd1a2f4517987e308a23d2/058e150ff38face58bfb9d1c13d18c1f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[여수 현장 실습생 사망사고 조사 중…위법시 엄정 조치]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2624</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2624</guid>
-            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “여수 현장 실습생 사망사고와 관련하여 산업안전보건법 위반 여부에 대하여 조사 중이며, 위법 사항이 확인될 경우 엄정히 조치하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9376f769bc12166b6a976934669215b6253c6f54/21ba2923d13edbc641c9815cf603c502.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
