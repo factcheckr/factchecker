@@ -4,17 +4,9 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[곽상도 의원 아들 산재위로금 ‘44억’ 한국에서 가능?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/218</link>
-            <guid>https://factchecker.or.kr/fc_subjects/218</guid>
-            <pubDate>Sun, 17 Oct 2021 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[화천대유에 재직했던 곽상도 의원의 아들이 퇴직금과 성과급, 산재 위로금 명목으로 약 50억원에 달하는 금액을 받은 것으로 알려져 논란이 일었습니다. 화천대유 측 설명에 따르면 이 중 산업재해 위로금으로 지급된 돈은 총 44억 원입니다. 이에 지난 28일 화천대유 실소유주인 김만배 씨는 “곽상도 의원 아들 50억원은 산재 위로금 명목으로도 지급한 것”이라 밝혔고, 최근에도 “(곽 의원 아들의) 병명을 알면 위로금 50억원은 상식”이라고 주장했습니다. 과연 김만배 씨의 주장대로 약 50억 원에 달하는 산재 위로금을 ‘상식’이라 볼 수 있을지, MBC 팩트체크 코너 &lt;알고보니&gt;에서 확인했습니다.&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[영양실조로 지난해 345명 사망, 외환위기 후 최다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/217</link>
@@ -101,6 +93,14 @@
 커뮤니티 게시글의 원출처는 7월 2일 자 한국경제 기사였습니다. &lt;“8억짜리 집 하나 파는데 세금만 3억... 갈아타기 포기합니다”&gt;라는 제목의 기사로 SNS를 통해 꾸준히 퍼지고 있었습니다. ▲정말 8억짜리 집 하나 파는데 세금이 무려 3억인지 ▲그래서 소형 아파트 매물이 씨가 말랐는지 기사 내용을 중심으로 검증하였습니다.
 &nbsp;
 ※ 이 기사는 팩트체크넷 검증 제안에도 올라왔습니다. (https://factchecker.or.kr/fc_suggests/250)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[포털 팩트체크] 김연아에 “색기 넘친다” 일본 언론 보도 팩트는]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/202</link>
+            <guid>https://factchecker.or.kr/fc_subjects/202</guid>
+            <pubDate>Wed, 20 Oct 2021 01:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[일본 언론 ‘뉴스포스트세븐’이 김연아 선수에 대해 부정적 뉘앙스로 색기가 넘친다고 보도했다는 한국 언론 보도.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
