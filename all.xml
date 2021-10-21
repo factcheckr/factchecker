@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 23:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 01:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[돼지기름으로 디젤차량 운전 가능한지 팩트체크 부탁드려요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/344</link>
+            <guid>https://factchecker.or.kr/fc_suggests/344</guid>
+            <pubDate>Thu, 21 Oct 2021 01:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 유튜버가 돼지고기 구워서 나오는 기름으로
+폐 디젤차량에 넣어서 운전성공했다는 영상 스샷이
+커뮤니티에 돌아다니던데 가능한건지 팩트체크 좀]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[타이레놀이 연인과의 이별에도 도움이 된다는 연구결과가 있나요??? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/343</link>
             <guid>https://factchecker.or.kr/fc_suggests/343</guid>
@@ -284,15 +293,6 @@ https://blog.naver.com/5844gogogo/222533790114
             <pubDate>Wed, 13 Oct 2021 06:22:42 GMT</pubDate>
             <content:encoded><![CDATA[기사를 보니까 넷플릭스 드라마 오징어게임에 나오는 것보다 더 힘든 삶을 사는 사람들이 많다고 하는데요. 기사에서 언급하는 것처럼 신체포기각서를 쓰는 장면이 드라마에서 종종 나오더라구요.
 드라마에 나오는 신체포기각서가 실...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[동물학대 실험을 한 러시아인 외과의사가 장기 이식 수술을 최초로 했다는 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/331</link>
-            <guid>https://factchecker.or.kr/fc_suggests/331</guid>
-            <pubDate>Tue, 12 Oct 2021 05:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 커뮤니티를 보다보니까 동물학대 실험을 한 러시아 과학자가 그 기술로 장기 이식 수술을 최초로 했다고 나오던데요. 동물학대 실험만으로도 너무 끔찍한데요.😣🤬 게시글 속 내용이 정말 사실인가요?&nbsp;
-&nbsp;
-https:/...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 여자친구에게 낙태 종용했다면 범죄? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
