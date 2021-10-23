@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 01:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 02:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알고보니] 이런 곳까지 몰래카메라가?‥왜 제한 못하나]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2701</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2701</guid>
+            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 불법촬영 범죄, 하루가 멀다 하고 연일 뉴스에 등장합니다. 모텔직원과 짜고 전 객실에 초소형 카메라를 설치하거나, 가방에 스마트폰을 숨기고 다니면...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6f027d0033b4e1374564c9d4717fad6fc9fd9c8/34dc5c8bd17c2c2a9def02d4230ae0f8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트인사이드] 국회회의록 내용, 발언자가 요청하면 삭제할 수 있을까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2700</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2700</guid>
+            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[검증대상] 임오경 의원 ‘자신의 발언을 국회 속기록에서 삭제해 달라’는 요청영국의 역사학자 E. H. 카는 자신의 저서 ‘역사란 무엇인가’를 통해 역사는 현재와 과거 사이의 끊임없는 대화라고 정의했다. 그 대화를 이어지게 하는 매개체를 꼽는다면 바로 기록일 것이다.대한민국은 ‘기록의 나라’라고 불릴 정도로 많은 기록물이 만들어졌다. 특히 조선 시대에는 ‘조선왕조실록’과 ‘승정원일기’ 등 다양한 기록물이 편찬돼 지금까지 전해지고 있다.역사를 건드리는 문제는 항상 논란을 초래했다. 가장 대표적인 사례를 꼽자면 연산군 시기 무오사화일]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW9VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7abdd0e3962e7c5667738fe827cf86ece9bc246f/46ffca3f034b966a10bbb5575085aaa8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 백종원 막이오름 '탭 막걸리' 판매 중단한 이유는?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2699</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2699</guid>
+            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더본코리아가 주류법 위반 논란에 휩싸였던 탭 막걸리 판매를 중단하기로 결정했다.지난 10여년 간 호프식 막걸리 개발에 힘쓴 A씨는 막이오름 막걸리가 주세법을 위반해 판매하고 있다고 주장했다.논란의 중심이된 것은 막이오름 시그니처 메뉴인 한잔 탭 막걸리다. 탭 막걸리란 막걸리 케그(생맥주 등 술을 넣는 통...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f159d3a464a7808dc6b6faa2a319d9476d6ba8f/522d71682ceb37dc2f41f1055df4bc86.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 SNS 팩트체크-제3지대④] 심상정·안철수]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2691</link>
@@ -62,30 +86,6 @@
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 12일 군사용 로봇 제작사인 ‘고스트 로보틱스’가 저격용 총을 장착한 4족 보행 로봇 ‘Q-UGV’를 공개했습니다. 로봇에 장착된 무기 시스템은 ‘특수 목적 무인 소총’을 뜻하는 ‘스퍼(SPUR·Special Purpose Unmanned Rifle)’이며, 무기 제작사 ‘소드(S.W.O.R.D)’가 제공했습니다.‘Q-UGV’가 공개되자, SNS상에서 다양한 논쟁이 벌어졌습니다. ‘SF 영화 속에나 등장하는 자율살상무기(LAWS·Lethal Autonomous Weapons Systems)가 현실에도 등장했다’며, 로봇이 자율]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65d46eb6a4bbc86fb8a6aef7b4877dfa411526d9/280b5a2b6177a054d6dc25d2ecfd4efb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명 ‘국회의원 면책특권 폐지’ 주장했다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2674</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2674</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민주당 대선후보인 이재명 경기도지사가 ‘국회의원 면책특권 폐지를 언급했다’는 주장이 소셜미디어와 온라인 커뮤니티에 퍼졌습니다. ‘면책특권’은 국회의원이 국회에서 직무상 행한 발언과 표결에 관하여 국회 밖에서 책임을 지지 아니하는 것입니다. 헌법 제45조에 국회의원은 국회에서 직무상 행한 발언과 표결에 관하여 국회외에서 책임을 지지 아니한다.고 규정되어 있습니다. 종종 확인되지 않거나 나중에 거짓으로 밝혀진 내용들이 사실인 것처럼 알려져 문제가 된다는 지적이 있는 반면, 국회의원의 정당한 활동을 위축시킬 수 있다는 반론이 있습니다]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe6da0fc08cf70381455df22272d7224b3aedced/33ed449e13d5bf2ead752d4099a6ddde.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 윤석열 캠프 “홍준표-유승민도 과거 당 해체 주장했다”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2673</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2673</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 대선후보로 경쟁중인 윤석열 전 검찰총장의 “정신머리부터 바꾸지 않으면 우리 당은 없어지는 게 맞다”는 발언에 경쟁 상대인 홍준표 의원과 유승민 전 의원이 “오만방자”, “문재인 정권의 충견” 등의 비난을 쏟아냈습니다. 그러자 윤석열 후보 측은 “홍준표, 유승민도 당 해체 발언했다”고 맞섰습니다. 이 확인했습니다.윤석열 후보는 지난 13일 제주도당에서 열린 캠프 제주 선대위 임명식에서 “우리 당 선배들이 민주당하고 손잡고 거기 프레임으로 나를 공격한다”며 “그분들이 제대로 했으면 지방선거와 총선에서 저렇게 박살이 났]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--877814cf8010cbcdd4f240974f5d0c14bba0f1b8/4a603e620d4f951489d088eb00fe3d74.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 윤석열 “홍준표도 전두환 계승하겠다고 했다”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2671</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2671</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어제(20일) 열린 국민의힘 대선후보 당내 경선 대구·경북 TV토론회에서 윤석열 후보가 “전두환 전 대통령이 군사 쿠데타와 5·18을 빼고는 정치를 잘했다고 말하는 분이 많다”는 발언으로 또다시 구설에 오른 것을 두고 홍준표 후보와 유승민 후보의 공세가 이어지자 윤석열 후보가 “홍준표 후보도 전두환을 계승하겠다 하지 않았냐”고 반박했습니다. 윤 후보의 발언내용이 사실인지 확인했습니다.이날 토론회에서 홍준표 후보는 “저는 5공 시절 검사로서 전두환 전 대통령의 형도 잡아넣었던 사람”, “우리가 5공과 단절하기 위해 30여 년간 피어린]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a663338bc5e005e70bdcefb9d9bdaaad52e9b41/7edd7b62c85968e814e94175fd82475d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
