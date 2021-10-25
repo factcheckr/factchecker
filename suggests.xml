@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-25T16:30:00.415Z</updated>
+    <updated>2021-10-25T17:24:06.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바다로 유입된 마스크가 미세플라스틱으로 분해돼 환경에 악영향을 미치는 지 여부]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/346</id>
+        <link href="https://factchecker.or.kr/fc_suggests/346"/>
+        <updated>2021-10-25T17:23:21.087Z</updated>
+        <content type="html"><![CDATA[아래 글에 따르면 마스크의 대부분은 합성수지(플라스틱) 소재로 만들어 졌다고 합니다. 이 때문에 바다로 유입될 시 미세플라스틱으로 분해될 가능성이 크며 해양생태계에 악영향을 미친다고 합니다. 마스크 사용량이 늘어난 만큼 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양광 패널 설치는 환경파괴 및 국민 부담을 가중시킬까요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/345</id>
@@ -83,15 +90,5 @@ https://www.82cook.com/entiz/read...]]></content>
         <content type="html"><![CDATA[커뮤니티에서 비례대표 여성할당제가 가장 쓸 모 없다고 주장하는 글을 봤는데요.
 일단 비례대표 여성할당제가 우리나라에만 있는 법인가요???
 그리고 우리나라 국회 여성 의원 비율이 심각하게 낮아서 여성할당제가 법제화 되지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원랜드에서 도박중독을 막기 위해 다양한 장치를 마련해뒀다는게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/335</id>
-        <link href="https://factchecker.or.kr/fc_suggests/335"/>
-        <updated>2021-10-13T08:22:35.478Z</updated>
-        <content type="html"><![CDATA[강원랜드에 도박 중독을 줄이기 위해 여러 장치가 있다고 하는데요.&nbsp;맞는 말인지 확인해 봤으면 좋겠습니다.&nbsp;
-&nbsp;
-https://blog.naver.com/5844gogogo/222533790114
-&nbsp;]]></content>
     </entry>
 </feed>
