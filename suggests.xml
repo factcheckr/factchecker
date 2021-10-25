@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-25T06:25:50.892Z</updated>
+    <updated>2021-10-25T07:19:54.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[태양광 패널 설치는 환경파괴 및 국민 부담을 가중시킬까요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/345</id>
+        <link href="https://factchecker.or.kr/fc_suggests/345"/>
+        <updated>2021-10-25T07:19:13.075Z</updated>
+        <content type="html"><![CDATA[한경 사설에 따르면, 2050년에는 서울 면적의 5배 이상이 태양광 패널로 뒤덮인다고 합니다. 사설에서는 재활용이 어렵고 중금속 성분이 있는 폐패널이 2~30년 뒤엔 매년 수십만 t씩 쏟아질 판이라고 했는데, 이게 정말 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돼지기름으로 디젤차량 운전 가능한지 팩트체크 부탁드려요]]></title>
         <id>https://factchecker.or.kr/fc_suggests/344</id>
@@ -86,13 +93,5 @@ https://www.82cook.com/entiz/read...]]></content>
 &nbsp;
 https://blog.naver.com/5844gogogo/222533790114
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 오징어게임 속 신체포기각서는 실제로 법적 효력이 있나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/334</id>
-        <link href="https://factchecker.or.kr/fc_suggests/334"/>
-        <updated>2021-10-13T06:22:42.014Z</updated>
-        <content type="html"><![CDATA[기사를 보니까 넷플릭스 드라마 오징어게임에 나오는 것보다 더 힘든 삶을 사는 사람들이 많다고 하는데요. 기사에서 언급하는 것처럼 신체포기각서를 쓰는 장면이 드라마에서 종종 나오더라구요.
-드라마에 나오는 신체포기각서가 실...]]></content>
     </entry>
 </feed>

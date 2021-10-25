@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[태양광 패널 설치는 환경파괴 및 국민 부담을 가중시킬까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/345</link>
+            <guid>https://factchecker.or.kr/fc_suggests/345</guid>
+            <pubDate>Mon, 25 Oct 2021 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[한경 사설에 따르면, 2050년에는 서울 면적의 5배 이상이 태양광 패널로 뒤덮인다고 합니다. 사설에서는 재활용이 어렵고 중금속 성분이 있는 폐패널이 2~30년 뒤엔 매년 수십만 t씩 쏟아질 판이라고 했는데, 이게 정말 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[돼지기름으로 디젤차량 운전 가능한지 팩트체크 부탁드려요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/344</link>
             <guid>https://factchecker.or.kr/fc_suggests/344</guid>
@@ -274,14 +281,6 @@ https://www.82cook.com/entiz/read...]]></content:encoded>
 &nbsp;
 https://blog.naver.com/5844gogogo/222533790114
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 오징어게임 속 신체포기각서는 실제로 법적 효력이 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/334</link>
-            <guid>https://factchecker.or.kr/fc_suggests/334</guid>
-            <pubDate>Wed, 13 Oct 2021 06:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[기사를 보니까 넷플릭스 드라마 오징어게임에 나오는 것보다 더 힘든 삶을 사는 사람들이 많다고 하는데요. 기사에서 언급하는 것처럼 신체포기각서를 쓰는 장면이 드라마에서 종종 나오더라구요.
-드라마에 나오는 신체포기각서가 실...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트와이] '대장동 공익환수 5,503억' 어디까지 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
