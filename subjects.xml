@@ -4,9 +4,21 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 17:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 18:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포털 팩트체크] 너도 나도 받아쓴 ‘메타버스 시장 300조원’, 출처는 유령 보고서?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/223</link>
+            <guid>https://factchecker.or.kr/fc_subjects/223</guid>
+            <pubDate>Tue, 26 Oct 2021 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[* 이희욱 미디어오늘 기자가 작성한 기사입니다.
+검증 대상)
+국내 기사에서 메타버스 시장을 얘기할 때 단골처럼 인용하는 자료는 두 곳이다. 스트래티지 애널리틱스(SA)와 프라이스워터하우스쿠퍼스컨설팅(PwC)이다.
+“스트래티지 애널리틱스는 올해 세계 메타버스 시장 규모를 460억 달러(약 53조원), 2025년에는 2800억 달러(약 322조원)로 전망했다.”&nbsp;“PwC는 메타버스 핵심 기술인 가상융합기술(XR) 시장이 2025년 4764억 달러(약 548조원)로 성장한다고 내다봤다.”
+다음과 같은 인용 내용이 정확한지 팩트체크를 실시했다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태양광 발전 패널이 중금속을 함유하고 있어 오염을 유발한다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/222</link>
@@ -79,24 +91,6 @@
             <link>https://factchecker.or.kr/fc_subjects/209</link>
             <guid>https://factchecker.or.kr/fc_subjects/209</guid>
             <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전기료 인상은 '급격한 탈원전' 탓이다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/206</link>
-            <guid>https://factchecker.or.kr/fc_subjects/206</guid>
-            <pubDate>Thu, 07 Oct 2021 01:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[[검증대상]
--전기료 인상은 급격한 탈원전 탓이라는 다수의 언론 보도
--원희룡 전 제주지사, “급격한 탈원전 정책 때문에 전기요금이 올랐다”는 주장
-&nbsp;
-
-▲“탈원전이 전기료 인상 야기했다”는 다수의 언론 보도. MBC 뉴스데스크 갈무리.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ▲“전기요금 인상은 탈원전 청구서” (원희룡 전 제주지사 페이스북)]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
