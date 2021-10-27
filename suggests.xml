@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-27T14:18:29.223Z</updated>
+    <updated>2021-10-27T15:24:17.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국, 석탄 부족해 전력난… 한국 가을 하늘은 맑아졌다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/349</id>
+        <link href="https://factchecker.or.kr/fc_suggests/349"/>
+        <updated>2021-10-27T15:22:56.977Z</updated>
+        <content type="html"><![CDATA[중국의 석탄부족현상이 한국의 미세먼지 저감에 영향을 미쳤나요? 이 부분이 궁금합니다.&nbsp;
+출처: https://www.chosun.com/economy/stock-finance/2021/09/28/RDRKFBM6PVF6L...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OECD국가중 재활용률 2위지만 폐플라스틱을 수입한다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/348</id>
@@ -82,12 +90,5 @@ http://www.ene...]]></content>
 https://twitter.com/jjahn504/status/1449538313702952960?s=21
 &nbsp;
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주에 맨몸으로 가면 피가 끓어 죽는다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/339</id>
-        <link href="https://factchecker.or.kr/fc_suggests/339"/>
-        <updated>2021-10-18T01:05:24.119Z</updated>
-        <content type="html"><![CDATA[주말에 트위터를 보다가 지식 아카이브 계정에서 이런 내용을 봤습니다. 맨몸으로 우주로 갈 경우 압력 때문에 피가 끓어 죽는다는 내용이었는데, 사실인지 궁금합니다. 만약 이대로라면 심해에서도 이런 일이 가능하지 않을까 싶고...]]></content>
     </entry>
 </feed>
