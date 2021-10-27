@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 04:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 05:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[OECD국가중 재활용률 2위지만 폐플라스틱을 수입한다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/348</link>
+            <guid>https://factchecker.or.kr/fc_suggests/348</guid>
+            <pubDate>Wed, 27 Oct 2021 05:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국은 재활용을 잘하는 나라로 재활용률이 높은 것으로 알고 있습니다. 그런데 국내 폐플라스틱은 쓸 수가 없어 폐플라스틱을 수입을 한다는 기사를 봤는데요.&nbsp;
+내용을 정확하게 확인하면 좋겠어요.
+http://www.ene...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2030세대의 백신접종률이 전 연령층 중에서 가장 낮은가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/347</link>
             <guid>https://factchecker.or.kr/fc_suggests/347</guid>
@@ -256,15 +265,6 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
             <guid>https://factchecker.or.kr/fc_suggests/339</guid>
             <pubDate>Mon, 18 Oct 2021 01:05:24 GMT</pubDate>
             <content:encoded><![CDATA[주말에 트위터를 보다가 지식 아카이브 계정에서 이런 내용을 봤습니다. 맨몸으로 우주로 갈 경우 압력 때문에 피가 끓어 죽는다는 내용이었는데, 사실인지 궁금합니다. 만약 이대로라면 심해에서도 이런 일이 가능하지 않을까 싶고...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여성 10명 중 1명은 갑상선 기능 저하증에 걸린다는 말이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/337</link>
-            <guid>https://factchecker.or.kr/fc_suggests/337</guid>
-            <pubDate>Fri, 15 Oct 2021 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[추위에 예민해진다, 남들은 안 춥다는데 나만 춥다 등&nbsp;여성 100명중 10명은 걸린다는 병이라는 제목으로 글이 올라왔더라구요.&nbsp;
-사실 확인해 봤으면 좋겠어요
-https://www.82cook.com/entiz/read...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 원희룡 “허위사실 공표는 후보가 해당” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -346,6 +346,38 @@ https://www.82cook.com/entiz/read...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--544e7f88feb9c1825c036a75ab82f2a1160c3c16/349eba08233324870e5850c878007751.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[2016년 이후 매년 우리나라 상대 빈곤율 개선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2736</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2736</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “소득안전망 강화를 위해 지속 노력하고 있으며, 이 결과 상대 빈곤율은 2016년 이후 매년 개선되고 있다”면서 “향후에도 빈곤해소를 위해 소득안전망을 확대해나가겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46f27d7974309153fb219ba6fdf0ed04136e40e7/6cfc02d0549498021a7bada6728bb875.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울런’ 시스템 사전협의 결과 이행 재권고 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2735</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2735</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “서울형 교육플랫폼 ‘서울런’ 시스템이 교육부 사업과 유사·중복성이 있어 추진보류 의견을 통보했으나 현재 일부 서비스가 개통·운영 중인 것으로 확인했다”면서 “전 행정기관 대상 분기별 이행실태 점검 결과를 통보하면서 이 내용에 대한 이행을 재권고할 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--115af799fc89cec3081f38aabf318e75b69450dc/4e642384521843bbd3a74efa6d0dff1d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융그룹감독혁신단 폐지? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2734</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2734</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “금융그룹감독혁신단이 4년만에 폐지된다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--445b6ea34ba3017b968c2c1f3248dd899308d42a/940abe07307af520ff3b71bd5804dbb6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘적합업종 실태조사’ 보도 관련 동반성장위 해명 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2733</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2733</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동반성장위원회는 ‘중소기업 적합업종 및 소상공인 생계형 적합업종’ 관련 보도 내용에 대해 다음과 같이 해명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGtVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a2b5aff6b71ade5f53c4246d61ba7ac6d97c46ea/d32e42801bb71e82bde055507a2f054c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[법령 따라 국세감면율 한도 계산…국세감면율도 동일 기준 산출 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2723</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2723</guid>
@@ -392,38 +424,6 @@ https://www.82cook.com/entiz/read...]]></content:encoded>
             <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “유류세 인하 방안에 대해 검토 중이나 인하 폭, 적용기간 등 구체적인 내용에 대해서는 결정되지 않았다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5456c12ab6aff5e6e01c8c0ef51ca294b5ffa6f4/56a04efd3b857d4c7aa7e1fe9546fa41.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[내달초 CPTPP 가입 신청 공식화? 사실 아니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2695</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2695</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “우리나라가 내달초 CPTPP 가입 신청을 공식화한다는 것은 사실이 아니다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba0f6d339313741861e2a5849fa1b04263f11c1f/e44d3f15d4a3ddc66a510060839ff722.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년추가고용장려금, 청년일자리 확대·중기 인력난 해소 지원 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2694</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2694</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “청년추가고용장려금을 통해 청년일자리 확대와 중소기업 인력난 해소를 지원했으며, 앞으로도 내실 있게 관리하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8bc93f317d6e68c78b52832aa337191ba2599715/82cc30f1e5b9583cf29ec6aa8d3df10f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 확진자 중 정신과 진료받은 실제 인원은 5739명 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2693</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2693</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “지난해부터 올해 6월까지 코로나19 확진자의 정신과 누적(중복) 진료건수는 2만 8000건이나, 진료받은 실제 인원은 5739명이며 기성 질환자도 포함된다”면서 “누적(중복) 진료건수와 실제 진료받은 환자 수에 차이가 있고 정신질환과 코로나19 확진판정의 선후관계(원인여부) 확인이 필요한 점 등 다양한 변수가 존재한다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a3f2083ab3101eae61206bc638c9901c4d0ea9df/df47de5048c3dc421c5a3341727d5f7c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 안전하게 보호하며 출입국관리 시스템 고도화 인공지능 개발 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2692</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2692</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 법무부는 “개인정보를 안전하게 보호하며 출입국 관리 시스템을 고도화하기 위한 인공지능 개발을 추진하고 있다”고 밝혔습니다. 또 “법무부 보유 1억건 이상의 얼굴정보를 과기부와 민간에 넘겼다는 보도는 사실과 다르며 수탁 업체가 직접 얼굴 사진 등 개인정보를 개별 열람하거나 외부로 반출하는 것은 불가능하도록 기술적 보안조치를 했다”고 덧붙였]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUlVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bb2977acf878b9a80edfd74789d25ad5421898b/894ceb5374f49094ec760b7ff319b1e7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
