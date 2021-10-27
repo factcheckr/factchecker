@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 또 위안부 망언…'심문 보고서 49호'의 진실]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2737</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2737</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 25일 뉴욕타임스가 일본군 위안부 피해 사실을 고발했던 고 김학순 인권운동가의 부고 기사를 실었습니다. 지나쳤던 인물들 시리즈의 일환입니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bac68320df0e3461af382dfeb736bd315c80d84b/fb1e6dc6b1d2f5a26d7cb00246d91e32.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 원희룡 “허위사실 공표는 후보가 해당”]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2732</link>
@@ -77,14 +85,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘 원희룡 후보의 부인이 민주당 이재명 후보를 겨냥해서 소시오패스란 표현을 써서 논란입니다. 발언을 한 강윤형..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1bd4c3175967fdb85b292849d52f2189fa237d7/0487d1f61f34196d72276ccae7f5b4fd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 토지임대부 주택, 집값·대장동 모두 잡는 만능 열쇠?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2720</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2720</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드론으로 촬영한 경기도 성남시 판교 대장동 신도시 일대. [사진=유대길 기자 dbeorlf123@ajunews.com]대선을 앞두고 토지임대부 주택이 주목을 받고 있다. 거침없이 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--544e7f88feb9c1825c036a75ab82f2a1160c3c16/349eba08233324870e5850c878007751.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

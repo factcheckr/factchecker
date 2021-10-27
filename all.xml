@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,6 +267,14 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
             <content:encoded><![CDATA[주말에 트위터를 보다가 지식 아카이브 계정에서 이런 내용을 봤습니다. 맨몸으로 우주로 갈 경우 압력 때문에 피가 끓어 죽는다는 내용이었는데, 사실인지 궁금합니다. 만약 이대로라면 심해에서도 이런 일이 가능하지 않을까 싶고...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] 또 위안부 망언…'심문 보고서 49호'의 진실 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2737</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2737</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 25일 뉴욕타임스가 일본군 위안부 피해 사실을 고발했던 고 김학순 인권운동가의 부고 기사를 실었습니다. 지나쳤던 인물들 시리즈의 일환입니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bac68320df0e3461af382dfeb736bd315c80d84b/fb1e6dc6b1d2f5a26d7cb00246d91e32.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 원희룡 “허위사실 공표는 후보가 해당” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2732</link>
             <guid>https://factchecker.or.kr/fc_archives/press/2732</guid>
@@ -338,20 +346,20 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1bd4c3175967fdb85b292849d52f2189fa237d7/0487d1f61f34196d72276ccae7f5b4fd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 토지임대부 주택, 집값·대장동 모두 잡는 만능 열쇠? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2720</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2720</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[드론으로 촬영한 경기도 성남시 판교 대장동 신도시 일대. [사진=유대길 기자 dbeorlf123@ajunews.com]대선을 앞두고 토지임대부 주택이 주목을 받고 있다. 거침없이 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--544e7f88feb9c1825c036a75ab82f2a1160c3c16/349eba08233324870e5850c878007751.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[2016년 이후 매년 우리나라 상대 빈곤율 개선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2736</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2736</guid>
             <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부는 “소득안전망 강화를 위해 지속 노력하고 있으며, 이 결과 상대 빈곤율은 2016년 이후 매년 개선되고 있다”면서 “향후에도 빈곤해소를 위해 소득안전망을 확대해나가겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46f27d7974309153fb219ba6fdf0ed04136e40e7/6cfc02d0549498021a7bada6728bb875.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[김장 주재료 가격은 안정적 상황…10월 말 김장채소 수급안정 대책 발표 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2738</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2738</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[농림축산식품부는 “강원·충북 등 중부지방 중심으로 배추 병해가 발생했으나 전반적인 작황은 평년 수준으로 전망되며 쪽파·소금·미나리 등 김장 부재료 가격은 높으나 배추·무·고추 등 주재료 가격은 현재까지 안정적인 상황”이라고 밝혔습니다. 또 “10월말에 김장철 공급 확대, 소비자 부담 경감 등을 내용으로 하는 김장채소 수급안정 대책을 발표할 예정”이라고 덧붙]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--921064f0359787d36bc01b49f2a799027a18b0ba/8aebf79aeada098d2ec96744799f3934.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘서울런’ 시스템 사전협의 결과 이행 재권고 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -416,14 +424,6 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
             <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 “미래에셋 그룹 여수경도 개발사업 관련 특수목적법인의 위장계열사 여부와 관련해 현재 어떠한 결론도 내리지 않았다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2813e1c3fc869fc35afc436a32d894d7bcd2dcd4/10f863422d1b47c3d2a50864698287ed.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[유류세 인하폭·적용기간 등 구체 사항은 아직 미정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2696</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2696</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “유류세 인하 방안에 대해 검토 중이나 인하 폭, 적용기간 등 구체적인 내용에 대해서는 결정되지 않았다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5456c12ab6aff5e6e01c8c0ef51ca294b5ffa6f4/56a04efd3b857d4c7aa7e1fe9546fa41.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
