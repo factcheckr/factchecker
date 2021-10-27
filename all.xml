@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2030세대의 백신접종률이 전 연령층 중에서 가장 낮은가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/347</link>
+            <guid>https://factchecker.or.kr/fc_suggests/347</guid>
+            <pubDate>Wed, 27 Oct 2021 03:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[전 연령대 중 20~30대 청년층의 코로나19 백신 접종률이 가장 낮아 백신패스에 부정적 인식을 갖고 있다는 기사를 접했습니다. 정말 2030세대의 백신 접종률이 가장 낮은지와 2030 접종률 전망이 궁금합니다.
+출처:...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[바다로 유입된 마스크가 미세플라스틱으로 분해돼 환경에 악영향을 미치는 지 여부 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/346</link>
             <guid>https://factchecker.or.kr/fc_suggests/346</guid>
@@ -257,15 +265,6 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
             <content:encoded><![CDATA[추위에 예민해진다, 남들은 안 춥다는데 나만 춥다 등&nbsp;여성 100명중 10명은 걸린다는 병이라는 제목으로 글이 올라왔더라구요.&nbsp;
 사실 확인해 봤으면 좋겠어요
 https://www.82cook.com/entiz/read...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비례대표 여성할당제는 우리나라에만 있는 법인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/336</link>
-            <guid>https://factchecker.or.kr/fc_suggests/336</guid>
-            <pubDate>Thu, 14 Oct 2021 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[커뮤니티에서 비례대표 여성할당제가 가장 쓸 모 없다고 주장하는 글을 봤는데요.
-일단 비례대표 여성할당제가 우리나라에만 있는 법인가요???
-그리고 우리나라 국회 여성 의원 비율이 심각하게 낮아서 여성할당제가 법제화 되지...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 원희룡 “허위사실 공표는 후보가 해당” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

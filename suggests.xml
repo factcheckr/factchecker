@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-27T02:03:07.739Z</updated>
+    <updated>2021-10-27T03:21:24.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2030세대의 백신접종률이 전 연령층 중에서 가장 낮은가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/347</id>
+        <link href="https://factchecker.or.kr/fc_suggests/347"/>
+        <updated>2021-10-27T03:20:39.517Z</updated>
+        <content type="html"><![CDATA[전 연령대 중 20~30대 청년층의 코로나19 백신 접종률이 가장 낮아 백신패스에 부정적 인식을 갖고 있다는 기사를 접했습니다. 정말 2030세대의 백신 접종률이 가장 낮은지와 2030 접종률 전망이 궁금합니다.
+출처:...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다로 유입된 마스크가 미세플라스틱으로 분해돼 환경에 악영향을 미치는 지 여부]]></title>
         <id>https://factchecker.or.kr/fc_suggests/346</id>
@@ -81,14 +89,5 @@ https://twitter.com/jjahn504/status/1449538313702952960?s=21
         <content type="html"><![CDATA[추위에 예민해진다, 남들은 안 춥다는데 나만 춥다 등&nbsp;여성 100명중 10명은 걸린다는 병이라는 제목으로 글이 올라왔더라구요.&nbsp;
 사실 확인해 봤으면 좋겠어요
 https://www.82cook.com/entiz/read...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비례대표 여성할당제는 우리나라에만 있는 법인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/336</id>
-        <link href="https://factchecker.or.kr/fc_suggests/336"/>
-        <updated>2021-10-14T06:22:39.314Z</updated>
-        <content type="html"><![CDATA[커뮤니티에서 비례대표 여성할당제가 가장 쓸 모 없다고 주장하는 글을 봤는데요.
-일단 비례대표 여성할당제가 우리나라에만 있는 법인가요???
-그리고 우리나라 국회 여성 의원 비율이 심각하게 낮아서 여성할당제가 법제화 되지...]]></content>
     </entry>
 </feed>
