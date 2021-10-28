@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 10:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 11:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 방송국이 '북한 홍보'하면 방통위 가점받는다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2751</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2751</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 21일 국민의힘 김영식 의원은 보도자료를 통해, 방송통신위원회가 북한을 홍보하면 가점을 주는 방송 평가 조항 신설을 추진 중이라고 언급했습니다. 김 의원이 방통위로부터 제출받은 자료에 따르면, 남북 관련 프로그램을 편성하면 가점 5점을 주고, 편성 시간대별로 추가 5점을 준다는 것이 신설된 평가 조항의 내용이었습니다. 방송 평가는 방송사가 재허가·재승인을 받을 때 필요한 절차이며, 기준점에 미달될 경우 불이익을 받게 됩니다. 따라서 평가 조항은 방송사의 프로그램 제작과 편성의 방향성에 영향을 미칠 가능성이 높은 요소]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e385c1458bf77135b1b4f86b3e858b77961f24a1/3974a13ca55cb256c06996107a65eedf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] "노태우 5·18과 관계없다" 사실?…역사적 평가 진행중 | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2750</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2750</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(광주=연합뉴스) 천정인 기자 = 5·18 민주화운동에 대한 고(故) 노태우 전 대통령의 책임을 두고 평가가 갈리고 있다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7978e2548ef302afc421e243d71bedfbc818a39a/eb9c4881f71fd4f3297d738d5b0e455d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트 체크] 애플·구글, 인앱 결제 정책 변경…바뀐 점은]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2749</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2749</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계 각국이 시장 지배적 지위를 앞세워 지나친 수수료를 요구하는 애플과 구글 등에 대한 제재 수위를 높여가고 있는 가운데 양사가 앱 스토어 수수료 부가 정책 변경을 예고하고 나섰다. 최근 애플은 앱 스토어 심사 지침 개정안을 통해 개발자가 앱 외부에서 사용할 수 있는 다른 결제 방법에 대해 고객과 소통할 수 있음을 명시했다. 일방적인 기존 방침에서 한 발 물러난 결과다.애플측은 또 해당 앱이 이름과 이메일 등 고객 정보를 요청할 수 있지만 요청은 사용자의 선택 사항이어야 하며 앱 사용을 방해해서는 안 된다고 고지했다. 하지만 관심을]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e1d29a4706218f16f61629830827cf76c6b29be8/9cdda73cba61d9b5f0a5bd00ea596af8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 유류세 인하하면 부자들이 더 혜택받는다? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2748</link>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크]이재용 삼성전자 부회장의 프로포폴 불법 투약 혐의에 대해 1심 법원이 벌금 7000만원을 26일 선고했다.재계인사와 연예인 등 유명인의 불법 프로포폴 투약에 대...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a6cdbdb7b32119c6d7edf94342b63d1c7c8acb0/25be3aeb6ed11f875dfd1fc453db0866.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 또 위안부 망언…'심문 보고서 49호'의 진실]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2737</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2737</guid>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 25일 뉴욕타임스가 일본군 위안부 피해 사실을 고발했던 고 김학순 인권운동가의 부고 기사를 실었습니다. 지나쳤던 인물들 시리즈의 일환입니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bac68320df0e3461af382dfeb736bd315c80d84b/fb1e6dc6b1d2f5a26d7cb00246d91e32.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 원희룡 “허위사실 공표는 후보가 해당”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2732</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2732</guid>
-            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 대선후보로 경쟁중인 원희룡 전 제주지사와 더불어민주당 이재명 후보 측 현근택 변호사가 라디오 생방송에서 언성을 높이며 격한 설전을 벌여 화제가 됐습니다. 두 사람은 지난 23일 MBC 라디오 프로그램 에 출연해, 앞서 원희룡 후보의 부인인 정신과 전문의 강윤형씨가 한 유튜브 방송에서 “이재명 후보는 소시오패스 경향을 보인다”고 말한 데 대해, ‘사과와 법적 조치’ 공방을 벌였습니다. 이 과정에서 두 사람은 ‘공직선거법상 허위사실 공표’에 대해 다른 견해를 보였습니다. 이 확인했습니다. 해당 방송에서 현근]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd68d98883b6246ffeca1e57f2c472a70ee29b8e/5f8d2ee61b2017f22f205d9fd6286676.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] ″아일랜드는 사회적 대타협으로 노동개혁에 성공해 선진국에 진입했다″…얼마나 사실인가]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2745</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2745</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[″20세기 들어와서 선진국으로 도약한 나라는 일본과 아일랜드 밖에 없다″″…유럽의 병자였던 아일랜드는 사회적...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b411160387968cd3c7fce44c79936f8857b0ea98/4e0373068348316bda8c55061d1cf4c9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
