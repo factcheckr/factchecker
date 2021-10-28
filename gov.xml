@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/fc_archives/gov</id>
-    <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
-    <updated>2021-10-28T12:30:24.607Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/fc_archives/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 28 Oct 2021 13:26:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규제샌드박스 만족도 조사결과, 승인기업 91.7% “제도에 만족”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2744</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2744</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국무조정실은 “2020년 만족도 조사결과, 일반기업의 92%가 ‘규제샌드박스가 경제활성화에 도움이 될 것이다’, 승인기업의 91.7%가 ‘규제샌드박스 제도에 대해 만족한다’고 답변했다”면서 “앞으로도 기업들의 애로를 적극 수렴해 규제샌드박스 제도를 더욱 발전시켜 신산업 발전을 촉진하는데 기여하도록 노력하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c3484eebd213d902fe799c4fdbd40b960b5b8f1/62a4dfd634facf65a4786a321f0dc46f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016년 이후 매년 우리나라 상대 빈곤율 개선]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2736</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2736</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “소득안전망 강화를 위해 지속 노력하고 있으며, 이 결과 상대 빈곤율은 2016년 이후 매년 개선되고 있다”면서 “향후에도 빈곤해소를 위해 소득안전망을 확대해나가겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46f27d7974309153fb219ba6fdf0ed04136e40e7/6cfc02d0549498021a7bada6728bb875.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[안심하고 이용할 수 있게 무인민원발급기 철저히 관리]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2743</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2743</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “국민이 안심하고 이용할 수 있도록 무인민원발급기를 철저히 관리해 나가겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6786fdfc9e6f87a6f3fa7484ae20eedecea5b652/efcbe2452557d115becba4e8fa21e079.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[김장 주재료 가격은 안정적 상황…10월 말 김장채소 수급안정 대책 발표]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2738</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2738</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[농림축산식품부는 “강원·충북 등 중부지방 중심으로 배추 병해가 발생했으나 전반적인 작황은 평년 수준으로 전망되며 쪽파·소금·미나리 등 김장 부재료 가격은 높으나 배추·무·고추 등 주재료 가격은 현재까지 안정적인 상황”이라고 밝혔습니다. 또 “10월말에 김장철 공급 확대, 소비자 부담 경감 등을 내용으로 하는 김장채소 수급안정 대책을 발표할 예정”이라고 덧붙]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--921064f0359787d36bc01b49f2a799027a18b0ba/8aebf79aeada098d2ec96744799f3934.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서울런’ 시스템 사전협의 결과 이행 재권고 계획]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2735</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2735</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “서울형 교육플랫폼 ‘서울런’ 시스템이 교육부 사업과 유사·중복성이 있어 추진보류 의견을 통보했으나 현재 일부 서비스가 개통·운영 중인 것으로 확인했다”면서 “전 행정기관 대상 분기별 이행실태 점검 결과를 통보하면서 이 내용에 대한 이행을 재권고할 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--115af799fc89cec3081f38aabf318e75b69450dc/4e642384521843bbd3a74efa6d0dff1d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융그룹감독혁신단 폐지? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2734</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2734</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “금융그룹감독혁신단이 4년만에 폐지된다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--445b6ea34ba3017b968c2c1f3248dd899308d42a/940abe07307af520ff3b71bd5804dbb6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘적합업종 실태조사’ 보도 관련 동반성장위 해명]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2733</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2733</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동반성장위원회는 ‘중소기업 적합업종 및 소상공인 생계형 적합업종’ 관련 보도 내용에 대해 다음과 같이 해명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGtVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a2b5aff6b71ade5f53c4246d61ba7ac6d97c46ea/d32e42801bb71e82bde055507a2f054c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[법령 따라 국세감면율 한도 계산…국세감면율도 동일 기준 산출]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2723</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2723</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “법령에 따라 국세감면율 한도를 계산하고, 국세감면율도 동일 기준에 따라 산출했다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c241d45820786a0866c4a8b78fb2184450da1ded/00e127702e455c54f46a61921a1c41b5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[외화보험 제도개선 관련, 가입자 제한 등 미결정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2722</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2722</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “외화보험 제도개선과 관련해 가입자 제한, 보험사의 환차손 보장 등에 대한 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a77d11f766c54ba8e1e8267fcd13839fe16823a2/0844716ea7e3243f4fbd01467dba7663.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리나라도 대체근로 일부 허용·노동조합 불법점거 금지]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2721</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2721</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “우리나라도 대체근로를 일부 허용하고 있으며, 노동조합의 불법점거를 금지하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0FVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8771fcd3af589b2119207c646c4002c049b0129f/39c322f115e415cb49a862c3b951c4f6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
