@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[일산대교가 다시 유료화 될 수 있다는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/352</link>
+            <guid>https://factchecker.or.kr/fc_suggests/352</guid>
+            <pubDate>Thu, 28 Oct 2021 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[얼마전 무료화된 일산대교가 다시 유료화 될 수 있다는 글을 접했습니다. 사실인지 궁금합니다.
+&nbsp;
+https://www.fmkorea.com/index.php?mid=best&amp;document_srl=4028093140&amp;...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[무인민원발급기 이용자 개인정보 유출 가능성이 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/351</link>
             <guid>https://factchecker.or.kr/fc_suggests/351</guid>
@@ -254,15 +263,6 @@ http://www.ene...]]></content:encoded>
             <content:encoded><![CDATA[커뮤니티를 돌아다니다 보니까 타이레놀의 효능을 다루는 방송 캡쳐가 있던데요.
 게시글에서는 이 방송 내용을 두고 타이레놀이 연인과의 이별에도 도움이 된다는 것처럼 이야기를 하더라구요
 근데 진짜 타이레놀이 연인과의 이별에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맛집에 가서 먹기 전에 사진부터 찍으면 뱃살이 생길 확률이 높아진다는 연구가 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/342</link>
-            <guid>https://factchecker.or.kr/fc_suggests/342</guid>
-            <pubDate>Thu, 28 Oct 2021 14:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[밥 먹기 전에 사진을 찍는다고 뱃살이 생길 확률이 높아지면 너무 많은 사람이 복부 비만이어야 하지 않을까요?
-이런 연구가 실제로 있는지, 연구 방법은 신뢰할 수 있는지 확인해주세요.
-너무 허무맹랑한 내용이라 확인할 필...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 방송국이 '북한 홍보'하면 방통위 가점받는다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
