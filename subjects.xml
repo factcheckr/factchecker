@@ -4,9 +4,27 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 07:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 08:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에너지전환 팩트체크] 전기차 온실가스 감축에 큰 효과 없다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/228</link>
+            <guid>https://factchecker.or.kr/fc_subjects/228</guid>
+            <pubDate>Fri, 29 Oct 2021 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[현재 세계 각국의 자동차 제조사들은 기존의 내연기관차를 전기차로 대체해가는 중이다. 한국의 현대자동차도 2025년까지 전 세계에서 100만대의 전기차를 판매하는 등 2045년까지 자동차 생산부터 운행, 폐기까지 전 단계에 걸쳐 탄소 순배출 ‘제로(0)’를 달성하겠다고 공언했다.
+그런데 일부에서는 ‘전기차도 온실가스를 배출하기 때문에 친환경차가 아니다’는 주장이 나오고 있다. ‘주행 중에 나오는 탄소는 없지만, 연료인 전력을 만들 때 탄소가 많이 발생하기 때문에 전기차가 늘어나도 온실가스 감축에 큰 효과가 없다’는 것이다. 여전히 석탄화력발전비율이 높은 국내 상황을 감안하면 충분히 가능한 주장이다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[에너지전환 팩트체크] 전세계는 탈원전 추세다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/226</link>
+            <guid>https://factchecker.or.kr/fc_subjects/226</guid>
+            <pubDate>Fri, 29 Oct 2021 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[탈원전 정책은 그야말로 전쟁터다. 국민의힘 등 보수진영에서는 문재인 정부의 탈원전 정책으로 인해 국가경쟁력이 저하되고 있다며 차기 정부에서는 탈원전 정책을 폐기해야 한다고 주장한다. 반면 더불어민주당과 진보진영에서는 성공적인 에너지 전환 정책을 위해선 화력발전을 줄이는 것은 물론, 원자력발전소 비중을 줄여나가야 한다고 주장한다. 매년 국정감사에서는 탈원전을 놓고 정치권이 논쟁을 벌이고 있다.
+탈원전이 세계적 추세인지에 대해서도 정 반대의 주장이 엇갈리고 있다. 한쪽에서는 주요국들이 원전 비중을 줄이고 있다고 말하는 반면, 다른 쪽에서는 원전 비중이 오히려 증가하고 있다고 맞서고 있다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[에너지전환 팩트체크] 태양광 패널, 빛반사 피해 유발?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/225</link>
@@ -75,24 +93,6 @@
             <pubDate>Thu, 28 Oct 2021 13:24:49 GMT</pubDate>
             <content:encoded><![CDATA[지난 7일, 동아일보가 지난해 우리나라에서 345명이 영양실조로 사망했다는 제목의 보도를 내보냈습니다. 또 이 수치는 ‘외환위기 이후 최다’이며, 영양실조 사망이 폭증한 것은 코로나로 인해 ‘결식’이 늘어난 것과 밀접한 관련이 있어보인다는 분석도 덧붙였습니다. 사회적 취약계층이 제대로 먹지 못해서 영양실조로 숨진다는 기사에 독자들의 반응은 뜨거웠습니다. 그런데 근 몇 년 사이 보도된 기사와 정부 발표를 보면 영양실조 사망자가 100명대 안팎이라고 나와 있었습니다. 345명과 100명 안팎의 3배나 차이가 납니다. 이런 숫자의 차이는 어디에서 비롯된 것인지, 이를 근거로 외환위기 이후 최다 사망자가 맞는지, 몇 년 사이 사망자가 급증한 이유는 무엇인지를 MBC &lt;알고보니&gt; 팀이 따져봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/213</link>
-            <guid>https://factchecker.or.kr/fc_subjects/213</guid>
-            <pubDate>Thu, 28 Oct 2021 13:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스 보도를 캡쳐한 것을 &nbsp;커뮤니티에서 봤는데요. &nbsp;핵연료 저장조? 가 6년간 바닥이 뚫렸엇는데한수원이 몰랐다고 합니다. 사실이 맞는지 확인했으면 합니다.
-&nbsp;
-관련기사 : https://bbs.ruliweb.com/best/board/300143/read/53887471]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/211</link>
-            <guid>https://factchecker.or.kr/fc_subjects/211</guid>
-            <pubDate>Thu, 28 Oct 2021 13:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 확산은 고용 시장에 작지 않은 충격을 가져왔습니다. 그런데 코로나19가 남성보다 여성에게 큰 고용 타격을 줬고, 여기에 남성 중심 정부 지원 정책이 영향을 줬다는 이야기도 나오는데요. 사실인지 따져봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
