@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가전략기술, 조세특례제한법 개정 통해 신설…국가핵심전략산업 특별법 지원대상 기술,  법 시행 이후 지정 계획]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2764</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2764</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “‘국가전략기술’은 조세특례제한법 개정을 통해 신설되며, 국가핵심전략산업 특별법의 지원 대상 기술은 법 시행 이후 지정할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--03cfd1bdbbf38a2ced5baee61a3eef5fdb04aeea/3d13dc609693ad4b3fc6fb6c703dd98e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[올해 비정규직 증가, 코로나19 및 고용·산업구조 재편 등 복합 작용…임금수준은 조금씩 개선]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2762</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “법령에 따라 국세감면율 한도를 계산하고, 국세감면율도 동일 기준에 따라 산출했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c241d45820786a0866c4a8b78fb2184450da1ded/00e127702e455c54f46a61921a1c41b5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[외화보험 제도개선 관련, 가입자 제한 등 미결정]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2722</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2722</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “외화보험 제도개선과 관련해 가입자 제한, 보험사의 환차손 보장 등에 대한 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a77d11f766c54ba8e1e8267fcd13839fe16823a2/0844716ea7e3243f4fbd01467dba7663.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

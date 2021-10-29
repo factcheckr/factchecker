@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 04:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,7 +98,7 @@
             <title><![CDATA[[에너지전환 팩트체크] 태양광 패널, 빛반사 피해 유발? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/225</link>
             <guid>https://factchecker.or.kr/fc_subjects/225</guid>
-            <pubDate>Fri, 29 Oct 2021 04:25:20 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 04:25:12 GMT</pubDate>
             <content:encoded><![CDATA[조선일보는 2019년 10월 31일 &lt;주한미군 새만금 태양광, 비행작전에 지장&gt; 기사를 보도했다. 조선일보는 주한 미군이 최근 세계 최대 규모 새만금 태양광 단지 계획에 대해 패널 빛 반사 등으로 군의 비행 작전에 지장을 줄 수 있다는 입장을 전달했지만 한국수력원자력은 이를 수용하지 않았다고 보도했다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
@@ -106,7 +106,7 @@
             <title><![CDATA[[에너지전환 팩트체크] 태양광 패널 전자파가 인체에 해를 일으킨다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/224</link>
             <guid>https://factchecker.or.kr/fc_subjects/224</guid>
-            <pubDate>Fri, 29 Oct 2021 04:25:20 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 04:25:12 GMT</pubDate>
             <content:encoded><![CDATA[청와대 국민 청원 게시판과 온라인 커뮤니티 등에는 자신의 동네에 태양광 발전 시설을 설치하지 못하게 해달라는 민원이 많다. 태양광 발전시설에 인체에 해를 끼치는 전자파가 나오기 때문이라는 설명이 따라붙는다. 과연 사실일까?]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
@@ -344,6 +344,14 @@ http://www.ene...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--688a9bc2f0fb18e3a97d0b8eabb6a837a7985758/a11174d9c266624ac31a886a3e09b025.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[국가전략기술, 조세특례제한법 개정 통해 신설…국가핵심전략산업 특별법 지원대상 기술,  법 시행 이후 지정 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2764</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2764</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “‘국가전략기술’은 조세특례제한법 개정을 통해 신설되며, 국가핵심전략산업 특별법의 지원 대상 기술은 법 시행 이후 지정할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--03cfd1bdbbf38a2ced5baee61a3eef5fdb04aeea/3d13dc609693ad4b3fc6fb6c703dd98e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[올해 비정규직 증가, 코로나19 및 고용·산업구조 재편 등 복합 작용…임금수준은 조금씩 개선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2762</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2762</guid>
@@ -414,14 +422,6 @@ http://www.ene...]]></content:encoded>
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “법령에 따라 국세감면율 한도를 계산하고, 국세감면율도 동일 기준에 따라 산출했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c241d45820786a0866c4a8b78fb2184450da1ded/00e127702e455c54f46a61921a1c41b5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[외화보험 제도개선 관련, 가입자 제한 등 미결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2722</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2722</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “외화보험 제도개선과 관련해 가입자 제한, 보험사의 환차손 보장 등에 대한 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a77d11f766c54ba8e1e8267fcd13839fe16823a2/0844716ea7e3243f4fbd01467dba7663.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
