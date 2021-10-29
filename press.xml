@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '유선' 여론조사는 보수, '무선'은 진보에 유리?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2763</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2763</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정치의 시간입니다. 내년 3월 대통령 선거를 앞두고 여론조사 결과가 우후죽순처럼 쏟아집니다. 여론조사마다 결과는 들쑥날쑥 입니다. 그런데 이런 얘기 들어보셨죠? 여론조사 할 때 유선 전화 비율이 높으면 보수 진영에 유리하고, 휴대 전화로만 하면 진보 진영에 유리하다..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c969662742f470394d344e5261578218f208a7e/0fc8c51e96a34b1976b206bd7536c9cb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 대통령후보 지지율 조사하는 온라인 커뮤니티 글은 선거법 위반? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2759</link>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시사위크=김희원 기자 최근 언론을 통해 이혼 후에 자녀의 양육비를 계속 지급하지 않은 아버지 2명에 대한 출국금지 조치가 내려졌다는 기사들이 다수 보도됐다. 이와 관련된 언론의 기사 제목을 언뜻 보면 양육비를 지급하지 않으면 무조건 출국금지 조치가 되는 것으로 생각할 수 있다.이에 자녀의 양육비를 지급하지 않았을 경우 무조건 출국금지되는 것인지, 어느 정도 금액을 지급하지 않아야 출국금지가 되는 것인지 팩트 체크를 해봤다. 최근 관련법 개정으로 양육비를 지급하지 않은 부모에 대해서는 ‘출국금지’ ‘명단공개’ ‘운전면허 정지’ 등이]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--688a9bc2f0fb18e3a97d0b8eabb6a837a7985758/a11174d9c266624ac31a886a3e09b025.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 방송국이 '북한 홍보'하면 방통위 가점받는다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2751</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2751</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 21일 국민의힘 김영식 의원은 보도자료를 통해, 방송통신위원회가 북한을 홍보하면 가점을 주는 방송 평가 조항 신설을 추진 중이라고 언급했습니다. 김 의원이 방통위로부터 제출받은 자료에 따르면, 남북 관련 프로그램을 편성하면 가점 5점을 주고, 편성 시간대별로 추가 5점을 준다는 것이 신설된 평가 조항의 내용이었습니다. 방송 평가는 방송사가 재허가·재승인을 받을 때 필요한 절차이며, 기준점에 미달될 경우 불이익을 받게 됩니다. 따라서 평가 조항은 방송사의 프로그램 제작과 편성의 방향성에 영향을 미칠 가능성이 높은 요소]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e385c1458bf77135b1b4f86b3e858b77961f24a1/3974a13ca55cb256c06996107a65eedf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
