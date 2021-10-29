@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-10-29T03:22:28.960Z</updated>
+    <updated>2021-10-29T04:26:12.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일본은 OECD 국가중 재활용 꼴찌에 쓰레기 소각률 1위?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/354</id>
+        <link href="https://factchecker.or.kr/fc_suggests/354"/>
+        <updated>2021-10-29T04:25:28.202Z</updated>
+        <content type="html"><![CDATA[일본이 Oecd국가중 쓰레기 소각률이 무려77%로 1위라는데. 사실인가요?
+https://www.82cook.com/entiz/read.php?bn=15&amp;num=3306346&amp;page=1&amp;searchType=search...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["뇌졸중은 전세계적으로 2초에 한 명씩 발생하고 6초에 한 명씩 사망하는 무서운 질병" 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/353</id>
+        <link href="https://factchecker.or.kr/fc_suggests/353"/>
+        <updated>2021-10-29T04:25:28.210Z</updated>
+        <content type="html"><![CDATA[https://health.chosun.com/site/data/html_dir/2021/10/27/2021102701865.html
+&nbsp;
+10월 29일 세계 뇌졸중의 날을 맞아 비슷한 기사가 많이 발행되었는데요,
+굉...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일산대교가 다시 유료화 될 수 있다는데 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/352</id>
@@ -69,23 +87,5 @@ http://www.ene...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/345"/>
         <updated>2021-10-28T14:18:33.183Z</updated>
         <content type="html"><![CDATA[한경 사설에 따르면, 2050년에는 서울 면적의 5배 이상이 태양광 패널로 뒤덮인다고 합니다. 사설에서는 재활용이 어렵고 중금속 성분이 있는 폐패널이 2~30년 뒤엔 매년 수십만 t씩 쏟아질 판이라고 했는데, 이게 정말 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돼지기름으로 디젤차량 운전 가능한지 팩트체크 부탁드려요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/344</id>
-        <link href="https://factchecker.or.kr/fc_suggests/344"/>
-        <updated>2021-10-28T14:18:33.186Z</updated>
-        <content type="html"><![CDATA[어떤 유튜버가 돼지고기 구워서 나오는 기름으로
-폐 디젤차량에 넣어서 운전성공했다는 영상 스샷이
-커뮤니티에 돌아다니던데 가능한건지 팩트체크 좀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타이레놀이 연인과의 이별에도 도움이 된다는 연구결과가 있나요???]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/343</id>
-        <link href="https://factchecker.or.kr/fc_suggests/343"/>
-        <updated>2021-10-28T14:18:33.187Z</updated>
-        <content type="html"><![CDATA[커뮤니티를 돌아다니다 보니까 타이레놀의 효능을 다루는 방송 캡쳐가 있던데요.
-게시글에서는 이 방송 내용을 두고 타이레놀이 연인과의 이별에도 도움이 된다는 것처럼 이야기를 하더라구요
-근데 진짜 타이레놀이 연인과의 이별에...]]></content>
     </entry>
 </feed>

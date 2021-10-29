@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-10-29T03:22:29.037Z</updated>
+    <updated>2021-10-29T04:26:12.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 패널, 빛반사 피해 유발?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/225</id>
+        <link href="https://factchecker.or.kr/fc_subjects/225"/>
+        <updated>2021-10-29T04:25:12.750Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/225">조선일보는 2019년 10월 31일 &lt;주한미군 새만금 태양광, 비행작전에 지장&gt; 기사를 보도했다. 조선일보는 주한 미군이 최근 세계 최대 규모 새만금 태양광 단지 계획에 대해 패널 빛 반사 등으로 군의 비행 작전에 지장을 줄 수 있다는 입장을 전달했지만 한국수력원자력은 이를 수용하지 않았다고 보도했다.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 패널 전자파가 인체에 해를 일으킨다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/224</id>
+        <link href="https://factchecker.or.kr/fc_subjects/224"/>
+        <updated>2021-10-29T04:25:12.750Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/224">청와대 국민 청원 게시판과 온라인 커뮤니티 등에는 자신의 동네에 태양광 발전 시설을 설치하지 못하게 해달라는 민원이 많다. 태양광 발전시설에 인체에 해를 끼치는 전자파가 나오기 때문이라는 설명이 따라붙는다. 과연 사실일까?
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포털 팩트체크] 너도 나도 받아쓴 ‘메타버스 시장 300조원’, 출처는 유령 보고서?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/223</id>
@@ -74,23 +90,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/211"/>
         <updated>2021-10-28T13:24:40.805Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/211">코로나19 확산은 고용 시장에 작지 않은 충격을 가져왔습니다. 그런데 코로나19가 남성보다 여성에게 큰 고용 타격을 줬고, 여기에 남성 중심 정부 지원 정책이 영향을 줬다는 이야기도 나오는데요. 사실인지 따져봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 이후 아동폭력 신고수와 증가율은 줄어들었는가?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/210</id>
-        <link href="https://factchecker.or.kr/fc_subjects/210"/>
-        <updated>2021-10-28T13:24:40.805Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/210">시민팩트체커 정채빈, 김민선, 김광훈, 미디어오늘 박서연 기자가 함께 검증했습니다.
-
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임대차 3법, 서울 아파트 전세난의 유일한 원인인가?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/209</id>
-        <link href="https://factchecker.or.kr/fc_subjects/209"/>
-        <updated>2021-10-28T13:24:40.805Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/209">
 </a>]]></content>
     </entry>
 </feed>
