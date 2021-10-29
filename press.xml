@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 01:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 02:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재명 더불어민주당 대선 후보의 원팀 구성이 28일 박용진 의원과의 오찬과 김두관 의원 차담을 끝으로 마무리 수순에 접어들었다.특히 이 후보는 지난 26일 문재인 대통령과 청와대에...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--531b25ee02adcde1c97eb5471ae5e9071f5b7c03/09c0f9e4799b4e9cb8cca33934439630.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[황무성 전 성남도개공 사장, 사기꾼이라 사표강요? 판결문보니[팩트체크] - 머니투데이]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2761</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2761</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]대장동 개발 민간사업자 선정을 앞둔 2015년 2월 유동규 전 성남도시개발공사 본부장과 정진상 전 성남시 정책실장 등으로부터 소위 찍어내기&amp;quo...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6465cae08d78037cdea4355ca7278e0c7d45e2b/06aa5afa51e09ba99f918eceb8947cb8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 헌혈로 '에이즈·간염 피' 수만 명에게 퍼졌다?]]></title>
@@ -77,14 +85,6 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 21일 국민의힘 김영식 의원은 보도자료를 통해, 방송통신위원회가 북한을 홍보하면 가점을 주는 방송 평가 조항 신설을 추진 중이라고 언급했습니다. 김 의원이 방통위로부터 제출받은 자료에 따르면, 남북 관련 프로그램을 편성하면 가점 5점을 주고, 편성 시간대별로 추가 5점을 준다는 것이 신설된 평가 조항의 내용이었습니다. 방송 평가는 방송사가 재허가·재승인을 받을 때 필요한 절차이며, 기준점에 미달될 경우 불이익을 받게 됩니다. 따라서 평가 조항은 방송사의 프로그램 제작과 편성의 방향성에 영향을 미칠 가능성이 높은 요소]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e385c1458bf77135b1b4f86b3e858b77961f24a1/3974a13ca55cb256c06996107a65eedf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "노태우 5·18과 관계없다" 사실?…역사적 평가 진행중 | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2750</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2750</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(광주=연합뉴스) 천정인 기자 = 5·18 민주화운동에 대한 고(故) 노태우 전 대통령의 책임을 두고 평가가 갈리고 있다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7978e2548ef302afc421e243d71bedfbc818a39a/eb9c4881f71fd4f3297d738d5b0e455d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

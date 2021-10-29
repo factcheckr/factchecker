@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-10-29T01:04:07.466Z</updated>
+    <updated>2021-10-29T02:02:50.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -81,7 +81,7 @@
         <id>https://factchecker.or.kr/fc_subjects/210</id>
         <link href="https://factchecker.or.kr/fc_subjects/210"/>
         <updated>2021-10-28T13:24:40.805Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/210">이 내용은 팩트체크넷 커뮤니티( 팩트체크 함께하기)에서 시민팩트체커 정채빈님, 김민선님, 김광훈님과 미디어오늘 박서연기자님이 함께 하였습니다.
+        <content type="html"><![CDATA[<a href="/fc_subjects/210">시민팩트체커 정채빈, 김민선, 김광훈, 미디어오늘 박서연 기자가 함께 검증했습니다.
 
 </a>]]></content>
     </entry>
