@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 15:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[성매매 피해자들의 유입 경로 관련 팩트 체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/358</link>
+            <guid>https://factchecker.or.kr/fc_suggests/358</guid>
+            <pubDate>Sat, 30 Oct 2021 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[성매매 피해자 관련 기사에  ? 본인이 원해서 간 건데 뭐가 불쌍함 쉽게 돈 벌다가 노동을 하려니까 푼돈이 성에 차겠냐 와 같은 혐오성 발언을 담은 댓글이 추천을 많이 받았습니다.
+&nbsp;
+정말 성매매 피해자들이 성매매업소...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[비이슬람화 국가인 한국을 이슬람화 시키려고 꾸준히 세력을 넓혀가고 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/357</link>
             <guid>https://factchecker.or.kr/fc_suggests/357</guid>
@@ -256,15 +265,6 @@ http://www.naeil.com/news_...]]></content:encoded>
             <pubDate>Thu, 28 Oct 2021 14:18:33 GMT</pubDate>
             <content:encoded><![CDATA[중국의 석탄부족현상이 한국의 미세먼지 저감에 영향을 미쳤나요? 이 부분이 궁금합니다.&nbsp;
 출처: https://www.chosun.com/economy/stock-finance/2021/09/28/RDRKFBM6PVF6L...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OECD국가중 재활용률 2위지만 폐플라스틱을 수입한다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/348</link>
-            <guid>https://factchecker.or.kr/fc_suggests/348</guid>
-            <pubDate>Thu, 28 Oct 2021 14:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[한국은 재활용을 잘하는 나라로 재활용률이 높은 것으로 알고 있습니다. 그런데 국내 폐플라스틱은 쓸 수가 없어 폐플라스틱을 수입을 한다는 기사를 봤는데요.&nbsp;
-내용을 정확하게 확인하면 좋겠어요.
-http://www.ene...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대선 SNS 팩트체크-심상정⑤] “청년 사망 원인 1위가 자살?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
