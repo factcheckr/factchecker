@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 10:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 11:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,12 +103,12 @@
             <title><![CDATA[미국 중앙은행 Fed는 '고용안정'을 우선순위로 둔다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/230</link>
             <guid>https://factchecker.or.kr/fc_subjects/230</guid>
-            <pubDate>Sun, 31 Oct 2021 10:21:08 GMT</pubDate>
+            <pubDate>Sun, 31 Oct 2021 10:21:01 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월 27일, 이재명 캠프 정책조정실장 최배근 교수는 KBS 최강시사에 나와 코로나 경기 부양에 대한 한국은행의 소극적 행태를 지적했습니다.
 최 교수는 한국은행이 물가 안정에만 초점을 맞추고 있음을 비판하며, 미국 중앙은행 연준은 고용을 우선순위로 두고 있다고 발언합니다. 그는 “2년 전에 그렇게 바뀌었다”라는 사회자의 발언에 동의하면서 고용안정이 우선순위, 물가안정이 후순위로 되어 있다고 밝혔습니다.
 최 교수는 고용 안정은 일반 사람들의 일자리, 물가 안정은 금융 자본의 이해를 반영한다며 미국처럼 한국은행 목표에 고용 안정을 추가해야 한다고 주장합니다. 사회자와 최배근 교수 말대로 정말 미국 중앙은행은 2년 전부터 고용을 우선순위로 두기 시작했을까요?
 &nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[에너지전환 팩트체크] ‘늙은 나무’는 탄소흡수율 떨어진다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -435,6 +435,14 @@ http://www.naeil.com/news_...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--115af799fc89cec3081f38aabf318e75b69450dc/4e642384521843bbd3a74efa6d0dff1d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[미국 중앙은행 Fed는 '고용안정'을 우선순위로 둔다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/61</link>
+            <guid>https://factchecker.or.kr/fc_publications/61</guid>
+            <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기사를 본격적으로 시작하기에 앞서 중앙은행의 ‘목표’에 대한 개념을 정립할 필요가 있습니다. 각 국가의 중앙은행법은 중앙은행이 추구해야 할 ‘목표’를 제시합니다. 어떤 목표를 추구할 것인지는 조심스럽게 설정해야 합니다. 물론, 혹자는 이렇게 생각할 수 있습니다. “경제도 살리고, 물가도 잡고, 고용도 늘리고 집값도 잡는 것을 목표로 하면 좋은 것 아니야?” 하지만 세상일이 그렇게 쉽지는 않죠. 경제 변수들은 서로 상충하는 경향이 있습니다. 어떤 중앙은행 목표를 설정하느냐에 따라서 실업이 증가할 수도 물가가 대폭 증가할 수도 있습니다.
+예를 들어 보겠습니다. 우리나라 중앙은행인 한국은행의 경우, 한국은행법 1조 1항에서 물가 안정을 최우선 목표로 규정합니다. 그리고 1조 2항에서 금융안정에 유의할 것을 요구한다. 이렇게 물가 안정을 1항으로 금융안정을 2항으로 분리한 이유는 물가 안정을 우선순위의 목표로 상정한다는 것입니다. 즉, 금융안정은 물가 안정이 달성되는 범위에서 후순위...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사용후핵연료 저장조 6년간 바닥 뚫렸는데, 한수원이 몰랐다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/60</link>
             <guid>https://factchecker.or.kr/fc_publications/60</guid>
@@ -552,17 +560,6 @@ More than 20,000 men, women, and children have passed through here since August 
 다만, 평가원이 공식적으로 작성했다고 보기에는 조금 어렵다. 기본적인 맞춤법이나 산수를 알맞지 못하게 표현했기 때문이다.
 또한, 상식조사가 설령 시행되었다 할지언정 2005년에 시행된 것으로 보여 요즘 대학생의 상식 수준을 나타낸다고 보기는 어렵다.
 무엇보다 평가원의 홍보팀에 유선으로 연락을 취한 결과, 조사의 실체를 확인해주기는 힘드나 평가원의 설립 취지는 초등,중등,고등학생의 교육과 관련한 것을 관리,평가하는 것이기 때문에 평가원이 대학생과 관련한 조사를 시행했을 확률은 낮다고 평가원 측은 설명했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[文정부 5년간 빚 400조원 급증... 코로나 이전에도 복지지출 확대 명분, 2038년에는 국민 1인당 1억원 빚? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/50</link>
-            <guid>https://factchecker.or.kr/fc_publications/50</guid>
-            <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 5년만에 408조 1000억 원 늘어난다. → 대체로 사실이 아님.
-조선일보 기사에는 현 정부 뿐만 아니라 김대중, 노무현, 이명박, 박근혜 정부의 국가채무를 계산한 도표가 나옵니다. 먼저 이 도표에 나오는 수치를 검증했습니다. 정부가 이양될 때 국가채무 액수가 연도별로 정확하게 떨어지는 것이 아닙니다. 단순히 마지막 해에서 첫 해를 빼게 되면, 앞뒤로 숨어있는 숫자를 놓치게 됩니다. 김대중, 노무현 이명박 정부는 첫해 2월 25일부터 마지막 해 2월 24일까지였습니다. 박근혜 정부는 2013년 2월 25일부터 2017년 5월 9일까지였고, 문재인 정부는 2017년 5월 10일부터 2022년 5월 9일까지입니다. 박근혜 정부는 탄핵 때문에 1,534일 집권했습니다. 나머지 정부는 1,825일입니다. 첫해와 마지막 해의 국가채무를 365일로 나누고 집권일수를 곱해주면 정확한 채무 금액이 나옵니다. 다음은 정부별 국가채무 추이입니다.
-
-
-국가채무(D1) 추이(기획...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
