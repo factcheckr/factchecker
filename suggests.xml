@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-01T14:19:13.676Z</updated>
+    <updated>2021-11-01T15:21:19.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[베이킹소다, 은박지, 물을 이용하면 은을 세척할 수 있나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/360</id>
+        <link href="https://factchecker.or.kr/fc_suggests/360"/>
+        <updated>2021-11-01T15:20:40.198Z</updated>
+        <content type="html"><![CDATA[커뮤니티를 보니까 베이킹소다, 은박지, 물을 가지고 은으로 된 컵을 세척하는 짤이 있던데요.
+댓글에서도 이 방법이 효과가 좋다고 하고요.
+이게 정말로 가능한 방법인가요?
+&nbsp;
+https://www.instiz.net...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['짝퉁' 박사모 관련 팩트체크 제안]]></title>
         <id>https://factchecker.or.kr/fc_suggests/359</id>
@@ -81,14 +92,5 @@ https://www.fmkorea.com/index.php?mid=best&amp;document_srl=4028093140&amp;...]]
         <updated>2021-10-28T14:18:33.175Z</updated>
         <content type="html"><![CDATA[주민등록 등본 같은 걸 발급하는&nbsp; 무인민원발급기가 원격으로 제어될 수 있다는 기사를 봤습니다. 발급기 관리가 허술한 것 같은데 불안하네요. 내용 확인해 보았으면 좋겠어요.
 http://www.naeil.com/news_...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청담자이 40억 거래시 기사 수와 취소시 기사 수 확인해주세요.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/350</id>
-        <link href="https://factchecker.or.kr/fc_suggests/350"/>
-        <updated>2021-10-28T14:18:33.176Z</updated>
-        <content type="html"><![CDATA[https://www.82cook.com/entiz/read.php?bn=15&amp;num=3321084&amp;page=2
-
-40억 거래 취소 여부와 기사 수에 대해 알고 싶습니다.&nbsp;]]></content>
     </entry>
 </feed>
