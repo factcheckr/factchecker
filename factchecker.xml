@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-01T08:25:35.619Z</updated>
+    <updated>2021-11-01T09:22:08.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 한국의 에너지전환, 과속이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/234</id>
+        <link href="https://factchecker.or.kr/fc_subjects/234"/>
+        <updated>2021-11-01T09:20:03.989Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/234">일부 언론들이 에너지전환 정책을 바라보는 시각은 과속이다. 기회있을 때마다 과속론을 꺼내들며 속도조절을 외친다. 우리 사회는 아직 준비가 안 돼 있다는 게 핵심 논리이다.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 소형모듈원전(SMR)이 기존 발전소 대체한다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/233</id>
+        <link href="https://factchecker.or.kr/fc_subjects/233"/>
+        <updated>2021-11-01T09:20:03.991Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/233">최근&nbsp;원전산업이 침체를 겪으면서 소형모듈원전(SMR)이 원전업계&nbsp;구원투수로서 주목을 받고 있다. 소형모듈원전은 기존 대형원전의 3분의1에서 6분의1 출력을 가진 소규모 원전이다.&nbsp;기존 대형원전은 중후장대하기 때문에&nbsp;출력조절이 어렵고 사고시 전력망에 큰 타격을 준다는 단점이 있다. SMR은 이런 단점을 최소화할 것이란 기대를 받고 있다. 송영길 더불어민주당 대표는 2021년 5월 당대표 선출 뒤 문재인 대통령과의 만남에서 미국과 SMR 협력이 필요하다는 발언을 해&nbsp;탈원전을 내세운 문재인 정부와 엇박자라는 지적도 나왔다.&nbsp;조 바이든 미국 대통령도&nbsp;SMR에 투자하겠다는 발표를 한 바 있으며&nbsp;선진국들이 앞다퉈 SMR에 투자를 하고 있다는 언론보도도 나왔다. .&nbsp;
+그래서 일부 언론은&nbsp;SMR이 기존 원전을 대체할 것이란 전망을 내놓고 있다.&nbsp;매일경제는 석탄화력발전소를 대체할 수 있는 사실상 유일한 청정 에너지원으로 평가되고 있다고 밝혔으며&nbsp;연합뉴스TV는 소형모듈원전, SMR은 LNG발전...
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 수소차는 친환경차의 ‘끝판왕’이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/232</id>
+        <link href="https://factchecker.or.kr/fc_subjects/232"/>
+        <updated>2021-11-01T09:20:03.999Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/232">‘‘친환경차의 끝판왕’ 수소차, 미세먼지도 99.9% 거른다 2018년 11월 18일 중앙일보가 보도한 기사의 제목이다. 당시 정부가 ‘클린 디젤’ 정책을 공식 폐기한다고 선언하자, 사라지는 경유차의 대안으로 수소차에 주목한다는 내용을 담고 있다.대표적인 수소차 ‘넥쏘’의 제조사인 현대자동차도 “넥쏘는 수소와 산소의 결합으로 어떠한 오염물질 없이 오직 에너지와 물만을 발생시키고, 달리면서 PM2.5 이하의 초미세먼지까지 걸러내는 궁극의 친환경차입니다.”라고 소개하고 있다.하지만 수소차에 대한 우려도 많다. 경제성에 대한 지적이 큰 가운데, 연료인 수소제조과정을 감안하면 ‘궁극의 친환경차’가 아니라는 주장도 있다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[에너지전환 팩트체크] 조력발전소는 해양생태계 훼손한다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/231</id>
@@ -68,34 +93,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/225"/>
         <updated>2021-10-29T04:25:12.750Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/225">조선일보는 2019년 10월 31일 &lt;주한미군 새만금 태양광, 비행작전에 지장&gt; 기사를 보도했다. 조선일보는 주한 미군이 최근 세계 최대 규모 새만금 태양광 단지 계획에 대해 패널 빛 반사 등으로 군의 비행 작전에 지장을 줄 수 있다는 입장을 전달했지만 한국수력원자력은 이를 수용하지 않았다고 보도했다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 패널 전자파가 인체에 해를 일으킨다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/224</id>
-        <link href="https://factchecker.or.kr/fc_subjects/224"/>
-        <updated>2021-10-29T04:25:12.750Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/224">청와대 국민 청원 게시판과 온라인 커뮤니티 등에는 자신의 동네에 태양광 발전 시설을 설치하지 못하게 해달라는 민원이 많다. 태양광 발전시설에 인체에 해를 끼치는 전자파가 나오기 때문이라는 설명이 따라붙는다. 과연 사실일까?
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포털 팩트체크] 너도 나도 받아쓴 ‘메타버스 시장 300조원’, 출처는 유령 보고서?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/223</id>
-        <link href="https://factchecker.or.kr/fc_subjects/223"/>
-        <updated>2021-10-28T13:24:40.789Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/223">* 이희욱 미디어오늘 기자가 작성한 기사입니다.
-검증 대상)
-국내 기사에서 메타버스 시장을 얘기할 때 단골처럼 인용하는 자료는 두 곳이다. 스트래티지 애널리틱스(SA)와 프라이스워터하우스쿠퍼스컨설팅(PwC)이다.
-“스트래티지 애널리틱스는 올해 세계 메타버스 시장 규모를 460억 달러(약 53조원), 2025년에는 2800억 달러(약 322조원)로 전망했다.”&nbsp;“PwC는 메타버스 핵심 기술인 가상융합기술(XR) 시장이 2025년 4764억 달러(약 548조원)로 성장한다고 내다봤다.”
-다음과 같은 인용 내용이 정확한지 팩트체크를 실시했다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 발전 패널이 중금속을 함유하고 있어 오염을 유발한다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/222</id>
-        <link href="https://factchecker.or.kr/fc_subjects/222"/>
-        <updated>2021-10-28T13:24:40.796Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/222">국민의힘 주호영 원내대표는 2020년 9월 8일 국회 원내대표 교섭단체 대표연설에서 “값싼 중국산 태양광 패널로 전국의 산야와 계곡이 중금속 오염에 노출됐다”고 밝혔다.
 </a>]]></content>
     </entry>
 </feed>

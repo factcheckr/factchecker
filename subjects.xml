@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에너지전환 팩트체크] 한국의 에너지전환, 과속이다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/234</link>
+            <guid>https://factchecker.or.kr/fc_subjects/234</guid>
+            <pubDate>Mon, 01 Nov 2021 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[일부 언론들이 에너지전환 정책을 바라보는 시각은 과속이다. 기회있을 때마다 과속론을 꺼내들며 속도조절을 외친다. 우리 사회는 아직 준비가 안 돼 있다는 게 핵심 논리이다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[에너지전환 팩트체크] 소형모듈원전(SMR)이 기존 발전소 대체한다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/233</link>
@@ -85,14 +93,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/225</guid>
             <pubDate>Fri, 29 Oct 2021 04:25:20 GMT</pubDate>
             <content:encoded><![CDATA[조선일보는 2019년 10월 31일 &lt;주한미군 새만금 태양광, 비행작전에 지장&gt; 기사를 보도했다. 조선일보는 주한 미군이 최근 세계 최대 규모 새만금 태양광 단지 계획에 대해 패널 빛 반사 등으로 군의 비행 작전에 지장을 줄 수 있다는 입장을 전달했지만 한국수력원자력은 이를 수용하지 않았다고 보도했다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[에너지전환 팩트체크] 태양광 패널 전자파가 인체에 해를 일으킨다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/224</link>
-            <guid>https://factchecker.or.kr/fc_subjects/224</guid>
-            <pubDate>Fri, 29 Oct 2021 04:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[청와대 국민 청원 게시판과 온라인 커뮤니티 등에는 자신의 동네에 태양광 발전 시설을 설치하지 못하게 해달라는 민원이 많다. 태양광 발전시설에 인체에 해를 끼치는 전자파가 나오기 때문이라는 설명이 따라붙는다. 과연 사실일까?]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
