@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 01:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,6 +276,22 @@ http://www.naeil.com/news_...]]></content:encoded>
 40억 거래 취소 여부와 기사 수에 대해 알고 싶습니다.&nbsp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[알고보니] '몰카'범죄는 왜 일상이 되었을까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2787</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2787</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[초등학교 교장의 불법촬영이 사회에 충격을 안기고 있습니다. 학생들에 윤리의식을 함양하고 인성교육을 하는 학교에서, 그것도 교장선생님이 계획적으로 초소형 카메라를 설치했다는 것에...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanNWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--811213cafc4fa8d00774d4b37eaeafc6a362d08a/02e8c66f62fe9c789f7ae1c5893f4345.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 밤중 샤워나 목욕 소리도 층간소음이라고? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2786</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2786</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 공동주택의 층간소음 분쟁이 늘어나고 있는 가운데 최근 온라인 커뮤니티 등에 올라 온 우리 아파트 밤 10시 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--03d38853773ce6a90a9a5f8b53fdeef6ee829cbb/f7bfe7e96a893630a67f0e9f41360568.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 유류세 인하…휘발윳값 12일부터 내리나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2779</link>
             <guid>https://factchecker.or.kr/fc_archives/press/2779</guid>
@@ -298,6 +314,14 @@ http://www.naeil.com/news_...]]></content:encoded>
             <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이번 주는 국민의힘 윤석열 대선 경선 후보의 전두환 옹호 발언 후폭풍이 거셌습니다. 군사 쿠데타와 5.18만 빼면 전 씨가 정치는 잘했다는 지난 19일 발언 때문입니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaThWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c1ea8e319c6e90061c47ec3002fe631d654b30f/174433054413b6337b0056784e811c73.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] "김기현, 울산 땅으로 1,800배 수익 추정"...사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2788</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2788</guid>
+            <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]부동산 비리에 국민적 관심이 집중되고 있는 가운데...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBandWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b98d4ca17c84c9ab25aafd493d9ad12871b80091/8508c317e66e2a24c224423fe45b98e6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[알고보니] 전두환 국립묘지 논란, 이제 잦아들까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -324,36 +348,28 @@ http://www.naeil.com/news_...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--78cb33dbdf291a386a782347c1fa501ccc2bfd1c/90fac3ef455ff29675039794067bf4f3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[사실확인] 노태우 전 대통령 별세…공식 명칭은 서거? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2775</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2775</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가장이 치러지는 노태우 전 대통령의 별세와 관련해 정부 발표엔 서거라는 표현이 나오지만, ″전직 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--354c4aa46c1396942e2614c37ca673c2dfb3fc89/06e807d722b1ce7b85971a8de2afebef.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-심상정⑤] “청년 사망 원인 1위가 자살?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2772</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2772</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 ‘대선후보 SNS 발언 검증대, 스낵 팩트’ 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 ‘팩트체크 평가위원회’검토를 거칩니다.[뉴스포스트=박재령 기자] 정의당 대선 후보로 선출된 심상정 후보의 공식 소셜네트워크서]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d92888c9c66c0b23edd67e6f8076e12d8784b979/7f63df324cd9231e9d4c7ae3766a20b2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에너지전환팩트체크] ⑧ ‘늙은 나무’는 탄소흡수율 떨어진다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2768</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2768</guid>
+            <title><![CDATA[[에너지전환 팩트체크] ⑫ 한국의 에너지전환, 과속인가? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2784</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2784</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기후위기 해결은 인류의 생존이 걸린 문제입니다. 전 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 제로(0)로 만든다는 큰 틀의 합의를 한 상태입니다. 구체적으로 유럽연합은 2023년부터 시범적으로 탄소국경세를 적용하기로 했습니다. 탄소를 기준치이상으로 배출한 제품에 일종에 관세를 매기는 겁니다. 2035년 이후로는 화석연료로 움직이는 내연기관 자동차 생산을 중단하고 수입을 안하기로 한 상태입니다. 에너지 산업은 물론, 다른 산업에도 지각변동이 예상되고 있습니다.한국도 재생에너지 전원의 비중을 높이고 석탄발전을 줄이는]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ca58134a41786c296b4b2df4b56bc189f6688b1/a9bf5d2650f90a1e812d059b1627e275.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--21a92233a0c9b8346172812708bc29cb2e420a8a/652f1a2371cd332b3ee9041b6cabe16c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[에너지전환 팩트체크] ➆전기차 온실가스 감축에 큰 효과 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2767</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2767</guid>
+            <title><![CDATA[기관위임사무 비용 보전 문제, 자치분권위 중심으로 논의 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2790</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2790</guid>
             <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기 해결은 인류의 생존이 걸린 문제입니다. 전 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 제로(0)로 만든다는 큰 틀의 합의를 한 상태입니다. 구체적으로 유럽연합은 2023년부터 시범적으로 탄소국경세를 적용하기로 했습니다. 탄소를 기준치이상으로 배출한 제품에 일종에 관세를 매기는 겁니다. 2035년 이후로는 화석연료로 움직이는 내연기관 자동차 생산을 중단하고 수입을 안하기로 한 상태입니다. 에너지 산업은 물론, 다른 산업에도 지각변동이 예상되고 있습니다.한국도 재생에너지 전원의 비중을 높이고 석탄발전을 줄이는]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e366c1d8aa024481bfb36ecb23dd12202137a2f/dd32a559ffc370a5c4e7b1ad1632c372.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[행정안전부는 “기관위임사무 비용 보전 문제는 자치분권위를 중심으로 관계기관과 논의 중에 있다”면서 “국가사무 이양비용을 2%만 보전했다는 분석 내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0921bcc7a9b7aaaff170ebf23a8c7a432dab08bd/01242aa0b9158229a8fc0faecca1c370.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가유공자 위한 기부금 투명관리되도록 제도적 개선방안 강구 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2785</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2785</guid>
+            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가보훈처는 “국가유공자들을 위한 기부문화가 활성화되고 투명하게 관리될 수 있도록 제도적인 개선방안을 강구하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cab66b19ad6b6308c144b8596c6b3b51261f5e9e/eaacf7703afc53e9f1add9cdffff4e36.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2050년 탄소중립 시나리오, ’50년 재생에너지 비중 80%로 검토한 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -418,22 +434,6 @@ http://www.naeil.com/news_...]]></content:encoded>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “국민이 안심하고 이용할 수 있도록 무인민원발급기를 철저히 관리해 나가겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6786fdfc9e6f87a6f3fa7484ae20eedecea5b652/efcbe2452557d115becba4e8fa21e079.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[김장 주재료 가격은 안정적 상황…10월 말 김장채소 수급안정 대책 발표 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2738</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2738</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “강원·충북 등 중부지방 중심으로 배추 병해가 발생했으나 전반적인 작황은 평년 수준으로 전망되며 쪽파·소금·미나리 등 김장 부재료 가격은 높으나 배추·무·고추 등 주재료 가격은 현재까지 안정적인 상황”이라고 밝혔습니다. 또 “10월말에 김장철 공급 확대, 소비자 부담 경감 등을 내용으로 하는 김장채소 수급안정 대책을 발표할 예정”이라고 덧붙]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--921064f0359787d36bc01b49f2a799027a18b0ba/8aebf79aeada098d2ec96744799f3934.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서울런’ 시스템 사전협의 결과 이행 재권고 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2735</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2735</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “서울형 교육플랫폼 ‘서울런’ 시스템이 교육부 사업과 유사·중복성이 있어 추진보류 의견을 통보했으나 현재 일부 서비스가 개통·운영 중인 것으로 확인했다”면서 “전 행정기관 대상 분기별 이행실태 점검 결과를 통보하면서 이 내용에 대한 이행을 재권고할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--115af799fc89cec3081f38aabf318e75b69450dc/4e642384521843bbd3a74efa6d0dff1d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미국 중앙은행 Fed는 '고용안정'을 '우선순위'로 둔다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
