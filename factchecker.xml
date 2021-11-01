@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-01T05:18:44.238Z</updated>
+    <updated>2021-11-01T06:24:41.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[에너지전환 팩트체크] 조력발전소는 해양생태계 훼손한다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/231</id>
+        <link href="https://factchecker.or.kr/fc_subjects/231"/>
+        <updated>2021-11-01T06:23:35.718Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/231">더불어민주당 안호영 의원은 2021년 10월 18일 환경부 산하기관 대상 국정감사에서 시화호 사례를 들어 새만금 조력발전 필요성을 제기했다. 수질 악화로 몸살을 앓고 있는 새만금호에 조력발전소를 설치해 해수 유통을 실시하면서 전기를 생산하면 환경도 살리고 깨끗한 에너지도 얻을 수 있다는 논리다. 6월 4일 한정애 환경부 장관은 시화호에서 열린 환경의 날 기념식에서 중기 계획 중 하나로 조력발전을 확대하는 것에 대한 예비타당성조사가 계획된 상태라며 타당성 조사 등을 검토한 후에 진행해 나갈 것이라고 말했다.&nbsp;
+하지만 조력발전이 해양생태계를 파괴한다는 상반된 주장도 제기된 바 있다. 2010년 시화호에 조력발전소를 설치할 당시&nbsp;환경단체들은&nbsp;조력발전소가 갯벌을 죽이고 해양생태계를 파괴한다고 주장한 바 있다. 어업으로 생활을 영위하는 주민들도 설립 초기에&nbsp;생태계 파괴 우려로 반대의 목소리가 높았다.&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 중앙은행 Fed는 '고용안정'을 '우선순위'로 둔다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/230</id>
@@ -87,15 +96,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/222"/>
         <updated>2021-10-28T13:24:40.796Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/222">국민의힘 주호영 원내대표는 2020년 9월 8일 국회 원내대표 교섭단체 대표연설에서 “값싼 중국산 태양광 패널로 전국의 산야와 계곡이 중금속 오염에 노출됐다”고 밝혔다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 발전이 산사태 유발?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/221</id>
-        <link href="https://factchecker.or.kr/fc_subjects/221"/>
-        <updated>2021-10-28T13:24:40.796Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/221">조명희 의원은 2021년 7월1일 국회 본회의 자유발언에서 “울창한 숲을 베어내고 태양광 패널을 채워넣는 바람에 2018년 산사태가 381건이었던 것이 3년 만에 6175건으로 16배 폭증했다”며 “이로 인해 지난해 장마철에는 전국에서 국민 46명이 재해 아닌 인재로 생명을 잃었다”고 말했다.
-&nbsp;
 </a>]]></content>
     </entry>
 </feed>
