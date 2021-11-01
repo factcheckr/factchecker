@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 12:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 13:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 국민 문맹률 80%라 군부독재는 숙명이었다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2792</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2792</guid>
+            <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그제(30일) 노태우 전 대통령 영결식에서 나온 추도사가 논란이 됐습니다. 당시 한국 사회는 문맹률이 80% 수준이라 육사 출신 엘리..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86400b62664a00c64000721935ff06f8a3173f5f/6fe62f000650bc056f9b0d660728154e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[알고보니] '몰카'범죄는 왜 일상이 되었을까]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2787</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[백종원 더본코리아 대표이사가 지난달 28일 오전 서울 중구 농협중앙회 본관에서 열린 ‘농협·BGF리테일·한돈자조금 업무협약 체결식’에...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--78cb33dbdf291a386a782347c1fa501ccc2bfd1c/90fac3ef455ff29675039794067bf4f3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에너지전환 팩트체크] ⑫ 한국의 에너지전환, 과속인가?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2784</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2784</guid>
-            <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기 해결은 인류의 생존이 걸린 문제입니다. 전 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 제로(0)로 만든다는 큰 틀의 합의를 한 상태입니다. 구체적으로 유럽연합은 2023년부터 시범적으로 탄소국경세를 적용하기로 했습니다. 탄소를 기준치이상으로 배출한 제품에 일종에 관세를 매기는 겁니다. 2035년 이후로는 화석연료로 움직이는 내연기관 자동차 생산을 중단하고 수입을 안하기로 한 상태입니다. 에너지 산업은 물론, 다른 산업에도 지각변동이 예상되고 있습니다.한국도 재생에너지 전원의 비중을 높이고 석탄발전을 줄이는]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0357ba7d427e990ae6b894115adce0f86c2cb5c0/c6a69abf4f5f02f607270d7c9250418b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
