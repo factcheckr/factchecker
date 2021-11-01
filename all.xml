@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 10:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,7 +101,7 @@
             <title><![CDATA[[에너지전환 팩트체크] 한국의 에너지전환, 과속이다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/234</link>
             <guid>https://factchecker.or.kr/fc_subjects/234</guid>
-            <pubDate>Mon, 01 Nov 2021 09:20:12 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 09:20:03 GMT</pubDate>
             <content:encoded><![CDATA[일부 언론들이 에너지전환 정책을 바라보는 시각은 과속이다. 기회있을 때마다 과속론을 꺼내들며 속도조절을 외친다. 우리 사회는 아직 준비가 안 돼 있다는 게 핵심 논리이다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
