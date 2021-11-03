@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-02T23:21:43.974Z</updated>
+    <updated>2021-11-03T01:02:08.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘내란죄’ 실형 선고받은 노태우 전 대통령, 국립묘지 안장될 수 있나]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/235</id>
+        <link href="https://factchecker.or.kr/fc_subjects/235"/>
+        <updated>2021-11-03T01:00:05.927Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/235">지난 26일 노태우 전 대통령의 사망 이후 국립묘지 안장 자격에 관한 논란이 불거졌습니다. 12.12 사태 등으로 내란죄를 선고받은 노 전 대통령이 국립묘지 안장 대상이 될 수 있는지에 관한 것이었습니다. 국가보훈처는 노 전 대통령의 국립묘지 안장 가능성을 일축했지만 당일 언론은 여전히 국립묘지 안장 가능성이 얼마나 되는지 점치고, 국민 통합을 위해서 정치적인 결단을 내릴 수 있다는 식의 분석 기사들이 연달아 보도됐습니다. 과연 노 전 대통령의 국립묘지 안장 나아가 전두환 전 대통령의 경우가 노태우 씨의 사례와 같다고 볼 수 있는지 MBC 팩트체크팀 &lt;알고보니&gt;에서 확인했습니다.
+&nbsp;
+
+▲노태우 전 대통령 사망&nbsp;당일 나온 다수의 언론 보도
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[에너지전환 팩트체크] 한국의 에너지전환, 과속이다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/234</id>
@@ -85,14 +96,6 @@
         <updated>2021-10-29T08:22:29.861Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/226">탈원전 정책은 그야말로 전쟁터다. 국민의힘 등 보수진영에서는 문재인 정부의 탈원전 정책으로 인해 국가경쟁력이 저하되고 있다며 차기 정부에서는 탈원전 정책을 폐기해야 한다고 주장한다. 반면 더불어민주당과 진보진영에서는 성공적인 에너지 전환 정책을 위해선 화력발전을 줄이는 것은 물론, 원자력발전소 비중을 줄여나가야 한다고 주장한다. 매년 국정감사에서는 탈원전을 놓고 정치권이 논쟁을 벌이고 있다.
 탈원전이 세계적 추세인지에 대해서도 정 반대의 주장이 엇갈리고 있다. 한쪽에서는 주요국들이 원전 비중을 줄이고 있다고 말하는 반면, 다른 쪽에서는 원전 비중이 오히려 증가하고 있다고 맞서고 있다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 태양광 패널, 빛반사 피해 유발?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/225</id>
-        <link href="https://factchecker.or.kr/fc_subjects/225"/>
-        <updated>2021-10-29T04:25:12.750Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/225">조선일보는 2019년 10월 31일 &lt;주한미군 새만금 태양광, 비행작전에 지장&gt; 기사를 보도했다. 조선일보는 주한 미군이 최근 세계 최대 규모 새만금 태양광 단지 계획에 대해 패널 빛 반사 등으로 군의 비행 작전에 지장을 줄 수 있다는 입장을 전달했지만 한국수력원자력은 이를 수용하지 않았다고 보도했다.
 </a>]]></content>
     </entry>
 </feed>
