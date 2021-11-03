@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-03T07:22:40.310Z</updated>
+    <updated>2021-11-03T08:23:49.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이 짤은 정말 백혈구가 기생충을 공격하는 화면인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/365</id>
+        <link href="https://factchecker.or.kr/fc_suggests/365"/>
+        <updated>2021-11-03T08:23:06.978Z</updated>
+        <content type="html"><![CDATA[흔히 백혈구가 기생충을 공격하는 모습이라며 커뮤니티에서 글을 봤는데요.사실인지 궁금합니다.&nbsp;
+https://www.instiz.net/pt/7051167?page=3&amp;srt=3&amp;k=&amp;srd=1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진도에서 진돗개를 판다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/364</id>
@@ -81,15 +89,5 @@ https://www.instiz.net...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/356"/>
         <updated>2021-10-29T15:20:37.436Z</updated>
         <content type="html"><![CDATA[오징어게임, 마이네임 등 넷플릭스 오리지널 콘텐츠가 국내외적으로 큰 인기를 얻고 있습니다. SNS와 각종 언론사에서는 오징어게임은 흔했지만, 제작사는 운다는 제목의 글도 이슈글이 됐습니다. 정말 오징어게임, 마이네임 등의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국군 기강이 해이해졌다는 게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/355</id>
-        <link href="https://factchecker.or.kr/fc_suggests/355"/>
-        <updated>2021-10-29T15:20:37.437Z</updated>
-        <content type="html"><![CDATA[기사에서 아래와 같은 사실들을 나열해 군기강이 해이해졌다는 주장을 하고 있습니다.
-실제 아래와 같은 사건이 있었는지 팩트체크 부탁드립니다.
-&nbsp;
-일선 부대 역시 코로나로 2년째 훈련다운 훈련을 거의 실시하지 않았는지&nbsp;...]]></content>
     </entry>
 </feed>
