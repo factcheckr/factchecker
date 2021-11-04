@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[고교학점제에서 학점을 못따면 졸업을 하지 못하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/367</link>
+            <guid>https://factchecker.or.kr/fc_suggests/367</guid>
+            <pubDate>Thu, 04 Nov 2021 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[고교학점제에서&nbsp;
+학점을 못따면 학교 졸업을 하지 못한다는데 사실인가요?
+https://www.82cook.com/entiz/read.php?bn=15&amp;num=3201719&amp;page=1&amp;searchType=search&amp;...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[최근 5년간 국제행사 승인율이 91.4%이 맞나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/366</link>
             <guid>https://factchecker.or.kr/fc_suggests/366</guid>
@@ -269,13 +278,6 @@ https://www.instiz.net...]]></content:encoded>
             <content:encoded><![CDATA[성매매 피해자 관련 기사에  ? 본인이 원해서 간 건데 뭐가 불쌍함 쉽게 돈 벌다가 노동을 하려니까 푼돈이 성에 차겠냐 와 같은 혐오성 발언을 담은 댓글이 추천을 많이 받았습니다.
 &nbsp;
 정말 성매매 피해자들이 성매매업소...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비이슬람화 국가인 한국을 이슬람화 시키려고 꾸준히 세력을 넓혀가고 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/357</link>
-            <guid>https://factchecker.or.kr/fc_suggests/357</guid>
-            <pubDate>Fri, 29 Oct 2021 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[청와대 국민청원에 올라온 내용입니다. 대구 이슬람사원 건립을 반대하기 위해 올라온 글인데요. 정말 전과 비교했을 때 이슬람 사원의 수가 많아졌는지, 이슬람교도들도 증가했는지, 대구에만 증가한 것인지 또 그들이 한국을 이슬...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 핼러윈, 우리나라에서 변질됐다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
