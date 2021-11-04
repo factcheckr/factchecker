@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-04T11:18:22.621Z</updated>
+    <updated>2021-11-04T12:31:06.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 5년간 국제행사 승인율이 91.4%이 맞나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/366</id>
+        <link href="https://factchecker.or.kr/fc_suggests/366"/>
+        <updated>2021-11-04T12:30:24.522Z</updated>
+        <content type="html"><![CDATA[지방자치단체의 국제행사들은 기재부의 심사가 필요하다고 하는데요. 
+행사의 수익성도 부족하고 운영도 미숙했다는 문제가 보고되었는데도 기재부가 국제행사 승인을 내줬다는 기사입니다. 정말 승인율이 저 정도로 높은지 궁금합니다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 짤은 정말 백혈구가 기생충을 공격하는 화면인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/365</id>
@@ -82,12 +90,5 @@ https://www.instiz.net...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/357"/>
         <updated>2021-10-29T15:20:37.435Z</updated>
         <content type="html"><![CDATA[청와대 국민청원에 올라온 내용입니다. 대구 이슬람사원 건립을 반대하기 위해 올라온 글인데요. 정말 전과 비교했을 때 이슬람 사원의 수가 많아졌는지, 이슬람교도들도 증가했는지, 대구에만 증가한 것인지 또 그들이 한국을 이슬...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오징어 게임> 제작자 인센티브 0원, 넷플릭스가 다 챙겨간다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/356</id>
-        <link href="https://factchecker.or.kr/fc_suggests/356"/>
-        <updated>2021-10-29T15:20:37.436Z</updated>
-        <content type="html"><![CDATA[오징어게임, 마이네임 등 넷플릭스 오리지널 콘텐츠가 국내외적으로 큰 인기를 얻고 있습니다. SNS와 각종 언론사에서는 오징어게임은 흔했지만, 제작사는 운다는 제목의 글도 이슈글이 됐습니다. 정말 오징어게임, 마이네임 등의...]]></content>
     </entry>
 </feed>
