@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 06:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 07:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,6 +277,14 @@ https://www.instiz.net...]]></content:encoded>
             <content:encoded><![CDATA[오징어게임, 마이네임 등 넷플릭스 오리지널 콘텐츠가 국내외적으로 큰 인기를 얻고 있습니다. SNS와 각종 언론사에서는 오징어게임은 흔했지만, 제작사는 운다는 제목의 글도 이슈글이 됐습니다. 정말 오징어게임, 마이네임 등의...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 핼러윈, 우리나라에서 변질됐다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2830</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2830</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스포스트=박재령 기자] 지난 31일 서울 용산구 이태원. ‘핼러윈데이’를 맞아 인파가 몰렸다. 각기 화려한 의상을 입고 축제를 즐기는 모습이었다. 하지만 이러한 축제에 대해 부정적 견해를 보이는 이들도 있었다. 원래는 아이들의 놀이인데, 우리나라에서 어른 문화로 바뀌었다는 것이다. 일부 언론도 ‘핼러윈데이’의 의미가 우리나라에서 변질됐다며 비판에 동참했다. 주장이 사실인지, 해외 사례와 함께 역사를 짚어봤다. 핼러윈의 역사 … 어린이만의 것은 아냐핼러윈의 기원은 ‘켈트족’으로 거슬러 올라간다. 켈트족은 BC 500년경 영국, 아]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6bdece9f444ae49ef41c60ad47fece2a825bbbd/e533058e54549259bcc5be5870dff1ab.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 백신 미접종도 해고·입사 취소 사유가 된다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2825</link>
             <guid>https://factchecker.or.kr/fc_archives/press/2825</guid>
@@ -347,14 +355,6 @@ https://www.instiz.net...]]></content:encoded>
             <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 개는 가축이지만 식용 분류 안돼... 식용견 도살도 동물학대 판례]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbklWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--948e08c1dd49d6404521182eaac93d488bd75584/0567af9e5e507dabb710432ce999560b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 윤석열 · 홍준표 "여론조사를 보면…", 사실은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2814</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2814</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 대선 후보 선출을 위한 투표가 진행되고 있습니다. 당원 투표와 국민 여론조사 결과 등을 합산해, 오는 5일 전당대회에서 최종 후보가 결정됩니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkVWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5f6d44eacea5bd910b124d2fbddbe17cef98249f/d23b3180a3866d9d033707023966a174.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[기후위기 극복 위한 국제사회 노력에 발맞춰 탄소중립 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
