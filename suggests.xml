@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-05T07:21:07.646Z</updated>
+    <updated>2021-11-05T08:23:47.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서구권 남성의 결혼 비율이 줄어들고 있나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/369</id>
+        <link href="https://factchecker.or.kr/fc_suggests/369"/>
+        <updated>2021-11-05T08:23:07.398Z</updated>
+        <content type="html"><![CDATA[서구 남성들이 결혼을 기피하고 있다며 커뮤니티에 올라온 만화/글을 봤습니다.&nbsp;내용 확인해 봤으면 좋겠습니다.
+https://www.fmkorea.com/best/4046974263]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈원전 비용 513조' 논문 숨긴 에너지경제硏]]></title>
         <id>https://factchecker.or.kr/fc_suggests/368</id>
@@ -83,14 +91,5 @@ https://bbs.ruliwe...]]></content>
 이게 정말로 가능한 방법인가요?
 &nbsp;
 https://www.instiz.net...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['짝퉁' 박사모 관련 팩트체크 제안]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/359</id>
-        <link href="https://factchecker.or.kr/fc_suggests/359"/>
-        <updated>2021-10-31T15:20:12.222Z</updated>
-        <content type="html"><![CDATA[국민의힘 윤석열 후보를 지지한 박사모가 짝퉁이라는 논란이 불거졌습니다. 관련 팩트체크 제안 드립니다.
-&nbsp;
-관련기사 링크: https://news.imaeil.com/page/view/2021103120194763705]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[서구권 남성의 결혼 비율이 줄어들고 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/369</link>
+            <guid>https://factchecker.or.kr/fc_suggests/369</guid>
+            <pubDate>Fri, 05 Nov 2021 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[서구 남성들이 결혼을 기피하고 있다며 커뮤니티에 올라온 만화/글을 봤습니다.&nbsp;내용 확인해 봤으면 좋겠습니다.
+https://www.fmkorea.com/best/4046974263]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탈원전 비용 513조' 논문 숨긴 에너지경제硏 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/368</link>
             <guid>https://factchecker.or.kr/fc_suggests/368</guid>
@@ -269,15 +277,6 @@ https://bbs.ruliwe...]]></content:encoded>
 이게 정말로 가능한 방법인가요?
 &nbsp;
 https://www.instiz.net...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['짝퉁' 박사모 관련 팩트체크 제안 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/359</link>
-            <guid>https://factchecker.or.kr/fc_suggests/359</guid>
-            <pubDate>Sun, 31 Oct 2021 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 윤석열 후보를 지지한 박사모가 짝퉁이라는 논란이 불거졌습니다. 관련 팩트체크 제안 드립니다.
-&nbsp;
-관련기사 링크: https://news.imaeil.com/page/view/2021103120194763705]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트인사이드] 역대 감사원장 중 임기를 모두 채운 사람은 얼마나 될까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
