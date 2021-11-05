@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-05T01:01:09.705Z</updated>
+    <updated>2021-11-05T02:05:33.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[탈원전 비용 513조' 논문 숨긴 에너지경제硏]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/368</id>
+        <link href="https://factchecker.or.kr/fc_suggests/368"/>
+        <updated>2021-11-05T02:04:51.013Z</updated>
+        <content type="html"><![CDATA[탈원전비용 513조 가 더 들어가는지 팩트체크 부탁합니다.
+&nbsp;
+https://n.news.naver.com/article/023/0003505393]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고교학점제에서 학점을 못따면 졸업을 하지 못하나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/367</id>
@@ -83,14 +92,5 @@ https://www.instiz.net...]]></content>
         <content type="html"><![CDATA[국민의힘 윤석열 후보를 지지한 박사모가 짝퉁이라는 논란이 불거졌습니다. 관련 팩트체크 제안 드립니다.
 &nbsp;
 관련기사 링크: https://news.imaeil.com/page/view/2021103120194763705]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성매매 피해자들의 유입 경로 관련 팩트 체크]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/358</id>
-        <link href="https://factchecker.or.kr/fc_suggests/358"/>
-        <updated>2021-10-30T15:19:53.072Z</updated>
-        <content type="html"><![CDATA[성매매 피해자 관련 기사에  ? 본인이 원해서 간 건데 뭐가 불쌍함 쉽게 돈 벌다가 노동을 하려니까 푼돈이 성에 차겠냐 와 같은 혐오성 발언을 담은 댓글이 추천을 많이 받았습니다.
-&nbsp;
-정말 성매매 피해자들이 성매매업소...]]></content>
     </entry>
 </feed>
