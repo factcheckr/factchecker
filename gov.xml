@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 15:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 16:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담배제조업자 담배성분 허위 표시 보도는 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2844</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2844</guid>
+            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “담배제조업자의 담배성분 허위 표시 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcElWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0574b62a00f1d9964d9c5ab5a81a653819eb1fa2/7d7b22c2baa5f28f4eac19d69bbb7f52.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이건희 기증관 부지, 최종 건립 부지 확정 위한 방안 협의·검토 중]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2843</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “CCS 기술은 1996년 상용화에 성공한 이후 전세계 19개(50만톤 이상) 대규모 CCS 프로젝트가 상용규모로 운영 중”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a9b5fe80800923acb029a330ea7efd5f3f15823/33847bb41f733b81de5dfbc1cf728acd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[암모니아 발전은 탄소중립 위한 대안…글로벌기업·국가서 이미 기술개발 진행 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2827</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2827</guid>
-            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “암모니아 발전은 탄소중립을 위한 대안으로 글로벌기업 및 국가에서 이미 기술개발을 진행하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5ac093879d8799b58324042a2aec155fb9a003b0/2c8d4374a06f349d8eae34fbef4c275a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
