@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 17:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 18:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구해줘 홈즈가 정말 집값 상승 부추기나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/373</link>
+            <guid>https://factchecker.or.kr/fc_suggests/373</guid>
+            <pubDate>Sun, 07 Nov 2021 18:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[청와대 청원에 올라온 내용입니다. 평소 구해줘 홈즈를 즐겨보고 있었는데, 방송에 나온 효과로.. 해당 집 값이 상승한다는 것은 어느정도 알고 있었습니다만 청원 글쓴이는 3년전만 해도 4억도 안했을 30제곱미터 하꼬방 같은...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[호주한테 가져온다는 요소수 2만리터의 진실_정부가 기업의 공을 빼앗나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/372</link>
             <guid>https://factchecker.or.kr/fc_suggests/372</guid>
@@ -272,13 +279,6 @@ https://www.instiz.net/pt/7051167?page=3&amp;srt=3&amp;k=&amp;srd=1]]></content:
             <pubDate>Wed, 03 Nov 2021 07:21:59 GMT</pubDate>
             <content:encoded><![CDATA[지난달에 보신탕 될 뻔한 진돗개 11마리 구조라는 제목의 기사가 올라왔습니다. 기사를 보고 의문점을 가지게 되어 팩트체크 제안 드립니다.&nbsp;
 시골 길거리를 지나다니다 보면 심심치 않게, 보신탕이라는 간판을 확인할 수 있습...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이준석의 '통일부 & 여가부 폐지' (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/363</link>
-            <guid>https://factchecker.or.kr/fc_suggests/363</guid>
-            <pubDate>Wed, 03 Nov 2021 07:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[이준석 국민의힘 당대표가 뜨거운 감자가 됐습니다. 통일부와 여가부 등의 부처들을 폐지하자고 한 것때문인데요. 이 대표는 현재 정부 부처가 17~18개 정도 있는데, 다른 나라에 비하면 좀 많다고 했습니다. 정말로, 타국과...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오세훈에 "광고 허가해달라"는 김어준, 번지수 잘못 찾았다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
