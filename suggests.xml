@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-07T14:18:26.078Z</updated>
+    <updated>2021-11-07T15:20:36.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[호주한테 가져온다는 요소수 2만리터의 진실_정부가 기업의 공을 빼앗나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/372</id>
+        <link href="https://factchecker.or.kr/fc_suggests/372"/>
+        <updated>2021-11-07T15:19:55.473Z</updated>
+        <content type="html"><![CDATA[https://www.fmkorea.com/index.php?mid=best2&amp;sort_index=pop&amp;order_type=desc&amp;document_srl=4060526030
+&nbsp;
+기업이 미리 계약해 둔 건인데&nbsp;
+마...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인체 폐지방이 1kg에 2억? 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/371</id>
@@ -83,12 +93,5 @@ https://www.instiz.net/pt/7051167?page=3&amp;srt=3&amp;k=&amp;srd=1]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/363"/>
         <updated>2021-11-03T07:21:59.833Z</updated>
         <content type="html"><![CDATA[이준석 국민의힘 당대표가 뜨거운 감자가 됐습니다. 통일부와 여가부 등의 부처들을 폐지하자고 한 것때문인데요. 이 대표는 현재 정부 부처가 17~18개 정도 있는데, 다른 나라에 비하면 좀 많다고 했습니다. 정말로, 타국과...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방대학 신입생, 입학서류만 제출하면 다 받아준다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/362</id>
-        <link href="https://factchecker.or.kr/fc_suggests/362"/>
-        <updated>2021-11-03T07:21:59.856Z</updated>
-        <content type="html"><![CDATA[안녕하세요. 학령인구가 줄어들면서 지방대학들이 이를 해결하기 위해 여러 방안을 제안하고 있는 걸로 알고 있습니다. 그러던 중, SNS에서 지방대학은 입학서류만 내도 붙여준다는 말을 댓글로 봤는데요, 찾아보니까 정말로 그런...]]></content>
     </entry>
 </feed>
