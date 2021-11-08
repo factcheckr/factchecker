@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Y세대가 정말 가장 가난한 세대가 될까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/377</link>
+            <guid>https://factchecker.or.kr/fc_suggests/377</guid>
+            <pubDate>Mon, 08 Nov 2021 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[Y 세대는 25세 ~36세를 말하는데요. 인스티즈에서는 여러 근거를 대며 Y 세대가 가장 가난한 세대가 된다고 주장했습니다. 정말 가장 가난한 세대가 될지? 또 X 세대와의 격차가 확대된다는 우려를 표했는데, 격차가 타 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["박철민, 10억 제시하며 '이재명 조폭 연루' 허위 제보 부탁"했다는 기사는 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/376</link>
             <guid>https://factchecker.or.kr/fc_suggests/376</guid>
@@ -272,15 +279,6 @@ https://www.fmkorea.com/best/4046974263]]></content:encoded>
             <content:encoded><![CDATA[탈원전비용 513조 가 더 들어가는지 팩트체크 부탁합니다.
 &nbsp;
 https://n.news.naver.com/article/023/0003505393]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고교학점제에서 학점을 못따면 졸업을 하지 못하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/367</link>
-            <guid>https://factchecker.or.kr/fc_suggests/367</guid>
-            <pubDate>Thu, 04 Nov 2021 15:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[고교학점제에서&nbsp;
-학점을 못따면 학교 졸업을 하지 못한다는데 사실인가요?
-https://www.82cook.com/entiz/read.php?bn=15&amp;num=3201719&amp;page=1&amp;searchType=search&amp;...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오세훈에 "광고 허가해달라"는 김어준, 번지수 잘못 찾았다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
