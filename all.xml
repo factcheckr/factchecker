@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 04:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 05:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["박철민, 10억 제시하며 '이재명 조폭 연루' 허위 제보 부탁"했다는 기사는 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/376</link>
+            <guid>https://factchecker.or.kr/fc_suggests/376</guid>
+            <pubDate>Mon, 08 Nov 2021 05:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[박철민, 10억 제시하며 이재명 조폭 연루 허위 제보 부탁
+관련링크
+https://news.v.daum.net/v/20211108120216817?x_trkm=t]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부항이 코로나 백신 효과를 높인다는 데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/375</link>
             <guid>https://factchecker.or.kr/fc_suggests/375</guid>
@@ -272,14 +281,6 @@ https://n.news.naver.com/article/023/0003505393]]></content:encoded>
             <content:encoded><![CDATA[고교학점제에서&nbsp;
 학점을 못따면 학교 졸업을 하지 못한다는데 사실인가요?
 https://www.82cook.com/entiz/read.php?bn=15&amp;num=3201719&amp;page=1&amp;searchType=search&amp;...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최근 5년간 국제행사 승인율이 91.4%이 맞나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/366</link>
-            <guid>https://factchecker.or.kr/fc_suggests/366</guid>
-            <pubDate>Thu, 04 Nov 2021 12:30:24 GMT</pubDate>
-            <content:encoded><![CDATA[지방자치단체의 국제행사들은 기재부의 심사가 필요하다고 하는데요. 
-행사의 수익성도 부족하고 운영도 미숙했다는 문제가 보고되었는데도 기재부가 국제행사 승인을 내줬다는 기사입니다. 정말 승인율이 저 정도로 높은지 궁금합니다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오세훈에 "광고 허가해달라"는 김어준, 번지수 잘못 찾았다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
