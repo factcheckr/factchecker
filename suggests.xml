@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-08T03:22:06.141Z</updated>
+    <updated>2021-11-08T04:26:19.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부항이 코로나 백신 효과를 높인다는 데 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/375</id>
+        <link href="https://factchecker.or.kr/fc_suggests/375"/>
+        <updated>2021-11-08T04:25:37.955Z</updated>
+        <content type="html"><![CDATA[코로나 백신 후 부항 떴더니 백신 효과 100배 증가라는 기사를 봤습니다. &nbsp;DNA 백신 전달율을 높인거라고 하는데요. 연구 결과가 믿을 수 있는지 연구 결과가 나온 학술지가 정확한지 확인해 봤으면 좋겠습니다.
+http...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 요소수 수요 관련 팩트체크 제안]]></title>
         <id>https://factchecker.or.kr/fc_suggests/374</id>
@@ -86,13 +94,5 @@ https://www.82cook.com/entiz/read.php?bn=15&amp;num=3201719&amp;page=1&amp;searc
         <updated>2021-11-04T12:30:24.522Z</updated>
         <content type="html"><![CDATA[지방자치단체의 국제행사들은 기재부의 심사가 필요하다고 하는데요. 
 행사의 수익성도 부족하고 운영도 미숙했다는 문제가 보고되었는데도 기재부가 국제행사 승인을 내줬다는 기사입니다. 정말 승인율이 저 정도로 높은지 궁금합니다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 짤은 정말 백혈구가 기생충을 공격하는 화면인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/365</id>
-        <link href="https://factchecker.or.kr/fc_suggests/365"/>
-        <updated>2021-11-03T08:23:06.978Z</updated>
-        <content type="html"><![CDATA[흔히 백혈구가 기생충을 공격하는 모습이라며 커뮤니티에서 글을 봤는데요.사실인지 궁금합니다.&nbsp;
-https://www.instiz.net/pt/7051167?page=3&amp;srt=3&amp;k=&amp;srd=1]]></content>
     </entry>
 </feed>
