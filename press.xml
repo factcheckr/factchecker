@@ -4,9 +4,29 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영농 팩트체크] 감자, 황토서 키우면 품질 더 좋아…꽃 따줄 필요 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2848</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2848</guid>
+            <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[수확 중인 감자. 농민신문DB
+
+
+
+[영농 팩트체크] 감자 재배·보관 방법
+
+제4종복합비료 한번만 시비
+
+사과 넣어두면 싹 발생 방지
+
+  
+
+남부지역을 중심으로 재배되는 가을·겨울 감자가 각각 수확기·파종기를 맞았다. 감자의 특정 품종이 특정 조건의 토양에서 제대로 자라지 못한다는 등 감자]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFlWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--494312b9ed042f1a0eaea144af6e469a6c569a31/2dd7d835e3cd07c7b59c299625fc90a2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈에 "광고 허가해달라"는 김어준, 번지수 잘못 찾았다]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2847</link>
@@ -78,14 +98,6 @@
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재명 더불어민주당 대선 후보가 3일 경기도 부천시 한국만화박물관에서 열린 제21회 만화의 날 기념식에서 참석자들과 인사하고 있다. [사진=연합뉴스]‘전 국민 재난지원금...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9746b56ff535900d3156926099b003cc33b52b6/59c0bfcb8490419a0d9fdb4a8fffe75a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 핼러윈, 우리나라에서 변질됐다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2830</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2830</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스포스트=박재령 기자] 지난 31일 서울 용산구 이태원. ‘핼러윈데이’를 맞아 인파가 몰렸다. 각기 화려한 의상을 입고 축제를 즐기는 모습이었다. 하지만 이러한 축제에 대해 부정적 견해를 보이는 이들도 있었다. 원래는 아이들의 놀이인데, 우리나라에서 어른 문화로 바뀌었다는 것이다. 일부 언론도 ‘핼러윈데이’의 의미가 우리나라에서 변질됐다며 비판에 동참했다. 주장이 사실인지, 해외 사례와 함께 역사를 짚어봤다. 핼러윈의 역사 … 어린이만의 것은 아냐핼러윈의 기원은 ‘켈트족’으로 거슬러 올라간다. 켈트족은 BC 500년경 영국, 아]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6bdece9f444ae49ef41c60ad47fece2a825bbbd/e533058e54549259bcc5be5870dff1ab.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
