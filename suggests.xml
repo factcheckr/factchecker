@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-08T15:22:26.585Z</updated>
+    <updated>2021-11-08T16:32:33.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/378</id>
+        <link href="https://factchecker.or.kr/fc_suggests/378"/>
+        <updated>2021-11-08T16:31:49.427Z</updated>
+        <content type="html"><![CDATA[한 커뮤니티에 암행순찰차 관련 글이 올라왔습니다.&nbsp;
+추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;
+&nbsp;
+암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Y세대가 정말 가장 가난한 세대가 될까요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/377</id>
@@ -84,14 +94,5 @@ https://www.newdaily.co.kr/site/data/html/2021/11/06/2021110600003.html
         <updated>2021-11-05T08:23:07.398Z</updated>
         <content type="html"><![CDATA[서구 남성들이 결혼을 기피하고 있다며 커뮤니티에 올라온 만화/글을 봤습니다.&nbsp;내용 확인해 봤으면 좋겠습니다.
 https://www.fmkorea.com/best/4046974263]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전 비용 513조' 논문 숨긴 에너지경제硏]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/368</id>
-        <link href="https://factchecker.or.kr/fc_suggests/368"/>
-        <updated>2021-11-05T02:04:51.013Z</updated>
-        <content type="html"><![CDATA[탈원전비용 513조 가 더 들어가는지 팩트체크 부탁합니다.
-&nbsp;
-https://n.news.naver.com/article/023/0003505393]]></content>
     </entry>
 </feed>

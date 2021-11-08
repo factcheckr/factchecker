@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 15:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 16:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,16 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/378</link>
+            <guid>https://factchecker.or.kr/fc_suggests/378</guid>
+            <pubDate>Mon, 08 Nov 2021 16:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[한 커뮤니티에 암행순찰차 관련 글이 올라왔습니다.&nbsp;
+추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;
+&nbsp;
+암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Y세대가 정말 가장 가난한 세대가 될까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/377</link>
             <guid>https://factchecker.or.kr/fc_suggests/377</guid>
@@ -270,15 +280,6 @@ https://www.newdaily.co.kr/site/data/html/2021/11/06/2021110600003.html
             <pubDate>Fri, 05 Nov 2021 08:23:07 GMT</pubDate>
             <content:encoded><![CDATA[서구 남성들이 결혼을 기피하고 있다며 커뮤니티에 올라온 만화/글을 봤습니다.&nbsp;내용 확인해 봤으면 좋겠습니다.
 https://www.fmkorea.com/best/4046974263]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탈원전 비용 513조' 논문 숨긴 에너지경제硏 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/368</link>
-            <guid>https://factchecker.or.kr/fc_suggests/368</guid>
-            <pubDate>Fri, 05 Nov 2021 02:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[탈원전비용 513조 가 더 들어가는지 팩트체크 부탁합니다.
-&nbsp;
-https://n.news.naver.com/article/023/0003505393]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] "아이 심장 잘 뛰나 궁금해"‥소율아빠 소원 이뤄질까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
