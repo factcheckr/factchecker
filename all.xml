@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,12 +106,12 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <title><![CDATA[인체 폐지방이 1kg에 2억이고 금보다 비싼게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/247</link>
             <guid>https://factchecker.or.kr/fc_subjects/247</guid>
-            <pubDate>Tue, 09 Nov 2021 09:19:48 GMT</pubDate>
+            <pubDate>Tue, 09 Nov 2021 09:19:41 GMT</pubDate>
             <content:encoded><![CDATA[인체 폐지방이 1kg 2억이고 금보다 비싼게 사실인가요?사실이라면 이때까지 왜 버리고 있었던 건지 팩트체크 부탁드립니다!
 https://www.hankyung.com/economy/article/2021110216441&nbsp;
 1kg 2억 금보다 비싼 물질인데…매년 500t 내다버린 한국
 1㎏당 2억원…金보다 비싸의료·성형 분야 등 활용중기 옴부즈만, 개선 건의]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘내란죄’ 실형 선고받은 노태우 전 대통령, 국립묘지 안장될 수 있나 (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -445,6 +445,13 @@ https://www.newdaily.co.kr/site/data/html/2021/11/06/2021110600003.html
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2dWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--07a2a1032dce9cfdef229eb5fcf77304518a294a/477405ec3f417c67e4f20d92d7e25e80.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[인체 폐지방이 1kg에 2억이고 금보다 비싼게 사실인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/63</link>
+            <guid>https://factchecker.or.kr/fc_publications/63</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 폐지방이란?&nbsp;요즈음은 생활이 윤택해지고 영양과잉 상태가 되면서 비만에 대한 염려가 증대되고 비만증에 고민하는 사람들이 급격히 늘고 있는 실정인데, 최근들어 피부과 영역에서 이들을 위한 지방흡입술 (liposuction)을 많이 시행하고 있다. 지방흡입술이란 기존의 지방 절제술 (lipectomy)과는 전혀 다른 수술법으로서, 피부는 그대로 유지하고 피부에 조그마한 구멍을 뚫고 이를 통하여 지방을 뽑아내는 관인 cannula를 삽입한 다음 suction을 이용하여 음압을 걸어줌으로써 피하지방을 제거하는 방법이다. 따라서 이 방법은 시술 후 피부의 흉이 전혀 없고 원하는 지방만을 제거하는 미용적으로 매우 획기적인 방법으로 알려져 있다. 지방흡입술은 단순한 미용수술 이외에 중증의 비만환자에서는 건강유지를 위한 일종의&nbsp; 치료수술이라 말할수 있으나 대개 다이어트나 운동만으로는 제거할 수 없는 신체부위의 지방을 선택적으로 제거함으로써 본인이 원하는 몸매(body contour)를 유...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[절대 깨지지 않는다는 ***케이스, 과연 진실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/62</link>
             <guid>https://factchecker.or.kr/fc_publications/62</guid>
@@ -554,22 +561,6 @@ More than 20,000 men, women, and children have passed through here since August 
 하지만 이는 사실이 아니거나 상당한 과장이 섞인 주장입니다.
 &nbsp;
 1. 8억짜리 집 하나 파는데 세금...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가로세로연구소 대표 강제체포는 도주 및 증거인멸 우려 때문? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/52</link>
-            <guid>https://factchecker.or.kr/fc_publications/52</guid>
-            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가로세로연구소 김세의 대표는 본인이 도주 및 증거인멸의 우려가 없는데도 체포영장이 발부됐다며 부당한 강제체포라고 주장한다. 하지만 체포영장과 도주 및 증거인멸의 우려는 무관하다.
-&nbsp;
-① 도주 및 증거인멸의 우려는 구속영장 판단 기준, 체포영장과 무관.
-체포와 구속은 다르다. 당연히 체포영장이 발부되는 사유와 구속영장이 발부되는 사유도 다르다. 영장에 의한 체포는 형사소송법 제200조의2에서, 구속은 형사소송법 제70조에서 규정한다.
-
-
-‘도주 및 증거인멸의 우려’는 구속 여부를 판단할 때 기준이다. 체포영장을 발부할 때 판단 기준이 아니다. 김세의 대표의 말처럼, 그가 도주하거나 증거인멸할 우려가 있어서 체포한 것이 아니다. 애초에 도주·증거인멸과 체포는 무관하다. 결국 그는 체포당하면서 끝까지 사실이 아닌 주장을 한 셈이다.&nbsp;
-&nbsp;
-② 김세의 대표 체포 사유는 ‘정당한 이유 없는 출석요구 불응’
-체포영장 발부 근거가 되는 형사소송법 제200조의2는 다음과 같이 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
