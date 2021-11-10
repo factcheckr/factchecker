@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-10T04:26:38.132Z</updated>
+    <updated>2021-11-10T05:17:01.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인 정육점 등판, 고기의 상태가 앱 내 전시 상태와 동일한지 팩트체크 바랍니다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/386</id>
+        <link href="https://factchecker.or.kr/fc_suggests/386"/>
+        <updated>2021-11-10T05:16:20.955Z</updated>
+        <content type="html"><![CDATA[http://naver.me/FS6Bk7tN
+&nbsp;
+온라인 정육점이 등판하면서 정육점 배달앱들이 속속히 증가하고 있다고 합니다.
+하지만 쿠팡프레시, 마켓컬리 등에서 정육을 구매해본 소비자들은 상세페이지 내 고기와는 전혀 딴판...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언론사 뒷광고]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/385</id>
+        <link href="https://factchecker.or.kr/fc_suggests/385"/>
+        <updated>2021-11-10T05:16:20.956Z</updated>
+        <content type="html"><![CDATA[연합뉴스의 카드뉴스를 살펴보면 간병으로 스트레스 받는 시민들의 사례를 나열한 다음 서울시 환자 안심 병원을 소개하는 내용을 담고 있습니다. (https://m.post.naver.com/viewer/postView.nhn...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재업로드 육군 시설 현대화 관련 팩트 체크]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/384</id>
+        <link href="https://factchecker.or.kr/fc_suggests/384"/>
+        <updated>2021-11-10T05:16:20.960Z</updated>
+        <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
+육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[육군 용사(병사) 시설 최신화 위해 9조 들였는데 시설 확충 아직도 안 된 것에 대한 팩트체크]]></title>
         <id>https://factchecker.or.kr/fc_suggests/383</id>
@@ -12,13 +37,6 @@
         <updated>2021-11-10T04:25:55.149Z</updated>
         <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
 육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론사의 뒷광고]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/382</id>
-        <link href="https://factchecker.or.kr/fc_suggests/382"/>
-        <updated>2021-11-10T04:25:55.149Z</updated>
-        <content type="html"><![CDATA[연합뉴스의 카드뉴스를 살펴보면 간병으로 스트레스 받는 시민들의 사례를 나열한 다음 서울시 환자 안심 병원을 소개하는 내용을 담고 있습니다.&nbsp;또한 SBS가 만든 “지친 취준생에게 활력을! ‘서울시 청년수당’ 직접 받아 써보...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[식품위생법 위반 건수 위반 프랜차이즈]]></title>
@@ -66,22 +84,5 @@
         <content type="html"><![CDATA[박철민, 10억 제시하며 이재명 조폭 연루 허위 제보 부탁
 관련링크
 https://news.v.daum.net/v/20211108120216817?x_trkm=t]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부항이 코로나 백신 효과를 높인다는 데 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/375</id>
-        <link href="https://factchecker.or.kr/fc_suggests/375"/>
-        <updated>2021-11-08T04:25:37.955Z</updated>
-        <content type="html"><![CDATA[코로나 백신 후 부항 떴더니 백신 효과 100배 증가라는 기사를 봤습니다. &nbsp;DNA 백신 전달율을 높인거라고 하는데요. 연구 결과가 믿을 수 있는지 연구 결과가 나온 학술지가 정확한지 확인해 봤으면 좋겠습니다.
-http...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 요소수 수요 관련 팩트체크 제안]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/374</id>
-        <link href="https://factchecker.or.kr/fc_suggests/374"/>
-        <updated>2021-11-08T02:04:18.710Z</updated>
-        <content type="html"><![CDATA[https://www.donga.com/news/article/all/20211107/110124075/1
-위 기사를 보면
-중국 정부와 계약한 수만t의 요소수에 대한 신속한 통관 절차를 요청하는 등 전방위 대책 마련에...]]></content>
     </entry>
 </feed>

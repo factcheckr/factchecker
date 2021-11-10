@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기존 신포괄수가제 면역항암제 등 사용자 치료 연속성 보장]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2864</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2864</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “지난 10월 20일 보건복지위원회 종합국정감사에서 밝혔듯이 기존에 신포괄수가제에서 면역항암제 등을 사용해 치료받는 분들의 치료 연속성을 보장할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5bfb0a7da7650a83f5b3c361b17566bc44c78ce/c4bb46ce2b6f9323290093703196b5f5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[플라스틱옴니엄 투자, 정부와 협의 등 거쳐 최종 확정…투자신고식 의미 있어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2863</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[금융위원회는 “GA 판매책임 강화방안과 관련해 구체적인 사항은 아직 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f7310d82298f7896ad311c204e6717a0bf025611/98510a01c99a622dd4cb517fe0cc35fb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[심사시간 부족 등으로 국제행사 승인율 91.4%? 사실과 다르다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2839</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2839</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “심사시간 부족 등으로 국제행사 승인율이 91.4%에 이른다는 보도 내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9d4262a26d3e2ce3fe401ed504911ee6c153e8e/780cbd4e2085f042d4d8e334d4bd434a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
