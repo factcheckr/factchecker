@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-10T03:21:20.651Z</updated>
+    <updated>2021-11-10T04:26:38.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[육군 용사(병사) 시설 최신화 위해 9조 들였는데 시설 확충 아직도 안 된 것에 대한 팩트체크]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/383</id>
+        <link href="https://factchecker.or.kr/fc_suggests/383"/>
+        <updated>2021-11-10T04:25:55.149Z</updated>
+        <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
+육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언론사의 뒷광고]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/382</id>
+        <link href="https://factchecker.or.kr/fc_suggests/382"/>
+        <updated>2021-11-10T04:25:55.149Z</updated>
+        <content type="html"><![CDATA[연합뉴스의 카드뉴스를 살펴보면 간병으로 스트레스 받는 시민들의 사례를 나열한 다음 서울시 환자 안심 병원을 소개하는 내용을 담고 있습니다.&nbsp;또한 SBS가 만든 “지친 취준생에게 활력을! ‘서울시 청년수당’ 직접 받아 써보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식품위생법 위반 건수 위반 프랜차이즈]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/381</id>
+        <link href="https://factchecker.or.kr/fc_suggests/381"/>
+        <updated>2021-11-10T04:25:55.150Z</updated>
+        <content type="html"><![CDATA[SNS에서 상위 10%의 프랜차이즈 커피 전문점의 식품위생법 검사 결과를 살펴보니, 3위는 빽다방, 2위는 이디야 였다는 내용을 담은 카드뉴스를 보게 되었습니다. 커피 전문점들은 2016년부터 올해까지 341건의 위반 사...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요소수 수송비용 관련 팩트 체크]]></title>
         <id>https://factchecker.or.kr/fc_suggests/380</id>
@@ -61,33 +83,5 @@ http...]]></content>
         <content type="html"><![CDATA[https://www.donga.com/news/article/all/20211107/110124075/1
 위 기사를 보면
 중국 정부와 계약한 수만t의 요소수에 대한 신속한 통관 절차를 요청하는 등 전방위 대책 마련에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구해줘 홈즈가 정말 집값 상승 부추기나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/373</id>
-        <link href="https://factchecker.or.kr/fc_suggests/373"/>
-        <updated>2021-11-07T18:21:58.050Z</updated>
-        <content type="html"><![CDATA[청와대 청원에 올라온 내용입니다. 평소 구해줘 홈즈를 즐겨보고 있었는데, 방송에 나온 효과로.. 해당 집 값이 상승한다는 것은 어느정도 알고 있었습니다만 청원 글쓴이는 3년전만 해도 4억도 안했을 30제곱미터 하꼬방 같은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호주한테 가져온다는 요소수 2만리터의 진실_정부가 기업의 공을 빼앗나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/372</id>
-        <link href="https://factchecker.or.kr/fc_suggests/372"/>
-        <updated>2021-11-07T15:19:55.473Z</updated>
-        <content type="html"><![CDATA[https://www.fmkorea.com/index.php?mid=best2&amp;sort_index=pop&amp;order_type=desc&amp;document_srl=4060526030
-&nbsp;
-기업이 미리 계약해 둔 건인데&nbsp;
-마...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인체 폐지방이 1kg에 2억? 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/371</id>
-        <link href="https://factchecker.or.kr/fc_suggests/371"/>
-        <updated>2021-11-07T13:23:50.471Z</updated>
-        <content type="html"><![CDATA[인체 폐지방이 1kg 2억이고 금보다 비싼게 사실인가요?
-&nbsp;
-사실이라면 이때까지 왜 버리고 있었던 건지 팩트체크 부탁드립니다!
-&nbsp;
-링크 https://www.hankyung.com/economy/article/20...]]></content>
     </entry>
 </feed>
