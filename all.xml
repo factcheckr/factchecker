@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 14:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,6 +356,22 @@ https://news.v.daum.net/v/20211108120216817?x_trkm=t]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58a147c2a8ef109c42d4d31f1d2d63ba2ac1c8bb/ba723d9aa3365251467806016a42acce.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[국내 화력발전소 중 탈질설비에 요소수 사용 발전소 약 10% (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2876</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2876</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “국내 화력발전소 중 탈질설비에 요소수를 사용하는 발전소는 약 10%로 요소수 부족이 곧 전력대란으로 이어지는 것은 아니다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd4b621231af6796e231a097de7b1989f1a9dbcb/c3787bc8336134b044aeed60d1314260.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[통상교섭본부장, 주한중국대사 접견시 요소 수출재개 지원 당부 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2875</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2875</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “여한구 통상교섭본부장은 지난 10월 29일 주한중국대사 접견 시 중국의 요소 수출 재개와 관련된 지원을 당부했다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d63de9281564472fe7d0d637a283a9e4806679f3/26defa1ea5256c447a54ca0a3a574f9c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[기존 신포괄수가제 면역항암제 등 사용자 치료 연속성 보장 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2864</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2864</guid>
@@ -418,22 +434,6 @@ https://news.v.daum.net/v/20211108120216817?x_trkm=t]]></content:encoded>
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “복권에 대한 소비자 신뢰를 위해 문제가 발생할 가능성이 있는 인쇄복권 전량을 회수했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzBWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27251e27bee8df653dd5b5f4ac730de3fe05764f/59fd83fe87fdedc8530ceed6786acefc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년도 보건의료 예산, 올해 본예산 대비 대폭 확충 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2841</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2841</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “2022년 보건의료 예산은 2021년 본예산 대비 대폭 확충됐다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3dWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bb4b4467fea8bfcb094841b60fef4c7e2d46d01/0a4ad6614fd088a8360c98e455d1926f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GA 판매책임 강화방안 관련 구체사항 아직 결정 안돼 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2840</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2840</guid>
-            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “GA 판매책임 강화방안과 관련해 구체적인 사항은 아직 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f7310d82298f7896ad311c204e6717a0bf025611/98510a01c99a622dd4cb517fe0cc35fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[인체 폐지방이 1kg에 2억이고 금보다 비싼게 사실인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
