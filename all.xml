@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,6 +277,14 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <content:encoded><![CDATA[Y 세대는 25세 ~36세를 말하는데요. 인스티즈에서는 여러 근거를 대며 Y 세대가 가장 가난한 세대가 된다고 주장했습니다. 정말 가장 가난한 세대가 될지? 또 X 세대와의 격차가 확대된다는 우려를 표했는데, 격차가 타 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] '남의 아파트 놀이터'에서 놀면 주거침입? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2885</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2885</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 인천의 한 아파트 입주자 대표회장이 단지 내 놀이터에서 놀던 외부 어린이들을 남의 놀이터에서 놀면 도둑...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cac3768656e40ef4d31ebb0b53071f2369392e7/10681b375ef386221a4d107cabe876c6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[아주 정확한 팩트체크] 전 국민 지원금, 세수 납부유예는 꼼수? | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2882</link>
             <guid>https://factchecker.or.kr/fc_archives/press/2882</guid>
@@ -347,14 +355,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초소형 카메라를 이용한 불법촬영 범죄. 국내에서 1년에 5천 건이 넘게 일어납니다. 하루에 평균 14건 꼴입니다. 적발이 된게 이 정도이고, 피해자 상당수는 당하는 줄도 모릅니...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--990a9c074d7fc7ba92b07cc195ec25b197f511a1/5192020007165017f8a9d9c2b2b47c52.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] MB정부 때 정권교체 여론은 60%를 넘었을까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2873</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2873</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이명박 정부 때는 정권교체 여론이 60%를 넘었을까. 차기 대통령 선거와 관련해 ‘정권교체 여론’이 관심 키워드로 등장했다. 각종 방송과 온라인 커뮤니티 등에서는 이명박 정부 시절의 사례가 자주 등장한다. 이명박 정부 시절 정권교체를 희망하는 여론조사 수치가 상대적으로 높았던 것은 사실이다.   유권자들 중 일부는 당시 여당이었던 새누리당 박근혜 후보의 당선을 정권교체로 바라봤다. 실제]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5df5ecda1e7e88cf317f2a3f8507225e1b65ddb1/d8d9c6b6da85133377e3f15b75c7093b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[국내 화력발전소 중 탈질설비에 요소수 사용 발전소 약 10% (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
