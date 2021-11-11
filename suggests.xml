@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-10T23:20:16.557Z</updated>
+    <updated>2021-11-11T01:02:43.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 대선후보 선출 후 2030의 탈당 인원이 40명이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/387</id>
+        <link href="https://factchecker.or.kr/fc_suggests/387"/>
+        <updated>2021-11-11T01:02:04.412Z</updated>
+        <content type="html"><![CDATA[https://www.bobaedream.co.kr/view?code=best&amp;No=473700&amp;vdate=w
+&nbsp;
+최고의원과 당대표가 다른 숫자를 주장하고 있습니다.&nbsp;
+2030세대의 탈당이 40명이라는 것이 거짓이다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온라인 정육점 등판, 고기의 상태가 앱 내 전시 상태와 동일한지 팩트체크 바랍니다]]></title>
         <id>https://factchecker.or.kr/fc_suggests/386</id>
@@ -75,14 +85,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/377"/>
         <updated>2021-11-08T07:19:18.111Z</updated>
         <content type="html"><![CDATA[Y 세대는 25세 ~36세를 말하는데요. 인스티즈에서는 여러 근거를 대며 Y 세대가 가장 가난한 세대가 된다고 주장했습니다. 정말 가장 가난한 세대가 될지? 또 X 세대와의 격차가 확대된다는 우려를 표했는데, 격차가 타 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박철민, 10억 제시하며 '이재명 조폭 연루' 허위 제보 부탁"했다는 기사는 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/376</id>
-        <link href="https://factchecker.or.kr/fc_suggests/376"/>
-        <updated>2021-11-08T05:18:13.261Z</updated>
-        <content type="html"><![CDATA[박철민, 10억 제시하며 이재명 조폭 연루 허위 제보 부탁
-관련링크
-https://news.v.daum.net/v/20211108120216817?x_trkm=t]]></content>
     </entry>
 </feed>
