@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 12:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 13:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알고보니] 스토킹 처벌법, 층간소음 분쟁에까지 적용?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2898</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2898</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 스토킹 처벌법이 시행된 지 약 3주가 지났습니다. 신고 건수가 크게 늘었고, 벌써 구속된 경우도 있습니다. 그런데 층간 소음 분쟁이나 개인 간 다...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--062cdb9b9d4cfde3e1a130e3d8e7fba1ccaf8a35/ff36bce5faae11c5e717066ec59b4df9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[​[아주 정확한 팩트체크] 코로나19 '슈퍼항체'가 코로나 시대 끝낼까? | 아주경제]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2897</link>
@@ -77,14 +85,6 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이준석 국민의힘 이준석 대표가 11일 오전 서울 여의도 국회에서 열린 최고위원회의에서 머리를 만지고 있다. [사진=연합뉴스]&nbsp;국민의힘 최종 대선 후보가 윤석열 전 검찰총장...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaThXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f6f0c95ffc2df58e4b159bb5450abf5c5c403784/00bebf0151bb535f2ffd27195ba88ec0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 전국민 지원금 25조·소상공인 손실보상 50조 정말 쉽지 않나 | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2886</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2886</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(세종=연합뉴스) 차지연 기자 = 정치권이 대선을 앞두고 전국민 방역지원금 지급, 50조원 규모의 소상공인 추가 손실보상 등 상당한 재정이 들어...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f5746b017b4bad11c125ab90086bc1377b3e612b/d0124e0f22911ee8515b1cedf1ff17ba.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
