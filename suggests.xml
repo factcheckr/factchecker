@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-12T03:22:21.678Z</updated>
+    <updated>2021-11-12T04:26:28.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국에서 돌아 다닌다는 한국 쿠데타 찌라시의 출처가 어디인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/388</id>
+        <link href="https://factchecker.or.kr/fc_suggests/388"/>
+        <updated>2021-11-12T04:25:47.519Z</updated>
+        <content type="html"><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
+관련 링크 - ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 대선후보 선출 후 2030의 탈당 인원이 40명이다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/387</id>
@@ -78,12 +86,5 @@
 추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;
 &nbsp;
 암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y세대가 정말 가장 가난한 세대가 될까요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/377</id>
-        <link href="https://factchecker.or.kr/fc_suggests/377"/>
-        <updated>2021-11-08T07:19:18.111Z</updated>
-        <content type="html"><![CDATA[Y 세대는 25세 ~36세를 말하는데요. 인스티즈에서는 여러 근거를 대며 Y 세대가 가장 가난한 세대가 된다고 주장했습니다. 정말 가장 가난한 세대가 될지? 또 X 세대와의 격차가 확대된다는 우려를 표했는데, 격차가 타 ...]]></content>
     </entry>
 </feed>

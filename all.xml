@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 03:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 04:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,14 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국에서 돌아 다닌다는 한국 쿠데타 찌라시의 출처가 어디인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/388</link>
+            <guid>https://factchecker.or.kr/fc_suggests/388</guid>
+            <pubDate>Fri, 12 Nov 2021 04:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
+관련 링크 - ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국민의힘 대선후보 선출 후 2030의 탈당 인원이 40명이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/387</link>
             <guid>https://factchecker.or.kr/fc_suggests/387</guid>
@@ -268,13 +276,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
 추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;
 &nbsp;
 암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Y세대가 정말 가장 가난한 세대가 될까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/377</link>
-            <guid>https://factchecker.or.kr/fc_suggests/377</guid>
-            <pubDate>Mon, 08 Nov 2021 07:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[Y 세대는 25세 ~36세를 말하는데요. 인스티즈에서는 여러 근거를 대며 Y 세대가 가장 가난한 세대가 된다고 주장했습니다. 정말 가장 가난한 세대가 될지? 또 X 세대와의 격차가 확대된다는 우려를 표했는데, 격차가 타 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 회사 소유 PC·휴대전화는 사용 직원 동의 없이 열람? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
