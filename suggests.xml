@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-12T05:21:14.511Z</updated>
+    <updated>2021-11-12T06:24:00.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[샤워 중 모발 7~10개 이상 빠지면 위험하다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/390</id>
+        <link href="https://factchecker.or.kr/fc_suggests/390"/>
+        <updated>2021-11-12T06:23:19.945Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+샤워할 때 머리카락 7~10개 이상 빠지면 위험한 상태의 모발이라고요? 10개 이상 빠지는 거 아니가요? (나만 그런가..) 영양제 광고가 뒤에 붙어있는 걸 보니 광고계정인 것 같은데, 광고라 하더라도 사실을 토...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정의당 심상정 후보가 '오유야 미안해' 현수막을 걸도록 했나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/389</id>
+        <link href="https://factchecker.or.kr/fc_suggests/389"/>
+        <updated>2021-11-12T06:23:19.945Z</updated>
+        <content type="html"><![CDATA[트위터를 보다가 정의당 심상정 후보가 과거 오유와 미안해 현수막을 걸었다(걸도록 했다는 의미겠죠?)는 내용을 봤습니다. 인용 트윗들에서도 원래 그런 사라민 줄 몰랐냐, 허위다 등 의견이 나뉘고 있네요. girls do n...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국에서 돌아 다닌다는 한국 쿠데타 찌라시의 출처가 어디인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/388</id>
@@ -69,22 +84,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/380"/>
         <updated>2021-11-10T03:20:39.458Z</updated>
         <content type="html"><![CDATA[아래 링크의 게시글에 결국 아무리 관대하게 봐도 2억짜리 요소수 로켓배송비로 6억 쓰는셈임 이라는 내용이 있습니다. 호주에서 수입하는 요소수의 수송비를 추산한 글인데, 호주 및 해외에서 수입하는 요소수의 수송비용 관련 체...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스에서 먼저 등장한 백신여권에 백신 접종회수 체크 마크가 8칸인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/379</id>
-        <link href="https://factchecker.or.kr/fc_suggests/379"/>
-        <updated>2021-11-09T01:02:09.441Z</updated>
-        <content type="html"><![CDATA[https://www.82cook.com/entiz/read.php?bn=15&amp;num=3326617&amp;page=1&amp;searchType=search&amp;search1=2&amp;keys=%ED%94%84%EB%9E%91%EC%8A%A4...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/378</id>
-        <link href="https://factchecker.or.kr/fc_suggests/378"/>
-        <updated>2021-11-08T16:31:49.427Z</updated>
-        <content type="html"><![CDATA[한 커뮤니티에 암행순찰차 관련 글이 올라왔습니다.&nbsp;
-추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;
-&nbsp;
-암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소...]]></content>
     </entry>
 </feed>
