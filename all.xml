@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 14:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,15 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[SUV 차량은 지구 파괴하는 자동차인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/391</link>
+            <guid>https://factchecker.or.kr/fc_suggests/391</guid>
+            <pubDate>Sat, 13 Nov 2021 15:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[인사이트 기사(뉴시스 기사)에 따르면 영국의 한 환경단체는 SUV를 보고 지구를 파괴하는 자동차라며 SUV만 골라 타이어 바람을 빼고 다녔다고 합니다.&nbsp;
+&nbsp;
+탄소배출을 막겠다고 한 것인데요. 해당 단체는 차주에게 당신...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[샤워 중 모발 7~10개 이상 빠지면 위험하다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/390</link>
             <guid>https://factchecker.or.kr/fc_suggests/390</guid>
@@ -271,13 +280,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <guid>https://factchecker.or.kr/fc_suggests/381</guid>
             <pubDate>Wed, 10 Nov 2021 04:25:55 GMT</pubDate>
             <content:encoded><![CDATA[SNS에서 상위 10%의 프랜차이즈 커피 전문점의 식품위생법 검사 결과를 살펴보니, 3위는 빽다방, 2위는 이디야 였다는 내용을 담은 카드뉴스를 보게 되었습니다. 커피 전문점들은 2016년부터 올해까지 341건의 위반 사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요소수 수송비용 관련 팩트 체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/380</link>
-            <guid>https://factchecker.or.kr/fc_suggests/380</guid>
-            <pubDate>Wed, 10 Nov 2021 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[아래 링크의 게시글에 결국 아무리 관대하게 봐도 2억짜리 요소수 로켓배송비로 6억 쓰는셈임 이라는 내용이 있습니다. 호주에서 수입하는 요소수의 수송비를 추산한 글인데, 호주 및 해외에서 수입하는 요소수의 수송비용 관련 체...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 스토킹 처벌법, 층간소음 분쟁에까지 적용? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
