@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-14T22:19:37.707Z</updated>
+    <updated>2021-11-14T23:20:44.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[20~30년 후 지구에는 사람이 살 수 없게 되나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/393</id>
+        <link href="https://factchecker.or.kr/fc_suggests/393"/>
+        <updated>2021-11-14T23:19:59.879Z</updated>
+        <content type="html"><![CDATA[https://www.82cook.com/entiz/read.php?bn=15&amp;num=3256278&amp;page=3&amp;searchType=search&amp;search1=2&amp;keys=%EA%B8%B0%ED%9B%84
+&nbsp;
+[20년...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크릴오일은 안정성&기능성 입증 안 된 일반 식품에 불과?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/392</id>
@@ -78,14 +87,6 @@
         <id>https://factchecker.or.kr/fc_suggests/384</id>
         <link href="https://factchecker.or.kr/fc_suggests/384"/>
         <updated>2021-11-10T05:16:20.960Z</updated>
-        <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
-육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육군 용사(병사) 시설 최신화 위해 9조 들였는데 시설 확충 아직도 안 된 것에 대한 팩트체크]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/383</id>
-        <link href="https://factchecker.or.kr/fc_suggests/383"/>
-        <updated>2021-11-10T04:25:55.149Z</updated>
         <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
 육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
     </entry>
