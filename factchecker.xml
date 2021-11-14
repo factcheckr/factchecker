@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-14T17:23:57.599Z</updated>
+    <updated>2021-11-14T18:24:05.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA["결국 남는 건... 잠수함뿐?" KBS 세월호 스테빌라이저 보도, ‘참사’인 이유]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/252</id>
+        <link href="https://factchecker.or.kr/fc_subjects/252"/>
+        <updated>2021-11-14T18:22:03.485Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/252">[세월호]① 50도 꺾인 스태빌라이저…“운항 중 충격 가능성”
+[세월호]② ‘끼익’ 소리 뒤 4배 커진 음압…“뭔가 힘이 걸렸다”
+KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
+지난 1일, KBS는 메인 뉴스인 9시 뉴스를 통해 ‘세월호 잠수함 충돌설’을 보도했습니다. 두 꼭지로 나누어 보도했는데, 사참위가 공개한 용역 보고서들이 근거였습니다. KBS의 논리는 이러합니다.
+① 세월호의 핀 안정기(스테빌라이저)가 비정상적으로 과도하게 돌아가 있었다.② 스테빌라이저가 과도하게 돌아가는 시나리오는 크게 두 가지다. 1)세월호가 침몰하며 해저면과 충돌해서 돌아갔거나 2)침몰하기 전에 변형이 생겼을 것이다.③ 용역 보고서에 따르면, 스테빌라이저가 과도하게 돌아가려면 약 160t·m의 힘이 필요하다.④ 그런데 또 다른 용역 보고서에 따르면, 세월호가 해저면과 충돌할 때 발생 가능한 최대 힘은 70t·m 이하다.⑤ 따라서 세월호가 침몰하며 해저면과 충돌해서 돌아갔다는...
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신 사망 보상금, 7200원에 불과?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/251</id>
@@ -91,15 +103,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/229"/>
         <updated>2021-10-29T09:18:42.218Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/229">산림청이 탄소중립을 위해 추진하는 ‘30년간 30억 그루 나무심기’가 ‘탄소중립을 빙자한 대규모 벌목사업’라는 주장이 제기됐다. 이 과정에서 30년 넘은 ‘늙은 나무’의 탄소 흡수 능력이 논란이 됐습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 전기차 온실가스 감축에 큰 효과 없다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/228</id>
-        <link href="https://factchecker.or.kr/fc_subjects/228"/>
-        <updated>2021-10-29T08:22:29.861Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/228">현재 세계 각국의 자동차 제조사들은 기존의 내연기관차를 전기차로 대체해가는 중이다. 한국의 현대자동차도 2025년까지 전 세계에서 100만대의 전기차를 판매하는 등 2045년까지 자동차 생산부터 운행, 폐기까지 전 단계에 걸쳐 탄소 순배출 ‘제로(0)’를 달성하겠다고 공언했다.
-그런데 일부에서는 ‘전기차도 온실가스를 배출하기 때문에 친환경차가 아니다’는 주장이 나오고 있다. ‘주행 중에 나오는 탄소는 없지만, 연료인 전력을 만들 때 탄소가 많이 발생하기 때문에 전기차가 늘어나도 온실가스 감축에 큰 효과가 없다’는 것이다. 여전히 석탄화력발전비율이 높은 국내 상황을 감안하면 충분히 가능한 주장이다.
 </a>]]></content>
     </entry>
 </feed>
