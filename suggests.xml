@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-14T04:27:29.124Z</updated>
+    <updated>2021-11-14T05:18:43.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크릴오일은 안정성&기능성 입증 안 된 일반 식품에 불과?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/392</id>
+        <link href="https://factchecker.or.kr/fc_suggests/392"/>
+        <updated>2021-11-14T05:17:56.782Z</updated>
+        <content type="html"><![CDATA[크릴오일이 혈관건강에 좋다고 하여 건강기능식품으로 각광받은지 좀 되었는데요.
+제 주변 지인들도 크릴오일을 영양제 삼아 챙겨드시는 분들이 꽤 되더라고요.
+사실, 그간 크릴오일 관련하여 전문가들의 다양한 의견들을 기사를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUV 차량은 지구 파괴하는 자동차인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/391</id>
@@ -79,12 +88,5 @@
         <updated>2021-11-10T04:25:55.149Z</updated>
         <content type="html"><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
 육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식품위생법 위반 건수 위반 프랜차이즈]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/381</id>
-        <link href="https://factchecker.or.kr/fc_suggests/381"/>
-        <updated>2021-11-10T04:25:55.150Z</updated>
-        <content type="html"><![CDATA[SNS에서 상위 10%의 프랜차이즈 커피 전문점의 식품위생법 검사 결과를 살펴보니, 3위는 빽다방, 2위는 이디야 였다는 내용을 담은 카드뉴스를 보게 되었습니다. 커피 전문점들은 2016년부터 올해까지 341건의 위반 사...]]></content>
     </entry>
 </feed>

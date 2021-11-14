@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 04:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,15 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[크릴오일은 안정성&기능성 입증 안 된 일반 식품에 불과? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/392</link>
+            <guid>https://factchecker.or.kr/fc_suggests/392</guid>
+            <pubDate>Sun, 14 Nov 2021 05:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[크릴오일이 혈관건강에 좋다고 하여 건강기능식품으로 각광받은지 좀 되었는데요.
+제 주변 지인들도 크릴오일을 영양제 삼아 챙겨드시는 분들이 꽤 되더라고요.
+사실, 그간 크릴오일 관련하여 전문가들의 다양한 의견들을 기사를 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SUV 차량은 지구 파괴하는 자동차인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/391</link>
             <guid>https://factchecker.or.kr/fc_suggests/391</guid>
@@ -273,13 +282,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <pubDate>Wed, 10 Nov 2021 04:25:55 GMT</pubDate>
             <content:encoded><![CDATA[https://www.google.com/amp/s/m.mk.co.kr/news/economy/view-amp/2016/04/241285/
 육군에서 883개의 부대 신식 침상으로 바꾸기 위해 사업을 했는데 다 못 바꾸고...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[식품위생법 위반 건수 위반 프랜차이즈 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/381</link>
-            <guid>https://factchecker.or.kr/fc_suggests/381</guid>
-            <pubDate>Wed, 10 Nov 2021 04:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[SNS에서 상위 10%의 프랜차이즈 커피 전문점의 식품위생법 검사 결과를 살펴보니, 3위는 빽다방, 2위는 이디야 였다는 내용을 담은 카드뉴스를 보게 되었습니다. 커피 전문점들은 2016년부터 올해까지 341건의 위반 사...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 스토킹 처벌법, 층간소음 분쟁에까지 적용? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
