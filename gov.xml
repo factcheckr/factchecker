@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “난방용 유류인 등유에 대해서는 이미 가장 낮은 수준으로 유류세를 부과하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--076ebb20c6fb6bfb87a1a4064a2a61c5dde7657a/48c643ecaaad568d1ebfa803b03bebe2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[일회용생리대 건강영향조사 결과, 관계부처 협의 연내 마무리 후 민·관공동협의회 거쳐 공개 예정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2908</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2908</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “일회용생리대 건강영향조사 결과는 관계부처 협의를 연내 마무리하고 민·관공동협의회를 거쳐 공개할 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e3848423b6edf9c34d47167b8fc757bc81a4850/d14bde6126a1bc7dddc9865a3cb714ac.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[RFKR·인스파이어 사업기간 연장 등 정상화 위해 노력 중]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “여한구 통상교섭본부장은 지난 10월 29일 주한중국대사 접견 시 중국의 요소 수출 재개와 관련된 지원을 당부했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d63de9281564472fe7d0d637a283a9e4806679f3/26defa1ea5256c447a54ca0a3a574f9c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기존 신포괄수가제 면역항암제 등 사용자 치료 연속성 보장]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2864</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2864</guid>
-            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “지난 10월 20일 보건복지위원회 종합국정감사에서 밝혔듯이 기존에 신포괄수가제에서 면역항암제 등을 사용해 치료받는 분들의 치료 연속성을 보장할 계획”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5bfb0a7da7650a83f5b3c361b17566bc44c78ce/c4bb46ce2b6f9323290093703196b5f5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
