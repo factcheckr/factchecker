@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 10:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 11:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,6 +380,14 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10e32c3488bc11da5e69a514122ea64aaae2dc3d/99b984c10e64c8c57921cd6fbaa16a09.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[요소수 긴급수급조정조치, 특정 수요로 요소수 공급·유통 막지 않아 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2920</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2920</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “지난 11일 시행된 ‘요소수 긴급수급조정조치’는 특정 수요로 요소수를 공급·유통하는 것을 막고 있지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--190d13ebf5d644b80be10a3d54398e50c5a49c29/584bb4cca5d9fcbaf9731bcc5238b7ae.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[준중증 병상확보 행정명령, 병상 여력확보 위한 선제 대응 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2919</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2919</guid>
@@ -450,14 +458,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[농림축산식품부는 “비료업체의 요소 재고량은 증가해 내년 2월까지 공급부족 현상은 없을 전망”이라고 밝혔습니다. 또 “요소수가 필요한 트랙터는 4.6% 수준으로 농기계 공동이용 등 지원으로 농가 불편을 최소화하겠다”고 덧붙였습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b27a1b9d4430ea8946a4a70c77107726012fe072/233c99413acae3412e983667a8ba5d15.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 화력발전소 중 탈질설비에 요소수 사용 발전소 약 10% (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2876</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2876</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “국내 화력발전소 중 탈질설비에 요소수를 사용하는 발전소는 약 10%로 요소수 부족이 곧 전력대란으로 이어지는 것은 아니다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd4b621231af6796e231a097de7b1989f1a9dbcb/c3787bc8336134b044aeed60d1314260.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA["결국 남는 건... 잠수함뿐?" KBS 세월호 보도, ‘참사’인 이유 (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
