@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 09:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 10:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,6 +380,14 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10e32c3488bc11da5e69a514122ea64aaae2dc3d/99b984c10e64c8c57921cd6fbaa16a09.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[준중증 병상확보 행정명령, 병상 여력확보 위한 선제 대응 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2919</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2919</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “준중증 병상확보 행정명령은 당장의 병상 부족을 해결하기 보다는 병상 여력 확보를 위한 선제적 대응”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a5b5cdb331374128700d7aebf8041df0b819663/30ff70d74b32986976c527429ddd8956.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[금융상품 방문판매 따른 소비자 청약철회권, 금소법으로 보호 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2903</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2903</guid>
@@ -450,14 +458,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “국내 화력발전소 중 탈질설비에 요소수를 사용하는 발전소는 약 10%로 요소수 부족이 곧 전력대란으로 이어지는 것은 아니다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd4b621231af6796e231a097de7b1989f1a9dbcb/c3787bc8336134b044aeed60d1314260.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[통상교섭본부장, 주한중국대사 접견시 요소 수출재개 지원 당부 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2875</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2875</guid>
-            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “여한구 통상교섭본부장은 지난 10월 29일 주한중국대사 접견 시 중국의 요소 수출 재개와 관련된 지원을 당부했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d63de9281564472fe7d0d637a283a9e4806679f3/26defa1ea5256c447a54ca0a3a574f9c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA["결국 남는 건... 잠수함뿐?" KBS 세월호 보도, ‘참사’인 이유 (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
