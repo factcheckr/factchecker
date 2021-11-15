@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 03:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 04:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,7 +111,7 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <title><![CDATA[장기 기증자 편지 교환, 우리나라는 불가능? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/253</link>
             <guid>https://factchecker.or.kr/fc_subjects/253</guid>
-            <pubDate>Mon, 15 Nov 2021 03:21:03 GMT</pubDate>
+            <pubDate>Mon, 15 Nov 2021 03:20:54 GMT</pubDate>
             <content:encoded><![CDATA[뇌사 상태로 2년간 투병 생활을 이어온 소율 양이 끝내 숨졌습니다. 6살 소율 양은 심장과 좌‧우 신장을 다른 이에게 기증하고 세상을 떠났습니다. 소율 양의 아버지는 언론 인터뷰에서 소율 양의 심장이 잘 뛰는지, 누구에게 기증이 되는지 알 수 없어 아쉽다고 말했습니다. 그러면서 현재 우리나라에선 기증자의 가족과 수혜자의 개인정보는 서로 비밀에 부쳐진다는 사실이 조명되었습니다. 개인정보 보호가 보편적인 기준인지, 외국에선 기증자와 수혜자의 교류를 어떻게 보장하는지, 나아가 이러한 제도가 장기 기증과 어떤 관계를 갖는지 확인했습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
@@ -206,17 +206,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NL PD계열이 완전히 공산주의자인가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/395</link>
-            <guid>https://factchecker.or.kr/fc_suggests/395</guid>
-            <pubDate>Mon, 15 Nov 2021 02:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[지인이 제게 밑의 내용을 SNS를 통해 보내왔어요. 이 내용들이 신뢰한 내용인가요?
-&nbsp;
-빨갱이들은 크게 NL과 PD로 나뉘어 집니다.
-오늘은 NL과 PD에 대한 모든 것을 알아 보도록 하겠습니다.
-NL 뜻 = 민족...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블록체인 기술이 친환경과 거리가 먼게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/394</link>
             <guid>https://factchecker.or.kr/fc_suggests/394</guid>
@@ -292,6 +281,13 @@ NL 뜻 = 민족...]]></content:encoded>
 &nbsp;
 온라인 정육점이 등판하면서 정육점 배달앱들이 속속히 증가하고 있다고 합니다.
 하지만 쿠팡프레시, 마켓컬리 등에서 정육을 구매해본 소비자들은 상세페이지 내 고기와는 전혀 딴판...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[언론사 뒷광고 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/385</link>
+            <guid>https://factchecker.or.kr/fc_suggests/385</guid>
+            <pubDate>Mon, 15 Nov 2021 04:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[연합뉴스의 카드뉴스를 살펴보면 간병으로 스트레스 받는 시민들의 사례를 나열한 다음 서울시 환자 안심 병원을 소개하는 내용을 담고 있습니다. (https://m.post.naver.com/viewer/postView.nhn...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 1910년 한일합병 책임은 누구에게 있나 | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

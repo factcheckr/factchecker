@@ -2,20 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-15T03:22:00.695Z</updated>
+    <updated>2021-11-15T04:29:53.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[NL PD계열이 완전히 공산주의자인가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/395</id>
-        <link href="https://factchecker.or.kr/fc_suggests/395"/>
-        <updated>2021-11-15T02:04:15.124Z</updated>
-        <content type="html"><![CDATA[지인이 제게 밑의 내용을 SNS를 통해 보내왔어요. 이 내용들이 신뢰한 내용인가요?
-&nbsp;
-빨갱이들은 크게 NL과 PD로 나뉘어 집니다.
-오늘은 NL과 PD에 대한 모든 것을 알아 보도록 하겠습니다.
-NL 뜻 = 민족...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[블록체인 기술이 친환경과 거리가 먼게 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/394</id>
@@ -92,5 +81,12 @@ NL 뜻 = 민족...]]></content>
 &nbsp;
 온라인 정육점이 등판하면서 정육점 배달앱들이 속속히 증가하고 있다고 합니다.
 하지만 쿠팡프레시, 마켓컬리 등에서 정육을 구매해본 소비자들은 상세페이지 내 고기와는 전혀 딴판...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언론사 뒷광고]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/385</id>
+        <link href="https://factchecker.or.kr/fc_suggests/385"/>
+        <updated>2021-11-15T04:29:11.521Z</updated>
+        <content type="html"><![CDATA[연합뉴스의 카드뉴스를 살펴보면 간병으로 스트레스 받는 시민들의 사례를 나열한 다음 서울시 환자 안심 병원을 소개하는 내용을 담고 있습니다. (https://m.post.naver.com/viewer/postView.nhn...]]></content>
     </entry>
 </feed>
