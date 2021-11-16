@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-16T05:19:46.213Z</updated>
+    <updated>2021-11-16T06:22:29.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[플라스틱 Other는 재활용이 되지만 비닐봉투 Other는 재활용이 불가능하다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/397</id>
+        <link href="https://factchecker.or.kr/fc_suggests/397"/>
+        <updated>2021-11-16T06:21:48.887Z</updated>
+        <content type="html"><![CDATA[요즘 분리수거에 관심이 많은데요.&nbsp;
+Other 라고 써 있는 비닐은 그냥 일반 쓰레기라는 커뮤니티 게시글을 봤습니다.&nbsp;
+플라스틱 Other는 재활용이 되는 걸로 알고 있는데 맞는지 헷갈리네요.&nbsp;
+확인해 봤으면 좋겠어...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20억 집, 18억까지 대출 가능” 기막힌 주담대 편법가능한가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/396</id>
@@ -81,15 +91,5 @@ https://www.8...]]></content>
 &nbsp;
 최고의원과 당대표가 다른 숫자를 주장하고 있습니다.&nbsp;
 2030세대의 탈당이 40명이라는 것이 거짓이다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 정육점 등판, 고기의 상태가 앱 내 전시 상태와 동일한지 팩트체크 바랍니다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/386</id>
-        <link href="https://factchecker.or.kr/fc_suggests/386"/>
-        <updated>2021-11-15T17:25:08.959Z</updated>
-        <content type="html"><![CDATA[http://naver.me/FS6Bk7tN
-&nbsp;
-온라인 정육점이 등판하면서 정육점 배달앱들이 속속히 증가하고 있다고 합니다.
-하지만 쿠팡프레시, 마켓컬리 등에서 정육을 구매해본 소비자들은 상세페이지 내 고기와는 전혀 딴판...]]></content>
     </entry>
 </feed>
