@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-17T13:25:46.470Z</updated>
+    <updated>2021-11-17T14:19:05.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김준일 뉴스톱 대표, '국토보유세' 이중과세 주장은 사실일까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/255</id>
+        <link href="https://factchecker.or.kr/fc_subjects/255"/>
+        <updated>2021-11-17T14:18:09.614Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/255">2021년 11월 16일(화), KBS 더라이브에서 김준일 뉴스톱 대표는 이재명 vs 윤석열, 두 대선 후보의 부동산세에 관한 팩트체크를 하던 중, 이재명 후보의 국토보유세의 조세 저항과 관련하여 이중과세와 위헌의 소지가 있다는 발언을 했습니다.
+
+
+
+
+김준일 뉴스톱 대표 *KBS 더라이브 유튜브 채널 스크린샷
+
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오토바이 헬멧은 법적 기준이 없다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/254</id>
@@ -89,15 +103,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/232"/>
         <updated>2021-11-01T09:20:03.999Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/232">‘‘친환경차의 끝판왕’ 수소차, 미세먼지도 99.9% 거른다 2018년 11월 18일 중앙일보가 보도한 기사의 제목이다. 당시 정부가 ‘클린 디젤’ 정책을 공식 폐기한다고 선언하자, 사라지는 경유차의 대안으로 수소차에 주목한다는 내용을 담고 있다.대표적인 수소차 ‘넥쏘’의 제조사인 현대자동차도 “넥쏘는 수소와 산소의 결합으로 어떠한 오염물질 없이 오직 에너지와 물만을 발생시키고, 달리면서 PM2.5 이하의 초미세먼지까지 걸러내는 궁극의 친환경차입니다.”라고 소개하고 있다.하지만 수소차에 대한 우려도 많다. 경제성에 대한 지적이 큰 가운데, 연료인 수소제조과정을 감안하면 ‘궁극의 친환경차’가 아니라는 주장도 있다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 조력발전소는 해양생태계 훼손한다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/231</id>
-        <link href="https://factchecker.or.kr/fc_subjects/231"/>
-        <updated>2021-11-01T06:23:35.718Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/231">더불어민주당 안호영 의원은 2021년 10월 18일 환경부 산하기관 대상 국정감사에서 시화호 사례를 들어 새만금 조력발전 필요성을 제기했다. 수질 악화로 몸살을 앓고 있는 새만금호에 조력발전소를 설치해 해수 유통을 실시하면서 전기를 생산하면 환경도 살리고 깨끗한 에너지도 얻을 수 있다는 논리다. 6월 4일 한정애 환경부 장관은 시화호에서 열린 환경의 날 기념식에서 중기 계획 중 하나로 조력발전을 확대하는 것에 대한 예비타당성조사가 계획된 상태라며 타당성 조사 등을 검토한 후에 진행해 나갈 것이라고 말했다.&nbsp;
-하지만 조력발전이 해양생태계를 파괴한다는 상반된 주장도 제기된 바 있다. 2010년 시화호에 조력발전소를 설치할 당시&nbsp;환경단체들은&nbsp;조력발전소가 갯벌을 죽이고 해양생태계를 파괴한다고 주장한 바 있다. 어업으로 생활을 영위하는 주민들도 설립 초기에&nbsp;생태계 파괴 우려로 반대의 목소리가 높았다.&nbsp;
 </a>]]></content>
     </entry>
 </feed>
