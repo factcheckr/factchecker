@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-17T14:19:05.896Z</updated>
+    <updated>2021-11-17T15:21:25.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 내는 배달비엔 정말로 라이더의 보험료가 포함되어 있나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/398</id>
+        <link href="https://factchecker.or.kr/fc_suggests/398"/>
+        <updated>2021-11-17T15:20:42.352Z</updated>
+        <content type="html"><![CDATA[인사이트 기사에 따르면 지금 배달료가 3~4000원이 된 이유는 라이더들의 보험료가 포함되어 있기 때문이라고 했습니다. 인사이트는 기사 내에 정확한 출처를 밝히지 않았는데요. 정말로 배달료에 라이더들의 보험료와 벌금 등이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 Other는 재활용이 되지만 비닐봉투 Other는 재활용이 불가능하다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/397</id>
@@ -81,15 +88,5 @@ https://www.8...]]></content>
         <updated>2021-11-15T17:25:08.955Z</updated>
         <content type="html"><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
 관련 링크 - ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 대선후보 선출 후 2030의 탈당 인원이 40명이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/387</id>
-        <link href="https://factchecker.or.kr/fc_suggests/387"/>
-        <updated>2021-11-15T17:25:08.956Z</updated>
-        <content type="html"><![CDATA[https://www.bobaedream.co.kr/view?code=best&amp;No=473700&amp;vdate=w
-&nbsp;
-최고의원과 당대표가 다른 숫자를 주장하고 있습니다.&nbsp;
-2030세대의 탈당이 40명이라는 것이 거짓이다...]]></content>
     </entry>
 </feed>

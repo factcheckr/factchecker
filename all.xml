@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 15:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,7 +111,7 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <title><![CDATA[김준일 뉴스톱 대표, '국토보유세' 이중과세 주장은 사실일까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/255</link>
             <guid>https://factchecker.or.kr/fc_subjects/255</guid>
-            <pubDate>Wed, 17 Nov 2021 14:18:16 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 14:18:09 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 16일(화), KBS 더라이브에서 김준일 뉴스톱 대표는 이재명 vs 윤석열, 두 대선 후보의 부동산세에 관한 팩트체크를 하던 중, 이재명 후보의 국토보유세의 조세 저항과 관련하여 이중과세와 위헌의 소지가 있다는 발언을 했습니다.
 
 
@@ -207,6 +207,13 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우리가 내는 배달비엔 정말로 라이더의 보험료가 포함되어 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/398</link>
+            <guid>https://factchecker.or.kr/fc_suggests/398</guid>
+            <pubDate>Wed, 17 Nov 2021 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[인사이트 기사에 따르면 지금 배달료가 3~4000원이 된 이유는 라이더들의 보험료가 포함되어 있기 때문이라고 했습니다. 인사이트는 기사 내에 정확한 출처를 밝히지 않았는데요. 정말로 배달료에 라이더들의 보험료와 벌금 등이...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[플라스틱 Other는 재활용이 되지만 비닐봉투 Other는 재활용이 불가능하다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/397</link>
             <guid>https://factchecker.or.kr/fc_suggests/397</guid>
@@ -282,16 +289,6 @@ https://www.8...]]></content:encoded>
             <pubDate>Fri, 12 Nov 2021 04:25:47 GMT</pubDate>
             <content:encoded><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
 관련 링크 - ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 대선후보 선출 후 2030의 탈당 인원이 40명이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/387</link>
-            <guid>https://factchecker.or.kr/fc_suggests/387</guid>
-            <pubDate>Thu, 11 Nov 2021 01:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.bobaedream.co.kr/view?code=best&amp;No=473700&amp;vdate=w
-&nbsp;
-최고의원과 당대표가 다른 숫자를 주장하고 있습니다.&nbsp;
-2030세대의 탈당이 40명이라는 것이 거짓이다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오스트리아 하원의원, 백신 접종 뒤 연설 중 사망? 정당 관계자 '백신과 무관...해당 의원 실신 후 회복' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -458,7 +455,7 @@ https://www.8...]]></content:encoded>
             <link>https://factchecker.or.kr/fc_publications/66</link>
             <guid>https://factchecker.or.kr/fc_publications/66</guid>
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 국토보유세는 이중과세 주장은? → 사실이 아님
+            <content:encoded><![CDATA[1. 국토보유세는 이중과세인가? → 사실이 아님
 2021년 11월 16일(화), KBS 더라이브에서 김준일 뉴스톱 대표의 발언이 논란입니다. 팩트체크를 팩트체크해야 하는 상황입니다. 김준일 대표는 이재명 vs 윤석열, 두 대선 후보의 부동산세 관한 팩트체크를 하던 중, 이재명 후보의 국토보유세의 조세 저항과 관련하여 이중과세와 위헌의 소지가 있다는 발언을 했습니다.
 
 
@@ -476,7 +473,7 @@ https://www.8...]]></content:encoded>
 “국토보유세의 약점은 뭐냐 하면요. 재산세, 종합부동산세가 있잖아요? 또 하나 만들면 이중 과세가 될 수 있는 거고요.“
 &nbsp;
 이재명 후보의 공약인 국토보유세 이중과세에 관련해서 최배근교수가 주장한 내용을 다시 한 번 정리하겠습니다.
-&nbsp; ◀신설되는 국토보유세는...]]></content:encoded>
+&nbsp; ◀신설되는 국토보유세는 국...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["결국 남는 건... 잠수함뿐?" KBS 세월호 보도, ‘참사’인 이유 (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
