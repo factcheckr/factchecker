@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음식 배달 플랫폼 업체, 배달기사 안전 보호 의무 있어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2938</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2938</guid>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “산업안전보건법에 따라 음식 배달 플랫폼 운영 업체는 배달기사의 안전을 보호할 의무가 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--375548494687aa3584dc4f52e9ffa57e3c757152/7885bdd96ba665f8be4d4e7ddac66fbb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[농어촌버스 등 공공목적 분야에 요소수 20만리터 우선 공급 완료]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2937</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2937</guid>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부와 국토교통부는 “농어촌버스 등 공공목적 분야에 요소수 20만리터 우선 공급을 완료했다”면서 “범부처 요소수 수급 TF를 통해 수급에 차질이 없도록 대응할 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9791b6620e203657f81c37693196629be3281ccf/bb2729b721287c83888f0ac34c296c81.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2030년까지 암모니아 발전·2035년까지 수소발전 상용화 계획]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2936</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[농림축산식품부는 “배추는 전남지역에서 출하가 확대되는 등 공급량이 증가하면서 수급이 안정될 것으로 전망되며, 무 가격은 전년과 평년보다 낮은 수준에서 유지 중이며, 향후 공급이 증가해 가격은 안정적인 수준일 것으로 예상된다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6d261f64abaee8ebc495109cf6f883b60600cb2/a00e7f3487ba6382302a6f1565f1137e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 긴급수급조정조치, 특정 수요로 요소수 공급·유통 막지 않아]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2920</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2920</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “지난 11일 시행된 ‘요소수 긴급수급조정조치’는 특정 수요로 요소수를 공급·유통하는 것을 막고 있지 않다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--190d13ebf5d644b80be10a3d54398e50c5a49c29/584bb4cca5d9fcbaf9731bcc5238b7ae.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[준중증 병상확보 행정명령, 병상 여력확보 위한 선제 대응]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2919</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2919</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “준중증 병상확보 행정명령은 당장의 병상 부족을 해결하기 보다는 병상 여력 확보를 위한 선제적 대응”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a5b5cdb331374128700d7aebf8041df0b819663/30ff70d74b32986976c527429ddd8956.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
