@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 06:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 07:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,15 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국이 한국한테만 요소수를 수출한 이유? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/403</link>
+            <guid>https://factchecker.or.kr/fc_suggests/403</guid>
+            <pubDate>Thu, 18 Nov 2021 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[아래 링크의 게시글에선&nbsp;(중국이)코로나때 도움받은 세계 각국에서 한국 도와주겠다고 물심양면 지원 들어오니까 기존 시장 잃을까봐 헐레벌떡 한국만 수출 허가함 이라고 언급하고 있습니다.
+사실인지 궁금합니다.
+https:/...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초콜릿이 사라진다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/400</link>
             <guid>https://factchecker.or.kr/fc_suggests/400</guid>
@@ -282,14 +291,6 @@ https://www.8...]]></content:encoded>
             <content:encoded><![CDATA[인사이트 기사(뉴시스 기사)에 따르면 영국의 한 환경단체는 SUV를 보고 지구를 파괴하는 자동차라며 SUV만 골라 타이어 바람을 빼고 다녔다고 합니다.&nbsp;
 &nbsp;
 탄소배출을 막겠다고 한 것인데요. 해당 단체는 차주에게 당신...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤워 중 모발 7~10개 이상 빠지면 위험하다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/390</link>
-            <guid>https://factchecker.or.kr/fc_suggests/390</guid>
-            <pubDate>Fri, 12 Nov 2021 06:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-샤워할 때 머리카락 7~10개 이상 빠지면 위험한 상태의 모발이라고요? 10개 이상 빠지는 거 아닌가요? (나만 그런가..) 영양제 광고가 뒤에 붙어있는 걸 보니 광고계정인 것 같은데, 광고라 하더라도 사실을 토...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] 여성가족부는 돈을 어디에, 얼마나 쓰나요? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

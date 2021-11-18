@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-18T06:23:50.050Z</updated>
+    <updated>2021-11-18T07:18:41.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국이 한국한테만 요소수를 수출한 이유?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/403</id>
+        <link href="https://factchecker.or.kr/fc_suggests/403"/>
+        <updated>2021-11-18T07:17:55.083Z</updated>
+        <content type="html"><![CDATA[아래 링크의 게시글에선&nbsp;(중국이)코로나때 도움받은 세계 각국에서 한국 도와주겠다고 물심양면 지원 들어오니까 기존 시장 잃을까봐 헐레벌떡 한국만 수출 허가함 이라고 언급하고 있습니다.
+사실인지 궁금합니다.
+https:/...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초콜릿이 사라진다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/400</id>
@@ -81,13 +90,5 @@ https://www.8...]]></content>
         <content type="html"><![CDATA[인사이트 기사(뉴시스 기사)에 따르면 영국의 한 환경단체는 SUV를 보고 지구를 파괴하는 자동차라며 SUV만 골라 타이어 바람을 빼고 다녔다고 합니다.&nbsp;
 &nbsp;
 탄소배출을 막겠다고 한 것인데요. 해당 단체는 차주에게 당신...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤워 중 모발 7~10개 이상 빠지면 위험하다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/390</id>
-        <link href="https://factchecker.or.kr/fc_suggests/390"/>
-        <updated>2021-11-15T17:25:08.952Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-샤워할 때 머리카락 7~10개 이상 빠지면 위험한 상태의 모발이라고요? 10개 이상 빠지는 거 아닌가요? (나만 그런가..) 영양제 광고가 뒤에 붙어있는 걸 보니 광고계정인 것 같은데, 광고라 하더라도 사실을 토...]]></content>
     </entry>
 </feed>
