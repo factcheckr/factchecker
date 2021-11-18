@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,22 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[초콜릿이 사라진다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/400</link>
+            <guid>https://factchecker.or.kr/fc_suggests/400</guid>
+            <pubDate>Thu, 18 Nov 2021 01:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[개인적으로 초콜릿은 인간이 만들어낸 가장 합법적인 달콤한 마약이라 생각하는데요.
+저혈당으로 고생하시는 분, 기분이 우울하거나 안좋을 때, 급히 열량을 채워야 할 때 우리는 초콜릿으로 한방에 해결이 가능했지요.&nbsp;
+그런데...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추후엔 메타버스로 땅을 살 수 있다던데 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/399</link>
+            <guid>https://factchecker.or.kr/fc_suggests/399</guid>
+            <pubDate>Thu, 18 Nov 2021 01:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[가능한 일인가요? 미래의 메티버스는 어디까지 발잔할까요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우리가 내는 배달비엔 정말로 라이더의 보험료가 포함되어 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/398</link>
             <guid>https://factchecker.or.kr/fc_suggests/398</guid>
@@ -274,21 +290,6 @@ https://www.8...]]></content:encoded>
             <pubDate>Fri, 12 Nov 2021 06:23:19 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;
 샤워할 때 머리카락 7~10개 이상 빠지면 위험한 상태의 모발이라고요? 10개 이상 빠지는 거 아닌가요? (나만 그런가..) 영양제 광고가 뒤에 붙어있는 걸 보니 광고계정인 것 같은데, 광고라 하더라도 사실을 토...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정의당 심상정 후보가 '오유야 미안해' 현수막을 걸도록 했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/389</link>
-            <guid>https://factchecker.or.kr/fc_suggests/389</guid>
-            <pubDate>Fri, 12 Nov 2021 06:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[트위터를 보다가 정의당 심상정 후보가 과거 오유와 미안해 현수막을 걸었다(걸도록 했다는 의미겠죠?)는 내용을 봤습니다. 인용 트윗들에서도 원래 그런 사람인 줄 몰랐냐, 허위다 등 의견이 나뉘고 있네요. girls do n...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국에서 돌아 다닌다는 한국 쿠데타 찌라시의 출처가 어디인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/388</link>
-            <guid>https://factchecker.or.kr/fc_suggests/388</guid>
-            <pubDate>Fri, 12 Nov 2021 04:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
-관련 링크 - ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오스트리아 하원의원, 백신 접종 뒤 연설 중 사망? 정당 관계자 '백신과 무관...해당 의원 실신 후 회복' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

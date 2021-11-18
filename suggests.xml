@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-17T23:20:30.489Z</updated>
+    <updated>2021-11-18T01:03:02.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[초콜릿이 사라진다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/400</id>
+        <link href="https://factchecker.or.kr/fc_suggests/400"/>
+        <updated>2021-11-18T01:02:22.442Z</updated>
+        <content type="html"><![CDATA[개인적으로 초콜릿은 인간이 만들어낸 가장 합법적인 달콤한 마약이라 생각하는데요.
+저혈당으로 고생하시는 분, 기분이 우울하거나 안좋을 때, 급히 열량을 채워야 할 때 우리는 초콜릿으로 한방에 해결이 가능했지요.&nbsp;
+그런데...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추후엔 메타버스로 땅을 살 수 있다던데]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/399</id>
+        <link href="https://factchecker.or.kr/fc_suggests/399"/>
+        <updated>2021-11-18T01:02:22.443Z</updated>
+        <content type="html"><![CDATA[가능한 일인가요? 미래의 메티버스는 어디까지 발잔할까요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 내는 배달비엔 정말로 라이더의 보험료가 포함되어 있나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/398</id>
@@ -73,20 +89,5 @@ https://www.8...]]></content>
         <updated>2021-11-15T17:25:08.952Z</updated>
         <content type="html"><![CDATA[&nbsp;
 샤워할 때 머리카락 7~10개 이상 빠지면 위험한 상태의 모발이라고요? 10개 이상 빠지는 거 아닌가요? (나만 그런가..) 영양제 광고가 뒤에 붙어있는 걸 보니 광고계정인 것 같은데, 광고라 하더라도 사실을 토...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의당 심상정 후보가 '오유야 미안해' 현수막을 걸도록 했나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/389</id>
-        <link href="https://factchecker.or.kr/fc_suggests/389"/>
-        <updated>2021-11-15T17:25:08.954Z</updated>
-        <content type="html"><![CDATA[트위터를 보다가 정의당 심상정 후보가 과거 오유와 미안해 현수막을 걸었다(걸도록 했다는 의미겠죠?)는 내용을 봤습니다. 인용 트윗들에서도 원래 그런 사람인 줄 몰랐냐, 허위다 등 의견이 나뉘고 있네요. girls do n...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국에서 돌아 다닌다는 한국 쿠데타 찌라시의 출처가 어디인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/388</id>
-        <link href="https://factchecker.or.kr/fc_suggests/388"/>
-        <updated>2021-11-15T17:25:08.955Z</updated>
-        <content type="html"><![CDATA[중국에서 한국의 군사 쿠데타, 전 대통령 복귀와 같은 찌라시가 돌아다닌다고 합니다. 당연히 사실이 아닙니다. 실제로 찌라시가 중국에서 유포되고 있는지, 그렇다면 출처는 어디고 목적은 무엇인지 궁금합니다.
-관련 링크 - ...]]></content>
     </entry>
 </feed>
