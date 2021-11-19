@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 18:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 19:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,6 +370,30 @@ https://www.8...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--366c2ba5f83ebb564b9cd04ac4fb9d13f980ee73/5c7c61e55e882bb17d7f749ca1e433ac.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[지방자치단체장, 지방세 체납 외국인 출국금지 요청 가능 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2957</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2957</guid>
+            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “지방자치단체장은 3000만원 이상 지방세를 체납한 외국인에 대해 출국금지 요청을 할 수 있고, 국내 체류 연장 및 재입국 심사시 비자 제한도 가능하다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14b245454b70a53fbb9e58454edcfde519b6e096/f9c07f2ded509305a2c993956da21181.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[코호트 격리 중 증상악화 환자, 신속히 중증병상 확보해 이송 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2956</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2956</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “코호트 격리 중인 의료기관에서 증상이 악화되는 환자는 신속히 중증 병상을 확보해 이송하도록 하고, 의료진 및 돌봄 관련 인력을 신속히 지원하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11c21ae9d2c2ee77fee754457c20c7e7fa42b03a/196639c7da4e3ea147d8c50786fb49e6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 요소 수출전 검사 의무화 조치 WTO 제소 여부, 입장 정한바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2955</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2955</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “중국의 요소 수출 전 검사 의무화 조치에 대한 WTO 제소 여부와 관련해 입장을 정한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16e3b43ef3f2b502d3b5406166049afac152d43e/bb760b9de301e5ca1bed32fdc4a08521.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[음식 배달 플랫폼 업체, 배달기사 안전 보호 의무 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2938</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2938</guid>
@@ -424,30 +448,6 @@ https://www.8...]]></content:encoded>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “도로공사, 국토관리청, 자치단체 등 관계기관에서는 염화칼슘을 포함한 제설재를 작년 사용량 76.8만톤 대비 101%인 77.8만톤을 이미 확보했다”면서 “향후 제설에 차질이 없도록 관계기관과 함께 제설재 재고량을 지속적으로 모니터링 하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b56142f45382beec138d598eee6c14747f9378c/f88d47cda382bdf6dcfd4e7b64935e9b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[요소수 부족 농가에 임대사업소 농기계 우선임대 조치 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2927</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2927</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “요소수가 필요한 농기계는 트랙터·콤바인이며, 요소수가 부족한 농가에 임대사업소 농기계를 우선 임대하도록 조치했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6b5615802b55f3ca2fb5507995faa89e476b55e/e1833de4cff2fcd271d17d58b549d1f9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전체 수입콩 공급량, 전년과 비슷한 수준 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2926</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2926</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “전체 수입콩(식용대두) 공급량은 과거와 비슷한 수준으로 유지하고 있고 부족량은 업계의 신청을 받아 추가 공급 중”이라며 “수입콩의 공급 방식은 업계의 다양한 의견을 반영해 도입·운영하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e80237857fd4139eb3989ef7376c180ea25b45a/3e56840ba0eae80fc059416cb8b6e438.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[배추 출하지 확대로 수급 호전 전망…무 가격 전·평년보다 낮은 수준 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2925</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2925</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “배추는 전남지역에서 출하가 확대되는 등 공급량이 증가하면서 수급이 안정될 것으로 전망되며, 무 가격은 전년과 평년보다 낮은 수준에서 유지 중이며, 향후 공급이 증가해 가격은 안정적인 수준일 것으로 예상된다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6d261f64abaee8ebc495109cf6f883b60600cb2/a00e7f3487ba6382302a6f1565f1137e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[김준일 뉴스톱 대표, '국토보유세' 이중과세 주장은 사실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
