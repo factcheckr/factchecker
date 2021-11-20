@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 13:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 14:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출산장려금, 인구증가에 효과가 없다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/256</link>
+            <guid>https://factchecker.or.kr/fc_subjects/256</guid>
+            <pubDate>Sat, 20 Nov 2021 14:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[※ 경기미디어센터 시니어팩트체크기자단 긴가민가팀(정진보, 송세근, 김광훈, 성기영)이 함께 한 기사입니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김준일 뉴스톱 대표, '국토보유세' 이중과세 주장은 사실일까?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/255</link>
@@ -97,14 +105,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <content:encoded><![CDATA[최근&nbsp;원전산업이 침체를 겪으면서 소형모듈원전(SMR)이 원전업계&nbsp;구원투수로서 주목을 받고 있다. 소형모듈원전은 기존 대형원전의 3분의1에서 6분의1 출력을 가진 소규모 원전이다.&nbsp;기존 대형원전은 중후장대하기 때문에&nbsp;출력조절이 어렵고 사고시 전력망에 큰 타격을 준다는 단점이 있다. SMR은 이런 단점을 최소화할 것이란 기대를 받고 있다. 송영길 더불어민주당 대표는 2021년 5월 당대표 선출 뒤 문재인 대통령과의 만남에서 미국과 SMR 협력이 필요하다는 발언을 해&nbsp;탈원전을 내세운 문재인 정부와 엇박자라는 지적도 나왔다.&nbsp;조 바이든 미국 대통령도&nbsp;SMR에 투자하겠다는 발표를 한 바 있으며&nbsp;선진국들이 앞다퉈 SMR에 투자를 하고 있다는 언론보도도 나왔다. .&nbsp;
 그래서 일부 언론은&nbsp;SMR이 기존 원전을 대체할 것이란 전망을 내놓고 있다.&nbsp;매일경제는 석탄화력발전소를 대체할 수 있는 사실상 유일한 청정 에너지원으로 평가되고 있다고 밝혔으며&nbsp;연합뉴스TV는 소형모듈원전, SMR은 LNG발전...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[에너지전환 팩트체크] 수소차는 친환경차의 ‘끝판왕’이다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/232</link>
-            <guid>https://factchecker.or.kr/fc_subjects/232</guid>
-            <pubDate>Mon, 01 Nov 2021 08:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[‘‘친환경차의 끝판왕’ 수소차, 미세먼지도 99.9% 거른다 2018년 11월 18일 중앙일보가 보도한 기사의 제목이다. 당시 정부가 ‘클린 디젤’ 정책을 공식 폐기한다고 선언하자, 사라지는 경유차의 대안으로 수소차에 주목한다는 내용을 담고 있다.대표적인 수소차 ‘넥쏘’의 제조사인 현대자동차도 “넥쏘는 수소와 산소의 결합으로 어떠한 오염물질 없이 오직 에너지와 물만을 발생시키고, 달리면서 PM2.5 이하의 초미세먼지까지 걸러내는 궁극의 친환경차입니다.”라고 소개하고 있다.하지만 수소차에 대한 우려도 많다. 경제성에 대한 지적이 큰 가운데, 연료인 수소제조과정을 감안하면 ‘궁극의 친환경차’가 아니라는 주장도 있다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

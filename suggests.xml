@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-20T13:23:48.131Z</updated>
+    <updated>2021-11-20T14:18:16.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나로 배달 많이 하는데 배달기사분들 수입 많다고 하더라고여]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/409</id>
+        <link href="https://factchecker.or.kr/fc_suggests/409"/>
+        <updated>2021-11-20T14:17:35.264Z</updated>
+        <content type="html"><![CDATA[블로그 보면 한 달에 500백만원씩 버는 분들도 있다고 하더라고요..... 일거리라 많아져서 그런걸까요? 플랫폼에서 수수료 많이 땐다고 하던데 아닌건가 싶기도 하고...
+배달기사분들 수입이 이렇게 많은게 사실일까요?
+...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 군대 급식에서 한우와 한돈 삼겹살이 줄어든다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/408</id>
@@ -76,15 +85,5 @@ https:/...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/398"/>
         <updated>2021-11-17T15:20:42.352Z</updated>
         <content type="html"><![CDATA[인사이트 기사에 따르면 지금 배달료가 3~4000원이 된 이유는 라이더들의 보험료가 포함되어 있기 때문이라고 했습니다. 인사이트는 기사 내에 정확한 출처를 밝히지 않았는데요. 정말로 배달료에 라이더들의 보험료와 벌금 등이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라스틱 Other는 재활용이 되지만 비닐봉투 Other는 재활용이 불가능하다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/397</id>
-        <link href="https://factchecker.or.kr/fc_suggests/397"/>
-        <updated>2021-11-16T06:21:48.887Z</updated>
-        <content type="html"><![CDATA[요즘 분리수거에 관심이 많은데요.&nbsp;
-Other 라고 써 있는 비닐은 그냥 일반 쓰레기라는 커뮤니티 게시글을 봤습니다.&nbsp;
-플라스틱 Other는 재활용이 되는 걸로 알고 있는데 맞는지 헷갈리네요.&nbsp;
-확인해 봤으면 좋겠어...]]></content>
     </entry>
 </feed>

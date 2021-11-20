@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2021-11-20T13:23:48.136Z</updated>
+    <updated>2021-11-20T14:18:16.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[출산장려금, 인구증가에 효과가 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/67</id>
+        <link href="https://factchecker.or.kr/fc_publications/67"/>
+        <updated>2021-11-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 감사원 발표 자료
+1.1. 전국 합계출산율 변화 추이
+
+
+
+&nbsp;
+
+
+
+
+세종의 소리
+
+1.2. 해남군 출산율 변화 추이(2009~2018)
+감사원은 출산장려금의 효과가 없다는 것을 전남 해남군의 예를 들었습니다. 2012년 해남군이 출산지원금을 대폭 올리자 합계출산율이 급등했습니다. 그러나 2016년 이후로 합계출산율이 계속 떨어졌습니다. 출산지원금을 받고 그 지역을 떠나는 사람들이 많았다고 합니다. 해남군에서도 이를 인지하고 인구정책과를 신설하고 파격적이고 선제적인 정책을 시급하게 시행해야 한다는 의견을 내놓았습니다. 감사원의 발표 이후, 언론에서는 해남군의 예를 들어 소위 먹튀 때문에 출산지원금이 효과가 없다는 기사를 쏟아냈습니다.
+
+
+
+
+자료: 통계청
+
+
+
+※ 해남군의 입장
+
+&nbsp;
+2. 반론
+2.1. 출산지원금 확대 이전 보다 높은 현재의 합계출산율
+감사원이 발표한 전남 해남군의 합계출산율 그래프를 확인해 보면, 출산장려금...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준일 뉴스톱 대표, '국토보유세' 이중과세 주장은 사실일까?]]></title>
         <id>https://factchecker.or.kr/fc_publications/66</id>
@@ -108,23 +142,5 @@ US 밀리터리 드랍테스트(MIL-STD-810)를 통과했다는 증거는 어디
 매일경제, 머니투데이, 서울경제는 다음과 같은 헤드라인으로 서울 아파트 전셋값이 임대차 3법 이전보다 27% 급등했다는 기사를 보도했습니다. 그리고 최근 전셋값의 급등의 원인을 임대차 3법 때문이라며 시행 전후의 1~3달 정도의 자료를 비교했습니다.
 
 매일경제, 2021년 7월 26일, 4% 오르던 서울 전...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피에 든 카페인이 Ca흡수를 막아 뼈 건강을 해치는 주범이 될 수 있다]]></title>
-        <id>https://factchecker.or.kr/fc_publications/56</id>
-        <link href="https://factchecker.or.kr/fc_publications/56"/>
-        <updated>2021-09-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-가. 커피의 화학적 성분
-카페인, 트리고넬린, 클로로겐산(폴리페놀), 비페놀성 카르본산, 탄수화물(당류), 아미노산 단백질, 지질, 무기물질, 비타민, 아로마, 멜라노이딘 등
-▶카페인 [Caffeine]
-카페인은 꼭두서니과(Rubiaceae) 커피(Coffee)속 식물의 주요 2차대사산물로 퓨린(purine) 알칼로이드(alkaloid) 계열의 물질이다. 다른 식물의 발아를 억제하며 살충제로도 사용되었다.
-나. 골다공증을 일으키는 요인
-1) 폐경기 이후의 여성
-에스트로겐은 골밀도를 유지하는데 중요한 역할을 한다. 하지만 폐경으로 인해 더 이상 호르몬이 분비되지 않게 되면서 위험도가 크게 증가하게 된다.
-2) 비타민 D의 결핍
-비타민D는 뼈의 강도를 높여주는데 필요한 요소인데, 햇볕을 쬘 때 생성된다. 직장인 및 학생들의 경우 낮 시간대에 주로 실내에서만 생활하기 때문에 결핍이 발생되기 쉽다.
-3) 흡연 및 카페인 섭취
-카페인 섭취와 흡연을 하는 습관은 칼...]]></content>
     </entry>
 </feed>
