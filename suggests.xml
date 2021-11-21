@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-21T11:18:21.629Z</updated>
+    <updated>2021-11-21T12:30:47.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여자는 루테인을 먹으면 안되나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/436</id>
+        <link href="https://factchecker.or.kr/fc_suggests/436"/>
+        <updated>2021-11-21T12:30:06.871Z</updated>
+        <content type="html"><![CDATA[여자가 절대 먹지 말아야할 영양제가 있는데 그 중에 하나다 루테인이라고 합니다.
+진짜인지 궁금합니다.
+https://m.pann.nate.com/talk/356938753
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산부인과에서 생리, 발육 상태 확인은 성희롱이라는 여성가족부의 발언]]></title>
         <id>https://factchecker.or.kr/fc_suggests/435</id>
@@ -68,12 +78,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/426"/>
         <updated>2021-11-21T09:19:07.026Z</updated>
         <content type="html"><![CDATA[키가작으면 작을수록 남자는 옷을 더잘입는더는데 팩트인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 한봉지 면의 길이가 아파트 13층높이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/425</id>
-        <link href="https://factchecker.or.kr/fc_suggests/425"/>
-        <updated>2021-11-21T02:33:11.629Z</updated>
-        <content type="html"><![CDATA[너무궁금해요]]></content>
     </entry>
 </feed>
