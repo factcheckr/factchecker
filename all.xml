@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 12:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 13:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[빨대 안쓰기가 해양쓰레기 줄이기에 도움이 되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/437</link>
+            <guid>https://factchecker.or.kr/fc_suggests/437</guid>
+            <pubDate>Sun, 21 Nov 2021 13:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[환경을 위해서 빨대소비와 일회용 플라스틱 쓰레기를 줄여야한다는 목소리가 계속되고 있는데요.
+공익광고는 일회용품사용에 대해 경각심을 불러일으키고, 환경관련 챌린지나 캠페인은 다회용기쓰기, 빨대사용하지 않기처럼 개인들이 배출...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[여자는 루테인을 먹으면 안되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/436</link>
             <guid>https://factchecker.or.kr/fc_suggests/436</guid>
@@ -274,13 +282,6 @@ https://m.pann.nate.com/talk/356938753
             <guid>https://factchecker.or.kr/fc_suggests/427</guid>
             <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[상처에 소독약을 바르면 회복속도가 느려진다는데 팩트인가요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팩트인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/426</link>
-            <guid>https://factchecker.or.kr/fc_suggests/426</guid>
-            <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[키가작으면 작을수록 남자는 옷을 더잘입는더는데 팩트인가요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 택시에 두고내린 휴대폰 돌려받을 때 적정 보상금은? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
