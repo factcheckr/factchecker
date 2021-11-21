@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-21T09:19:48.971Z</updated>
+    <updated>2021-11-21T10:22:00.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[산부인과에서 생리, 발육 상태 확인은 성희롱이라는 여성가족부의 발언]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/435</id>
+        <link href="https://factchecker.or.kr/fc_suggests/435"/>
+        <updated>2021-11-21T10:21:15.912Z</updated>
+        <content type="html"><![CDATA[커뮤니티에서 이슈가 된 글입니다. 자궁경부암 무료 백신 접종 정부 사업 혜택을 받기 위해 병원에 온 청소년에게 의사가 생리나 유방 발육 상태를 물을 때 수치심을 느끼면 성희롱에 해당된다는 여가부의 발언이 있었는데요.&nbsp;
+...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 접종]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/434</id>
+        <link href="https://factchecker.or.kr/fc_suggests/434"/>
+        <updated>2021-11-21T10:21:15.915Z</updated>
+        <content type="html"><![CDATA[코로나 백신 접종전날 삼겹살을 먹으면 부작용이 없다는데 팩트체크 부탁드려요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산성비]]></title>
         <id>https://factchecker.or.kr/fc_suggests/433</id>
@@ -60,19 +75,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/425"/>
         <updated>2021-11-21T02:33:11.629Z</updated>
         <content type="html"><![CDATA[너무궁금해요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천재화가 피카소는 1973년까지 살아있었다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/424</id>
-        <link href="https://factchecker.or.kr/fc_suggests/424"/>
-        <updated>2021-11-21T02:33:11.630Z</updated>
-        <content type="html"><![CDATA[궁금합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올림픽 금메달은 사실 99%가 은이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/423</id>
-        <link href="https://factchecker.or.kr/fc_suggests/423"/>
-        <updated>2021-11-21T02:33:11.632Z</updated>
-        <content type="html"><![CDATA[나머지1퍼만 순금인가요]]></content>
     </entry>
 </feed>
