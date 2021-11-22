@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 01:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '블프'에 해외 직구해 남에게 되팔아도 될까? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2970</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2970</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 미국 블랙프라이데이(26일)를 앞두고 해외 직접구매(직구)가 늘어날 것으로 예상된다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c7c9e0f142b036dcc71be32050d2bf396ab0736/e6806a53ef96f8e1df87669d60be159d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 택시에 두고내린 휴대폰 돌려받을 때 적정 보상금은? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2968</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스포스트=박재령 기자] 화이자 CEO도 자기 회사 백신 안 맞았으면 말 다한거지...백신 관련 기사에는 화이자 CEO가 백신을 맞지 않았다는 댓글이 꾸준히 달린다. 백신 회사 CEO도 맞지 않은 백신을 대중에게 실험하고 있다는 것이다. 포털에 검색하면 화이자 CEO가 백신을 맞지 않아 불안하다는 글이 다수 보인다.불안이 생긴 이유는 지난해부터 이어진 언론 보도 때문이다. 다수 언론이 지난해 12월 앨버트 불라 화이자 CEO의 CNN 인터뷰를 인용하며 화이자 CEO, 아직 백신 접종 안했다는 기사를 연속 보도했다. 올해]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e350df0f6a0a6246a820e81482d874f4cbffe958/d7b9862c8adba6ea3d408b93f0753dad.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 아파트 놀이터에 온 외부 어린이 관리실에 두면 감금죄?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2959</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2959</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한 아파트 입주민 대표가 아파트 놀이터에서 놀고 있던 외부 어린이들을 ‘주거침입’과 ‘기물파손’ 혐의로 신고하며 논란이 일었습니다. 게다가 어린이들을 관리실에 잡아 두었던 것으로 알려지면서, 어린이 중 한 명의 부모는 청와대 청원까지 올렸습니다. 이후 해당 주민대표가 언론을 통해 ‘주거침입’이라는 주장을 되풀이하자, 일부에서는 오히려 아이들에 대한 불법감금, 협박, 아동보호법 위반이라는 주장이 제기됐습니다.주민대표의 ‘주거침입’ 주장에 대해서는 JTBC와 채널A 등 여러 언론이 팩트체크 보도 등을 통해 확인했습니다. 대부분]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10ad8b96d2b24c783a5de1e39e42e0f6b9ec8f1a/6cdfb1c9118779dc8ea4a49e07309ad8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

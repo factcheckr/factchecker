@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 01:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,6 +284,14 @@ https://m.pann.nate.com/talk/356938753
             <content:encoded><![CDATA[상처에 소독약을 바르면 회복속도가 느려진다는데 팩트인가요?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] '블프'에 해외 직구해 남에게 되팔아도 될까? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2970</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2970</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 미국 블랙프라이데이(26일)를 앞두고 해외 직접구매(직구)가 늘어날 것으로 예상된다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c7c9e0f142b036dcc71be32050d2bf396ab0736/e6806a53ef96f8e1df87669d60be159d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 택시에 두고내린 휴대폰 돌려받을 때 적정 보상금은? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/2968</link>
             <guid>https://factchecker.or.kr/fc_archives/press/2968</guid>
@@ -356,12 +364,20 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e350df0f6a0a6246a820e81482d874f4cbffe958/d7b9862c8adba6ea3d408b93f0753dad.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 아파트 놀이터에 온 외부 어린이 관리실에 두면 감금죄? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2959</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2959</guid>
+            <title><![CDATA[다주택자도 주택 보유세 세부담상한 적용 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2972</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2972</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “기사에서 언급된 사례는 재산세를 고려하지 않고, 2020년 및 2021년 종부세만을 비교한 예외적인 사례”라면서 “다주택자도 주택 보유세 세부담상한이 적용된다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f89666ee12ed13478bea03fe8049d3532b1ed1b/0337f500720c1a3bdbcc14e7ed33fb94.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이로-SFR 연구 재개 결정한 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2971</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2971</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한 아파트 입주민 대표가 아파트 놀이터에서 놀고 있던 외부 어린이들을 ‘주거침입’과 ‘기물파손’ 혐의로 신고하며 논란이 일었습니다. 게다가 어린이들을 관리실에 잡아 두었던 것으로 알려지면서, 어린이 중 한 명의 부모는 청와대 청원까지 올렸습니다. 이후 해당 주민대표가 언론을 통해 ‘주거침입’이라는 주장을 되풀이하자, 일부에서는 오히려 아이들에 대한 불법감금, 협박, 아동보호법 위반이라는 주장이 제기됐습니다.주민대표의 ‘주거침입’ 주장에 대해서는 JTBC와 채널A 등 여러 언론이 팩트체크 보도 등을 통해 확인했습니다. 대부분]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10ad8b96d2b24c783a5de1e39e42e0f6b9ec8f1a/6cdfb1c9118779dc8ea4a49e07309ad8.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[과학기술정보통신부는 “파이로-SFR 연구 재개를 결정한 바 없으며, 사용후핵연료 처리기술 적정성 검토위원회의 검토 결과를 통해 연구개발 지속 여부를 결정할 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b205e62038324578368dc3ca3d4f69d6943192d/7d86627855d581b3b29fb7360dd13530.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[지방자치단체장, 지방세 체납 외국인 출국금지 요청 가능 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -426,22 +442,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “가상자산 과세 인프라는 차질 없이 준비 중에 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--80d423129a698df7ad6dea6beb21666db58ac2c1/5f5aa7c8ba494be048256dcca557993b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[시멘트 생산 지역자원시설세, 이중과세·중복부담? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2929</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2929</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “시멘트 생산에 대한 지역자원시설세 신설과 관련해 시멘트업계가 주장하는 이중과세 논란과 중복부담이라는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0cad1aac15ff2671eea38dcea9a92312ae2fe9a7/226d44dcbd5132c55720d1b970bdedc3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[염화칼슘 포함한 제설재, 지난해 대비 101% 이미 확보 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2928</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2928</guid>
-            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “도로공사, 국토관리청, 자치단체 등 관계기관에서는 염화칼슘을 포함한 제설재를 작년 사용량 76.8만톤 대비 101%인 77.8만톤을 이미 확보했다”면서 “향후 제설에 차질이 없도록 관계기관과 함께 제설재 재고량을 지속적으로 모니터링 하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b56142f45382beec138d598eee6c14747f9378c/f88d47cda382bdf6dcfd4e7b64935e9b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[출산장려금, 인구증가에 효과가 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
