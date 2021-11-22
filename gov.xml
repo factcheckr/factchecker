@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 15:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 16:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제곡물 위기단계, 수출제한 등 요인 종합적 판단해 결정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2976</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2976</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[농림축산식품부는 “국제곡물 위기단계는 조기경보지수(농촌경제연구원)뿐만 아니라 물류, 수출제한 등 요인도 종합적으로 판단해서 결정하고 있으며 지난 4월 ‘주의’ 단계로 판단, 국내 영향 최소화 방안을 추진 중”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--61797d5f6e1754bab338b4778117149bf011924f/c9f0051428b66b3e29c47336aed0dc58.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[다주택자도 주택 보유세 세부담상한 적용]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2972</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “청년친화강소기업의 결격 요건을 강화하는 등 우수한 청년친화강소기업을 선정하기 위해 노력하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7599ceb4c8c6c3f3eb165dca4235f99f6b83c5c4/34670a73d4cfe9b247a158df8bd101d2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 과세 인프라 차질 없이 준비 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2930</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2930</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “가상자산 과세 인프라는 차질 없이 준비 중에 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--80d423129a698df7ad6dea6beb21666db58ac2c1/5f5aa7c8ba494be048256dcca557993b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
