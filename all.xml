@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 09:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,10 +119,10 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <title><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/259</link>
             <guid>https://factchecker.or.kr/fc_subjects/259</guid>
-            <pubDate>Tue, 23 Nov 2021 08:23:33 GMT</pubDate>
+            <pubDate>Tue, 23 Nov 2021 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[한 커뮤니티에 암행순찰차 관련 글이 올라왔습니다.&nbsp;추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소지가 있는지 궁금합니다.
 관련 링크: https://www.fmkorea.com/best/4059318010&nbsp;&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대다수 국민들에게 종부세가 폭탄인가? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -455,6 +455,13 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7599ceb4c8c6c3f3eb165dca4235f99f6b83c5c4/34670a73d4cfe9b247a158df8bd101d2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/69</link>
+            <guid>https://factchecker.or.kr/fc_publications/69</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 암행순찰차란?암행순찰차는 정체를 숨기고 활동하는 순찰차로 일반 경찰차의 역할 외에 속도위반이나 난폭 운전 등을 단속하는 차량인데 &nbsp;겉으로 보기에는 그 어떤 표시도 없어 암행순찰차량이라는 것을 알 수가 없다. 그러나 단속을 하게 되는 경우, 내부에서 버튼을 누르면 암행경찰이라는 문구가 뜨고 경광등 사이렌이 작동되면서 경찰차라는 것을 인지하게 되는데, 암행순찰차는 외관이 일반 승용차와 거의 똑같다. 유일한 차이는 보닛과 좌우 도어에 경찰 마크가 부착되었다는 점이지만, 마그네틱 방식(자석식)이라 탈부착이 가능하다고 한다. &nbsp;영화에서도 가끔 등장하기도 한다. 또한 차량 내부 전·후방에는 적색·청색 LED 실내 경광등이 있으며, 차량 전면 그릴 내부에도 보조 경광등이 장착되어 있고, 후면 유리에는 경고 또는 단속 문구를 표시하는 LED 전광판과 슬림형 내부 경광등이 있다. &nbsp; 이 밖에 확성기와 시그널 등이 설치되어 있으며, 고성능 블랙박스, 과속 차량의 속도 측정 장치 등 교통법규...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대다수 국민들에게 종부세가 폭탄인가? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/68</link>
             <guid>https://factchecker.or.kr/fc_publications/68</guid>
@@ -583,16 +590,6 @@ US 밀리터리 드랍테스트(MIL-STD-810)를 통과했다는 증거는 어디
             <guid>https://factchecker.or.kr/fc_publications/60</guid>
             <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 발단2021년 1월 가압 중수로형인 월성원자력 발전소 사용후 핵연료 저장조 주변 지하수에서도 삼중수소가 검출되면서 저장 수조의 손상 가능성이 제기되고 있는데, 월성 4호기의 경우 2016년 경주 지진 이후 지하수 관측정의 방사능 수치가 크게 올라가는 특이한 양상을 보였다.&nbsp;&nbsp;특히 월성 4호기 저장수조에서 감마핵종 누출이 확인됐고, 삼중수소 검출량도 다른 원전보다 높아 지진 관련 여부에 대한 정밀 조사가 시급하다면서 한수원이 월성원전 4호기와 백여미터 떨어진 감시 우물을 조사한 삼중수소 측정 결과는 지난 2013년부터 2,000 베크렐 수준이던 삼중수소가 2017년부터 급격히 상승해 3,700 베크렐까지 올라가는 양상을 보인데 대해 전문가들은 2016년 9월 경주지진으로&nbsp; 인해 지하 구조물인 월성4호기 사용후 핵연료 저장조나 배관 등 주요 관련 설비가 손상돼 방사성 물질이 누출됐을 가능성을 제기했다.&nbsp;(포항MBC 뉴스 : http://www.phmbc.co.kr/www/ne...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 이후 아동폭력 신고수와 증가율은 줄어들었는가? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/59</link>
-            <guid>https://factchecker.or.kr/fc_publications/59</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 올해 아동학대 신고 급감...코로나에 숨겨진 학대 늘어난 것
-아동학대 범죄의 80%는 가정에서 발생한다. 아동학대는 은밀하게 이뤄지는 범죄 특성 때문에 공식 통계로 드러나지 않아 ‘암수(暗數)범죄’라고도 불린다. 코로나19 사태가 장기화되면서 은폐된 아동학대가 적지 않을 것이라는 우려가 커지고 있다. 올해 1학기 초중고 등교개학이 4차례나 연기되고 등교가 단속적으로 미뤄지면서 아동들이 집안에 머무는 시간이 길어졌기 때문이다. 부모에게 방치되거나 비명조차 내지 못한 채 학대에 시달리는 아동들이 적지 않을 것이라는 얘기다. 아동보호의 최일선에서 일하는 아동보호전문기관의 사회복지사와 아동복지 정책 전문가들은 코로나19 장기화가 아동학대의 사각지대에 놓인 위기 아동들의 사정을 더욱 악화시켰을 것이라고 입을 모은다.
-
-보건복지부 산하 아동권리보장원에 따르면 2020년 올해 1~8월 아동학대 의심 신고 건수는 2만5,994건으로 2019년 지난해 같은 기간(2만7,806건)보다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
