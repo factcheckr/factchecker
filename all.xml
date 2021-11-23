@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,13 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[한국인 아보카도 섭취량 연 6,500톤? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/439</link>
+            <guid>https://factchecker.or.kr/fc_suggests/439</guid>
+            <pubDate>Tue, 23 Nov 2021 17:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[다음카페 [밀리토리네]에 인기글에 등록된 글입니다. 해당 글은 한 기사를 바탕으로 작성됐는데요. 2018년, 한국인은 아보카도 6,500톤을 먹었다고 합니다. 2017년보다 2배 늘어났고, 2008년보다 12배 늘어났다고...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대다수 국민들에게 종부세가 폭탄이 맞나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/438</link>
             <guid>https://factchecker.or.kr/fc_suggests/438</guid>
@@ -286,13 +293,6 @@ https://m.pann.nate.com/talk/356938753
             <guid>https://factchecker.or.kr/fc_suggests/429</guid>
             <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;라면 그 철냄비말고 노란냄비로 먹으면 더 건강에 안좋다는거 사실인가요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주변에서 민식이법이 악법이라는데 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/428</link>
-            <guid>https://factchecker.or.kr/fc_suggests/428</guid>
-            <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[악법인지 팩트가 궁금합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["한국 치킨 작고 맛없다"…황교익 주장 사실일까 [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -375,6 +375,22 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dcf2f8552e34762dae8d3901bf3cd2e3b94943dc/a096b2c18f6460848fdc584eb33600a6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[2021년 종합부동산세 고지 관련, 사실은 이렇습니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2988</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2988</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 22일 발송된 2021년 종합부동산세 납부고지서 및 안내서와 관련, 현재 제기되고 있는 주요 쟁점에 대한 추가 설명자료를 배포하고 다음과 같이 설명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--19b3162a936684d6269fd558f61b1c8dd488e9a0/321046956248edf85bb3df0e291843b9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[온플법 관련 플랫폼 규제법안 중복규제 문제, 부처간 협의 통해 해소 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/2987</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/2987</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “온플법 관련, 플랫폼 규제 법안의 중복규제 문제는 부처간 협의를 통해 해소됐으며, 관련부처와의 협의 규정은 과잉·중복규제 및 중복조사 방지를 위한 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e259d589b8f1885e39285d99b0e8fda9b6e9d94/d1c27661aa13121ad70fae825c80bbbd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[국제곡물 위기단계, 수출제한 등 요인 종합적 판단해 결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2976</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/2976</guid>
@@ -437,22 +453,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부와 국토교통부는 “농어촌버스 등 공공목적 분야에 요소수 20만리터 우선 공급을 완료했다”면서 “범부처 요소수 수급 TF를 통해 수급에 차질이 없도록 대응할 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9791b6620e203657f81c37693196629be3281ccf/bb2729b721287c83888f0ac34c296c81.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030년까지 암모니아 발전·2035년까지 수소발전 상용화 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2936</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2936</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “정부는 2030년까지 암모니아 발전을 상용화하고, 2035년까지 수소발전을 상용화할 계획”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcThXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2ee2ea401854bc3c5265ce4a600f2d8e9fefacda/57d8bb8f7a9337b27dedf76d7eb8683e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[우수 청년친화강소기업 선정 위해 결격 요건 등 강화 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2935</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2935</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “청년친화강소기업의 결격 요건을 강화하는 등 우수한 청년친화강소기업을 선정하기 위해 노력하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7599ceb4c8c6c3f3eb165dca4235f99f6b83c5c4/34670a73d4cfe9b247a158df8bd101d2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
