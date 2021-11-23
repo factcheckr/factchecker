@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-23T07:20:01.642Z</updated>
+    <updated>2021-11-23T08:24:18.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/259</id>
+        <link href="https://factchecker.or.kr/fc_subjects/259"/>
+        <updated>2021-11-23T08:23:27.360Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/259">한 커뮤니티에 암행순찰차 관련 글이 올라왔습니다.&nbsp;추천을 많이 받은 한 댓글에 단속안내를 안했으니 불법아닌가하는 내용이 담겨 있었습니다.&nbsp;암행순찰차는 단속안내 없이 과속 단속하는 것으로 알고 있는데 불법의 소지가 있는지 궁금합니다.
+관련 링크: https://www.fmkorea.com/best/4059318010&nbsp;&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대다수 국민들에게 종부세가 폭탄인가?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/258</id>
@@ -102,14 +111,6 @@ https://www.hankyung.com/economy/article/2021110216441&nbsp;
 &nbsp;
 
 ▲노태우 전 대통령 사망&nbsp;당일 나온 다수의 언론 보도
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에너지전환 팩트체크] 한국의 에너지전환, 과속이다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/234</id>
-        <link href="https://factchecker.or.kr/fc_subjects/234"/>
-        <updated>2021-11-01T09:20:03.989Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/234">일부 언론들이 에너지전환 정책을 바라보는 시각은 과속이다. 기회있을 때마다 과속론을 꺼내들며 속도조절을 외친다. 우리 사회는 아직 준비가 안 돼 있다는 게 핵심 논리이다.
 </a>]]></content>
     </entry>
 </feed>
