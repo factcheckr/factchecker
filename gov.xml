@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 16:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴무일 포함된 달 취업시간 통계로 단시간 취업자 급증 표현은 부적절]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3001</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3001</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “휴무일이 포함된 달의 취업시간 통계로 단시간 취업자가 크게 증가했다는 표현은 적절하지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e69453207f458e3b06d87c6a6538fe53614e4add/64c38757c9142910c8851bc2728fe768.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 종합부동산세 고지 관련, 사실은 이렇습니다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/2988</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “산업안전보건법에 따라 음식 배달 플랫폼 운영 업체는 배달기사의 안전을 보호할 의무가 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--375548494687aa3584dc4f52e9ffa57e3c757152/7885bdd96ba665f8be4d4e7ddac66fbb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[농어촌버스 등 공공목적 분야에 요소수 20만리터 우선 공급 완료]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2937</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2937</guid>
-            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부와 국토교통부는 “농어촌버스 등 공공목적 분야에 요소수 20만리터 우선 공급을 완료했다”면서 “범부처 요소수 수급 TF를 통해 수급에 차질이 없도록 대응할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9791b6620e203657f81c37693196629be3281ccf/bb2729b721287c83888f0ac34c296c81.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
