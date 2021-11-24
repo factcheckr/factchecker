@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-24T15:22:00.903Z</updated>
+    <updated>2021-11-24T16:31:26.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국방헬프콜(1339) 관련 팩트체크]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/441</id>
+        <link href="https://factchecker.or.kr/fc_suggests/441"/>
+        <updated>2021-11-24T16:30:42.039Z</updated>
+        <content type="html"><![CDATA[한 커뮤니티 사이트에 올라온 국방헬프콜 관련 주장입니다. 주장은 아래와 같습니다. 신고의 의의는 익명성에 있는 것인데 아래 내용이 사실이라면 신고자에게 불이익이 가해질 수 있기 때문에 큰 문제로 보입니다.
+
+해당 댓글...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국 아파트 CCTV 월패드 해킹 사건 리스트 명단 공개에 충격..사생활 털렸다살구뉴스 DB 2021년 11월 다크웹에서 우리 나라의 일반 가정 생활상이 담긴 영상...]]></title>
         <id>https://factchecker.or.kr/fc_suggests/440</id>
@@ -77,12 +86,5 @@ https://m.pann.nate.com/talk/356938753
         <link href="https://factchecker.or.kr/fc_suggests/431"/>
         <updated>2021-11-21T09:19:07.021Z</updated>
         <content type="html"><![CDATA[대머리유전자 없으면 탈모 안 된다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[궁금합니다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/430</id>
-        <link href="https://factchecker.or.kr/fc_suggests/430"/>
-        <updated>2021-11-21T09:19:07.021Z</updated>
-        <content type="html"><![CDATA[정자가 산소에 접촉하면 (분출되어서 바깥으로 나오는경우) 공기속에 정자가 다 죽는다고 하는데 사실인가요?]]></content>
     </entry>
 </feed>

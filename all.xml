@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 15:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 16:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,15 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[국방헬프콜(1339) 관련 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/441</link>
+            <guid>https://factchecker.or.kr/fc_suggests/441</guid>
+            <pubDate>Wed, 24 Nov 2021 16:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[한 커뮤니티 사이트에 올라온 국방헬프콜 관련 주장입니다. 주장은 아래와 같습니다. 신고의 의의는 익명성에 있는 것인데 아래 내용이 사실이라면 신고자에게 불이익이 가해질 수 있기 때문에 큰 문제로 보입니다.
+
+해당 댓글...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전국 아파트 CCTV 월패드 해킹 사건 리스트 명단 공개에 충격..사생활 털렸다살구뉴스 DB 2021년 11월 다크웹에서 우리 나라의 일반 가정 생활상이 담긴 영상... (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/440</link>
             <guid>https://factchecker.or.kr/fc_suggests/440</guid>
@@ -325,11 +334,52 @@ https://m.pann.nate.com/talk/356938753
             <content:encoded><![CDATA[대머리유전자 없으면 탈모 안 된다?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[궁금합니다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/430</link>
-            <guid>https://factchecker.or.kr/fc_suggests/430</guid>
-            <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[정자가 산소에 접촉하면 (분출되어서 바깥으로 나오는경우) 공기속에 정자가 다 죽는다고 하는데 사실인가요?]]></content:encoded>
+            <title><![CDATA[[팩트체크]`치느님` 황교익 말처럼 클수록 싸고 맛있을까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2994</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2994</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이른바 `치느님`으로 추앙 받는 한국 치킨이 세계에서 가장 맛이 없다니. 황교익 맛 칼럼니스트의 주장에 업계는 물론 소비자들도 술렁이고 있다. 치킨으로 쓰이는 한국의 육계는 다른 나라에 비해 사육기간이 짧아 맛이 덜하고 가격은 비싸다는 게 황씨의 해석이다.‘치맥’ 문...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b290e32650ef78a0e4f6070ac6505f2d2885f377/87bc66c5fb27ad6d3400052e4112a44a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]종부세 등 보유세 주요국 보다 낮다? - 뉴스웨이 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2993</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2993</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘역대급’ 종합부동산세 과세가 22일부터 본격화된 가운데 조세저항 움직임이 심상치 않다. 논란이 커지자 기획재정부는 우리나라의 보유세 부담이 상대적으로 낮은 수준이라는 입장을 냈다. 집주인이 전·월세 가격을 올려 세입자에게 부담을 전가하는 경우도 제한적이라고 해명했다. 기획재정부는 23일 ‘2021년 종합종부세 고지 관련, 사실은 이렇습니다’라는 제목의 보도자료를 내고 “우리나라는 부동산가액 대비 부동산 관련 세수 비중이 주요국]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65831cb38e654889a8ebd4acdb90a3450e5dca06/644d64cfe5a7c282f681b99646b9e417.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 주식 격언 "11월에 사서 5월에 팔아라"…전략 통할까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2992</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2992</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[주식 격언 중 11월에 사서 5월에 팔아라는 말이 있다. 11월부터 5월까지 주가가 강세를 보이고 6월부터 10월까지는 주가가 상대적으로 부진하다는 것이다. 이 격언에 따르면 연말에는 배당금을 노린 투자에다 크리스마스 시즌의 소비 확대 기대감에 증시가 상승하는 산타랠리가 이어진다. 또 1월에는 새해를 맞아 기업 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f1fb7cd933acce39a8c0bb9a351f609aa6f6a81a/858500863a1a5b59d95716b7a5f5c43a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 루즈벨트, 공산주의적·사회주의적 정책 만들었다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2991</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2991</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 후보는 지난달 15일 당 대선후보로 선출된 이후 국회에서 열린 민주당 의원총회에 참석해 제가 가장 존경하는 경제 영역의 정치인으로는 루스벨트를 꼽고 있다며 대공황 시대에 사실 모두가 절망하고 미래가 암울할 때 당시로서는]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--151da1f47d8d3d79f130996c0028fab2a8f8a671/30e9cc39c62f661177eff086caef23ea.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 황교익 "한국 닭, 전세계에서 가장 작고 맛없다"? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2990</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2990</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘맛 칼럼니스트’ 황교익씨가 이번엔 “한국 닭이 전세계에서 가장 작고 맛없다”고 말해 논란이 일고 있다. 프랜차이즈 치킨 가격이 2만원을 넘어서는 상황과 결부해 ‘작은 닭’을 팔아 이익을 본 것은 닭고기 유통업체 뿐이었다는 지적도 덧붙였다. 뉴스톱은 황교익씨의 주장을 팩트체크했다. ①“한국 닭이 세계에서 가장 작아” … 사실황교익씨는 자신의 페이스북을 통해 “한국 닭이 세계에서 가장 작고 가장 맛없다”고 주장했다. 황교익씨의 이런 발언은 사실 2019년 이후 꾸준히 해 온 주장의 연장선이다. 그는 국립축산과학연구원의 연구보고서 등을]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1a3c42ec3ff1f0c1d2eeef84664717160d8b6324/aaf3947a0a31dd4b8925c72516056527.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] “국민 98%는 종부세 고지서 받지 않는다”는 정부… 한두살 아기도 종부세 대상? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/2989</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/2989</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[올해 정부가 고지한 주택분 종합부동산세(종부세) 부과 인원은 94만 7천명으로, 고지 세액은 5조 7천억원이다. 1인당 평균 600만원이다. 국세청은 지난 22일부터 고지서를 발송했다.종부세는 고액의 부동산 보유자에게 조세부담의 형평성 제고와 부동산의 가격안정을 도모한다는 목적으로 노무현 정부 시절 제정됐다.정부는 앞서 정확한 인원을 발표하기 전에도 국민의 98%는 고지서를 받지 않는다고 밝혔는데, 이번 발표에도 종부세 부과 인원은 2%밖에 되지 않는다는 입장을 고수하고 있다.다만 최종 결정세액은 납세자의 합산배제 신고 등에 따라]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ca3e8e1a8761ed71b4bcf18ee4a948792bcd2f4/d73c5437acd5d71f0d3549a902d70bf0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA["한국 치킨 작고 맛없다"…황교익 주장 사실일까 [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -362,54 +412,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 25억 이하 1주택자 종부세 50만원?...공제 적용 못받으면 세금폭탄]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3cf2f6f88f2d2ea719694b9c722a9595d218b303/502f441e87e014c7cc977c7198535090.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 이재명과 윤석열, 너무 태연해서 팩트체크했습니다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2982</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2982</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 12월 27일, 국회 본회의에서는 선거법 개정안 표결 처리가 예정돼 있었습니다. 선거법 개정안에 반대했던 자유한국당 의원들은 본회의장 곳곳을 봉쇄했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05553cb0a5a77ba6acae4995aef9b93c3c9358bc/3b0c923447c4b66ff4ca43edeecac14a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[난중일기, 호남 지방 사람 폄훼하는 구절 등장한다? 전문가 '관련 내용 등장하지 않아' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2981</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2981</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이순신 장군이 임진왜란 당시 집필한 난중일기에 호남 지방 사람을 폄훼하는 구절이 담겼다는 주장이 소셜미디어상에 반복적으로 공유됐다. 하지만 역사학자에 의하면 해당 내용은 난중일기를 비롯한 이순신 장군이 남긴 기록에 등장하지 않는다; 난중일기의 현대 한국어 번역본에서도 관련 구절을 찾을 수 없었다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9786ceb6f7533bb13298d76f60bf6629ca4c1371/a941bb6d96e7d3fe2c41f608c48f94e8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 사진은 2018년 11월 여의도에서 촬영된 것이다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2980</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2980</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사진 한 장이 이재명 더불어민주당 대통령 선거 후보가 부인 김혜경씨를 입원시킨 뒤 휴대폰으로 문자를 보내는 모습을 촬영한 것이라는 주장과 함께 2021년 11월 페이스북상에서 반복적으로 공유됐다. 하지만 이 주장은 사실이 아니다: 해당 사진은 2018년 11월 촬영된 것으로, 당시 경기도 지사였던 이 후보가 여의도 국회도서관에서 열린 세미나에 참석한 뒤의 모습을 담고있다.&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9bae9da01d6b9f20bc2b22d7b1525e4d7548b99a/7e0ac5f9487b77824f14156f9941d6a9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 파우치 소장, 마스크 착용을 '스페인 독감'의 원인으로 지목한 논문 집필? 전염병 대유행에 대한 대비책을 다룬 논문... 마스크와 무관 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2979</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2979</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국립알레르기·전염병 연구소(NIAID)의 앤서니 파우치(Anthony Fauci) 소장이 1918년 스페인 독감 사망자 대부분이 세균성 폐렴으로 사망했고, 이 세균성 폐렴은 마스크 착용으로 초래된 것이라는 내용을 담은 논문에 공동 저자로 참여했다는 주장이 소셜미디어상에서 반복적으로 공유됐다. 하지만 이 주장은 사실이 아니다: 주장이 인용한 논문은 2008년 파우치 소장이 공동 집필한 것으로, 전염병 대유행에 대한 대비책을 다루고 있으며, 마스크와 무관하다.&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92eb5bdfd9741a88693482b048b2a836124d1b49/ed4fd516d0714eab3d97e266225bd7b2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈&팩트(173)] 인천 흉기난동 현장이탈 여경, 직무유기 처벌 가능할까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2978</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2978</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시사위크=제갈민 기자 지난 15일 발생한 ‘인천 흉기난동 살인미수 사건’과 관련해 경찰의 부실 대응이 도마에 올랐다. 피해자 가족들은 흉기 난동 현장에서 부실한 대응으로 피해를 키운 경찰관들을 엄벌해달라며 청와대 국민청원에 게시글을 작성했으며, 해당 청원은 단 이틀만에 20만명 이상이 동의를 했다.먼저 청원 내용에 따르면 이 사건의 피해 가족이라고 밝힌 청원인은 “사건 당일 이전에 이미 (피해자는) 살해 협박, 성희롱, 위층에서 계속 소리를 내면서 괴롭히는 스토커 이상의 괴로움으로 고통을 호소하며 4차례 신고가 있었다”라며 “그때마]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6356b17e83e26b19c60f6d7d7b5687f1ef0ffd36/858745c6d029348d5b1812f0683dd3e0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스AS] AZ=물백신?…돌파감염 비율 높지만, 중화항체량≠감염예방효과 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2977</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2977</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 아스트라제네카(AZ) 백신 접종자의 ‘중화항체가’(바이러스의 감염을 중화시켜 예방효과를 유도하는 항체량)가 화이자와 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dcf2f8552e34762dae8d3901bf3cd2e3b94943dc/a096b2c18f6460848fdc584eb33600a6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2021년 종합부동산세 고지 관련, 사실은 이렇습니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
