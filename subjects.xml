@@ -4,9 +4,22 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 01:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/262</link>
+            <guid>https://factchecker.or.kr/fc_subjects/262</guid>
+            <pubDate>Wed, 24 Nov 2021 02:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[검증 대상 링크 혹은 발언 원문 :
+조선일보, “여성 위한 할당제? 혜택 보는건 남성”, 2021.11.15.
+“특정 성이 30% 이하로 내려가지 않게 하자는 것인데 실제로 공무원 시험에선 남성이 혜택을 보는 경우가 많다”고 했다. 이 후보는 “이게 현실인데도 피해를 본다고 생각하는 (남성들이) 많고, 이걸 없애겠다고 하면 박수를 친다”며 “이런 게 대표적인 신화 중 하나”라고 했다. 교원 등 일부 공무원 공채에서 성비를 맞추기 위해 오히려 성적이 높은 여성이 떨어지는 경우가 있다는 것이다.
+경향신문 ‘성할당제로 남성이 피해?’…이재명 후보 오히려 남성에 혜택, 2021.11.13.
+이 후보는 “20대 남성이 ‘여성할당제 때문에 피해를 봤다’, ‘폐지하자’고 하는데 실제로 여성을 위한 할당제는 거의 없고 대부분 성할당제”라며 “특정 성이 30% 이하로 내려가지 않게 하자는 것인데 실제로. 공무원 시험에선 남성이 혜택을 보는 경우가 많다”고 말했다.
+교원이나 공무원 공채...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강화된 법‧제도에도 불법촬영 범죄 줄지 않았다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/261</link>
@@ -110,17 +123,6 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
 &nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인체 폐지방이 1kg에 2억이고 금보다 비싼게 사실인가요?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/247</link>
-            <guid>https://factchecker.or.kr/fc_subjects/247</guid>
-            <pubDate>Tue, 09 Nov 2021 09:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[인체 폐지방이 1kg 2억이고 금보다 비싼게 사실인가요?사실이라면 이때까지 왜 버리고 있었던 건지 팩트체크 부탁드립니다!
-https://www.hankyung.com/economy/article/2021110216441&nbsp;
-1kg 2억 금보다 비싼 물질인데…매년 500t 내다버린 한국
-1㎏당 2억원…金보다 비싸의료·성형 분야 등 활용중기 옴부즈만, 개선 건의]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
