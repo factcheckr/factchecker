@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 15:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 16:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원전사업 중단 사업자 비용보전, 전기요금 인상 등 추가 국민 부담 발생 안해]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3011</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3011</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “원전 사업을 중단한 사업자에 대한 비용보전은 이미 조성되어 있는 전력산업기반기금에서 집행될 예정이므로 전기요금 인상 등 추가적인 국민 부담은 발생하지 않을 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f3daa6dfb4b2093eb0d903b91704c91546eed424/70fa71e8a2b272697f489a1892e667f9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3006</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이른바 `치느님`으로 추앙 받는 한국 치킨이 세계에서 가장 맛이 없다니. 황교익 맛 칼럼니스트의 주장에 업계는 물론 소비자들도 술렁이고 있다. 치킨으로 쓰이는 한국의 육계는 다른 나라에 비해 사육기간이 짧아 맛이 덜하고 가격은 비싸다는 게 황씨의 해석이다.‘치맥’ 문...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b290e32650ef78a0e4f6070ac6505f2d2885f377/87bc66c5fb27ad6d3400052e4112a44a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]종부세 등 보유세 주요국 보다 낮다? - 뉴스웨이]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2993</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2993</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘역대급’ 종합부동산세 과세가 22일부터 본격화된 가운데 조세저항 움직임이 심상치 않다. 논란이 커지자 기획재정부는 우리나라의 보유세 부담이 상대적으로 낮은 수준이라는 입장을 냈다. 집주인이 전·월세 가격을 올려 세입자에게 부담을 전가하는 경우도 제한적이라고 해명했다. 기획재정부는 23일 ‘2021년 종합종부세 고지 관련, 사실은 이렇습니다’라는 제목의 보도자료를 내고 “우리나라는 부동산가액 대비 부동산 관련 세수 비중이 주요국]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65831cb38e654889a8ebd4acdb90a3450e5dca06/644d64cfe5a7c282f681b99646b9e417.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

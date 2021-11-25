@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 15:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 16:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 관련 민간협회 구성 등 보도내용, 금융위 공식의견 아니다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3010</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3010</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “가상자산 관련 민간협회 구성 등의 보도내용은 여러 의원입법안과 전문가 의견을 정리한 것으로, 금융위원회 공식의견이 아니다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe6d7963453fd841d00ba9f4449868a21959f65b/69ca9445291464e119067bcee6252117.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[기재부 “종부세 세수와 고지세액은 달라”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3009</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3009</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “종부세 세수와 고지세액은 다르다”며 “고지세액(8.6조원)과 종부세 예산(5.1조원)을 단순 비교해 수조 원대의 세수오차가 발생한다고 단정하는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d141febc62db91ce221cd044c951790e5dd608ab/3e52aa706b64a94158efd43dad4c761c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[중노위 “직원 성과급 지급액, 고객만족도·기관평가 점수와 관련없어”]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3007</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 “파이로-SFR 연구 재개를 결정한 바 없으며, 사용후핵연료 처리기술 적정성 검토위원회의 검토 결과를 통해 연구개발 지속 여부를 결정할 것”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b205e62038324578368dc3ca3d4f69d6943192d/7d86627855d581b3b29fb7360dd13530.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[지방자치단체장, 지방세 체납 외국인 출국금지 요청 가능]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2957</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2957</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “지방자치단체장은 3000만원 이상 지방세를 체납한 외국인에 대해 출국금지 요청을 할 수 있고, 국내 체류 연장 및 재입국 심사시 비자 제한도 가능하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14b245454b70a53fbb9e58454edcfde519b6e096/f9c07f2ded509305a2c993956da21181.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[코호트 격리 중 증상악화 환자, 신속히 중증병상 확보해 이송]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2956</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2956</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “코호트 격리 중인 의료기관에서 증상이 악화되는 환자는 신속히 중증 병상을 확보해 이송하도록 하고, 의료진 및 돌봄 관련 인력을 신속히 지원하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11c21ae9d2c2ee77fee754457c20c7e7fa42b03a/196639c7da4e3ea147d8c50786fb49e6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
