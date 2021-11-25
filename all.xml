@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 12:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 13:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,17 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[문화일보 이정우 기자 보유세 기사가 소설 같아요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/442</link>
+            <guid>https://factchecker.or.kr/fc_suggests/442</guid>
+            <pubDate>Thu, 25 Nov 2021 13:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[https://news.v.daum.net/v/20211122120119687?f=m
+&nbsp;
+반포자이 준공일은 2008년 임에도 20년 거주 라는 둥 전체적으로 펙트에 기반하지 않아 보입니다.&nbsp;
+&nbsp;
+최초 기사 작성 후 댓글로...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국방헬프콜(1339) 관련 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/441</link>
             <guid>https://factchecker.or.kr/fc_suggests/441</guid>
@@ -325,13 +336,6 @@ https://m.pann.nate.com/talk/356938753
             <guid>https://factchecker.or.kr/fc_suggests/433</guid>
             <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[산성비 맞으면 대머리된다??? 궁금합니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대머리유전자 없으면 탈모 안 된다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/431</link>
-            <guid>https://factchecker.or.kr/fc_suggests/431</guid>
-            <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[대머리유전자 없으면 탈모 안 된다?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[또 ‘여경 무용론’… 인천‧양평 사건 팩트 체크 해보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
