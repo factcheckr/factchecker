@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/263</link>
+            <guid>https://factchecker.or.kr/fc_subjects/263</guid>
+            <pubDate>Thu, 25 Nov 2021 15:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/263">코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
+관련제안 : https://factchecker.or.kr/fc_suggests/346
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/262</link>
@@ -124,15 +133,13 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나 백신 사망 보상금, 7200원에 불과? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/251</link>
-            <guid>https://factchecker.or.kr/fc_subjects/251</guid>
-            <pubDate>Fri, 12 Nov 2021 10:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/251">최근 코로나19 백신 접종 완료율이 70%를 넘으면서 ‘위드코로나’ 정책이 시행됐습니다. 백신 접종률 증가에 비례해 접종 부작용과 이상반응을 호소하는 사례도 늘고 있습니다. 한 온라인 커뮤니티에서는 아버지가 코로나 백신을 맞은 지 이틀 만에 숨졌는데, 병원비 7,200원만 보상받을 수 있게 됐다는 억울함을 호소하는 글이 올라왔습니다. 많은 언론들이 게시글을 기사화했지만 내막에 대한 분석은 없었습니다. 7,200원의 산정 근거는 무엇인지, 현재 코로나 백신 접종 뒤 입은 피해에 대한 보상은 어떻게 이뤄지는지, 다른 나라의 보상은 어떻게 이뤄지는지 실태를 파악했습니다.
-&nbsp;
-&nbsp;
-&nbsp;
-</a>]]></content:encoded>
+            <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/263</link>
+            <guid>https://factchecker.or.kr/fc_subjects/263</guid>
+            <pubDate>Thu, 25 Nov 2021 15:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
+관련제안 : https://factchecker.or.kr/fc_suggests/346]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -241,17 +248,6 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코로나 백신 사망 보상금, 7200원에 불과? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/251</link>
-            <guid>https://factchecker.or.kr/fc_subjects/251</guid>
-            <pubDate>Fri, 12 Nov 2021 10:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19 백신 접종 완료율이 70%를 넘으면서 ‘위드코로나’ 정책이 시행됐습니다. 백신 접종률 증가에 비례해 접종 부작용과 이상반응을 호소하는 사례도 늘고 있습니다. 한 온라인 커뮤니티에서는 아버지가 코로나 백신을 맞은 지 이틀 만에 숨졌는데, 병원비 7,200원만 보상받을 수 있게 됐다는 억울함을 호소하는 글이 올라왔습니다. 많은 언론들이 게시글을 기사화했지만 내막에 대한 분석은 없었습니다. 7,200원의 산정 근거는 무엇인지, 현재 코로나 백신 접종 뒤 입은 피해에 대한 보상은 어떻게 이뤄지는지, 다른 나라의 보상은 어떻게 이뤄지는지 실태를 파악했습니다.
-&nbsp;
-&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[문화일보 이정우 기자 보유세 기사가 소설 같아요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/442</link>
             <guid>https://factchecker.or.kr/fc_suggests/442</guid>
@@ -338,6 +334,14 @@ https://m.pann.nate.com/talk/356938753
             <content:encoded><![CDATA[산성비 맞으면 대머리된다??? 궁금합니다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3006</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3006</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전직 대통령 예우가 박탈됐던 전두환 씨는 경찰 경호는 계속 받아왔는데, 사망 이후 부인 이순자 씨의 경...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--18e0e0a04fe46e20d69486e5d8661cafbe1bb37d/9be1bc415a40f77568de52193bbe8097.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3005</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3005</guid>
@@ -410,12 +414,12 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65831cb38e654889a8ebd4acdb90a3450e5dca06/644d64cfe5a7c282f681b99646b9e417.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 주식 격언 "11월에 사서 5월에 팔아라"…전략 통할까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2992</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2992</guid>
+            <title><![CDATA[중노위 “직원 성과급 지급액, 고객만족도·기관평가 점수와 관련없어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3007</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3007</guid>
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주식 격언 중 11월에 사서 5월에 팔아라는 말이 있다. 11월부터 5월까지 주가가 강세를 보이고 6월부터 10월까지는 주가가 상대적으로 부진하다는 것이다. 이 격언에 따르면 연말에는 배당금을 노린 투자에다 크리스마스 시즌의 소비 확대 기대감에 증시가 상승하는 산타랠리가 이어진다. 또 1월에는 새해를 맞아 기업 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f1fb7cd933acce39a8c0bb9a351f609aa6f6a81a/858500863a1a5b59d95716b7a5f5c43a.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[중앙노동위원회는 “직원들의 성과급 지급 금액은 고객만족도 및 기관평가 점수와 관련이 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--307757de742a702cad9d3df562a59a1ceabd21f0/3530aec89491f3310719b3aac6c6d518.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[휴무일 포함된 달 취업시간 통계로 단시간 취업자 급증 표현은 부적절 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -424,6 +428,14 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “휴무일이 포함된 달의 취업시간 통계로 단시간 취업자가 크게 증가했다는 표현은 적절하지 않다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e69453207f458e3b06d87c6a6538fe53614e4add/64c38757c9142910c8851bc2728fe768.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[“NFT, 일반적으로 가상자산 아냐…결제·투자 등 수단 사용땐 해당될 수 있어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3008</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3008</guid>
+            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “NFT는 일반적으로 가상자산이 아니며, 다만 결제·투자 등의 수단으로 사용될 경우에는 해당될 수 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e49dffa3f398f957d5bcbbad736bd32fefbead2e/8a4825b2ddcdfb71493aa1c928048b2e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2021년 종합부동산세 고지 관련, 사실은 이렇습니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -480,22 +492,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부는 “코호트 격리 중인 의료기관에서 증상이 악화되는 환자는 신속히 중증 병상을 확보해 이송하도록 하고, 의료진 및 돌봄 관련 인력을 신속히 지원하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11c21ae9d2c2ee77fee754457c20c7e7fa42b03a/196639c7da4e3ea147d8c50786fb49e6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[中 요소 수출전 검사 의무화 조치 WTO 제소 여부, 입장 정한바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2955</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2955</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “중국의 요소 수출 전 검사 의무화 조치에 대한 WTO 제소 여부와 관련해 입장을 정한 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16e3b43ef3f2b502d3b5406166049afac152d43e/bb760b9de301e5ca1bed32fdc4a08521.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[음식 배달 플랫폼 업체, 배달기사 안전 보호 의무 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2938</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2938</guid>
-            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “산업안전보건법에 따라 음식 배달 플랫폼 운영 업체는 배달기사의 안전을 보호할 의무가 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--375548494687aa3584dc4f52e9ffa57e3c757152/7885bdd96ba665f8be4d4e7ddac66fbb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

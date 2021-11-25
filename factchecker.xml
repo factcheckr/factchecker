@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-11-25T14:19:47.573Z</updated>
+    <updated>2021-11-25T15:21:40.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/263</id>
+        <link href="https://factchecker.or.kr/fc_subjects/263"/>
+        <updated>2021-11-25T15:20:47.357Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/263">코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
+관련제안 : https://factchecker.or.kr/fc_suggests/346
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/262</id>
@@ -119,17 +128,6 @@
 KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
 지난 1일, KBS는 메인 뉴스인 9시 뉴스를 통해 ‘세월호 잠수함 충돌설’을 보도했습니다. 두 꼭지로 나누어 보도했는데, 사참위가 공개한 용역 보고서들이 근거였습니다. KBS의 논리는 이러합니다.
 ① 세월호의 핀 안정기(스태빌라이저)가 비정상적으로 과도하게 돌아가 있었다.② 스태빌라이저가 과도하게 돌아가는 시나리오는 크게 두 가지다. 1)세월호가 침몰하며 해저면과 충돌해서 돌아갔거나 2)침몰하기 전에 변형이 생겼을 것이다.③ 용역 보고서에 따르면, 스태빌라이저가 과도하게 돌아가려면 약 160t·m의 힘이 필요하다.④ 그런데 또 다른 용역 보고서에 따르면, 세월호가 해저면과 충돌할 때 발생 가능한 최대 힘은 70t·m 이하다.⑤ 따라서 세월호가 침몰하며 해저면과 충돌해서 돌아갔다는...
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신 사망 보상금, 7200원에 불과?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/251</id>
-        <link href="https://factchecker.or.kr/fc_subjects/251"/>
-        <updated>2021-11-12T10:21:24.170Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/251">최근 코로나19 백신 접종 완료율이 70%를 넘으면서 ‘위드코로나’ 정책이 시행됐습니다. 백신 접종률 증가에 비례해 접종 부작용과 이상반응을 호소하는 사례도 늘고 있습니다. 한 온라인 커뮤니티에서는 아버지가 코로나 백신을 맞은 지 이틀 만에 숨졌는데, 병원비 7,200원만 보상받을 수 있게 됐다는 억울함을 호소하는 글이 올라왔습니다. 많은 언론들이 게시글을 기사화했지만 내막에 대한 분석은 없었습니다. 7,200원의 산정 근거는 무엇인지, 현재 코로나 백신 접종 뒤 입은 피해에 대한 보상은 어떻게 이뤄지는지, 다른 나라의 보상은 어떻게 이뤄지는지 실태를 파악했습니다.
-&nbsp;
-&nbsp;
-&nbsp;
 </a>]]></content>
     </entry>
 </feed>

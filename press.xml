@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3006</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3006</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전직 대통령 예우가 박탈됐던 전두환 씨는 경찰 경호는 계속 받아왔는데, 사망 이후 부인 이순자 씨의 경...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--18e0e0a04fe46e20d69486e5d8661cafbe1bb37d/9be1bc415a40f77568de52193bbe8097.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3005</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘역대급’ 종합부동산세 과세가 22일부터 본격화된 가운데 조세저항 움직임이 심상치 않다. 논란이 커지자 기획재정부는 우리나라의 보유세 부담이 상대적으로 낮은 수준이라는 입장을 냈다. 집주인이 전·월세 가격을 올려 세입자에게 부담을 전가하는 경우도 제한적이라고 해명했다. 기획재정부는 23일 ‘2021년 종합종부세 고지 관련, 사실은 이렇습니다’라는 제목의 보도자료를 내고 “우리나라는 부동산가액 대비 부동산 관련 세수 비중이 주요국]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65831cb38e654889a8ebd4acdb90a3450e5dca06/644d64cfe5a7c282f681b99646b9e417.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 주식 격언 "11월에 사서 5월에 팔아라"…전략 통할까?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2992</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2992</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주식 격언 중 11월에 사서 5월에 팔아라는 말이 있다. 11월부터 5월까지 주가가 강세를 보이고 6월부터 10월까지는 주가가 상대적으로 부진하다는 것이다. 이 격언에 따르면 연말에는 배당금을 노린 투자에다 크리스마스 시즌의 소비 확대 기대감에 증시가 상승하는 산타랠리가 이어진다. 또 1월에는 새해를 맞아 기업 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f1fb7cd933acce39a8c0bb9a351f609aa6f6a81a/858500863a1a5b59d95716b7a5f5c43a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
