@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3015</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3015</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4482cb10c7ac44595f13f5ac6da804b1f73632c/3c6995ba969f3a00874a944def4ba8da.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3006</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3da0bd6c7dd566992a75b4976cf5a5c448f1c83/11d02e59aabc79af20484da606c9fa2f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]`치느님` 황교익 말처럼 클수록 싸고 맛있을까]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/2994</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/2994</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이른바 `치느님`으로 추앙 받는 한국 치킨이 세계에서 가장 맛이 없다니. 황교익 맛 칼럼니스트의 주장에 업계는 물론 소비자들도 술렁이고 있다. 치킨으로 쓰이는 한국의 육계는 다른 나라에 비해 사육기간이 짧아 맛이 덜하고 가격은 비싸다는 게 황씨의 해석이다.‘치맥’ 문...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b290e32650ef78a0e4f6070ac6505f2d2885f377/87bc66c5fb27ad6d3400052e4112a44a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
