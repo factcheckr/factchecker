@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 14:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 15:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조달청 실적경쟁입찰 집행기준 개정 확정된 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3019</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3019</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조달청은 “실적경쟁입찰 집행기준 개정은 확정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb8e2ebabd547efa4f452cdbf5aa26549c626268/04872b26bdf91a20a6b81b2879cce1e3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[원전사업 중단 사업자 비용보전, 전기요금 인상 등 추가 국민 부담 발생 안해]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3011</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[농림축산식품부는 “국제곡물 위기단계는 조기경보지수(농촌경제연구원)뿐만 아니라 물류, 수출제한 등 요인도 종합적으로 판단해서 결정하고 있으며 지난 4월 ‘주의’ 단계로 판단, 국내 영향 최소화 방안을 추진 중”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--61797d5f6e1754bab338b4778117149bf011924f/c9f0051428b66b3e29c47336aed0dc58.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[다주택자도 주택 보유세 세부담상한 적용]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2972</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2972</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “기사에서 언급된 사례는 재산세를 고려하지 않고, 2020년 및 2021년 종부세만을 비교한 예외적인 사례”라면서 “다주택자도 주택 보유세 세부담상한이 적용된다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f89666ee12ed13478bea03fe8049d3532b1ed1b/0337f500720c1a3bdbcc14e7ed33fb94.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
