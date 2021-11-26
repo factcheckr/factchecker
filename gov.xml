@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원전사업 중단 사업자 비용보전, 전기요금 인상 등 추가 국민 부담 발생 안해]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3011</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3011</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “원전 사업을 중단한 사업자에 대한 비용보전은 이미 조성되어 있는 전력산업기반기금에서 집행될 예정이므로 전기요금 인상 등 추가적인 국민 부담은 발생하지 않을 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f3daa6dfb4b2093eb0d903b91704c91546eed424/70fa71e8a2b272697f489a1892e667f9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 관련 민간협회 구성 등 보도내용, 금융위 공식의견 아니다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3010</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “기사에서 언급된 사례는 재산세를 고려하지 않고, 2020년 및 2021년 종부세만을 비교한 예외적인 사례”라면서 “다주택자도 주택 보유세 세부담상한이 적용된다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f89666ee12ed13478bea03fe8049d3532b1ed1b/0337f500720c1a3bdbcc14e7ed33fb94.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이로-SFR 연구 재개 결정한 바 없어]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2971</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2971</guid>
-            <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 “파이로-SFR 연구 재개를 결정한 바 없으며, 사용후핵연료 처리기술 적정성 검토위원회의 검토 결과를 통해 연구개발 지속 여부를 결정할 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b205e62038324578368dc3ca3d4f69d6943192d/7d86627855d581b3b29fb7360dd13530.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다?]]></title>
+            <title><![CDATA[교원 채용 과정에서 성할당제로 남성이 혜택을 본다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/262</link>
             <guid>https://factchecker.or.kr/fc_subjects/262</guid>
             <pubDate>Wed, 24 Nov 2021 02:04:15 GMT</pubDate>

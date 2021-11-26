@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2021-11-25T23:20:30.094Z</updated>
+    <updated>2021-11-26T01:01:22.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[교원 채용 과정에서 여성 할당제로 남성이 혜택을 본다?]]></title>
+        <title type="html"><![CDATA[교원 채용 과정에서 성할당제로 남성이 혜택을 본다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/70</id>
         <link href="https://factchecker.or.kr/fc_publications/70"/>
         <updated>2021-11-24T00:00:00.000Z</updated>
