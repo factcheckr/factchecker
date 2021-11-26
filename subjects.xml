@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,7 @@
             <link>https://factchecker.or.kr/fc_subjects/264</link>
             <guid>https://factchecker.or.kr/fc_subjects/264</guid>
             <pubDate>Fri, 26 Nov 2021 10:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;내용 요약&gt;
-지난 11월 8일, 조선일보의 이영완 과학전문기자는 ‘한미(韓美)연구진이 근육통을 없애는 한방치료인 부항(附缸)으로 코로나 백신의 효과를 100배나 높이는 데 성공했다.라는 내용의 기사를 보도하였다. 이후 동아사이언스 등의 언론사가 비슷한 논조의 보도를 유포하면서, 부항과 코로나 예방의 연관성에 대한 관심이 대두되었다. 4기 시민팩트체커 2팀은 해당 조선일보 기사를 면밀히 조사하여 실제로 부항이 코로나 예방과 연관성이 있는지를 확인해보고자 하였다.
+            <content:encoded><![CDATA[지난 11월 8일, 조선일보의 이영완 과학전문기자는 ‘한미(韓美)연구진이 근육통을 없애는 한방치료인 부항(附缸)으로 코로나 백신의 효과를 100배나 높이는 데 성공했다.라는 내용의 기사를 보도하였다. 이후 동아사이언스 등의 언론사가 비슷한 논조의 보도를 유포하면서, 부항과 코로나 예방의 연관성에 대한 관심이 대두되었다. 4기 시민팩트체커 2팀은 해당 조선일보 기사를 면밀히 조사하여 실제로 부항이 코로나 예방과 연관성이 있는지를 확인해보고자 하였다.
 
 &nbsp;
 &nbsp;
@@ -26,12 +25,8 @@
 &nbsp;
 &nbsp;
 (출처: 조선일보 기사 캡쳐)
-https://www.chosun.com/economy/science/2021/11/08/5FFRUMZOHFACTLVPFGAHU6A2AY/
-&nbsp;
-&lt;내용 검증&gt;
-1. 논문, 보도자료에 사용된 도구는 ‘부항’기기가 아니다.
-상기한 기사에 따르면, 부항이 코로나 백신 효과를 증가시킨다는 연구결과는 미국 럿거스대의 하오 린 교수와...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다?]]></title>
