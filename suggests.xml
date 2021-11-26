@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-26T01:01:22.637Z</updated>
+    <updated>2021-11-26T02:03:37.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국인 부동산]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/443</id>
+        <link href="https://factchecker.or.kr/fc_suggests/443"/>
+        <updated>2021-11-26T02:02:55.704Z</updated>
+        <content type="html"><![CDATA[작년부터 국내 부동산 시장에서
+중국인 매수사례가 증가하고있다는
+소문과 뉴스가 일부 보였습니다.
+이 내용의 사실여부가 궁금합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문화일보 이정우 기자 보유세 기사가 소설 같아요]]></title>
         <id>https://factchecker.or.kr/fc_suggests/442</id>
@@ -83,12 +93,5 @@ https://m.pann.nate.com/talk/356938753
         <link href="https://factchecker.or.kr/fc_suggests/434"/>
         <updated>2021-11-21T10:21:15.915Z</updated>
         <content type="html"><![CDATA[코로나 백신 접종전날 삼겹살을 먹으면 부작용이 없다는데 팩트체크 부탁드려요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산성비]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/433</id>
-        <link href="https://factchecker.or.kr/fc_suggests/433"/>
-        <updated>2021-11-21T09:19:07.021Z</updated>
-        <content type="html"><![CDATA[산성비 맞으면 대머리된다??? 궁금합니다]]></content>
     </entry>
 </feed>

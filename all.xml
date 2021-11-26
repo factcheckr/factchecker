@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,16 @@ KBS 보도 이후, 보도를 담당했던 홍사훈 기자 페이스북 캡쳐
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국인 부동산 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/443</link>
+            <guid>https://factchecker.or.kr/fc_suggests/443</guid>
+            <pubDate>Fri, 26 Nov 2021 02:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[작년부터 국내 부동산 시장에서
+중국인 매수사례가 증가하고있다는
+소문과 뉴스가 일부 보였습니다.
+이 내용의 사실여부가 궁금합니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[문화일보 이정우 기자 보유세 기사가 소설 같아요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/442</link>
             <guid>https://factchecker.or.kr/fc_suggests/442</guid>
@@ -325,13 +335,6 @@ https://m.pann.nate.com/talk/356938753
             <guid>https://factchecker.or.kr/fc_suggests/434</guid>
             <pubDate>Sun, 21 Nov 2021 10:21:15 GMT</pubDate>
             <content:encoded><![CDATA[코로나 백신 접종전날 삼겹살을 먹으면 부작용이 없다는데 팩트체크 부탁드려요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산성비 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/433</link>
-            <guid>https://factchecker.or.kr/fc_suggests/433</guid>
-            <pubDate>Sun, 21 Nov 2021 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[산성비 맞으면 대머리된다??? 궁금합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -591,8 +594,8 @@ https://m.pann.nate.com/talk/356938753
             <link>https://factchecker.or.kr/fc_publications/65</link>
             <guid>https://factchecker.or.kr/fc_publications/65</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;내용요약&gt;1. KBS 세월호 보도에는 기초적인 사실부터 틀린 것이 허다합니다. 다수의 오류가 세월호 잠수함 충돌설을 강화하는 도구로 사용됐습니다.2. KBS의 잠수함 충돌설이 근거하는 용역 보고서를 작성한 용역업체 대표조차 KBS 보도를 무모한 결론이라며 이의를 제기합니다.3. KBS는 용역 보고서에 대한 사참위 관계자 발언만을 근거로 스태빌라이저 해저면 충돌설을 기각했지만 학계는 물론 용역 보고서 작성자마저도 그럴 수 없다고 얘기합니다. 오히려 용역 보고서 작성자는 KBS가 기각한 가설을 지지합니다.4. KBS는 외력설이 유력하다는 주장을 강화하기 위해 전문가 발언을 짜깁기했습니다. KBS가 인용한 전문가 모두 외력설에 반대합니다.
-5. 잠수함 충돌설은 일찍이 2018년에 다수의 전문가들에 의해서 비판받고 사실상 기각된 가설입니다.&nbsp;-------------------------------------------------------------------------------...]]></content:encoded>
+            <content:encoded><![CDATA[&lt;내용요약&gt;1. KBS 세월호 보도는 기초적인 사실부터 틀린 것이 많습니다. 다수의 오류가 세월호 잠수함 충돌설을 강화하는 도구로 사용됐습니다.2. KBS의 잠수함 충돌설이 근거하는 용역 보고서를 작성한 용역업체 대표조차 KBS 보도를 무모한 결론이라며 이의를 제기합니다.3. KBS는 용역 보고서에 대한 사참위 관계자 발언만을 근거로 스태빌라이저 해저면 충돌설을 기각했지만 학계는 물론 용역 보고서 작성자마저도 그럴 수 없다고 얘기합니다. 오히려 용역 보고서 작성자는 KBS가 기각한 가설을 지지합니다.4. KBS는 외력설이 유력하다는 주장을 강화하기 위해 전문가 발언을 짜깁기했습니다. KBS가 인용한 전문가 모두 외력설에 반대합니다.
+5. 잠수함 충돌설은 일찍이 2018년에 다수의 전문가들에 의해서 비판받고 사실상 기각된 가설입니다.&nbsp;---------------------------------------------------------------------------------...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서른살 내가 늙었다고요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
