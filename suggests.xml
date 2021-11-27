@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-27T14:18:26.833Z</updated>
+    <updated>2021-11-27T15:20:57.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO가 새 변이 바이러스를 오미크론으로 명명한 이유가 중국 때문이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/444</id>
+        <link href="https://factchecker.or.kr/fc_suggests/444"/>
+        <updated>2021-11-27T15:20:13.997Z</updated>
+        <content type="html"><![CDATA[아래 게시글에선 Paul Nuki(영국 텔레그래프 에디터)의 트윗을 인용해 누(Nu)와 시(Xi)를 건너뛰고 오미크론으로 명명한 이유를 소개하고 있습니다.
+누는 새롭다는 뜻의 new와 시는 특정 지역의 낙인효과를 방지하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국인 부동산]]></title>
         <id>https://factchecker.or.kr/fc_suggests/443</id>
@@ -86,12 +94,5 @@ https://m.pann.nate.com/talk/356938753
         <updated>2021-11-21T10:21:15.912Z</updated>
         <content type="html"><![CDATA[커뮤니티에서 이슈가 된 글입니다. 자궁경부암 무료 백신 접종 정부 사업 혜택을 받기 위해 병원에 온 청소년에게 의사가 생리나 유방 발육 상태를 물을 때 수치심을 느끼면 성희롱에 해당된다는 여가부의 발언이 있었는데요.&nbsp;
 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 접종]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/434</id>
-        <link href="https://factchecker.or.kr/fc_suggests/434"/>
-        <updated>2021-11-21T10:21:15.915Z</updated>
-        <content type="html"><![CDATA[코로나 백신 접종전날 삼겹살을 먹으면 부작용이 없다는데 팩트체크 부탁드려요]]></content>
     </entry>
 </feed>

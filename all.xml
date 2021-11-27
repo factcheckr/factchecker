@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 14:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 15:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -266,6 +266,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[WHO가 새 변이 바이러스를 오미크론으로 명명한 이유가 중국 때문이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/444</link>
+            <guid>https://factchecker.or.kr/fc_suggests/444</guid>
+            <pubDate>Sat, 27 Nov 2021 15:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[아래 게시글에선 Paul Nuki(영국 텔레그래프 에디터)의 트윗을 인용해 누(Nu)와 시(Xi)를 건너뛰고 오미크론으로 명명한 이유를 소개하고 있습니다.
+누는 새롭다는 뜻의 new와 시는 특정 지역의 낙인효과를 방지하...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[중국인 부동산 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/443</link>
             <guid>https://factchecker.or.kr/fc_suggests/443</guid>
@@ -346,13 +354,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Sun, 21 Nov 2021 10:21:15 GMT</pubDate>
             <content:encoded><![CDATA[커뮤니티에서 이슈가 된 글입니다. 자궁경부암 무료 백신 접종 정부 사업 혜택을 받기 위해 병원에 온 청소년에게 의사가 생리나 유방 발육 상태를 물을 때 수치심을 느끼면 성희롱에 해당된다는 여가부의 발언이 있었는데요.&nbsp;
 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 접종 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/434</link>
-            <guid>https://factchecker.or.kr/fc_suggests/434</guid>
-            <pubDate>Sun, 21 Nov 2021 10:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 백신 접종전날 삼겹살을 먹으면 부작용이 없다는데 팩트체크 부탁드려요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크A/S] "작고 맛없는 한국 닭" 기고문에 황교익 속았다! 뉴스톱도 놓쳤다!! (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
