@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 15:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 16:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,6 +356,22 @@ https://m.pann.nate.com/talk/356938753
 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크]임차인에게 종부세 떠넘기기?…문의 많지만 월세 전가 어려워 | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3036</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3036</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;지난 26일 방문한 서울 대치동의 쌍용아파트. 중개업자들은 쌍용아파트의 월세가 2년 새 100만원 이상 올랐다고 전했다.&nbsp;[사진=신동근 기자]“주민들...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa1ce628db179e72d0abe7153bdcd34d26159255/5b6f974f9e3cff4689b06d595f2453e6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] D-100 여론조사 1위가 대선 승리? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3035</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3035</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]내일(29일)인 월요일이 20대 대선 D-100일입니다.선...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--59f0953230e0cfb7ab916c24441bd7737537b348/a97ea7df369df09f0a04d6322a673b8a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 현장 CCTV 보려면 화면에 나온 사람들 동의 필요? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3030</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3030</guid>
@@ -420,21 +436,6 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4f2486d41baa02d8b5b96b92c523f5337ef95ff/642aeebcc03737fc9f855b0726ae78b2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]여성 배려해 기준 낮췄다는 경찰 체력시험 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3022</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3022</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 인천과 양평에서 일어난 흉기 난동 사건에서 경찰의 부실 대응 논란으로 경찰 체력 시험이 다시 도마 위에 올랐다.이준석 국민의힘 대표는 “체력 검정을 성비를 맞추겠다는 정치적인 목적에서 자격 조건을 둘 것이 아니라 국민의 생명과 재산을 지킬 수 있는 치안 업무 수...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 피해주는 야생동물=유해조수?, 잡아도 돼?? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3021</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3021</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 쇼핑몰에서 유해조수를 검색하면 덫과 그물 등 각종 포획 장치를 판매하는 것을 볼 수 있습니다. 꿩, 비둘기, 까치 등을 예시로 들며 유해조수라는 표현을 사용합니다. 과연 꿩, 비둘기, 까치는 유해조수일까요? 유해조수는 함부로 잡아도 되는 걸까요? 팩트체크 해 보겠습니다. ◈유해조수란 무엇일까요?유해란 해로움이 있음을 나타냅니다. 해로움이 있는 조수류. 우리는 그 동물들을 유해조수라고 칭합니다. 유해조수의 사전적 정의는 다음과 같습니다. “인간의 생활에 피해를 주는 새와 짐승”을 일컫습니다. 사람은 살아감에 있어 농업,]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a23ff306b1f1832c0b0a554f3964a881c00c91d6/739aea9cdf8d6753fc4c91583a6c1cdd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[겨울철에도 태양광발전 전력수급에 기여하고 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3031</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/3031</guid>
@@ -475,6 +476,22 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d141febc62db91ce221cd044c951790e5dd608ab/3e52aa706b64a94158efd43dad4c761c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[알뜰폰 가입자 통계, 휴대폰 선불·후불 및 사물인터넷 회선 분류해 발표 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3034</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3034</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 “매월 알뜰폰 가입자 통계를 휴대폰 선불·후불 회선과 사물인터넷(M2M) 회선으로 투명하게 분류해 발표하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--986bf258d49debdd1bbac7c8be57eefd0dedb811/d03d60540b64b740c57dbb17d3314401.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[법무부 “안정된 수용관리 위해 최선 다해” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3033</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3033</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법무부는 “안정된 수용관리를 위해 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38ce904e24354869186cd3248951133dda7d4f35/fb437748e27c764093c1019e44741c49.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[중노위 “직원 성과급 지급액, 고객만족도·기관평가 점수와 관련없어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3007</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/3007</guid>
@@ -491,28 +508,12 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e69453207f458e3b06d87c6a6538fe53614e4add/64c38757c9142910c8851bc2728fe768.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[“NFT, 일반적으로 가상자산 아냐…결제·투자 등 수단 사용땐 해당될 수 있어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3008</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3008</guid>
+            <title><![CDATA[지방직 9급 필기시험과 겹치지 않게 내년 6월 18일 국가직 9급 면접 실시않겠다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3032</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3032</guid>
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “NFT는 일반적으로 가상자산이 아니며, 다만 결제·투자 등의 수단으로 사용될 경우에는 해당될 수 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e49dffa3f398f957d5bcbbad736bd32fefbead2e/8a4825b2ddcdfb71493aa1c928048b2e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 종합부동산세 고지 관련, 사실은 이렇습니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2988</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2988</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 22일 발송된 2021년 종합부동산세 납부고지서 및 안내서와 관련, 현재 제기되고 있는 주요 쟁점에 대한 추가 설명자료를 배포하고 다음과 같이 설명했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--19b3162a936684d6269fd558f61b1c8dd488e9a0/321046956248edf85bb3df0e291843b9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[온플법 관련 플랫폼 규제법안 중복규제 문제, 부처간 협의 통해 해소 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2987</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2987</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “온플법 관련, 플랫폼 규제 법안의 중복규제 문제는 부처간 협의를 통해 해소됐으며, 관련부처와의 협의 규정은 과잉·중복규제 및 중복조사 방지를 위한 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e259d589b8f1885e39285d99b0e8fda9b6e9d94/d1c27661aa13121ad70fae825c80bbbd.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[행정안전부와 인사혁신처는 “2022년 지방직 9급 필기시험과 겹치지 않도록 6월 18일에는 국가직 9급 면접을 실시하지 않겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f2ecb6e38ac7eccc94ec1101d8dc1006361d547c/21ffdee7fa57bbcd7d682d462893599c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[부항이 코로나 백신 효과를 100배 증가시킨다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
