@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 05:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 06:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 현장 CCTV 보려면 화면에 나온 사람들 동의 필요? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3030</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3030</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 인천 층간소음 흉기난동 사건 당시 현장에 출동한 경찰관의 부실 대응이 비판받는 가운데 현장을 생생하게 보여...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3253c4b87ff3b568826b46970d68aceb7f367c62/bca734328dacc4505467fb3f304d4c2f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 英 런던 사례로 본 탄소중립의 진실…시민들 ``전기료 급등에 중산층도 타격``]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3029</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3029</guid>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[에너지경제신문 / 영국 런던=이원희 기자] ``에너지요금(전기·가스 요금)이 이번에 10% 이상 두 차례 올랐고 내년 초에도 그 이상 올라갈 거로 사람들은 봐요.`` ``에너지요금이..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmNYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d3475b8a33a3ef6a02ca2e01b75d77ff1b7ea1c/b38d877b9e69e5c6b74c20ad60c98097.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 오토바이 탄 채 횡단보도 건너면 위법? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3028</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3028</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 한 온라인 커뮤니티에 범칙금으로 인해 특정 횡단보도를 건널 때 오토바이에서 내려 끌고 가는 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a417e07f71d7361bd75656760b813db7b26fe25b/778ed288ee4cbde8e81298b4dd9a2bab.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 눈치 안보고 놀려면 아파트 살아야?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3026</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3026</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[어린이 놀이헌장이란게 있습니다. 지난 2015년 전국 시도교육감들이 모여서 만들어 선포한 건데, 헌장엔 이런 내용이 들어 있습니다. 어린이에게는 놀 권리가 있다. 어린이는...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74dd9043c51cb0c8cf68cb65f1ac051fbd7c0560/b0c475b6f52e1dafa36c01757255f81f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 9.4GW 규모 수상태양광 발전량이 원전 9기에 해당한다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3024</link>
@@ -14,6 +46,14 @@
             <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문재인 대통령이 24일 경남 합천댐 수상태양광 발전개시를 기념해 현장을 찾아 박재현 한국수자원공사 사장으로부터 수상태양광 관련 보고를 받으며 발언하고 있다. [사진=뉴시스][아이뉴]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbklYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8ccd1a181c4f994da3be2f275ad72ee45b1cf7d/93537f467f8d35dd933c770241307415.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 배달 전성시대 몸값 오른 라이더들 월수익은? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3027</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3027</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 신종 코로나바이러스 감염증(코로나19) 확산 사태가 장기화하면서 배달서비스업이 유망 산업으로 주목받고 있다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae865fc9f1e5709b72e0c4e39339415ea4a40f3a/4681b285b3bc489fa4f8541e3661a7cd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 백신 수송차량 사진에 요소수 관련 문구를 합성한 것]]></title>
@@ -45,45 +85,6 @@
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[온라인 쇼핑몰에서 유해조수를 검색하면 덫과 그물 등 각종 포획 장치를 판매하는 것을 볼 수 있습니다. 꿩, 비둘기, 까치 등을 예시로 들며 유해조수라는 표현을 사용합니다. 과연 꿩, 비둘기, 까치는 유해조수일까요? 유해조수는 함부로 잡아도 되는 걸까요? 팩트체크 해 보겠습니다. ◈유해조수란 무엇일까요?유해란 해로움이 있음을 나타냅니다. 해로움이 있는 조수류. 우리는 그 동물들을 유해조수라고 칭합니다. 유해조수의 사전적 정의는 다음과 같습니다. “인간의 생활에 피해를 주는 새와 짐승”을 일컫습니다. 사람은 살아감에 있어 농업,]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a23ff306b1f1832c0b0a554f3964a881c00c91d6/739aea9cdf8d6753fc4c91583a6c1cdd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크A/S] "작고 맛없는 한국 닭" 기고문에 황교익 속았다! 뉴스톱도 놓쳤다!!]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3020</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3020</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스톱은 11월 24일  기사를 통해 황교익씨의 발언과 그 근거가 되는 농촌진흥청, 국립축산과학원의 연구 결과를 검증했다. 그 결과, “한국 닭이 세계에서 가장 작고 맛 없다”는 황교익씨의 주장에 대해 ‘사실’로 판정했다. 그러나 후속 취재 도중 국립축산과학원의 연구에서 미심쩍은 부분이 발견됐다. 뉴스톱은 황교익씨 주장의 근거가 된 1차 자료인 국립축산과학원의  연구 논문을 검증한다. ◈황교익 속았다!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '블라인드 채용' 덕에 공공기관 지방대 출신 입사 늘었다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3018</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3018</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 17일, 뉴스톱에서 라는 제목의 분석 기사를 발행했습니다. 이 기사를 본 독자 A 씨가 뉴스톱에 연락을 주셨습니다. 기사의 본문 중에 “비수도권 대학 출신자의 비율이 증가했다. (…) 이는 ‘지역인재 할당제’와 블라인드 채용을 병행한 결과이기에 이 성과를 오로지 ‘블라인드 채용’의 성과로만 해석할 수는 없다”는 내용 때문이었습니다. 이 독자는 이 문장에 공감한다며, “공공기관이나 공기업에 지방대 출신 합격자가 많아진 것이 ‘블라인드 채용’ 덕분이라는 고민정 의원 페이스북 게시글에 동의할]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTRYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--66706dd53d28aca2aaa98fce35a143e7d66b2ad0/e284997a7e0049020b0168d0409a3ecc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]탈원전 손실로 전기요금 오른다는 데··· - 뉴스웨이]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3017</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3017</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탈원전 정책에 따라 조기 폐쇄됐거나 백지화된 원전 사업 비용을 전력산업기반기금으로 보전해주는 방안이 다음 달부터 시행된다. 정부가 탈원전 비용을 국민에 전가한다는 지적과 함께 전기료 인상 압박 요인으로 작용할 것이라는 우려도 나온다. 정부는 지난 25일 김부겸 국무총리 주재로 국정현안점검조정회의를 열고 이 같은 내용을 담은 ‘에너지 전환(원전 감축) 비용 보전 이행 계획’을 심의·확정했다. 정부의 탈원전 정책에 따라 조기 폐쇄됐거]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca93894192cf86ecb77139c15859d03d7208b184/5ec676ff7541168555f1c8344a9f9be8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-윤석열⑧] “종전선언하면 유엔사가 무력화된다?”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3016</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3016</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=김혜선 기자] 윤석열 국민의힘 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e2ab878c21b645f56483935ed9f2e21633c6d7e/2d579b99b5d47569f622f7b21c946142.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3015</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3015</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4482cb10c7ac44595f13f5ac6da804b1f73632c/3c6995ba969f3a00874a944def4ba8da.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

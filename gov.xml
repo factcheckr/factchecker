@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 05:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 06:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울철에도 태양광발전 전력수급에 기여하고 있어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3031</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3031</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “겨울철에도 태양광발전은 전력수급에 기여하고 있으며, 지난 12~2월 태양광발전의 피크시간 발전비중은 약 8%”라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmtYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--23fb6ecaa530e78094ca7b23ad5f60be0e04edf1/25b4a5c0ad3dbbca004b0f5a1f64c225.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[조달청 실적경쟁입찰 집행기준 개정 확정된 바 없어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3019</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 “온플법 관련, 플랫폼 규제 법안의 중복규제 문제는 부처간 협의를 통해 해소됐으며, 관련부처와의 협의 규정은 과잉·중복규제 및 중복조사 방지를 위한 것”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e259d589b8f1885e39285d99b0e8fda9b6e9d94/d1c27661aa13121ad70fae825c80bbbd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제곡물 위기단계, 수출제한 등 요인 종합적 판단해 결정]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/2976</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/2976</guid>
-            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “국제곡물 위기단계는 조기경보지수(농촌경제연구원)뿐만 아니라 물류, 수출제한 등 요인도 종합적으로 판단해서 결정하고 있으며 지난 4월 ‘주의’ 단계로 판단, 국내 영향 최소화 방안을 추진 중”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--61797d5f6e1754bab338b4778117149bf011924f/c9f0051428b66b3e29c47336aed0dc58.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
