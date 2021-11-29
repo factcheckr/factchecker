@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,6 +356,14 @@ https://m.pann.nate.com/talk/356938753
 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[송영길 “공시가 17억 집 종부세 50만원” 팩트 체크해보니… (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3038</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3038</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“공시가 17억 원인 아파트를 보유 중인데, 종합부동산세가 중형차 세금보다 적다고요?”   올해 종부세 납세 예정자들 사이에서 최근 ‘17억 아파트 종부세’ 논란이 커지고 있다.…]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf6676ef76fd47027299aaab0fb9bdf07f4b11ae/39029a93235d8e9d8fd9d9abbafbf8da.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크]임차인에게 종부세 떠넘기기?…문의 많지만 월세 전가 어려워 | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3036</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3036</guid>
@@ -426,14 +434,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 신종 코로나바이러스 감염증(코로나19) 확산 사태가 장기화하면서 배달서비스업이 유망 산업으로 주목받고 있다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae865fc9f1e5709b72e0c4e39339415ea4a40f3a/4681b285b3bc489fa4f8541e3661a7cd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 백신 수송차량 사진에 요소수 관련 문구를 합성한 것 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3025</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3025</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[요소수 수송차량이라는 문구가 붙은 트럭의 모습이 담긴 사진 한 장이 페이스북상에서 반복적으로 공유됐다. 이 사진에는 정부가 요소수 확보를 광고하기 위해 해당 문구를 트럭에 새겼다는 주장이 붙었다. 하지만 이 사진은 조작된 것으로 원본 사진 속 트럭 측면에는 코로나19 백신 수송차량이라는 문구가 등장한다; 정부 관계자는 정부가 요소수 확보와 관련된 광고를 제작한 바 없다고 말했다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk1YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a976f600cfd06a34601e6cf50d69f6bae872c2d1/271a6aa83c153b60e6d0b702a3f5f8ee.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[겨울철에도 태양광발전 전력수급에 기여하고 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
