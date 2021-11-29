@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-11-29T14:19:46.144Z</updated>
+    <updated>2021-11-29T15:21:47.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대기업 플랫폼사가 작가들에게 강압적인 강제 휴재를 시킨다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/445</id>
+        <link href="https://factchecker.or.kr/fc_suggests/445"/>
+        <updated>2021-11-29T15:21:03.016Z</updated>
+        <content type="html"><![CDATA[청와대 국민청원에 올라온 글입니다. 청원 작성자는 두 가지 작품이 플랫폼 사에 의해 강제 휴재를 당하고 있다고 하는데요.
+&nbsp;
+실제로 각종 커뮤니티에서 선호도가 낮은 웹툰 작가가 건강 상의 이유가 아닌 갑작스런 휴재할 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO가 새 변이 바이러스를 오미크론으로 명명한 이유가 중국 때문이다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/444</id>
@@ -86,13 +95,5 @@ https://www.chosun.com/economy/economy_general/20...]]></content>
 진짜인지 궁금합니다.
 https://m.pann.nate.com/talk/356938753
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산부인과에서 생리, 발육 상태 확인은 성희롱이라는 여성가족부의 발언]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/435</id>
-        <link href="https://factchecker.or.kr/fc_suggests/435"/>
-        <updated>2021-11-21T10:21:15.912Z</updated>
-        <content type="html"><![CDATA[커뮤니티에서 이슈가 된 글입니다. 자궁경부암 무료 백신 접종 정부 사업 혜택을 받기 위해 병원에 온 청소년에게 의사가 생리나 유방 발육 상태를 물을 때 수치심을 느끼면 성희롱에 해당된다는 여가부의 발언이 있었는데요.&nbsp;
-...]]></content>
     </entry>
 </feed>
