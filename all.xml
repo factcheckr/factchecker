@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,6 +388,14 @@ https://m.pann.nate.com/talk/356938753
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmNYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d3475b8a33a3ef6a02ca2e01b75d77ff1b7ea1c/b38d877b9e69e5c6b74c20ad60c98097.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트와이] 이재명 "국내 주식 배당 많이 안 한다"...사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3037</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3037</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]이재명 더불어민주당 대선 후보가 최근 유튜브 경제...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bc32ab994d531a8831ef701456c4be1724d697e/495662056d02d392a7e6543ab25c7bf2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 오토바이 탄 채 횡단보도 건너면 위법? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3028</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3028</guid>
@@ -426,14 +434,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[요소수 수송차량이라는 문구가 붙은 트럭의 모습이 담긴 사진 한 장이 페이스북상에서 반복적으로 공유됐다. 이 사진에는 정부가 요소수 확보를 광고하기 위해 해당 문구를 트럭에 새겼다는 주장이 붙었다. 하지만 이 사진은 조작된 것으로 원본 사진 속 트럭 측면에는 코로나19 백신 수송차량이라는 문구가 등장한다; 정부 관계자는 정부가 요소수 확보와 관련된 광고를 제작한 바 없다고 말했다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk1YIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a976f600cfd06a34601e6cf50d69f6bae872c2d1/271a6aa83c153b60e6d0b702a3f5f8ee.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["산부인과 명칭은 일제 잔재" 이재명 주장은 '사실 반 거짓 반' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3023</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3023</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 성인 여성, 부인으로 부른 일본 영향 받았지만 우리나라 결혼한 여성 부인으로 통칭]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4f2486d41baa02d8b5b96b92c523f5337ef95ff/642aeebcc03737fc9f855b0726ae78b2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[겨울철에도 태양광발전 전력수급에 기여하고 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
