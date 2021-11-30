@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부처간 엇박자로 풍력발전 패스트트랙 무산? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3048</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3048</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “부처간 엇박자로 풍력발전 패스트트랙이 무산됐다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3dYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--32b50a45837de7ec1af2316a6e8d1d02847301c8/5abc7973cd35dc809f3bff22f4330651.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[교육부, 교부금 더 지급 위해 경비 부풀린 것 아냐]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3041</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 “매월 알뜰폰 가입자 통계를 휴대폰 선불·후불 회선과 사물인터넷(M2M) 회선으로 투명하게 분류해 발표하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--986bf258d49debdd1bbac7c8be57eefd0dedb811/d03d60540b64b740c57dbb17d3314401.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부 “안정된 수용관리 위해 최선 다해”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3033</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3033</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법무부는 “안정된 수용관리를 위해 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38ce904e24354869186cd3248951133dda7d4f35/fb437748e27c764093c1019e44741c49.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
