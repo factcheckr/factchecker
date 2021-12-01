@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,6 +359,14 @@ https://m.pann.nate.com/talk/356938753
 &nbsp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] 다른 나라는 여경을 어떻게 뽑나요? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3049</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3049</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 경찰의 부실 대응이 도마 위에 올랐습니다. 사회적으로 공분이 일었습니다. 논란은 여경 무용론으로까지 번졌습니다. 여경을 선발할 때 체력 기준이 낮다는 지적이 함께 나왔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9fd4d964e707285cc2b4ed6c9a913da1d1f76dc5/5cead462d8bc86c4757869a70c0129ce.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[이 영상은 2020년 7월 미국 로스앤젤레스에서 촬영된 것이다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3047</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3047</guid>
@@ -429,14 +437,6 @@ https://m.pann.nate.com/talk/356938753
             <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]내일(29일)인 월요일이 20대 대선 D-100일입니다.선...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--59f0953230e0cfb7ab916c24441bd7737537b348/a97ea7df369df09f0a04d6322a673b8a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 현장 CCTV 보려면 화면에 나온 사람들 동의 필요? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3030</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3030</guid>
-            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 인천 층간소음 흉기난동 사건 당시 현장에 출동한 경찰관의 부실 대응이 비판받는 가운데 현장을 생생하게 보여...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3253c4b87ff3b568826b46970d68aceb7f367c62/bca734328dacc4505467fb3f304d4c2f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[부처간 엇박자로 풍력발전 패스트트랙 무산? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
