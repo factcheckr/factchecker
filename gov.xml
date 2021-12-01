@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 01:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칠레농장서 대규모 태양광 발전사업 추진? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3058</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3058</guid>
+            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “정부가 칠레농장에서 대규모 태양광 발전사업을 추진한다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c7654f88ceeaf21b26cf2fd069e8be41721651c8/dbf1ac9d829cdf4815e2672b02cdf93f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[부처간 엇박자로 풍력발전 패스트트랙 무산? 사실과 다르다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3048</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “종부세 세수와 고지세액은 다르다”며 “고지세액(8.6조원)과 종부세 예산(5.1조원)을 단순 비교해 수조 원대의 세수오차가 발생한다고 단정하는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d141febc62db91ce221cd044c951790e5dd608ab/3e52aa706b64a94158efd43dad4c761c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰 가입자 통계, 휴대폰 선불·후불 및 사물인터넷 회선 분류해 발표]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3034</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3034</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 “매월 알뜰폰 가입자 통계를 휴대폰 선불·후불 회선과 사물인터넷(M2M) 회선으로 투명하게 분류해 발표하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--986bf258d49debdd1bbac7c8be57eefd0dedb811/d03d60540b64b740c57dbb17d3314401.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
