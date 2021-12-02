@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[할머니 무릎 꿇린 미용실 폐업한 것이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/446</link>
+            <guid>https://factchecker.or.kr/fc_suggests/446</guid>
+            <pubDate>Thu, 02 Dec 2021 07:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[얼마전 70대 할머니를 무릎 꿇린 미용실이 사회의 질타를 받은 사건이 있었습니다. 미용사는 사과문을 두 차례 업로드 했습니다. 그런데 한 커뮤니티에 할머니 무릎 꿇린 미용실 근황이라는 글이 올라왔습니다. 해당 미용실이 구...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대기업 플랫폼사가 작가들에게 강압적인 강제 휴재를 시킨다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/445</link>
             <guid>https://factchecker.or.kr/fc_suggests/445</guid>
@@ -347,16 +354,6 @@ https://www.chosun.com/economy/economy_general/20...]]></content:encoded>
             <pubDate>Sun, 21 Nov 2021 13:23:17 GMT</pubDate>
             <content:encoded><![CDATA[환경을 위해서 빨대소비와 일회용 플라스틱 쓰레기를 줄여야한다는 목소리가 계속되고 있는데요.
 공익광고는 일회용품사용에 대해 경각심을 불러일으키고, 환경관련 챌린지나 캠페인은 다회용기쓰기, 빨대사용하지 않기처럼 개인들이 배출...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여자는 루테인을 먹으면 안되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/436</link>
-            <guid>https://factchecker.or.kr/fc_suggests/436</guid>
-            <pubDate>Sun, 21 Nov 2021 12:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[여자가 절대 먹지 말아야할 영양제가 있는데 그 중에 하나다 루테인이라고 합니다.
-진짜인지 궁금합니다.
-https://m.pann.nate.com/talk/356938753
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[아주 정확한 팩트체크] 전두환이 5·18에 대해 사과했다?  | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
