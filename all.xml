@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[작년 전국 지자체 초과세수 129조,  사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/448</link>
+            <guid>https://factchecker.or.kr/fc_suggests/448</guid>
+            <pubDate>Thu, 02 Dec 2021 12:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[세입 오차가 역대 최대라는 기사를 봤습니다. 해당 기사를 보면 작년에 전국 지자체 초과세수가 129조라고 합니다.&nbsp;
+2020년 초에 편성된 세입과 2020년 결산에 나타난 세입을 비교 자체가 잘못 되었다는 내용도 봤는데...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[할머니 무릎 꿇린 미용실 폐업한 것이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/446</link>
             <guid>https://factchecker.or.kr/fc_suggests/446</guid>
@@ -346,14 +354,6 @@ http://www.newspic.kr/view.html?nid=2021112407091332166&amp;pn=541&amp;cp=D7t...
 &nbsp;
 “1주택인데 종부세 작년 3배… 세금 내려 빚낼판” 고지서에 한숨
 https://www.chosun.com/economy/economy_general/20...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빨대 안쓰기가 해양쓰레기 줄이기에 도움이 되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/437</link>
-            <guid>https://factchecker.or.kr/fc_suggests/437</guid>
-            <pubDate>Sun, 21 Nov 2021 13:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[환경을 위해서 빨대소비와 일회용 플라스틱 쓰레기를 줄여야한다는 목소리가 계속되고 있는데요.
-공익광고는 일회용품사용에 대해 경각심을 불러일으키고, 환경관련 챌린지나 캠페인은 다회용기쓰기, 빨대사용하지 않기처럼 개인들이 배출...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[아주 정확한 팩트체크] 전두환이 5·18에 대해 사과했다?  | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

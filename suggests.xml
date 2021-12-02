@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-12-02T11:17:18.727Z</updated>
+    <updated>2021-12-02T12:31:47.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[작년 전국 지자체 초과세수 129조,  사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/448</id>
+        <link href="https://factchecker.or.kr/fc_suggests/448"/>
+        <updated>2021-12-02T12:31:07.842Z</updated>
+        <content type="html"><![CDATA[세입 오차가 역대 최대라는 기사를 봤습니다. 해당 기사를 보면 작년에 전국 지자체 초과세수가 129조라고 합니다.&nbsp;
+2020년 초에 편성된 세입과 2020년 결산에 나타난 세입을 비교 자체가 잘못 되었다는 내용도 봤는데...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할머니 무릎 꿇린 미용실 폐업한 것이 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/446</id>
@@ -84,13 +92,5 @@ http://www.newspic.kr/view.html?nid=2021112407091332166&amp;pn=541&amp;cp=D7t...
 &nbsp;
 “1주택인데 종부세 작년 3배… 세금 내려 빚낼판” 고지서에 한숨
 https://www.chosun.com/economy/economy_general/20...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빨대 안쓰기가 해양쓰레기 줄이기에 도움이 되나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/437</id>
-        <link href="https://factchecker.or.kr/fc_suggests/437"/>
-        <updated>2021-11-21T13:23:17.248Z</updated>
-        <content type="html"><![CDATA[환경을 위해서 빨대소비와 일회용 플라스틱 쓰레기를 줄여야한다는 목소리가 계속되고 있는데요.
-공익광고는 일회용품사용에 대해 경각심을 불러일으키고, 환경관련 챌린지나 캠페인은 다회용기쓰기, 빨대사용하지 않기처럼 개인들이 배출...]]></content>
     </entry>
 </feed>
