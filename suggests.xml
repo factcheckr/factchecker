@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-12-04T12:33:03.902Z</updated>
+    <updated>2021-12-04T13:26:34.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대입 특별 전형과 그외 화교에 대한 여러 특혜 관련 사항]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/453</id>
+        <link href="https://factchecker.or.kr/fc_suggests/453"/>
+        <updated>2021-12-04T13:25:52.338Z</updated>
+        <content type="html"><![CDATA[https://gall.dcinside.com/board/view/?id=dcbest&amp;no=32599
+&nbsp;
+화교들이 대한민국 국적 안 따는 이유
+&nbsp;
+화교들이 우리나라에서 온갖 특혜를 누리고 있다는 내용을 모아 놓았습...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시셰퍼드는 '일본 포경선'만 공격하기 때문에 제재받지 않는다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/452</id>
+        <link href="https://factchecker.or.kr/fc_suggests/452"/>
+        <updated>2021-12-04T13:25:52.341Z</updated>
+        <content type="html"><![CDATA[아래 링크는 국제 해양 보호단체인 시셰퍼드(Sea Shepherd Conservation Society)에 관한 게시글입니다. 게시글에서 시셰퍼드가 과격한 활동을 함에도 국제사회의 제재를 받지 않는 이유가 일본 포경선만 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슬로베냐 간호사 폭로]]></title>
         <id>https://factchecker.or.kr/fc_suggests/451</id>
@@ -75,23 +93,5 @@
 반포자이 준공일은 2008년 임에도 20년 거주 라는 둥 전체적으로 펙트에 기반하지 않아 보입니다.&nbsp;
 &nbsp;
 최초 기사 작성 후 댓글로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방헬프콜(1339) 관련 팩트체크]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/441</id>
-        <link href="https://factchecker.or.kr/fc_suggests/441"/>
-        <updated>2021-11-24T16:30:42.039Z</updated>
-        <content type="html"><![CDATA[한 커뮤니티 사이트에 올라온 국방헬프콜 관련 주장입니다. 주장은 아래와 같습니다. 신고의 의의는 익명성에 있는 것인데 아래 내용이 사실이라면 신고자에게 불이익이 가해질 수 있기 때문에 큰 문제로 보입니다.
-
-해당 댓글...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 아파트 CCTV 월패드 해킹 사건 리스트 명단 공개에 충격..사생활 털렸다살구뉴스 DB 2021년 11월 다크웹에서 우리 나라의 일반 가정 생활상이 담긴 영상...]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/440</id>
-        <link href="https://factchecker.or.kr/fc_suggests/440"/>
-        <updated>2021-11-24T12:31:03.637Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-이런 기사가 지역 카페에 퍼지고 있어요~ 검색해보니 관련 기사는 없는데 사실인지 궁금해요~&nbsp;
-http://www.newspic.kr/view.html?nid=2021112407091332166&amp;pn=541&amp;cp=D7t...]]></content>
     </entry>
 </feed>
