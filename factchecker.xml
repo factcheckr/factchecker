@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2021-12-04T09:20:57.295Z</updated>
+    <updated>2021-12-04T10:21:42.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -42,6 +42,19 @@
         <updated>2021-11-25T15:20:47.357Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/263">코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
 관련제안 : https://factchecker.or.kr/fc_suggests/346
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교원, 공무원 채용에서 성할당제(양성평등목표채용제)로 인해 성적이 높은 여성이 탈락하고 남성이 혜택 받는다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/262</id>
+        <link href="https://factchecker.or.kr/fc_subjects/262"/>
+        <updated>2021-12-04T10:20:46.090Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/262">검증 대상 링크 혹은 발언 원문 :
+조선일보, “여성 위한 할당제? 혜택 보는건 남성”, 2021.11.15.
+“특정 성이 30% 이하로 내려가지 않게 하자는 것인데 실제로 공무원 시험에선 남성이 혜택을 보는 경우가 많다”고 했다. 이 후보는 “이게 현실인데도 피해를 본다고 생각하는 (남성들이) 많고, 이걸 없애겠다고 하면 박수를 친다”며 “이런 게 대표적인 신화 중 하나”라고 했다. 교원 등 일부 공무원 공채에서 성비를 맞추기 위해 오히려 성적이 높은 여성이 떨어지는 경우가 있다는 것이다.
+경향신문 ‘성할당제로 남성이 피해?’…이재명 후보 오히려 남성에 혜택, 2021.11.13.
+이 후보는 “20대 남성이 ‘여성할당제 때문에 피해를 봤다’, ‘폐지하자’고 하는데 실제로 여성을 위한 할당제는 거의 없고 대부분 성할당제”라며 “특정 성이 30% 이하로 내려가지 않게 하자는 것인데 실제로. 공무원 시험에선 남성이 혜택을 보는 경우가 많다”고 말했다.
+교원이나 공무원 공채...
 </a>]]></content>
     </entry>
     <entry>
@@ -125,14 +138,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/254"/>
         <updated>2021-11-17T03:20:15.818Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/254">오토바이 헬멧은 법적 기준이 없어서 모자만 쓰면 된다는 말이 누리꾼들 사이에서 돌고 있습니다. 밀짚모자를 써도 경찰이 단속할 수 없다는 말도 있습니다. 실제로 밀짚모자 까지는 아니더라도 공사 현장에서 사용하는 안전모를 착용하고 오토바이를 타는 경우가 있습니다. 또 자전거나 킥보드를 탈 때도 반드시 헬멧을 착용해야 하지만, 어떤 헬멧을 착용해야 하는지 헷갈린다고 이야기하는 사람들이 있습니다. 오토바이 등을 이용할 때 착용하는 헬멧에 법적 기준이 있는지 확인해봤습니다.&nbsp;&nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기 기증자 편지 교환, 우리나라는 불가능?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/253</id>
-        <link href="https://factchecker.or.kr/fc_subjects/253"/>
-        <updated>2021-12-03T09:19:56.774Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/253">뇌사 상태로 2년간 투병 생활을 이어온 소율 양이 끝내 숨졌습니다. 6살 소율 양은 심장과 좌‧우 신장을 다른 이에게 기증하고 세상을 떠났습니다. 소율 양의 아버지는 언론 인터뷰에서 소율 양의 심장이 잘 뛰는지, 누구에게 기증이 되는지 알 수 없어 아쉽다고 말했습니다. 그러면서 현재 우리나라에선 기증자의 가족과 수혜자의 개인정보는 서로 비밀에 부쳐진다는 사실이 조명되었습니다. 개인정보 보호가 보편적인 기준인지, 외국에선 기증자와 수혜자의 교류를 어떻게 보장하는지, 나아가 이러한 제도가 장기 기증과 어떤 관계를 갖는지 확인했습니다.
 </a>]]></content>
     </entry>
 </feed>

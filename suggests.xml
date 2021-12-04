@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-12-04T09:20:57.293Z</updated>
+    <updated>2021-12-04T10:21:42.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[슬로베냐 간호사 폭로]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/451</id>
+        <link href="https://factchecker.or.kr/fc_suggests/451"/>
+        <updated>2021-12-04T10:21:01.068Z</updated>
+        <content type="html"><![CDATA[http://www.fntoday.co.kr/news/articleView.html?idxno=266712
+&nbsp;
+&nbsp;
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국에 맞설 준비하는 대만을 한국이 비밀 지원했다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/450</id>
@@ -83,12 +93,5 @@
         <content type="html"><![CDATA[&nbsp;
 이런 기사가 지역 카페에 퍼지고 있어요~ 검색해보니 관련 기사는 없는데 사실인지 궁금해요~&nbsp;
 http://www.newspic.kr/view.html?nid=2021112407091332166&amp;pn=541&amp;cp=D7t...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인 아보카도 섭취량 연 6,500톤?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/439</id>
-        <link href="https://factchecker.or.kr/fc_suggests/439"/>
-        <updated>2021-11-23T17:22:36.537Z</updated>
-        <content type="html"><![CDATA[다음카페 [밀리토리네]에 인기글에 등록된 글입니다. 해당 글은 한 기사를 바탕으로 작성됐는데요. 2018년, 한국인은 아보카도 6,500톤을 먹었다고 합니다. 2017년보다 2배 늘어났고, 2008년보다 12배 늘어났다고...]]></content>
     </entry>
 </feed>
