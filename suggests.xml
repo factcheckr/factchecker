@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-12-05T14:18:30.691Z</updated>
+    <updated>2021-12-05T15:20:39.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[독일은 방역대책으로 다중이용시설에서 접종자와 미접종자를 구역을 나누나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/454</id>
+        <link href="https://factchecker.or.kr/fc_suggests/454"/>
+        <updated>2021-12-05T15:19:57.733Z</updated>
+        <content type="html"><![CDATA[독일의 미접종자 구분법이라며 올라온 사진입니다. 해당 게시물은 추천을 받아 많은 사람에게 노출됐습니다. 실제로 독일이 방역대책으로 마트 내 백신 접종자와 미접종자의 동선을 창살로 구별하는지 팩트체크가 필요해보입니다.
+1...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대입 특별 전형과 그외 화교에 대한 여러 특혜 관련 사항]]></title>
         <id>https://factchecker.or.kr/fc_suggests/453</id>
@@ -82,16 +90,5 @@
 중국인 매수사례가 증가하고있다는
 소문과 뉴스가 일부 보였습니다.
 이 내용의 사실여부가 궁금합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화일보 이정우 기자 보유세 기사가 소설 같아요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/442</id>
-        <link href="https://factchecker.or.kr/fc_suggests/442"/>
-        <updated>2021-11-25T13:25:03.241Z</updated>
-        <content type="html"><![CDATA[https://news.v.daum.net/v/20211122120119687?f=m
-&nbsp;
-반포자이 준공일은 2008년 임에도 20년 거주 라는 둥 전체적으로 펙트에 기반하지 않아 보입니다.&nbsp;
-&nbsp;
-최초 기사 작성 후 댓글로...]]></content>
     </entry>
 </feed>
