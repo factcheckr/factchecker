@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 07:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 08:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,9 +146,9 @@
             <title><![CDATA[커피 원두 사상 최고치 사실일까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/269</link>
             <guid>https://factchecker.or.kr/fc_subjects/269</guid>
-            <pubDate>Sun, 05 Dec 2021 07:18:50 GMT</pubDate>
+            <pubDate>Sun, 05 Dec 2021 07:18:43 GMT</pubDate>
             <content:encoded><![CDATA[한국인의 커피 사랑은 유별납니다. 현대경제연구원 조사에 따르면 성인 한 명이 1년간 마시는 커피는 2015년 291잔, 2016년 317잔, 2017년 336잔, 2018년 353잔으로 계속 증가했습니다. 같은 기간 세계 평균 커피 소비량은 한국의 3분의 1 수준인 130~132잔으로 거의 변화가 없었습니다. 그런데 최근 커피 주요 산지의 이상기후와 세계적 물류 대란이 겹치며 커피 원두 가격이 계속 오르고 있습니다. 이대로라면 국내 커피 가격도 오를 수밖에 없다는 전망이 나오는데요, 과연 현재의 커피 원두가격이 사상 최고치인지 체크를 해보고 앞으로의 전망을 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[플라스틱 OTHER는 재활용이 불가능하다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -517,6 +517,17 @@
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c7654f88ceeaf21b26cf2fd069e8be41721651c8/dbf1ac9d829cdf4815e2672b02cdf93f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[커피 원두 사상 최고치 사실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/72</link>
+            <guid>https://factchecker.or.kr/fc_publications/72</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 커피가격의 상승요인
+1천 원대 커피 사라지나…원두 가격, 7년 만에 최고치 코로나19·가뭄·한파 등 영향
+커피 원두의 국제 거래 가격이 2014년 기준으로 7년 만에 최고치를 기록한 데 이어 국내 우윳값 등도 상승하면서 1천 원대 저가 커피가 사라지는 것 아니냐는 관측이 나오고 있습니다.현지 시간으로 12일, 블룸버그 통신은 미국 뉴욕 상품거래소에서 아라비카 원두 선물가격이
+7년 만에 최고치인 파운드(454g)당 2.235달러에 거래됐다고 보도했습니다.
+특히 커피 생산 1위국인 브라질에서 길어지는 가뭄과 기후 변화로 인한 한파, 100년 만의 물 부족과 더불어 세계적 물류 대란이 겹치면서 전 세계 커피 가격 인상에 영향을 미쳤습니다.아라비카 원두의 대표 산지인 에티오피아는 8월부터 내전이 확산돼 커피 농가와 현지 물류가 제대로 운영되지 않는 상황입니다.또 커피 생산 2위국이자 로브스타 원두의 최대 생산국인 베트남에서는 당국의 강력한 코로나19 방역 대책으로 인한 노...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부항이 코로나 백신 효과를 100배 증가시킨다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/71</link>
             <guid>https://factchecker.or.kr/fc_publications/71</guid>
@@ -644,16 +655,6 @@
             <guid>https://factchecker.or.kr/fc_publications/63</guid>
             <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1. 폐지방이란?&nbsp;요즈음은 생활이 윤택해지고 영양과잉 상태가 되면서 비만에 대한 염려가 증대되고 비만증에 고민하는 사람들이 급격히 늘고 있는 실정인데, 최근들어 피부과 영역에서 이들을 위한 지방흡입술 (liposuction)을 많이 시행하고 있다. 지방흡입술이란 기존의 지방 절제술 (lipectomy)과는 전혀 다른 수술법으로서, 피부는 그대로 유지하고 피부에 조그마한 구멍을 뚫고 이를 통하여 지방을 뽑아내는 관인 cannula를 삽입한 다음 suction을 이용하여 음압을 걸어줌으로써 피하지방을 제거하는 방법이다. 따라서 이 방법은 시술 후 피부의 흉이 전혀 없고 원하는 지방만을 제거하는 미용적으로 매우 획기적인 방법으로 알려져 있다. 지방흡입술은 단순한 미용수술 이외에 중증의 비만환자에서는 건강유지를 위한 일종의&nbsp; 치료수술이라 말할수 있으나 대개 다이어트나 운동만으로는 제거할 수 없는 신체부위의 지방을 선택적으로 제거함으로써 본인이 원하는 몸매(body contour)를 유...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[절대 깨지지 않는다는 ***케이스, 과연 진실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/62</link>
-            <guid>https://factchecker.or.kr/fc_publications/62</guid>
-            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MIL-STD-810 기준이 실제로 존재하기는 하나 불사조케이스가 이 기준을 통과했다는 증거는 어디에도 없었고, 회사 측에 다양한 방법으로 문의를 넣어본 결과, 전화와 메일은 확인조차 하지 않으며 홈페이지로 문의를 한 경우에는 나의 문의는 무시한 채 다른 사람들의 문의에만 답변한 것으로 확인되었다. 이를 통해 대답을 회피하려는 경향을 보인다는 것을 알 수 있다.
-근거 출처에 표기한 사이트를 근거로 US 밀리터리 드랍테스트(MIL-STD-810)는 실제로 존재한다는 것을 알 수 있다.
-US 밀리터리 드랍테스트(MIL-STD-810)를 통과했다는 증거는 어디에도 남아있지 않다. 검증을 받은 제품들은 위키백과에 등록이 되어있지만, 이 폰케이스에 대한 정보는 나오지 않는다.
-대한민국에서 US 밀리터리 드랍테스트를 대행해주는 업체 측에서는 불사조 케이스에 대한 US 밀리터리 드랍테스트를 실시한 것은 맞으나, 정말 그 테스트를 통과했는지 여부는 알려줄 수 없으며 직접 불사조 케이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
