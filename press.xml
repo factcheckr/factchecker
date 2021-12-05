@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 13:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 14:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언더그라운드.넷] “누군가에게는 평생의 연인일 텐데.” 12월 1일 인터넷커뮤니티에 ‘여성들을 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e28733a6e3d2386f18abc38da8c3913b1ef8caf7/e5c1d6329e6fb9a48ed345b2197a2fcb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노컷체크]'쥴리' '르네상스' 단어는 선관위 제재중?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3090</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3090</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령 선거가 97일 앞으로 다가온 가운데 최근 온라인 상에서 중앙선거관리위원회(선관위)가 쥴리, 르네상스 등과 같은 특정 단어를 제재하고 나섰다는 주장이 제기됐다. 쥴리는 국민의힘 윤석열 대선 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--166dc247c8254f95eb947c10848d7950dfed94d1/458a0e6e8e1d7aeb9e63ee94745725f2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[깐팩] '세계 최장 현수교' 차나칼레 대교, 韓기술로 건립? 사실은…]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 오미크론이 크리스..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b0e7510594d414c414d4a3c8cd85d9c5c9a3a166/f645779e11afc01f62aa63c4b2b1562c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 색 같은 건" → "이 XX야"... 윤석열 욕설 영상은 '거짓']]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3073</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3073</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 음향 선명한 다른 영상에는 상황 달라... 당사자 부인... 문제 영상, 2일 낮 제목 바뀌어]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--02262583f79ab916fc48d80155a06640fed0c0d9/3fbbac996ebf497a38c91b990beaf309.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
