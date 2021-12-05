@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 16:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 17:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,6 +268,23 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[종이컵은 스타벅스 리유저블 컵보다 친환경적인가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/456</link>
+            <guid>https://factchecker.or.kr/fc_suggests/456</guid>
+            <pubDate>Sun, 05 Dec 2021 17:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;
+
+아래 링크의 블로그 게시글에서 발췌한 부분입니다. 해당 게시글은 스타벅스 리유저블컵에 대해 다루고 있는데요. 스타벅스 리유저블컵은 BPA프리로 제작돼 일회용이 아닌 세척 후 다시 사용할 수 있다고 합니다. 스타벅...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이트 폭력으로 인해 1년에 100명이 죽는다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/455</link>
+            <guid>https://factchecker.or.kr/fc_suggests/455</guid>
+            <pubDate>Sun, 05 Dec 2021 17:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[해당 내용은 이수정 경기대 범죄심리학과 교수가 한 라디오 방송에 출연해 한 발언인데요. 여성단체에서 기사를 세어서 통계를 낸 결과 연인관계든 혼인신고된 사람이든 1년동안 평균 100명이 죽어 나간다고 말했습니다.&nbsp;
+관련...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[독일은 방역대책으로 다중이용시설에서 접종자와 미접종자를 구역을 나누나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/454</link>
             <guid>https://factchecker.or.kr/fc_suggests/454</guid>
@@ -334,24 +351,6 @@
             <content:encoded><![CDATA[청와대 국민청원에 올라온 글입니다. 청원 작성자는 두 가지 작품이 플랫폼 사에 의해 강제 휴재를 당하고 있다고 하는데요.
 &nbsp;
 실제로 각종 커뮤니티에서 선호도가 낮은 웹툰 작가가 건강 상의 이유가 아닌 갑작스런 휴재할 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WHO가 새 변이 바이러스를 오미크론으로 명명한 이유가 중국 때문이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/444</link>
-            <guid>https://factchecker.or.kr/fc_suggests/444</guid>
-            <pubDate>Sat, 27 Nov 2021 15:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[아래 게시글에선 Paul Nuki(영국 텔레그래프 에디터)의 트윗을 인용해 누(Nu)와 시(Xi)를 건너뛰고 오미크론으로 명명한 이유를 소개하고 있습니다.
-누는 새롭다는 뜻의 new와 시는 특정 지역의 낙인효과를 방지하...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국인 부동산 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/443</link>
-            <guid>https://factchecker.or.kr/fc_suggests/443</guid>
-            <pubDate>Fri, 26 Nov 2021 02:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[작년부터 국내 부동산 시장에서
-중국인 매수사례가 증가하고있다는
-소문과 뉴스가 일부 보였습니다.
-이 내용의 사실여부가 궁금합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 40대 이상 출입금지…차별행위로 처벌할 수 있나? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
