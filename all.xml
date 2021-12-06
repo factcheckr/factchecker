@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,7 +140,7 @@
             <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/274</link>
             <guid>https://factchecker.or.kr/fc_subjects/274</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:35 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 02:35:22 GMT</pubDate>
             <content:encoded><![CDATA[맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
         </item>
