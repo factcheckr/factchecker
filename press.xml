@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 01:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 커플 및 여성 전용을 표방한 서울의 한 캠핑장이 40대 이상 커플은 받지 않겠다고 공지한 것을 두고 논란이 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1c7d0c065d3178884a173083679511f205cb26cb/2846c5076f8ce865f465d4f48a989b3f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 오미크론 변이 보도, 팩트는?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3094</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3094</guid>
+            <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내에서도 코로나19 신종 변이 바이러스인 오미크론 변이 확진 사례가 나왔습니다. 특히 이전의 다른 변이보다 감염력과 치사율이 높다는 보도가 나오면서 우려가 커지고 있습니다. 오미크론 변이 관련 국내외 보도와 팩트를 확인했습니다.지난 달(11월) 아프리카 보츠와나에서 처음 발생한 것으로 추정되는 오미크론 변이(Omicron variant)는 11월 24일 남아프리카공화국에서 공식적으로 확인됐습니다. 이후 홍콩·벨기에·이스라엘·독일·영국·이탈리아·네덜란드·덴마크·오스트레일리아·캐나다·미국 등 세계 각국으로 급격하게 확산되었고 한국에서]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46f1520e25027d3f0ef9c9e95e492e8e2efaeeb7/b8b69e251348fb8587741cd3ae28467f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트와이] 이재명 호남 지지율 낮다？..."지지율·득표율 비교 오류"]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[검증 대상] 최종문 외교부 제2차관 “주요 국가들은 국회의원에 외교관여권 발급하지 않는다”국회 외교통일위원회는 지난달 16일 외교관 여권의 발급규정을 보완하는 대용을 담은 여권법 일부 개정안 등의 심사에 돌입했다.지난 5월 10일 김홍걸 무소속 의원이 대표 발의한 개정안에는 관용여권과 외교관여권의 발급 대상인 동반 자녀의 연령을 27세 미만의 미혼 자녀에서 만 18세 미만으로 하향하고, 외교관여권 발급 대상에 현직 국회의원을 추가하는 내용 등이 담겼다.김홍걸 의원실 관계자는 “국회의원은 실질적 외교관 역할을 하고 있는데 현재 외교]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11ff339ac6c5d2f406b5503176ca54a5cd2c5618/16a0f2a0f7f3aab5c968cce3e5001d96.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 오미크론이 크리스마스 선물? 잘못 전파된 낙관론]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3074</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3074</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 오미크론이 크리스..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b0e7510594d414c414d4a3c8cd85d9c5c9a3a166/f645779e11afc01f62aa63c4b2b1562c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

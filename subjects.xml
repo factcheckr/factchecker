@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 01:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 02:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/274</link>
+            <guid>https://factchecker.or.kr/fc_subjects/274</guid>
+            <pubDate>Mon, 06 Dec 2021 02:35:35 GMT</pubDate>
+            <content:encoded><![CDATA[맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[커피 원두 사상 최고치 사실일까?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/269</link>
@@ -118,19 +126,6 @@
             <pubDate>Sat, 20 Nov 2021 14:17:27 GMT</pubDate>
             <content:encoded><![CDATA[※ 경기미디어센터 시니어팩트체크기자단 긴가민가팀(정진보, 송세근, 김광훈, 성기영)이 함께 한 기사입니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김준일 뉴스톱 대표, 방송에서 '국토보유세'는 이중과세라고 주장했다고 하는데 사실일까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/255</link>
-            <guid>https://factchecker.or.kr/fc_subjects/255</guid>
-            <pubDate>Wed, 17 Nov 2021 14:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 16일(화), KBS 더라이브에서 김준일 뉴스톱 대표는 이재명 vs 윤석열, 두 대선 후보의 부동산세에 관한 팩트체크를 하던 중, 이재명 후보의 국토보유세의 조세 저항과 관련하여 이중과세와 위헌의 소지가 있다는 발언을 했습니다.
-
-
-
-
-김준일 뉴스톱 대표 *KBS 더라이브 유튜브 채널 스크린샷]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
