@@ -2,94 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2021-12-31T17:42:05.113Z</updated>
+    <updated>2021-12-31T17:43:38.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[뉴욕타임스 아시아 부편집장이 서울에서 백신부작용으로 사망한 게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/493</id>
-        <link href="https://factchecker.or.kr/fc_suggests/493"/>
-        <updated>2021-12-31T17:41:23.677Z</updated>
-        <content type="html"><![CDATA[뉴욕타임스의 아시아 부편집장(New York Times Deputy Asia Editor)인 &nbsp;카를로스(Carlos Tejada)가 서울에서 백신부작용으로 사망한 게 사실인가요?
-사망한 카를로스 부편집장의 동료 기자인 ...]]></content>
+        <title type="html"><![CDATA[국내 세탁업계에서 배출한 휘발성 유기화합물(VOCs) 는 저측정됐다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/457</id>
+        <link href="https://factchecker.or.kr/fc_suggests/457"/>
+        <updated>2021-12-06T02:35:43.682Z</updated>
+        <content type="html"><![CDATA[기사1은 세탁소에서 배출하는 휘발성 유기화합물(VOCs)의 양이 국내 통계가 세탁물의 양을 고려하지 않았기 때문에 실제 양과 괴리가 있을 것이라 주장합니다. 기사2처럼 통계가 실제 영세업자들의 삶에 큰 영향을 끼치므로 올...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여험, 남혐은 원래 없고, 각 정당이 만들어낸 허구다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/492</id>
-        <link href="https://factchecker.or.kr/fc_suggests/492"/>
-        <updated>2021-12-31T17:41:23.678Z</updated>
-        <content type="html"><![CDATA[인사이트의 기사입니다.&nbsp; 국민의힘 공동선대위원장인 이수정 교수가 여혐, 남혐 이 단어는 정치적 목적으로 만들어진 용어라고 지적했는데요. 여당과 야당이 정치적인 목적으로 젠더 갈등을 이용해왔다는 것입니다.&nbsp;
+        <title type="html"><![CDATA[종이컵은 스타벅스 리유저블 컵보다 친환경적인가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/456</id>
+        <link href="https://factchecker.or.kr/fc_suggests/456"/>
+        <updated>2021-12-05T17:24:06.390Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+
+아래 링크의 블로그 게시글에서 발췌한 부분입니다. 해당 게시글은 스타벅스 리유저블컵에 대해 다루고 있는데요. 스타벅스 리유저블컵은 BPA프리로 제작돼 일회용이 아닌 세척 후 다시 사용할 수 있다고 합니다. 스타벅...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이트 폭력으로 인해 1년에 100명이 죽는다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/455</id>
+        <link href="https://factchecker.or.kr/fc_suggests/455"/>
+        <updated>2021-12-05T17:24:06.392Z</updated>
+        <content type="html"><![CDATA[해당 내용은 이수정 경기대 범죄심리학과 교수가 한 라디오 방송에 출연해 한 발언인데요. 여성단체에서 기사를 세어서 통계를 낸 결과 연인관계든 혼인신고된 사람이든 1년동안 평균 100명이 죽어 나간다고 말했습니다.&nbsp;
+관련...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일은 방역대책으로 다중이용시설에서 접종자와 미접종자를 구역을 나누나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/454</id>
+        <link href="https://factchecker.or.kr/fc_suggests/454"/>
+        <updated>2021-12-05T15:19:57.733Z</updated>
+        <content type="html"><![CDATA[독일의 미접종자 구분법이라며 올라온 사진입니다. 해당 게시물은 추천을 받아 많은 사람에게 노출됐습니다. 실제로 독일이 방역대책으로 마트 내 백신 접종자와 미접종자의 동선을 창살로 구별하는지 팩트체크가 필요해보입니다.
+1...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대입 특별 전형과 그외 화교에 대한 여러 특혜 관련 사항]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/453</id>
+        <link href="https://factchecker.or.kr/fc_suggests/453"/>
+        <updated>2021-12-04T13:25:52.338Z</updated>
+        <content type="html"><![CDATA[https://gall.dcinside.com/board/view/?id=dcbest&amp;no=32599
 &nbsp;
-또, 여...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 주요 예능프로그램의 출연자들의 리스트를 추려보면,도경완 전KBS아나운서가 소속된-연예기획사 "스카이이엔엠"의 소속연예인들이 절반을 차지한다.(출처:일부 인터넷커뮤니티 회원들의 주장)]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/491</id>
-        <link href="https://factchecker.or.kr/fc_suggests/491"/>
-        <updated>2021-12-31T17:41:23.679Z</updated>
-        <content type="html"><![CDATA[안녕하세요?
-제목 그대로 일부 인터넷커뮤니티 회원들을 중심으로,위와 같은주장이 제기됨에 따라,팩트체크를 요청드립니다.
+화교들이 대한민국 국적 안 따는 이유
 &nbsp;
-시사점
-1.도경완 전KBS아나운서가 사직(면직) 후 전속계약을 맺은 (연예기획사):스카이이엔...]]></content>
+화교들이 우리나라에서 온갖 특혜를 누리고 있다는 내용을 모아 놓았습...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군용 침낭은 사제침낭에 비해 가격과 성능 모두 떨어진다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/490</id>
-        <link href="https://factchecker.or.kr/fc_suggests/490"/>
-        <updated>2021-12-31T17:41:23.681Z</updated>
-        <content type="html"><![CDATA[사제 침낭에 비해 가격과 성능 모두 떨어지는 군용 침낭을 비판한 게시글입니다. 댓글을 보면 군용침낭이 깃털을 쓰지않고 솜을 쓰는 것은 이유가 있다는 지적도 있었습니다. 과연 어느 말이 맞는 것인지 궁금합니다.
-관련 기사...]]></content>
+        <title type="html"><![CDATA[시셰퍼드는 '일본 포경선'만 공격하기 때문에 제재받지 않는다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/452</id>
+        <link href="https://factchecker.or.kr/fc_suggests/452"/>
+        <updated>2021-12-04T13:25:52.341Z</updated>
+        <content type="html"><![CDATA[아래 링크는 국제 해양 보호단체인 시셰퍼드(Sea Shepherd Conservation Society)에 관한 게시글입니다. 게시글에서 시셰퍼드가 과격한 활동을 함에도 국제사회의 제재를 받지 않는 이유가 일본 포경선만 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단통법 때문에 휴대폰 가격이 올랐다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/489</id>
-        <link href="https://factchecker.or.kr/fc_suggests/489"/>
-        <updated>2021-12-31T17:41:23.685Z</updated>
-        <content type="html"><![CDATA[아래 링크는 사실상의 불법 보조금을 지급해 휴대폰을 팔아온 쿠팡에 대한 제재를 다룬 기사입니다.
-댓글을 순공감순으로 나열하면 보이는 5개의 댓글 모두 단통법이 악법이라는 내용을 담고있습니다.&nbsp; 그 중에서 가장 추천을 많...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 폭력의 통계에 대한 팩트 체크 부탁드립니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/488</id>
-        <link href="https://factchecker.or.kr/fc_suggests/488"/>
-        <updated>2021-12-31T17:41:23.686Z</updated>
-        <content type="html"><![CDATA[2014년 데이트 폭력 기사
-https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid=016&amp;aid=0000602660
+        <title type="html"><![CDATA[슬로베냐 간호사 폭로]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/451</id>
+        <link href="https://factchecker.or.kr/fc_suggests/451"/>
+        <updated>2021-12-04T10:21:01.068Z</updated>
+        <content type="html"><![CDATA[http://www.fntoday.co.kr/news/articleView.html?idxno=266712
 &nbsp;
-2020년 통계플러스 가을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허위 경력 논란에 휩싸인 국민의힘 '영부인 후보' 김건희씨에 대해 사기죄 적용을 주장했다는 기사가 있습니다. 사기죄 적용이 가능하다는 것이 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/487</id>
-        <link href="https://factchecker.or.kr/fc_suggests/487"/>
-        <updated>2021-12-31T17:41:23.687Z</updated>
-        <content type="html"><![CDATA[더불어민주당 윤호중 원내대표가 허위 경력 논란에 휩싸인 국민의힘 영부인 후보 김건희씨에 대해 사기죄 적용을 주장했습니다.&nbsp;
 &nbsp;
-아래 기사와 같이 사기죄가 성립되는지와 다툼은 있지만, 어느 경력이 사실이고, 어느 경력이...]]></content>
+&nbsp;]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 백신 2차 접종 후 감염돌파되면 단순 백신2차 접종을 마친 경우 보다 더 우수한 항체가 생긴다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/486</id>
-        <link href="https://factchecker.or.kr/fc_suggests/486"/>
-        <updated>2021-12-31T17:41:23.688Z</updated>
-        <content type="html"><![CDATA[백신 맞고 코로나 걸리면 ‘슈퍼 면역력’ 생긴다”
-해당 기사는 미국 NBC 방송 내용을 따와서 기사를 작성한것 같습니다.
-기사에서는 화이자 백신 2차 접종 완료한 52명 중 26명의 돌파감염자와 대조군 25명의 혈액 ...]]></content>
+        <title type="html"><![CDATA[중국에 맞설 준비하는 대만을 한국이 비밀 지원했다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/450</id>
+        <link href="https://factchecker.or.kr/fc_suggests/450"/>
+        <updated>2021-12-03T08:23:50.787Z</updated>
+        <content type="html"><![CDATA[인사이트에 올라온 기사입니다. 인사이트는 로이터 통신이 지난 29일에 보도한 기사를 보고 작성했는데요. 해당 내용에 따르면, 한국을 포함한 최소 7개국이 대만의 오랜 염원인 잠수함 건조를 지원하고 있다고 밝혔습니다.&nbsp;
+...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팩트]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/485</id>
-        <link href="https://factchecker.or.kr/fc_suggests/485"/>
-        <updated>2021-12-31T17:41:23.689Z</updated>
-        <content type="html"><![CDATA[이 사회가 문제다]]></content>
+        <title type="html"><![CDATA[작년 전국 지자체 초과세수 129조,  사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/448</id>
+        <link href="https://factchecker.or.kr/fc_suggests/448"/>
+        <updated>2021-12-02T12:31:07.842Z</updated>
+        <content type="html"><![CDATA[세입 오차가 역대 최대라는 기사를 봤습니다. 해당 기사를 보면 작년에 전국 지자체 초과세수가 129조라고 합니다.&nbsp;
+2020년 초에 편성된 세입과 2020년 결산에 나타난 세입을 비교 자체가 잘못 되었다는 내용도 봤는데...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/484</id>
-        <link href="https://factchecker.or.kr/fc_suggests/484"/>
-        <updated>2021-12-31T17:41:23.690Z</updated>
-        <content type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
-https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738]]></content>
+        <title type="html"><![CDATA[할머니 무릎 꿇린 미용실 폐업한 것이 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/446</id>
+        <link href="https://factchecker.or.kr/fc_suggests/446"/>
+        <updated>2021-12-02T07:19:11.690Z</updated>
+        <content type="html"><![CDATA[얼마전 70대 할머니를 무릎 꿇린 미용실이 사회의 질타를 받은 사건이 있었습니다. 미용사는 사과문을 두 차례 업로드 했습니다. 그런데 한 커뮤니티에 할머니 무릎 꿇린 미용실 근황이라는 글이 올라왔습니다. 해당 미용실이 구...]]></content>
     </entry>
 </feed>
