@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2021-12-06T03:21:01.060Z</updated>
+    <updated>2021-12-31T17:42:05.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 2호]]></title>
+        <id>https://factchecker.or.kr/papers/364</id>
+        <link href="https://factchecker.or.kr/papers/364"/>
+        <updated>2021-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 2호
+1. 여는글딥페이크를 이용한 허위정보의 위험과 대응 마련의 필요성
+2. 글로벌 팩트체크딥페이크 해외 입법 현황 - 유럽 정책에서의 딥페이크 대처
+3. 글로벌 팩트체크딥...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 1호]]></title>
         <id>https://factchecker.or.kr/papers/295</id>
@@ -120,18 +130,5 @@
 저자 : 김여라
 &nbsp;
 출처 : http://drm.nars.go.kr:7003/sd/imageview...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국회입법조사처] 허위조작정보에 대한 팩트체크(fact check)의 현황 및 과제]]></title>
-        <id>https://factchecker.or.kr/papers/200</id>
-        <link href="https://factchecker.or.kr/papers/200"/>
-        <updated>2021-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : 허위조작정보에 대한 팩트체크(fact check)의 현황 및 과제
-&nbsp;
-저자 : 김여라
-&nbsp;
-출처 : http://drm.nars.go.kr:7003/sd/...]]></content>
     </entry>
 </feed>
