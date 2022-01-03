@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 00:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,6 +292,29 @@ https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid
             <content:encoded><![CDATA[이 사회가 문제다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크]원전이 태양광보다 비싸다는데…사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3268</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3268</guid>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 16일에 있었던 20대 대통령선거 정책토론회에서 주요 정당은 기후위기 대응을 주제로 토론을 했다. 정의당 장혜영 의원은 “원자력 에너지는 석탄, 풍력, 태양광보다 발전비용이 높으니 원자력 발전이 아닌 재생에너지와 배터리에 투자해야 한다”고 주장했다.장 의...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 임인년 새해의 상징 '검은 호랑이'는 상상 속 동물? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3267</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3267</guid>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 2022년 새해는 검은 호랑이의 해로 불리면서 관심을 모은다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cfc1b1fce3a9ef575f45b370310c51a6e3da0499/d57582c01cd7f3536ed49f38d900d6d5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '임인년' 새해가 밝았다고요?…아직 '신축년'입니다 | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3266</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3266</guid>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 임인년(壬寅年) 검은 호랑이의 해가 밝았습니다 2022년 임인년 새해를 맞아…]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a2cc48ced838637434ab56ef98d94eaa9a52dba/19f95a5df6f44ce521a980420b8b9061.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 국회의원 출마 연령 만 18세로 내린다는데…다른 나라는? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3262</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3262</guid>
@@ -346,30 +369,6 @@ https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid
             <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[권솔 기자 휴가로&nbsp;제가 대신 진행합니다. 최근 인터넷 커뮤니티에&nbsp;코로나19 백신에 든&nbsp;독성 물질을 솔잎차로&nbsp;해독한다는 글 많이 올라오고 있는데요]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c394b490a7e1ad5b8e96230b8cf03fd546a70dc/7a95965aceba506b4b43741d7d330e0e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]김건희, 사과 뒤에도 풀지 못한 의혹 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3246</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3246</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[본인을 ‘국민의힘 대통령 후보 윤석열의 아내’라고 소개한 김건희 코바나컨텐츠 대표는 26일 기자회견을 통해 허위 이력 의혹에 대해 사과했다. 김씨는 “일과 학업을 함께 하는 과정에서 제 잘못이 있었습니다. 잘 보이려 경력을 부풀리고 잘못 적은 것도 있었습니다. 그러지 말았어야 했는데, 돌이켜 보니 너무나도 부끄러운 일이었습니다. 모든 것이 저의 잘못이고 불찰입니다”라고 말했다. 모든 것이 잘못이고 불찰이라는 김씨의 말과는 달리 국민의힘 선대위는 14페이지 분량의 해명자료를 통해 허위보다는 ‘부정확한 기재’에 방점을 찍었다.뉴스톱]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f51cd8c92a898933d10eeaba0168be0e3c28897f/08713bc5bab1f0251b4ba03dc76926b9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 인구 100만명당 코로나 사망자, 한국이 상대적으로 적다? | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3245</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3245</guid>
-            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12월 27일 오전 광주 북구보건소 선별진료소에서 코로나19 검사를 받으려는 시민들이 문진표를 작성하고 있다. [사진=연합뉴스]국내 신종 코로나바이러스 감염증(코로나19) 사태가 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9ZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8b636398951a7832a517c433619f4a6a475f9e3/cd78552e94ed99abb708575049762b20.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트와이] 尹, 배우자 '허위 경력' 때문에 후보 등록 못 한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3242</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3242</guid>
-            <pubDate>Sun, 26 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]윤석열 국민의힘 대선후보의 배우자 김건희 씨의 허...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14d80ec6199ab4e9cc669aa9bd50cbdd198ce6c1/8e5de953816819a2b5c08611fb0c713e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[탄소가격부과체계 개편방안 연구용역, 추가·보완 필요해 연장…대선일정과 무관 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
