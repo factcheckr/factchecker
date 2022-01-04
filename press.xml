@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 00:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문재인 대통령이 올해 신년사에서 임기내 성과로 분배 지표 개선을 꼽았지만 번 돈이 아닌 정부와 지방자치단체의 퍼준 돈 때문이어서 논란이 예상된다.집값 문제도 하향 안정세를 확고하게 이어간다고 했으나 전문가 의견은 낙관적이지만은 않은 상태다.임기 마지막 해를 맞은 문 대통령은 3일 청와대에서 2022년 신년사를 발표했다. 문 대통령은 신년사에 K-방역, 1인당 국민소득 3만5000달러 등을 임기 내 성과로 열거하며 누구도 우...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f91073d64f8a65a752899784bc94f251447c4513/a2cba9c841cf10cc05b184e26316d32e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 공수처의 무분별한 통신자료 조회...'사찰'이라 할 수 있나 | 아주경제]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3272</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3272</guid>
+            <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김진욱 고위공직자범죄수사처장이 지난 12월&nbsp;30일 국회 법제사법위원회 전체회의에 출석해서 현안 질의에 답변하고 있다. [사진=연합뉴스 ]고위공직자범죄수사처(공수처)가 수사...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--23fbd4d7ff8e6f3156a2c6d6122ed7d76cb274ca/1c98c533e58ecb40b6c7c1e92d646a68.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]원전이 태양광보다 비싸다는데…사실일까?]]></title>
@@ -77,14 +85,6 @@
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 정부가 코로나19 확진자 증가에 대비해 병상을 늘리고 의료진을 추가 확보할 계획이라고 발표한 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e6cb26d5871997ef8153dba0a07d2a2ef41abe8/d8369a37d38ed127181f391358010f53.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 신지예 영입 이후, '이대남'은 등을 돌릴까요?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3248</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3248</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[신지예 전 한국여성정치네트워크 대표가 국민의힘 윤석열 후보 캠프에 들어갔습니다. 후보 직속 기구인 새시대준비위원회 수석부위원장을 맡았습니다. 당내 의견은 엇갈렸습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4fc62e5cd883b1c747d7b13e047270fe28960862/733efcfb47a399188df764877136cfb9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
