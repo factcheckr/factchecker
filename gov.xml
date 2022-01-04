@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스모니터링, 정책기초 자료활용 및 오보 대응위한 사업]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3279</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3279</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “뉴스모니터링은 정책기초 자료 활용 및 사실과 다른 기사에 신속·적절하게 대응하기 위한 사업”이라며 “국민들에게 정확한 환경기사 전달을 위하여 매년 뉴스모니터링 용역 사업을 추진하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe41655889a2de7441fd773f52a3fefea0b312cb/9e704b85cee6e89f1f84191bab0ddfe0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[기재부 “재정준칙 결코 느슨하지 않아”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3278</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3278</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “정부의 재정준칙은 결코 느슨하지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6c2edd3091044c216d686db355417c224e29296/1a128c2d3069c86da2cc20de2df4c2da.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[5G 이동통신 서비스로 전파고도계 간섭문제 보고된 바 없어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3275</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “정부는 기업들이 필요로 하는 산재예방 활동을 지원하고 안전보건관리체계 구축으로 중대재해처벌법 시행에 대비하는 기업들을 지원하기 위한 활동을 하고 있다”면서 “중대재해처벌법 시행에 대비하는 유일한 방법은 안전보건관리체계 구축”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa3e3f4fd73efc624129b70317b861ab9f2cd549/dbf280c9ebabbedfb66d63f9e78436ff.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 전기·가스요금 조정시기, 코로나·물가 등 고려…정치일정과 무관]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3257</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3257</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부와 산업통상자원부는 “내년도 전기·가스요금 조정 시기는 코로나19 상황, 물가 등을 고려해 급격한 국민부담 증가를 방지하고자 분산 반영한 것으로 정치 일정과는 무관하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9ZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a292f8ac55da2866f805423ad04f0a37278c8d61/2cd2da8927776a57f92ada108dafc8c2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙보훈병원 비의료인 의료행위 재발방지 대책 마련]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3256</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3256</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가보훈처는 “중앙보훈병원에서 비의료인이 의료행위를 한 점에 대해 사과드린다”며 “향후 유사 사례가 발생하지 않도록 재발방지 대책을 마련하고 현장 교육을 강화하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d3a761ca815ed79d8dff0ee3d892e587aeefc965/0a1061fd59b198ea7d2df2b406e5d882.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
