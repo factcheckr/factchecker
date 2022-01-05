@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 00:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신년특집] 에너지전환 가짜뉴스 팩트체크]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3280</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3280</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이투뉴스] 기후위기가 날로 심각해지는 상황에서 재생에너지를 중심으로 탄소중립을 달성해야 한다는 목소리가 높아지고 있다. 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 0으로 만든다는 넷제로에 합의했으며, 유럽연합(EU)은 탄소국경세 입법안을 공개해 탄소 고배출산업에 일종의 관세를 부과하기로 했다.우리나라도 탄소중립위원회가 제안한 2050 탄소중립 시나리오와 2030 국가온실가스 감축목표(NDC)를 확정하며 2050년까지 재생에너지 비중 70%를 달성키로 하는 등 에너지 믹스의 대전환을 예고했다. 그러나 이 과정에서 과학적]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--402cb74b082d0ea5d98db04b32374280a464ee1d/b46856009d22630d5eb425cc8fa088ce.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 백신 접종률 90% 넘은 상황에서 방역패스 실효성 없다? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3277</link>
@@ -77,14 +85,6 @@
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 임인년(壬寅年) 검은 호랑이의 해가 밝았습니다 2022년 임인년 새해를 맞아…]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a2cc48ced838637434ab56ef98d94eaa9a52dba/19f95a5df6f44ce521a980420b8b9061.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 국회의원 출마 연령 만 18세로 내린다는데…다른 나라는? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3262</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3262</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선거와 지방선거에 출마할 수 있는 나이를 만 25세에서 만 18세로 낮추는 내용의 공...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d032f48c37d799eee629f3a78c267b0dc93f0138/dc3ac2ace556c98c69788dc7c6b84081.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

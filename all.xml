@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 00:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,14 @@ https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid
 2020년 통계플러스 가을...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[신년특집] 에너지전환 가짜뉴스 팩트체크 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3280</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3280</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이투뉴스] 기후위기가 날로 심각해지는 상황에서 재생에너지를 중심으로 탄소중립을 달성해야 한다는 목소리가 높아지고 있다. 세계는 2050년까지 화석연료 사용으로 인한 탄소배출을 0으로 만든다는 넷제로에 합의했으며, 유럽연합(EU)은 탄소국경세 입법안을 공개해 탄소 고배출산업에 일종의 관세를 부과하기로 했다.우리나라도 탄소중립위원회가 제안한 2050 탄소중립 시나리오와 2030 국가온실가스 감축목표(NDC)를 확정하며 2050년까지 재생에너지 비중 70%를 달성키로 하는 등 에너지 믹스의 대전환을 예고했다. 그러나 이 과정에서 과학적]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--402cb74b082d0ea5d98db04b32374280a464ee1d/b46856009d22630d5eb425cc8fa088ce.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 백신 접종률 90% 넘은 상황에서 방역패스 실효성 없다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3277</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3277</guid>
@@ -371,12 +379,28 @@ https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a2cc48ced838637434ab56ef98d94eaa9a52dba/19f95a5df6f44ce521a980420b8b9061.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 국회의원 출마 연령 만 18세로 내린다는데…다른 나라는? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3262</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3262</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 국회의원 선거와 지방선거에 출마할 수 있는 나이를 만 25세에서 만 18세로 낮추는 내용의 공...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d032f48c37d799eee629f3a78c267b0dc93f0138/dc3ac2ace556c98c69788dc7c6b84081.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[국민취업지원제도 상당수 취업지원서비스 받는 중…현시점 성과분석 적절하지 않아 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3283</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3283</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “국민취업지원제도 참여자 상당수가 현재 취업지원서비스를 받는 중으로, 현시점에서 취업성과를 분석하는 것은 적절하지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7aa0f740bcfb49e6e4efc662b2ee716b08ccd34f/b3ecf8120654fb22d78e4fc31c9c4128.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[내년부터 생산자책임재활용제도 시행해 태양광 폐모듈 회수·재활용 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3282</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3282</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “국내 태양광 폐모듈 발생 추세를 고려해 내년부터 생산자책임재활용제도를 차질없이 시행하고, 태양광 폐모듈을 회수·재활용할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d16b2a341ba36aff3c4f99435f893babaab3ada/a36e2119bd335fe93522478b740b1e3e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[청년 연령 범주화, 통상적 인식과 다를 수 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3281</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3281</guid>
+            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국무조정실은 “정책대상을 분명히 하고자 통상 법령 등에 연령기준을 설정해 범주화한다”면서 “이러한 연령 범주화는 해당 연령에 대한 청년 지원이라는 정책 목적을 효율적으로 달성하기 위한 것으로서, 통상적인 인식과 다를 수 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f4ed2e644d20b86a9cfdf920a889121c8674317a/9e799820b8860ca5c05b73e3b130df6c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[뉴스모니터링, 정책기초 자료활용 및 오보 대응위한 사업 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -433,30 +457,6 @@ https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=102&amp;oid
             <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법무부는 “전자발찌의 기술적 미비점을 보완한 전자장치를 현장에 적용하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--444c46bb18a3792ae9967c254009620e6cf566d3/78e727330e50eef73f8358c40fe167d1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공주교도소 수용자 사망 사건, 법과 원칙 따라 진실규명 최선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3263</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3263</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법무부는 “공주교도소에서 발생한 수용자 사망 사건과 관련, 법과 원칙에 따라 진실 규명에 최선을 다하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c91e55e8009d505dba2228d96dfa2c047ef0c056/564bd6a4da061dad2c9ed5d80189f637.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[간첩조작사건 서훈 취소자 명단공개 판결 관련 정보공개절차 진행 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3259</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3259</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “간첩조작사건 서훈 취소자 명단공개 판결과 관련해 정보공개절차를 진행 중이며, 판결 취지에 따라 정보를 공개할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60f7a5f17460e3f09603d252d2d1431eddce24c1/b7282154a880e42ba814709fad7bca65.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해처벌법 시행 대비 유일한 방법, 안전보건관리체계 구축 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3258</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3258</guid>
-            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “정부는 기업들이 필요로 하는 산재예방 활동을 지원하고 안전보건관리체계 구축으로 중대재해처벌법 시행에 대비하는 기업들을 지원하기 위한 활동을 하고 있다”면서 “중대재해처벌법 시행에 대비하는 유일한 방법은 안전보건관리체계 구축”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa3e3f4fd73efc624129b70317b861ab9f2cd549/dbf280c9ebabbedfb66d63f9e78436ff.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[혀는 부위별로 느끼는 맛이 다르다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
