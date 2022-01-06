@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위 “DH에 요기요 현상유지 명령 위반으로 시정명령 내린 사실 없어”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3290</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3290</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “딜리버리히어로(DH)에 대해 요기요 현상유지 명령 위반으로 시정명령을 내린 사실이 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2c45ba6c03606b8003363ea8ba1446650e7e01e2/be933d14034c1d05a93b3dbf9fc7a41d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국민취업지원제도 상당수 취업지원서비스 받는 중…현시점 성과분석 적절하지 않아]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3283</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “탄소가격부과체계 개편방안 연구용역은 2030 국가온실가스감축목표(NDC) 상향 조정 등에 따른 추가·보완 연구가 필요해 연장한 것으로 대선일정과는 무관하다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0laIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14b4a3b1881c61d991e816a46cc4117c4f8ac7d4/1322d06f7eefd089652a431644918cda.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자발찌 기술적 미비점 보완한 전자장치 현장 적용 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3264</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3264</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법무부는 “전자발찌의 기술적 미비점을 보완한 전자장치를 현장에 적용하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--444c46bb18a3792ae9967c254009620e6cf566d3/78e727330e50eef73f8358c40fe167d1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

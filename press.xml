@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 박근혜 구속한 건 윤석열? 문재인?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3289</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3289</guid>
+            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박근혜 전 대통령을 감옥에 보낸 사람은 누구일까요? 최근 홍준표 국민의힘 의원이 ‘박근혜 전 대통령을 구속한 사람은 윤석열 후보이지 문재인 대통령이 아니다’고 언급하자, 국민의힘 윤석열 캠프 조직본부 특보단장을 지낸 석동현 변호사가 사실과 다르다고 지적했습니다. 이 확인했습니다. 지난 2일 홍준표 의원은 자신의 온라인 청년 플랫폼 ‘청년의 꿈’에서, 사면된 박근혜 전 대통령이 윤 후보 지지 메시지를 낼지에 대해선 “안 할 것”이라며 ‘박 전 대통령을 구속한 사람은 윤 후보이지, 문(문재인 대통령)이 아니다’라고 답했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b916ffb78d838fbeb390826bb1d7736951d9921/70d1a890c8d7edbbfd9cccbf38577f19.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]EU가 원자력 발전으로 돌아섰다?…“돌아선 유럽 국가는 없다”]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3288</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[손창현은 쉴새 없이 손창현한다. 공모전도 쉴새 없이 공모전한다. 뉴스톱은 도작왕 손창현의 도작 사실을 하나 더 추가한다. ①남의 사진으로 달성문화재단 사진전 은상대구 달성군 달성문화재단은 지난해 9월 제10회 전국 사진 및 유튜브 영상 공모전을 개최하고 10월18일 수상자를 발표했다. 출품 조건은 달성군을 주제로 한 사진 또는 동영상이다. 손창현은 일반 사진 부문 은상을 수상했다. 수상작은 이라는 제목이다. 은상의 부상은 현금 100만원이다. 손창현의 수상 사실은 달성군보 등 여러 매체에 보도됐다. 뉴스톱은 제]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef8cef4d81ec210ae5ad9947bb617fcde1c18070/594fda908ffa2608afee29688601694c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 이재명과 윤석열 '토론회' 티키타카, 따져봤습니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3270</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3270</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대선을 70일 정도 앞둔 지금, 후보들 간 토론회 공방이 뜨겁습니다. 더불어민주당 이재명 후보가 운을 띄웠습니다. 국민의힘 윤석열 후보를 향해 얼굴을 맞대고 토론을 하자고 압박했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f935d600445a0acaa060da38d9e68882dc807794/37f88af47d474f4c63120c10fdbb494c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
