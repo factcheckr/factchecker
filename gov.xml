@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 00:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20㎒폭 5G 주파수 경매 최저경쟁가격 확정한 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3299</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3299</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 “20㎒폭 5G 주파수 경매의 최저경쟁가격은 확정한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85490df9f7b310dfd82093dba1c27260f0c485aa/109a2be09c9d08d23aa89a3e4bbbe458.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인천보훈병원 감염병 전담병원 지정, 병상확보 비상계획 따른 불가피한 조치]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3294</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 “국내 5세대(5G) 이동통신 서비스로 인한 전파고도계의 간섭 문제는 보고된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--595f1422be63e98799a8159ea2f37a8728a8efd4/083552ef89c64e5605596f37f56fee56.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소중립 시나리오·NDC 상향안 마련위해 폭넓은 의견수렴 실시]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3274</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3274</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국무조정실은 “2050 탄소중립 시나리오와 2030 NDC 상향안 마련을 위해 사회 각계 폭넓은 의견수렴을 실시했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--119dffbd38d8b060e858516fdbd498b74ece57c4/c82e7b9db6a79ca3ef1efdb44668e68e.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
