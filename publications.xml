@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-01-09T09:13:09.068Z</updated>
+    <updated>2022-01-09T10:13:29.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/77</id>
+        <link href="https://factchecker.or.kr/fc_publications/77"/>
+        <updated>2022-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 환경오염인구가 증가하여 생활쓰레기에 더하여 산업이 발달하면서 자원의 사용이 증가하게 되고 각종의 폐기물이 발생하게 된다. 특히 각종의 에너지원은 연소하는 과정에서 갖가지 오염물질을 방출하게 되며 업종별로는 원재료의 상품화 과정에서 여러 가지 폐기 오염물질이 발생되는데 지구의 자정작용의 한계를 넘어서면 결국 &nbsp;대기 오염, 토양 오염, 수질 오염 및 독성 화학물질오염으로 구분할 수 있는데 우리 건강에 가장 심각한 영향을 미치는 것은 대기 오염(ambient air pollution)이라고 한다.
+&nbsp;
+2. 대기오염 물질과 미세먼지
+&nbsp; 1) 대기오염 물질들
+&nbsp; &nbsp;대기는 천체를 둘러싸고 있는 기체로 이루어진 층을 말하며, 일반적으로 지구를 둘러싸고 있는 공기를 말한다. 지구의 대기는 중력으로 유지되며 상당 부분 지구와 같이 회전한다. 공기는 표준 상태(0℃, 760 mmHg)에서 질소 78.084%, 산소 20.946%, 이산화탄소 0.033%, 아르곤 0.934% 등의 기...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혀는 부위별로 느끼는 맛이 다르다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/76</id>
@@ -122,37 +133,5 @@
 &nbsp; -&nbsp;1세대&nbsp;1주택자 비중(‘20&nbsp;→&nbsp;’21, %): (인원) 18.0&nbsp;→&nbsp;13.9, (세액) 6.5&nbsp;→&nbsp;3.5
 &nbsp;
 &nbsp;※ 다시 한 번 정리하자면, 다주택자와 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산장려금, 인구증가에 효과가 없다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/67</id>
-        <link href="https://factchecker.or.kr/fc_publications/67"/>
-        <updated>2021-11-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 감사원 발표 자료
-1.1. 전국 합계출산율 변화 추이
-
-
-&nbsp;
-
-
-
-세종의 소리
-
-1.2. 해남군 출산율 변화 추이(2009~2018)
-감사원은 출산장려금의 효과가 없다는 것을 전남 해남군의 예를 들었습니다. 2012년 해남군이 출산장려금을 대폭 올리자 합계출산율이 급등했습니다. 그러나 2016년 이후로 합계출산율이 계속 떨어졌습니다. 출산장려금을 받고 그 지역을 떠나는 사람들이 많았다고 합니다. 해남군에서도 이를 인지하고 인구정책과를 신설하고 파격적이고 선제적인 정책을 시급하게 시행해야 한다는 의견을 내놓았습니다. 감사원의 발표 이후, 언론에서는 조선일보를 필두로 해남군의 예를 들어 소위 먹튀 때문에 출산장려금이 효과가 없다는 기사를 쏟아냈습니다.
-
-
-
-
-자료: 통계청
-
-
-
-※ 해남군의 입장
-
-&nbsp;
-2. 반론
-2.1. 출산장려금 확대 이전 보다 높은 현재의 합계출산율
-감사원이 발표한 전남 해남군의 합계출산율 그래프를 확인해 보면,...]]></content>
     </entry>
 </feed>

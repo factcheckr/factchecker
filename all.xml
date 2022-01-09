@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 09:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/295</link>
+            <guid>https://factchecker.or.kr/fc_subjects/295</guid>
+            <pubDate>Sun, 09 Jan 2022 10:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/295">미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[전동 킥보드 음주운전, 자동차와 동일 처벌 ? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/284</link>
@@ -97,13 +106,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/263</link>
-            <guid>https://factchecker.or.kr/fc_subjects/263</guid>
-            <pubDate>Thu, 25 Nov 2021 15:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/263">코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
-관련제안 : https://factchecker.or.kr/fc_suggests/346
-</a>]]></content:encoded>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/295</link>
+            <guid>https://factchecker.or.kr/fc_subjects/295</guid>
+            <pubDate>Sun, 09 Jan 2022 10:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전동 킥보드 음주운전, 자동차와 동일 처벌 ? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -192,15 +201,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
 (출처: 조선일보 기사 캡쳐)
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/263</link>
-            <guid>https://factchecker.or.kr/fc_subjects/263</guid>
-            <pubDate>Thu, 25 Nov 2021 15:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
-관련제안 : https://factchecker.or.kr/fc_suggests/346]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[차이나게이트 관련 팩트체크 요청 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -464,6 +464,17 @@ https://youtu.be/xoYuUrtzKkE
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe41655889a2de7441fd773f52a3fefea0b312cb/9e704b85cee6e89f1f84191bab0ddfe0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/77</link>
+            <guid>https://factchecker.or.kr/fc_publications/77</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 환경오염인구가 증가하여 생활쓰레기에 더하여 산업이 발달하면서 자원의 사용이 증가하게 되고 각종의 폐기물이 발생하게 된다. 특히 각종의 에너지원은 연소하는 과정에서 갖가지 오염물질을 방출하게 되며 업종별로는 원재료의 상품화 과정에서 여러 가지 폐기 오염물질이 발생되는데 지구의 자정작용의 한계를 넘어서면 결국 &nbsp;대기 오염, 토양 오염, 수질 오염 및 독성 화학물질오염으로 구분할 수 있는데 우리 건강에 가장 심각한 영향을 미치는 것은 대기 오염(ambient air pollution)이라고 한다.
+&nbsp;
+2. 대기오염 물질과 미세먼지
+&nbsp; 1) 대기오염 물질들
+&nbsp; &nbsp;대기는 천체를 둘러싸고 있는 기체로 이루어진 층을 말하며, 일반적으로 지구를 둘러싸고 있는 공기를 말한다. 지구의 대기는 중력으로 유지되며 상당 부분 지구와 같이 회전한다. 공기는 표준 상태(0℃, 760 mmHg)에서 질소 78.084%, 산소 20.946%, 이산화탄소 0.033%, 아르곤 0.934% 등의 기...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[혀는 부위별로 느끼는 맛이 다르다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/76</link>
             <guid>https://factchecker.or.kr/fc_publications/76</guid>
@@ -580,38 +591,6 @@ https://youtu.be/xoYuUrtzKkE
 &nbsp; -&nbsp;1세대&nbsp;1주택자 비중(‘20&nbsp;→&nbsp;’21, %): (인원) 18.0&nbsp;→&nbsp;13.9, (세액) 6.5&nbsp;→&nbsp;3.5
 &nbsp;
 &nbsp;※ 다시 한 번 정리하자면, 다주택자와 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[출산장려금, 인구증가에 효과가 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/67</link>
-            <guid>https://factchecker.or.kr/fc_publications/67</guid>
-            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 감사원 발표 자료
-1.1. 전국 합계출산율 변화 추이
-
-
-&nbsp;
-
-
-
-세종의 소리
-
-1.2. 해남군 출산율 변화 추이(2009~2018)
-감사원은 출산장려금의 효과가 없다는 것을 전남 해남군의 예를 들었습니다. 2012년 해남군이 출산장려금을 대폭 올리자 합계출산율이 급등했습니다. 그러나 2016년 이후로 합계출산율이 계속 떨어졌습니다. 출산장려금을 받고 그 지역을 떠나는 사람들이 많았다고 합니다. 해남군에서도 이를 인지하고 인구정책과를 신설하고 파격적이고 선제적인 정책을 시급하게 시행해야 한다는 의견을 내놓았습니다. 감사원의 발표 이후, 언론에서는 조선일보를 필두로 해남군의 예를 들어 소위 먹튀 때문에 출산장려금이 효과가 없다는 기사를 쏟아냈습니다.
-
-
-
-
-자료: 통계청
-
-
-
-※ 해남군의 입장
-
-&nbsp;
-2. 반론
-2.1. 출산장려금 확대 이전 보다 높은 현재의 합계출산율
-감사원이 발표한 전남 해남군의 합계출산율 그래프를 확인해 보면,...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>

@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-01-09T09:13:09.064Z</updated>
+    <updated>2022-01-09T10:13:29.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/295</id>
+        <link href="https://factchecker.or.kr/fc_subjects/295"/>
+        <updated>2022-01-09T10:12:28.732Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/295">미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전동 킥보드 음주운전, 자동차와 동일 처벌 ?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/284</id>
@@ -92,15 +101,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 &nbsp;
 (출처: 조선일보 기사 캡쳐)
 &nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/263</id>
-        <link href="https://factchecker.or.kr/fc_subjects/263"/>
-        <updated>2021-11-25T15:20:47.357Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/263">코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
-관련제안 : https://factchecker.or.kr/fc_suggests/346
 </a>]]></content>
     </entry>
 </feed>

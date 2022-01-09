@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 09:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/295</link>
+            <guid>https://factchecker.or.kr/fc_subjects/295</guid>
+            <pubDate>Sun, 09 Jan 2022 10:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전동 킥보드 음주운전, 자동차와 동일 처벌 ?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/284</link>
@@ -94,15 +103,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
 (출처: 조선일보 기사 캡쳐)
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바다로 흘러간 마스크에서 미세플라스틱이 발생된다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/263</link>
-            <guid>https://factchecker.or.kr/fc_subjects/263</guid>
-            <pubDate>Thu, 25 Nov 2021 15:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스로 마스크는 필수용품이 되었다. 특히 일회용 마스크 사용량이 급증한 만큼 버려지는 일회용 마스크 수도 크게 급증했다. 이렇게 버려진 일회용 마스크로 인해 환경오염이 심각해지고 악순환이 반복된다는 지적이 있다. 일회용 마스크는 어떤 재질로 만들어져있으며 버려진 이후 어떤 문제가 발생되는지 검증을 통해 그 심각성을 돌아보고자 한다.&nbsp;
-관련제안 : https://factchecker.or.kr/fc_suggests/346]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
