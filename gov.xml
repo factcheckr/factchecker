@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부가 차기정권에 긴축 족쇄 채웠다? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3320</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3320</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “정부가 지출 구조조정을 강화해 차기정권에 긴축 족쇄를 채웠다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c0d1af0db201b57ee7b1a31c2d03b92758395bc/93236375a3c6d2b84aef23b1ca99b743.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[기재부, 2021년 세법개정 후속 시행령 개정안 관련 보도 설명]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3315</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 “국내 태양광 폐모듈 발생 추세를 고려해 내년부터 생산자책임재활용제도를 차질없이 시행하고, 태양광 폐모듈을 회수·재활용할 계획”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d16b2a341ba36aff3c4f99435f893babaab3ada/a36e2119bd335fe93522478b740b1e3e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년 연령 범주화, 통상적 인식과 다를 수 있어]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3281</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3281</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국무조정실은 “정책대상을 분명히 하고자 통상 법령 등에 연령기준을 설정해 범주화한다”면서 “이러한 연령 범주화는 해당 연령에 대한 청년 지원이라는 정책 목적을 효율적으로 달성하기 위한 것으로서, 통상적인 인식과 다를 수 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f4ed2e644d20b86a9cfdf920a889121c8674317a/9e799820b8860ca5c05b73e3b130df6c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
