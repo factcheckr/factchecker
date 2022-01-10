@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기재부, 2021년 세법개정 후속 시행령 개정안 관련 보도 설명]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3315</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3315</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 2021년 세법개정 후속 시행령 개정안 관련 주요 보도에 대해 다음과 같이 설명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eac546f89575b808e454121a4f2c33781f758aa4/5d4c853b8c2bb7832f0c1c27b29c754f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[환경성 개선·순환자원 활용률 제고 위해 환경표지 인증제도 개선 중]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3308</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국무조정실은 “정책대상을 분명히 하고자 통상 법령 등에 연령기준을 설정해 범주화한다”면서 “이러한 연령 범주화는 해당 연령에 대한 청년 지원이라는 정책 목적을 효율적으로 달성하기 위한 것으로서, 통상적인 인식과 다를 수 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f4ed2e644d20b86a9cfdf920a889121c8674317a/9e799820b8860ca5c05b73e3b130df6c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스모니터링, 정책기초 자료활용 및 오보 대응위한 사업]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3279</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3279</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “뉴스모니터링은 정책기초 자료 활용 및 사실과 다른 기사에 신속·적절하게 대응하기 위한 사업”이라며 “국민들에게 정확한 환경기사 전달을 위하여 매년 뉴스모니터링 용역 사업을 추진하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe41655889a2de7441fd773f52a3fefea0b312cb/9e704b85cee6e89f1f84191bab0ddfe0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
