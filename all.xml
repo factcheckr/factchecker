@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 08:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@ https://youtu.be/xoYuUrtzKkE
 관련 기사...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["가까운 이마트에서 방역패스 점검" 윤석열 해명 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3330</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3330</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 이마트 이수점, 방역패스 대상 아냐... 집과 가까운 3000㎡ 이상 마트 2곳 존재]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac23a03674f9a6ec0badfcccef559428594c42ac/1074da81079cc3efa077e4ba8f6369a8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[사실은] 이재명 후보의 탈모 공약, 돈은 얼마나 들까요? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3328</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3328</guid>
@@ -374,14 +382,6 @@ https://youtu.be/xoYuUrtzKkE
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지난달 29일 오전 서울시 코로나19 거점전담병원인 광진구 혜민병원에서 의료진이 업무를 보고 있다. 〈사진=연합뉴스〉신종 코로나..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2fc0d58d55f06655228e4f86d100718cfbc15f20/160962e2f639ddc5fc4a7a2f878af834.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 백신 미접종 간호사는 코로나 업무 할 수 없다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3314</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3314</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19 의료진으로 정부의 파견직 간호사에 선발됐으나 코로나19 백신 미접종자여서 일선 병원...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a365bffb2245581675a942df305cee94f9a682b8/4a5f01ceaedd30398ce58bae5015a483.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[운영실적 저조 위원회 통폐합 및 구성 다양화 등 내실화 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
