@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 이재명 후보의 탈모 공약, 돈은 얼마나 들까요?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3328</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3328</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더불어민주당 이재명 대선 후보가 내놨던 탈모 건강보험 적용 공약에 관심이 여전히 뜨겁습니다. 지난주 국민의힘이 윤석열 후보와 이준석 대표의 집안싸움으로 혼선이 이어진 사이, 이재명 후보는 탈모 공약으로 어느 정도 성공을 거뒀다는 평가가 나왔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f7b2c36ae18a8c0760efb5c1133e5417be289695/221e8613193e7c83f79348fa3a752b0a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 연초 꽃값 폭등은 도매상 담합 때문? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3324</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 코로나19 의료진으로 정부의 파견직 간호사에 선발됐으나 코로나19 백신 미접종자여서 일선 병원...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a365bffb2245581675a942df305cee94f9a682b8/4a5f01ceaedd30398ce58bae5015a483.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 북 미사일, ‘극초음속’ 맞나…“아직 아니지만, 폄하할 건 아냐”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3313</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3313</guid>
-            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 북한의 극초음속미사일 기술 수준에 관한 북측 주장에 이례적으로 적극 반박했다. 북한이 아직 극초음속미사일 기술에 도달하지 못했다는 게 군 당국의]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba01b8833a28e4c66e491433158818d2e2d0eb10/f1729eb6428f35f01a64b6b53f1b1701.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

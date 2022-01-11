@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운영실적 저조 위원회 통폐합 및 구성 다양화 등 내실화 추진]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3329</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3329</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “정부는 위원회 신설에 신중, 운영실적 저조 위원회는 통폐합하고 위원 구성 다양화 등 운영 내실화를 추진하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0697aa3b99311799566402ec15a49ec6411a9c3a/9162ddb7bda2d6de358d19852129a7a8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[교육청, 돈 투입할 곳 없어 적은 예산 편성? 사실 아냐]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3327</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가보훈처는 “인천보훈병원의 감염병 전담병원 지정은 정부의 병상확보 비상계획에 따른 불가피한 조치였다”며 “이번 전담병원 지정에도 보훈대상자의 진료에 불편함이 없도록 최선을 다하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b4368b2d0548842449e58eed6ff4b4220391e6d5/37c84cc98e736fb6f03e1e3fff4861b7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 특례시가 특례사무 발굴하도록 적극 지원]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3293</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3293</guid>
-            <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “특례시가 특례사무를 발굴할 수 있도록 적극 지원하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b924d8993478a57f748581187a619ab8dd686016/11a24eac1545bed89207c242fed3f973.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
