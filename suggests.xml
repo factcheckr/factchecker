@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-13T22:13:07.904Z</updated>
+    <updated>2022-01-13T23:13:10.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[킥보드관련 산재처리]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/501</id>
+        <link href="https://factchecker.or.kr/fc_suggests/501"/>
+        <updated>2022-01-13T23:12:29.834Z</updated>
+        <content type="html"><![CDATA[킥보드를 타고 출퇴근 중인데 회사측에서 헬멧 외에도 무릎보호대와 팔꿈치 보호대를 착용해야 사고가 날 시 산재보험 처리가 된다고 하는데요~도로교통법 제50조 4항에 나온 인명보호장구는 헬멧만 나와있더라고요~킥보드주행시 헬멋...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차이나게이트 관련 팩트체크 요청]]></title>
         <id>https://factchecker.or.kr/fc_suggests/500</id>
@@ -97,13 +104,5 @@ https://youtu.be/xoYuUrtzKkE
 &nbsp;
 시사점
 1.도경완 전KBS아나운서가 사직(면직) 후 전속계약을 맺은 (연예기획사):스카이이엔...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군용 침낭은 사제침낭에 비해 가격과 성능 모두 떨어진다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/490</id>
-        <link href="https://factchecker.or.kr/fc_suggests/490"/>
-        <updated>2022-01-06T14:12:02.552Z</updated>
-        <content type="html"><![CDATA[사제 침낭에 비해 가격과 성능 모두 떨어지는 군용 침낭을 비판한 게시글입니다. 댓글을 보면 군용침낭이 깃털을 쓰지않고 솜을 쓰는 것은 이유가 있다는 지적도 있었습니다. 과연 어느 말이 맞는 것인지 궁금합니다.
-관련 기사...]]></content>
     </entry>
 </feed>
