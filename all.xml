@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이준석 민영화 발언 팩트체크 요청 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/503</link>
+            <guid>https://factchecker.or.kr/fc_suggests/503</guid>
+            <pubDate>Fri, 14 Jan 2022 08:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[이준석 국민의당 대표가 과거 유튜브에 출연해 발언한 고속도로 민영화 관련 내용이 최근 다시 SNS에 많이 보입니다. 많은 사람들이 민영화로 요금이 상승한 일본 사례를 들며 이 주장에 반박하기도 했는데요. 오늘 기사를 찾아...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['90년생은 국민연금을 평생 내도 한푼도 못받는다'는 것이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/502</link>
             <guid>https://factchecker.or.kr/fc_suggests/502</guid>
@@ -291,13 +298,12 @@ https://youtu.be/xoYuUrtzKkE
 사망한 카를로스 부편집장의 동료 기자인 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여험, 남혐은 원래 없고, 각 정당이 만들어낸 허구다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/492</link>
-            <guid>https://factchecker.or.kr/fc_suggests/492</guid>
-            <pubDate>Fri, 31 Dec 2021 19:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[인사이트의 기사입니다.&nbsp; 국민의힘 공동선대위원장인 이수정 교수가 여혐, 남혐 이 단어는 정치적 목적으로 만들어진 용어라고 지적했는데요. 여당과 야당이 정치적인 목적으로 젠더 갈등을 이용해왔다는 것입니다.&nbsp;
-&nbsp;
-또, 여...]]></content:encoded>
+            <title><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3364</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3364</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 현대산업개발 공사 수주 전부터 시행... 기사에 인용된 보고서 작성자도 부인]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2daIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac517f103041e5d5194377325d8e3c05ef704d2e/f6976a9fd511119860307ac7f1ead0d3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[세계유산 추진 사도광산은 에도유산일 뿐? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -372,12 +378,20 @@ https://youtu.be/xoYuUrtzKkE
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a9430673cef0e673c3e16d677851178b8eb6193/41d2ecdd9b1d34fb976d0c96023e392b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 SNS 팩트체크-안철수⑮] “집값 인상 폭, 외국보다 월등히 높다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3353</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3353</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0f8b96965fc5f7017fad229a710acc488e7a2bc/e31c589c6e3924dd9ca6c75cb8d12908.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[셀트리온 분식회계 여부, 감리위원회 절차 진행 중…조치 여부 미확정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3366</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3366</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “셀트리온 분식회계 여부 관련 사안에 대한 감리위원회 절차가 진행중으로 일부 기사내용은 사실과 다르며, 조치 여부 및 조치 내용 등에 대해서는 확정된 바가 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a431eaa5caa726434fdd94ebd1a6bcf147efda7/c14bec3d6ab68d45d21afeabf93cbd18.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[론스타 ISDS 사건 중재판정부로부터 선고 공문 받은 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3365</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3365</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법무부는 “론스타 ISDS 사건의 중재판정부로부터 올해 연초 판정을 선고할 것이라는 공문을 받은 사실이 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2taIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a12721d0f2b0788dbd3040602a083def585a6f64/a280b0f38f1e30063f5b2da16db71c4b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[지난해 고용시장 전일제·상용직·민간·非노인 일자리 중심으로 회복 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -442,22 +456,6 @@ https://youtu.be/xoYuUrtzKkE
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 “교육청이 돈을 투입할 곳이 없어서 예상 수입보다 적은 예산을 편성했다는 것은 전혀 사실이 아니다”라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e11d7d72bb562c83ca5f4a9518cd78a45baa68fa/3f2194b9ce8e6350a3afaf64b480772c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[보훈처 “주택특별공급 관련 시스템 보완해 나갈 것” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3326</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3326</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가보훈처는 “주택특별공급 관련 시스템을 보완해 추후 유사한 사례가 발생하지 않도록 노력하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c610cae887f7d06648fac0b95eeb2098e8bdf92f/5536c365d35ac9df8695fda4e2cbcc33.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공무원 증원, 대국민 서비스 개선·정부 역할 수행하기 위한 것 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3325</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3325</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “현 정부의 공무원 증원은 국민의 생명과 안전 및 사회복지 등 대국민 서비스를 개선하고, 확대되는 정부의 역할을 제대로 수행하기 위한 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f84dda2bfa5e17c1729b093a88f42f2f2487165/57af843c8bb7d49675a0718872c3e380.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

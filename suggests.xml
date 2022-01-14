@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-14T07:14:13.783Z</updated>
+    <updated>2022-01-14T08:17:01.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이준석 민영화 발언 팩트체크 요청]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/503</id>
+        <link href="https://factchecker.or.kr/fc_suggests/503"/>
+        <updated>2022-01-14T08:15:16.102Z</updated>
+        <content type="html"><![CDATA[이준석 국민의당 대표가 과거 유튜브에 출연해 발언한 고속도로 민영화 관련 내용이 최근 다시 SNS에 많이 보입니다. 많은 사람들이 민영화로 요금이 상승한 일본 사례를 들며 이 주장에 반박하기도 했는데요. 오늘 기사를 찾아...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['90년생은 국민연금을 평생 내도 한푼도 못받는다'는 것이 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/502</id>
@@ -92,14 +99,5 @@ https://youtu.be/xoYuUrtzKkE
         <updated>2022-01-06T14:12:02.547Z</updated>
         <content type="html"><![CDATA[뉴욕타임스의 아시아 부편집장(New York Times Deputy Asia Editor)인 &nbsp;카를로스(Carlos Tejada)가 서울에서 백신부작용으로 사망한 게 사실인가요?
 사망한 카를로스 부편집장의 동료 기자인 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여험, 남혐은 원래 없고, 각 정당이 만들어낸 허구다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/492</id>
-        <link href="https://factchecker.or.kr/fc_suggests/492"/>
-        <updated>2022-01-06T14:12:02.550Z</updated>
-        <content type="html"><![CDATA[인사이트의 기사입니다.&nbsp; 국민의힘 공동선대위원장인 이수정 교수가 여혐, 남혐 이 단어는 정치적 목적으로 만들어진 용어라고 지적했는데요. 여당과 야당이 정치적인 목적으로 젠더 갈등을 이용해왔다는 것입니다.&nbsp;
-&nbsp;
-또, 여...]]></content>
     </entry>
 </feed>

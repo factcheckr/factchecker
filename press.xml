@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["주52시간제가 광주 참사 불렀다" 언론 보도는 '거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3364</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3364</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 현대산업개발 공사 수주 전부터 시행... 기사에 인용된 보고서 작성자도 부인]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2daIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac517f103041e5d5194377325d8e3c05ef704d2e/f6976a9fd511119860307ac7f1ead0d3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[세계유산 추진 사도광산은 에도유산일 뿐? [FACT IN 뉴스]]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3362</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오는 3월 9일, 대통령 선거를 앞두고, SBS 뉴스의 팩트체크팀 「사실은」과 데이터저널리즘팀 「마부작침」이 손을 맞잡았습니다! 선거 기간 동안 시청자들이 궁금해 하시는 것들을 명징한 데이터 분석을 통해 알려드리기 위한 취지입니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a9430673cef0e673c3e16d677851178b8eb6193/41d2ecdd9b1d34fb976d0c96023e392b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-안철수⑮] “집값 인상 폭, 외국보다 월등히 높다?”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3353</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3353</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0f8b96965fc5f7017fad229a710acc488e7a2bc/e31c589c6e3924dd9ca6c75cb8d12908.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
