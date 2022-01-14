@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 00:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 고용시장 전일제·상용직·민간·非노인 일자리 중심으로 회복 중]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3363</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3363</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “2021년 고용시장은 1월 저점 이후 ’21년 고용시장은 1월 저점 이후 전일제·상용직·민간·非노인 일자리 중심으로 빠르고, 꾸준히 회복되고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b30e64ee286aa51c4079a93848f6d125d206c81c/3c64044f470ea42dbaa3f4808b8b7fde.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국민연금기금 대표소송 관련 대상기업 선정 등 결정된 바 없어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3347</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “현 정부의 공무원 증원은 국민의 생명과 안전 및 사회복지 등 대국민 서비스를 개선하고, 확대되는 정부의 역할을 제대로 수행하기 위한 것”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f84dda2bfa5e17c1729b093a88f42f2f2487165/57af843c8bb7d49675a0718872c3e380.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부가 차기정권에 긴축 족쇄 채웠다? 사실과 다르다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3320</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3320</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “정부가 지출 구조조정을 강화해 차기정권에 긴축 족쇄를 채웠다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c0d1af0db201b57ee7b1a31c2d03b92758395bc/93236375a3c6d2b84aef23b1ca99b743.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
