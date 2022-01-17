@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 21:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 22:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[요양보호사 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/504</link>
+            <guid>https://factchecker.or.kr/fc_suggests/504</guid>
+            <pubDate>Mon, 17 Jan 2022 22:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[급여명세서&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이준석 민영화 발언 팩트체크 요청 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/503</link>
             <guid>https://factchecker.or.kr/fc_suggests/503</guid>
@@ -288,14 +295,6 @@ https://youtu.be/xoYuUrtzKkE
 1083명의 중증 환자가 발생하였을때 각 연령변 환자의 분포를 예측한것입니다.
 현재 중증 환자의 연령 분포를 알고 싶습니다.
 추가적으로 중증 환자의 기저질환 보유 여부도 알았으면 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕타임스 아시아 부편집장이 서울에서 백신부작용으로 사망한 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/493</link>
-            <guid>https://factchecker.or.kr/fc_suggests/493</guid>
-            <pubDate>Fri, 31 Dec 2021 19:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕타임스의 아시아 부편집장(New York Times Deputy Asia Editor)인 &nbsp;카를로스(Carlos Tejada)가 서울에서 백신부작용으로 사망한 게 사실인가요?
-사망한 카를로스 부편집장의 동료 기자인 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 우리나라 산업용 전기요금이 다른 나라보다 비싸다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-17T21:11:50.748Z</updated>
+    <updated>2022-01-17T22:12:46.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요양보호사]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/504</id>
+        <link href="https://factchecker.or.kr/fc_suggests/504"/>
+        <updated>2022-01-17T22:12:00.523Z</updated>
+        <content type="html"><![CDATA[급여명세서&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석 민영화 발언 팩트체크 요청]]></title>
         <id>https://factchecker.or.kr/fc_suggests/503</id>
@@ -91,13 +98,5 @@ https://youtu.be/xoYuUrtzKkE
 1083명의 중증 환자가 발생하였을때 각 연령변 환자의 분포를 예측한것입니다.
 현재 중증 환자의 연령 분포를 알고 싶습니다.
 추가적으로 중증 환자의 기저질환 보유 여부도 알았으면 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕타임스 아시아 부편집장이 서울에서 백신부작용으로 사망한 게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/493</id>
-        <link href="https://factchecker.or.kr/fc_suggests/493"/>
-        <updated>2022-01-06T14:12:02.547Z</updated>
-        <content type="html"><![CDATA[뉴욕타임스의 아시아 부편집장(New York Times Deputy Asia Editor)인 &nbsp;카를로스(Carlos Tejada)가 서울에서 백신부작용으로 사망한 게 사실인가요?
-사망한 카를로스 부편집장의 동료 기자인 ...]]></content>
     </entry>
 </feed>
