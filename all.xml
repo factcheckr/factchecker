@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,30 @@ https://youtu.be/xoYuUrtzKkE
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0laIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--567d9315fac4ebe80f8ec902db3141a39a877705/4fb9cc073abcbb96c1723147928de5b8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[‘염색이 되는 샴푸’도 염모제로 심사신청 가능…현재 해당 샴푸는 심사신청 사실 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3375</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3375</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[식품의약품안전처는 “현재 ‘염색이 되는 샴푸’도 기능성화장품(염모제)으로 심사 신청이 가능하고, 정식 심사를 받은 염색샴푸 품목도 존재하나 해당 샴푸는 현재까지 심사신청 사실이 없다”면서 “‘지혈이 되는 주사기’의 경우 현재에도 2가지 성능(주사침+지혈)이 있는 조합의료기기로서 주사침으로 분류하여 허가 심사가 가능하며, 제품개발 지원을 위한 주사침 기준규격]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e036d3da7acb7065b9b9f013da12d0b96f9d3d6/deffa5bff44d7bab5e95062a5ce042a4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[비회원제 골프장에 개별소비세 부과? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3374</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3374</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “비회원제 골프장에 대해 개별소비세를 부과한다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcElaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e4f6b503f61c0ba5a2c1b0e0e6d820b3c3f92ba/fd53cf33fd27b1debe712673733ee99f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 저점으로 민간부문·상용직 일자리 중심의 고용회복세 계속 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3373</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3373</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “60세 이상 취업자 증가가 정부 재정으로 만들어낸 노인일자리때문이라는 것은 사실과 다르다”면서 “올해 1월을 저점으로 민간부문, 상용직 일자리 중심의 고용회복세가 계속되고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd6462ac528bd05a761e5b25fc2a90ea4e94ba1f/a94e54e17525e062615daacbcbb20415.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[셀트리온 분식회계 여부, 감리위원회 절차 진행 중…조치 여부 미확정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3366</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/3366</guid>
@@ -432,30 +456,6 @@ https://youtu.be/xoYuUrtzKkE
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “방역 위기와 소상공인의 어려움에 빠르게 대응하기 위해 올해 본예산 등 기정예산을 신속 집행하고 있다”면서 “추경 편성은 방역 진행, 소상공인 피해 상황, 재원 여건 등을 종합 검토하여 결정할 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16de44a604a70f20cc2e5446bf3c8d3083ff23b4/819318a9bed7138984dceb438abd3435.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[평택 물류센터 신축현장, 유해위험방지계획서 심사 및 이행확인 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3335</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3335</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부와 한국산업안전보건공단은 “평택 물류센터 신축현장은 관계 법령에 따라 유해위험방지계획서를 심사하고 이행을 확인했다”면서 “물류센터 신축현장에 대한 관리감독을 철저히 하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--008ba3f6056e915ba0474ab844bde3ae19d4cd82/3fc7519759c0d06d2612a5b809e8a033.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[운영실적 저조 위원회 통폐합 및 구성 다양화 등 내실화 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3329</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3329</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “정부는 위원회 신설에 신중, 운영실적 저조 위원회는 통폐합하고 위원 구성 다양화 등 운영 내실화를 추진하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0697aa3b99311799566402ec15a49ec6411a9c3a/9162ddb7bda2d6de358d19852129a7a8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[교육청, 돈 투입할 곳 없어 적은 예산 편성? 사실 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3327</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3327</guid>
-            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부는 “교육청이 돈을 투입할 곳이 없어서 예상 수입보다 적은 예산을 편성했다는 것은 전혀 사실이 아니다”라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e11d7d72bb562c83ca5f4a9518cd78a45baa68fa/3f2194b9ce8e6350a3afaf64b480772c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
