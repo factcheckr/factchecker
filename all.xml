@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 00:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,14 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[종이테이프는 재활용이 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/505</link>
+            <guid>https://factchecker.or.kr/fc_suggests/505</guid>
+            <pubDate>Tue, 18 Jan 2022 02:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 윤석열 대선 후보가 종이 테이프가 붙은 박스는 그대로 재활용이 가능하다고 발언했는데요. 이게 사실인가요?
+일반 투명테이프는 재활용이 불가능해서 일반 쓰레기로 배출하고, 박스 배출시에도 테이프를 모두 제거해야 한다고 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[요양보호사 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/504</link>
             <guid>https://factchecker.or.kr/fc_suggests/504</guid>
@@ -287,16 +295,6 @@ https://youtu.be/xoYuUrtzKkE
 좀전에 질병청에 문의해보니 이런 통계나 보도자료를 낸 적이 없...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코로나 중증 환자의 나이와 기저질환 보유자의 비율 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/494</link>
-            <guid>https://factchecker.or.kr/fc_suggests/494</guid>
-            <pubDate>Sat, 01 Jan 2022 23:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[각 나이의 치명율을 근거로 하여
-1083명의 중증 환자가 발생하였을때 각 연령변 환자의 분포를 예측한것입니다.
-현재 중증 환자의 연령 분포를 알고 싶습니다.
-추가적으로 중증 환자의 기저질환 보유 여부도 알았으면 ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[팩트체크] 이재명·윤석열 후보 양자 TV 토론은 위법? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3379</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3379</guid>
@@ -377,6 +375,22 @@ https://youtu.be/xoYuUrtzKkE
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8e268941e7b968ff9f79c9ab1eae478ed167048/2e232dc2cbed2bebed4f9faa9bce8524.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[건강보험료 부과체계 2단계 개편 준비 중…일정변경 논의 및 확정사항 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3381</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3381</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “형평하고 지속가능한 건강보험료 부과체계 2단계 개편을 위해 착실히 준비 중이며, 일정변경에 대한 논의나 확정사항은 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3855c0c064447343c533c16c0e2be6a8130f9321/1d830def7f027f06312bc2102248ea97.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 그린수소 실증 연구개발 과제 통해 그린수소 생산 및 활용방안 마련 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3380</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3380</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “국내 그린수소 실증 연구개발 과제의 단계적 진행을 통해 안정적이고, 체계적인 그린수소 생산 및 활용방안을 마련해 가고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7de4739a0c263587e369840b7371f76cca4e70e2/1189efe6088b05734dea07664bc0911e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[‘염색이 되는 샴푸’도 염모제로 심사신청 가능…현재 해당 샴푸는 심사신청 사실 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3375</link>
             <guid>https://factchecker.or.kr/fc_archives/gov/3375</guid>
@@ -439,22 +453,6 @@ https://youtu.be/xoYuUrtzKkE
             <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “최근 개인정보 유출 경로로 지적된 차적조회시스템에 행안부 시스템이 연계되어 있다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3715750975828dfb7d1bfdf22bc6ec321780109e/824141d662c1da0df02578dd5c6e55c6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부 “‘서울시장 발언금지’에 관해 재의요구 권고사실 없어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3337</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3337</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “‘서울시장 발언금지’에 관해 재의요구를 권고한 사실은 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1518f2f734952cdf525e14566b0966005101dd77/5534f626bf69b529fea2eccc63b36659.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[추경 편성은 방역 진행, 소상공인 피해 상황, 재원 여건 등 종합 검토해 결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3336</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3336</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “방역 위기와 소상공인의 어려움에 빠르게 대응하기 위해 올해 본예산 등 기정예산을 신속 집행하고 있다”면서 “추경 편성은 방역 진행, 소상공인 피해 상황, 재원 여건 등을 종합 검토하여 결정할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16de44a604a70f20cc2e5446bf3c8d3083ff23b4/819318a9bed7138984dceb438abd3435.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
