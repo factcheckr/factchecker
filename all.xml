@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 00:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[청와대가 카톡을 들여다본다는 루머 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/506</link>
+            <guid>https://factchecker.or.kr/fc_suggests/506</guid>
+            <pubDate>Wed, 19 Jan 2022 01:52:36 GMT</pubDate>
+            <content:encoded><![CDATA[17일 ‘카카오톡에 청와대 앱이 설치돼 우리 대화 내용을 다 살피고 있었네요’라는 문구가 담긴 악의적 메시지가 일부 카카오톡 이용자 사이에 확산되고 있다. 카카오톡 설정에 들어가 카카오 계정과 연결된 외부 서비스를 보니 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[종이테이프는 재활용이 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/505</link>
             <guid>https://factchecker.or.kr/fc_suggests/505</guid>
@@ -285,14 +292,76 @@ https://youtu.be/xoYuUrtzKkE
 코로나 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인사이트의 기사, 팩트체크가 필요합니다. 확진자 중 28%가 미접종자라서 방역패스 실시하는 것이라는데. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/495</link>
-            <guid>https://factchecker.or.kr/fc_suggests/495</guid>
-            <pubDate>Mon, 03 Jan 2022 02:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[질병청 “확진자 중 28%가 미접종자라서 ‘방역패스’ 실시하는 것” - 인사이트 (insight.co.kr)
-&nbsp;
-해당 기사에 대한 팩크체크가 필요합니다.
-좀전에 질병청에 문의해보니 이런 통계나 보도자료를 낸 적이 없...]]></content:encoded>
+            <title><![CDATA[윤석열-이재명 양자토론이 불법이라고?[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3388</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3388</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소수당을 제외한 양당만의 TV토론이 진행된다면 이는 명백히 방송법에 반하는 행위이다 정의당 의원단이 지난 17일 홈페이지와 출입기자단에 배포한 보도자료의 일부입니다. 더불어민주당과 국민의힘이 추진 중인 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dff589ac89b729cc443ac5fcaf099dc64b4758a/83e70b21e29415319fcbe959ea5dd271.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBN 종합뉴스 : [사실확인] 동의 없는 통화 중 녹음 공개는 통신비밀보호법 위반? - MBN (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3391</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3391</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[평일 : 김주하, 주말 : 최일구, 정아영]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e05d548cfb827393b7884877a03880fc861b48e8/09d598738a6dcd9d831b04afbb76276a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['기호 2번 윤석열' 어깨띠 선거법 위반? '대체로 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3389</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3389</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 원내정당 후보, 기호 결정 전에도 사용 가능... 원외정당·무소속 불리]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7987c424645eaaa4bbebdb085e7d4c59ec5d59a1/f4c27ebe3392a52927728fd9ab597f45.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] 여가부, '이념편향적 보조금'에 1조 썼나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3387</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3387</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[앞서 여론조사에서도 짚어봤던, 윤석열 후보의 여성가족부 폐지 공약을 뒷받침하기 위해서 국민의힘은 여성가족부가 이념편향적으로 국고보조금을 지원하고 있다고 주장하고 있습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDhaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--39d0736b3be1817e7aebb7ac1762cd1cff6af722/95b4b1b84cd13b21c346a47ab0bfbc47.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] "아이파크 떼자" 원하면 아파트 이름 바꿀 수 있나? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3386</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3386</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[광주에서 아파트 붕괴 사고를 낸 현대산업개발은 아이파크라는 브랜드를 씁니다. 그런데, 이 이름을 지우고 있는 곳이 있다고 합니..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0cae14419ce47c1078d9a81561c93f64e36e38ed/124a5182580bb69a3bec86032e23f1ff.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 대한민국 구조대는 세계최고 수준? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3385</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3385</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[안철수 국민의당 대선후보는 14일 광주 화정동 현대산업개발 아파트 신축 현장 붕괴사고 실종자 구조 작업에 이스라엘 특수부대 유니트 9900 파견을 요청했다. 그러자 소방청은 설명자료를 내고 사고 현장의 구조작업이 곤란한 이유는 구조기술 또는 장비부족이 아닌 현장의 불안정성으로 인해 수색활동 자체가 곤란하기 때문이라고 밝혔다. 그러면서 “대한민국 구조대의 도시탐색구조능력은 UN에서 최고등급(heavy)을 인증 받을 만큼 세계 최고 수준”이라고 밝혔다. 뉴스톱은 소방청의 대한민국 구조대 수준 관련 언급에 대해 팩트체크한다. ①대한민]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f9195b17915697f687192027af3ce2727a6cd79/d78f8ad4e2bb6bbd9a4c7cb0a44c456a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[주거빈곤가구 200만, 과장된 숫자가 아니다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3384</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3384</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[집 걱정 끝장내는 팩트체크 ①] 10가구 중 1가구는 주거빈곤가구에 해당]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65c46b69cf1b187699e75a8b92c4ebddf7064013/325cc2b120375e4faf54f323036f91fa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 김헌동 SH사장 “후분양으로 하면 무리한 공사 없다” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3383</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3383</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김헌동 서울주택도시공사(SH공사) 사장이 광주 화정아이파크 붕괴 사고 등 건설업계 부실공사로 인한 피해 방지 대책으로 후분양을 언급했다. 그러나 건설업계에서는 후분양만으로 부실 공사로 인한 문제를 모두 막을 수는 없다는 게 중론이다.지난 17일 김헌동 SH공사 사장은 강남구 수서동 SH공사 본사에서 진행한 기자 설명회에서 `후분양을 하게 되면 광주 아이파크 같은 부실로 인한 문제가 생기지 않고, 공기에 촉박해서 동절기에 무리한 공사를 하지도 않는다`고 말했다. 김 사장은 SH공사 사장 부임 이전부터 분양원가 공개와 함께 후분양제 제]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e36b8da445e5c7300228b4a1572d96a24f22978/14a6267af275346a23ee04601502ca51.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]예타면제는 임의조항일 뿐… 국가재정법 따라 절차 거쳐야 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3382</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3382</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 ‘가덕도 예타 면제’ 공약에… 민주 “이미 면제됐다”는데…특별법 ‘면제할 수 있다’ 명기윤석열 국민의힘..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e190b8e484ec555c1b0e7c18deb7061ba945f310/0591e3518b9b06eeeea4c50e5745a523.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명·윤석열 후보 양자 TV 토론은 위법? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -303,76 +372,12 @@ https://youtu.be/xoYuUrtzKkE
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--be94aba049791f4f5eac8079fd46b4f19c5102d0/eb5fad2b964107cd157c1bc371a07c58.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 오미크론 차단하려면 고품질 마스크 써야? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3378</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3378</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 오미크론 변이 확산으로 신종 코로나바이러스 감염증(코로나19) 확진자가 급증하자 미국 정부와 방역 당국이 고품...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d879158ebba26f092a9bd41778e67ed8885b3eb1/020c418bb8af9c169e838ddd68dfa9e4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3377</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3377</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--96f8c08d71261e90355d1592996d6fd8050a0156/1fc73c1b3e0d06496a4aff1c646ef41a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 고용안정성이 부족한 비정규직이 정규직보다 더 많은 보수를 받는 게 당연하다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3376</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3376</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 대선후보는 지난 9일 페이스북에 고용 안정성을 보장받지 못하는 비정규직이 정규직보다 더 많은 보수를 받는 것은 어쩌면 당연한 상식이지만, 현실은 정반대라며 비정규직 노동자들은 불안정·저임금의 중복차별에 시달]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d89f4fa1236eba0f444ecb7cc9c701940a2c614b/3f9b63c4086af0fc3168da4733f6a01d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 우리나라 산업용 전기요금이 다른 나라보다 비싸다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3370</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3370</guid>
-            <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 국민의힘 윤석열 대선 후보가 13일 4월 전기요금 인상 백지화를 공약한 가운데 당시 기자회견에 배석한 주한...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b2ddd8e3be44a7a970a73258607fa5451fc43f4/d2dee70566598d8d91902e80386bcc14.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 아파트명에서 아이파크 빼려면 현대산업개발 동의 필수? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3372</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3372</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 광주에서 건축 중이던 초고층 아파트의 외벽이 붕괴한 이후 시공사인 HDC현대산업개발에 대한 불...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--615a3dafe3b7c65052b735eb5e28205a9c896992/54c9aea62fa38170a034a41d0f409491.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상]법원도 허가한 '김건희 녹취록' 보도가 불법?…따져보니[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3369</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3369</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 윤석열 대선 후보의 배우자 김건희 씨가 한 언론사 기자와 나눈 통화 녹취록 보도를 앞두고 야당의 공세가 격해지고 있습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzBaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2325b1bce676439599214a8f9845dbe6b41ff9b0/1530816acac2bf89aaa39a13ada07055.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트와이] 우리나라 방역패스, 해외보다 덜 엄격하다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3368</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3368</guid>
-            <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]오미크론으로 인한 코로나19 재확산이 우려되는 가...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3daIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52d474cd90c291cd5b2986b0ca7d96d4befc55b3/1be716bb9c5800a8e261f28d4ad291cd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 한국의 군사력 순위 세계 6위, 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3371</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3371</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 12월 25일 아침 뉴시스는 “직전 주한미군 사령관 韓 군사력, 솔직히 많이 뒤처져”라는 기사를 냈다. 지난 7월 임무를 마치고 미국으로 돌아간 로버트 에이브럼스 전 주한미군 사령관이 25일 미국의 소리 방송 워싱턴 톡에 출연, 전작권 전환을 위한 요건을 묻는 질문에 한국이 전략 타격능력을 획득하고 한국형 통합 공중미사일방어 체계를 개발해 배치해야 한다.며 이것은 솔직히 많이 뒤쳐져 있다“고 지적했는데 이를 한국군의 역량이 뒤처져 있다는 혹평이라며 전시작전통제권 전환에 대한 부정적인 견해를 밝혔다는 양념을 끼얹은 기]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzhaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44030dbd2345dd89f0c98350c6afd3e56b85bda3/f55f567ac03effa97238ac84b5b8fb9e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["독감 사망자가 코로나19보다 많다" 최춘식 의원 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3367</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3367</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 최 의원의 이상한 계산법 두 가지... 전문가들 부적절한 계산]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8e268941e7b968ff9f79c9ab1eae478ed167048/2e232dc2cbed2bebed4f9faa9bce8524.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[한정된 재난관리기금 등 적재적소에 사용토록 관리 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3390</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3390</guid>
+            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “한정된 재난관리기금 및 재해구호기금을 코로나19 대응 등 지자체 재난관리 필요분야 적재적소에 사용하도록 관리하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8bd31d143457d9fd861f7cdc36b5b5fef75d77c/07d65898a76667aaf97cd93fe848d684.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[건강보험료 부과체계 2단계 개편 준비 중…일정변경 논의 및 확정사항 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -445,14 +450,6 @@ https://youtu.be/xoYuUrtzKkE
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부는 “국민연금기금의 대표소송 관련 대상기업 선정 등은 구체적으로 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eca70f1c5b6b974e9c2b9372e3c1d82ccb01793f/04ec95c1f788f66ebc3cb1f282a5bbc5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[차적조회시스템에 행안부 시스템 연계?…사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3346</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3346</guid>
-            <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “최근 개인정보 유출 경로로 지적된 차적조회시스템에 행안부 시스템이 연계되어 있다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3715750975828dfb7d1bfdf22bc6ec321780109e/824141d662c1da0df02578dd5c6e55c6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

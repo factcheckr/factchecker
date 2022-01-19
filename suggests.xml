@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-19T00:38:21.111Z</updated>
+    <updated>2022-01-19T01:53:21.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청와대가 카톡을 들여다본다는 루머 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/506</id>
+        <link href="https://factchecker.or.kr/fc_suggests/506"/>
+        <updated>2022-01-19T01:52:36.180Z</updated>
+        <content type="html"><![CDATA[17일 ‘카카오톡에 청와대 앱이 설치돼 우리 대화 내용을 다 살피고 있었네요’라는 문구가 담긴 악의적 메시지가 일부 카카오톡 이용자 사이에 확산되고 있다. 카카오톡 설정에 들어가 카카오 계정과 연결된 외부 서비스를 보니 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종이테이프는 재활용이 가능한가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/505</id>
@@ -86,15 +93,5 @@ https://www.google.com/search?q=%EB%A1%9C%...]]></content>
 https://youtu.be/xoYuUrtzKkE
 &nbsp;
 코로나 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사이트의 기사, 팩트체크가 필요합니다. 확진자 중 28%가 미접종자라서 방역패스 실시하는 것이라는데.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/495</id>
-        <link href="https://factchecker.or.kr/fc_suggests/495"/>
-        <updated>2022-01-06T14:12:02.544Z</updated>
-        <content type="html"><![CDATA[질병청 “확진자 중 28%가 미접종자라서 ‘방역패스’ 실시하는 것” - 인사이트 (insight.co.kr)
-&nbsp;
-해당 기사에 대한 팩크체크가 필요합니다.
-좀전에 질병청에 문의해보니 이런 통계나 보도자료를 낸 적이 없...]]></content>
     </entry>
 </feed>
