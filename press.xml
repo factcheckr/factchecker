@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 00:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 카카오톡 대화 내용, 청와대가 감시한다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3394</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3394</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 인터넷 커뮤니티와 블로그 등에 긴급 정보라며 카카오톡에 청와대 애플리케이션(앱)이 설치돼 우리 대화...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0122522c2348dc3b29abe13716331afab0153738/cf9b2bbd4cdba6b1569b82f8626ae62d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] '여가부 폐지', 그 이후의 시나리오는?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3393</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3393</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBS 팩트체크 사실은팀은 대선 후보자들의 공약을 점검하고 있습니다. 최근에는 민주당 이재명 후보의 탈모 보험 적용 공약을 짚었고, 오늘은 국민의힘 윤석열 후보의 여가부 폐지 공약을 살펴보려고 합니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89ce93f56ac24b771a4f5c8112b07d5072809505/5c20ba6860ddaf2fcd8f849e3c66f097.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '사다리 타고 올라야하는 공간'&hellip;복층으로 불러도 될까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3392</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3392</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[아이뉴스24 김서온 기자] 부동산 임대시장에서 원·투룸 구조에 복층을 강조한 매물들이 늘어나고 있다. 추가 공간을 확보할 수 있어 임차인들의 선호도가 높아 월세를 받기에 유리]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--879ff40cb8d4d74c6980b8016aacd4624f3ae588/f3bab16a2f6bfa993060d7357b7c2d89.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열-이재명 양자토론이 불법이라고?[노컷체크]]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3388</link>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[집 걱정 끝장내는 팩트체크 ①] 10가구 중 1가구는 주거빈곤가구에 해당]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHdaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65c46b69cf1b187699e75a8b92c4ebddf7064013/325cc2b120375e4faf54f323036f91fa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 김헌동 SH사장 “후분양으로 하면 무리한 공사 없다”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3383</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3383</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김헌동 서울주택도시공사(SH공사) 사장이 광주 화정아이파크 붕괴 사고 등 건설업계 부실공사로 인한 피해 방지 대책으로 후분양을 언급했다. 그러나 건설업계에서는 후분양만으로 부실 공사로 인한 문제를 모두 막을 수는 없다는 게 중론이다.지난 17일 김헌동 SH공사 사장은 강남구 수서동 SH공사 본사에서 진행한 기자 설명회에서 `후분양을 하게 되면 광주 아이파크 같은 부실로 인한 문제가 생기지 않고, 공기에 촉박해서 동절기에 무리한 공사를 하지도 않는다`고 말했다. 김 사장은 SH공사 사장 부임 이전부터 분양원가 공개와 함께 후분양제 제]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e36b8da445e5c7300228b4a1572d96a24f22978/14a6267af275346a23ee04601502ca51.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]예타면제는 임의조항일 뿐… 국가재정법 따라 절차 거쳐야]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3382</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3382</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 ‘가덕도 예타 면제’ 공약에… 민주 “이미 면제됐다”는데…특별법 ‘면제할 수 있다’ 명기윤석열 국민의힘..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e190b8e484ec555c1b0e7c18deb7061ba945f310/0591e3518b9b06eeeea4c50e5745a523.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명·윤석열 후보 양자 TV 토론은 위법? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3379</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3379</guid>
-            <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당 이재명·국민의힘 윤석열 대선 후보의 양자 TV 토론 합의에 대해 국민의당 안철수 후보와 정의당 심...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--be94aba049791f4f5eac8079fd46b4f19c5102d0/eb5fad2b964107cd157c1bc371a07c58.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
