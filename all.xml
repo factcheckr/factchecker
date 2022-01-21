@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,14 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[백신QR 코드 인증 할때마다 요금이 부과 된다는  통신사 대리점 상담원이 말을 하든데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/507</link>
+            <guid>https://factchecker.or.kr/fc_suggests/507</guid>
+            <pubDate>Fri, 21 Jan 2022 04:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 긴 시간의 고통을 겪고 있는 전국민들의 고충이 하나하나 늘어만 가고 코로나의 기세는 꺽일지 모르는 이때 방역패스 강화로 인한 불편함과 부담이 늘어가고 있습니다.
+그러던 지인이 백신패스 사용을 하다보니 테이터부...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[청와대가 카톡을 들여다본다는 루머 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/506</link>
             <guid>https://factchecker.or.kr/fc_suggests/506</guid>
@@ -278,18 +286,6 @@ sns에서 자주 보이는 내용 입니다.
 백식 개잘에 기여한 박사님이 백신 무용론 처럼 인터뷰를 하신거 같은데 팩트 인지 궁금합니다.
 &nbsp;
 https://www.google.com/search?q=%EB%A1%9C%...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 백신 반대론에 대한 팩트체크 요청 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/497</link>
-            <guid>https://factchecker.or.kr/fc_suggests/497</guid>
-            <pubDate>Mon, 03 Jan 2022 22:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 백신 불신 또는 불필요함에 대한 의료진 주장들이 많습니다. 이에 대한 팩트체크 부탁드립니다.&nbsp;
-&nbsp;
-백신 패스가 정답인가? 출처 함익병피부과&nbsp;
-https://youtu.be/xoYuUrtzKkE
-&nbsp;
-코로나 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
