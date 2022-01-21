@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,16 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[러시아에서는 코로나19 백신을 무장 군인이 강제로 맞게 하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/508</link>
+            <guid>https://factchecker.or.kr/fc_suggests/508</guid>
+            <pubDate>Fri, 21 Jan 2022 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티에서 러시아 백신 접종 근황이라면서 영상이 돌고 있는데요.
+보면 무장 군인이 집 문을 강제로 열고 들어와서 주사를 놓는 장면이 반복해서 나와요.
+이 영상이 진짜 러시아에서 찍힌 걸까요???
+그리고 군인이 들어와서 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[백신QR 코드 인증 할때마다 요금이 부과 된다는  통신사 대리점 상담원이 말을 하든데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/507</link>
             <guid>https://factchecker.or.kr/fc_suggests/507</guid>
@@ -275,17 +285,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
 &nbsp;
 따라서&nbsp;
 위 이슈는 여론 분열을 막고 시민들...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로버트 말론 교수의 인터뷰 팩트체크 궁금해요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/498</link>
-            <guid>https://factchecker.or.kr/fc_suggests/498</guid>
-            <pubDate>Tue, 04 Jan 2022 08:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-sns에서 자주 보이는 내용 입니다.
-백식 개잘에 기여한 박사님이 백신 무용론 처럼 인터뷰를 하신거 같은데 팩트 인지 궁금합니다.
-&nbsp;
-https://www.google.com/search?q=%EB%A1%9C%...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
