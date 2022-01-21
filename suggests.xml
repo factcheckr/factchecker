@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-21T09:12:19.971Z</updated>
+    <updated>2022-01-21T10:13:10.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[횡포 너무해도 너무 심해요]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/509</id>
+        <link href="https://factchecker.or.kr/fc_suggests/509"/>
+        <updated>2022-01-21T10:12:22.902Z</updated>
+        <content type="html"><![CDATA[전 경남권에서 덤프 25.5톤하는
+시민입니다. 부산 양정쪽에 재개발 토사정리 업체하청은 -신창 선진 다옴입니다 이곳이 단합하여 좌지 우지 합니다
+법으로도 못 죽이고 계속가지고 가실 겁니까
+저 (신창회사 선진회사 다옴회사)...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아에서는 코로나19 백신을 무장 군인이 강제로 맞게 하나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/508</id>
@@ -75,18 +85,5 @@
         <content type="html"><![CDATA[포털 사이트를 크게 달군 이슈였던 차이나 게이트에 대한 팩트체크를 요청드립니다.
 &nbsp;
 &nbsp;중국 공산당 휘하 사이버 부대에서 여론을 공작했다는 음모론이 주된 내용인데, 깔끔하게 팩트체크를 다루는 내용이 없는것같아 요청드립니다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cj 택배를 둘러싼 논란에 대한 팩트 체크 요청]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/499</id>
-        <link href="https://factchecker.or.kr/fc_suggests/499"/>
-        <updated>2022-01-06T14:12:02.538Z</updated>
-        <content type="html"><![CDATA[Cj 대한통운 택배 파업으로&nbsp;
-전국민의 생활에 지대한 지장이 가고있는 와중에
-노조측과 사측은 서로 정반대의 입장을 주장하고있어
-이를 둘러싼 네티즌들의 입장도 양분되어있습니다
-&nbsp;
-따라서&nbsp;
-위 이슈는 여론 분열을 막고 시민들...]]></content>
     </entry>
 </feed>
