@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-23T02:25:33.552Z</updated>
+    <updated>2022-01-23T03:12:41.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 대통령이 트위터에 뭔가를 올렸었다는 기사가 사실인지 알려주세요.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/510</id>
+        <link href="https://factchecker.or.kr/fc_suggests/510"/>
+        <updated>2022-01-23T03:11:55.900Z</updated>
+        <content type="html"><![CDATA[https://www.newdaily.co.kr/site/data/html/2020/09/07/2020090700173.html]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[횡포 너무해도 너무 심해요]]></title>
         <id>https://factchecker.or.kr/fc_suggests/509</id>
@@ -76,14 +83,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/501"/>
         <updated>2022-01-13T23:12:29.834Z</updated>
         <content type="html"><![CDATA[킥보드를 타고 출퇴근 중인데 회사측에서 헬멧 외에도 무릎보호대와 팔꿈치 보호대를 착용해야 사고가 날 시 산재보험 처리가 된다고 하는데요~도로교통법 제50조 4항에 나온 인명보호장구는 헬멧만 나와있더라고요~킥보드주행시 헬멋...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차이나게이트 관련 팩트체크 요청]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/500</id>
-        <link href="https://factchecker.or.kr/fc_suggests/500"/>
-        <updated>2022-01-08T21:10:55.847Z</updated>
-        <content type="html"><![CDATA[포털 사이트를 크게 달군 이슈였던 차이나 게이트에 대한 팩트체크를 요청드립니다.
-&nbsp;
-&nbsp;중국 공산당 휘하 사이버 부대에서 여론을 공작했다는 음모론이 주된 내용인데, 깔끔하게 팩트체크를 다루는 내용이 없는것같아 요청드립니다....]]></content>
     </entry>
 </feed>

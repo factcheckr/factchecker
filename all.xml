@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 02:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[문재인 대통령이 트위터에 뭔가를 올렸었다는 기사가 사실인지 알려주세요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/510</link>
+            <guid>https://factchecker.or.kr/fc_suggests/510</guid>
+            <pubDate>Sun, 23 Jan 2022 03:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.newdaily.co.kr/site/data/html/2020/09/07/2020090700173.html]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[횡포 너무해도 너무 심해요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/509</link>
             <guid>https://factchecker.or.kr/fc_suggests/509</guid>
@@ -273,15 +280,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/501</guid>
             <pubDate>Thu, 13 Jan 2022 23:12:29 GMT</pubDate>
             <content:encoded><![CDATA[킥보드를 타고 출퇴근 중인데 회사측에서 헬멧 외에도 무릎보호대와 팔꿈치 보호대를 착용해야 사고가 날 시 산재보험 처리가 된다고 하는데요~도로교통법 제50조 4항에 나온 인명보호장구는 헬멧만 나와있더라고요~킥보드주행시 헬멋...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차이나게이트 관련 팩트체크 요청 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/500</link>
-            <guid>https://factchecker.or.kr/fc_suggests/500</guid>
-            <pubDate>Sat, 08 Jan 2022 21:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[포털 사이트를 크게 달군 이슈였던 차이나 게이트에 대한 팩트체크를 요청드립니다.
-&nbsp;
-&nbsp;중국 공산당 휘하 사이버 부대에서 여론을 공작했다는 음모론이 주된 내용인데, 깔끔하게 팩트체크를 다루는 내용이 없는것같아 요청드립니다....]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["이재명 4년 중임제, 대통령 8년 하려는 속임수" 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
