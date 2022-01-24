@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 07:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 08:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,14 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/512</link>
+            <guid>https://factchecker.or.kr/fc_suggests/512</guid>
+            <pubDate>Mon, 24 Jan 2022 08:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 커뮤니티를 돌아다니다 보니까 을지문덕 장군은 언제 태어났는지, 어디 출신인지, 어떻게 관직에 등용했는지 등이 하나도 알려지지 않은 인물이라고 하는 글을 봤는데요.
+역사적 사실 여부를 떠나서 관련된 정보가 하나도 알...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[화이자 ceo가 부스터샷은 의미가 없다고 인터뷰 했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/511</link>
             <guid>https://factchecker.or.kr/fc_suggests/511</guid>
@@ -274,14 +282,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/503</guid>
             <pubDate>Fri, 14 Jan 2022 08:15:16 GMT</pubDate>
             <content:encoded><![CDATA[이준석 국민의당 대표가 과거 유튜브에 출연해 발언한 고속도로 민영화 관련 내용이 최근 다시 SNS에 많이 보입니다. 많은 사람들이 민영화로 요금이 상승한 일본 사례를 들며 이 주장에 반박하기도 했는데요. 오늘 기사를 찾아...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['90년생은 국민연금을 평생 내도 한푼도 못받는다'는 것이 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/502</link>
-            <guid>https://factchecker.or.kr/fc_suggests/502</guid>
-            <pubDate>Fri, 14 Jan 2022 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[매일경제신문에 올라온 기사에서 90년생은 국민연금을 평생 내도 한푼도 못받는다고 보았는데요.
-연금은 부과식과 적립식이 있는데, 현재 적립이 가능한 구조라 적립금을 만들어 연금을 지급 중이지만.. 적립금이 고갈되면 부과식으...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“장애인 국가대표 운동선수..군대 가야 할 수도 있다?” [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
