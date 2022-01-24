@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“장애인 국가대표 운동선수..군대 가야 할 수도 있다?” [팩트체크]]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3420</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3420</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[파이낸셜뉴스]&nbsp;장애인 운동선수도 현역 입영 대상자가 있을 수 있다는 지적이 제기돼 논란이다. 보건복지부와 병무청의 기준이 달라 장애인 운동선수 가운데 현역으로 입대해야 한다는 내용이다. 이에 관계부처는 “현실적·제도적으로 가능하지 않다”는 입장을 냈다. ■“복지부·병무청 검사 기준 다..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0laIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdd94b52a1f046c89fbd13d3d576b62ed62259d5/e4026ad6256a9b36991b0b5576d727b9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 공직선거법 개정이 선거조작용?!… 투표참여 온라인 신청 `오프라인 투표`]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3419</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아파트 단지 내에 일반 분양 아파트와 공공 임대 아파트를 함께 짓는 방식을 혼합 분양, 영어로 소셜 믹스...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBck1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd27f7901697071de9b02649f6c20103e27afbb4/44f9ed6f831e7c0fae3a075b729cf657.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 재난지원금 세계 최저 수준?… 이재명 주장 사실일까 [FACT IN 뉴스]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3405</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3405</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보는 ‘세계에서 가장 낮은 수준의 재난지원금과 국가부채 비율’을 감안해 가계·자영업자들에 대한 과감한 추가 지원을 강조했다. 이 후보는 또 “돈을 빌려주는 방식이나 채무 기일을 연장하는 기존 방식을 바꿔야 한다”고 밝혔다. 이 후보가 말한 한국의 재...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcklaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f6aab8566033d1ffee931106b0653b92f540f82f/e9d792eee755ebe0f8e4970acbc26a74.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지자체가 적극·효율적으로 기금 활용·집행하도록 지원]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3421</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3421</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “청사건립기금은 각 지자체가 자율적으로 설치·운용하는 자체기금”이라며 “지자체가 적극적이고 효율적으로 기금을 활용하고 집행할 수 있도록 지원해 나가겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--34b250c3170abc528b97d0de666f294a44fadbbf/0836871a3415dd4c663e27429e9a5f7a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[퇴직교원 중 민주화운동 관련 교원, 정부포상 대상 추천가능]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3414</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “한정된 재난관리기금 및 재해구호기금을 코로나19 대응 등 지자체 재난관리 필요분야 적재적소에 사용하도록 관리하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUlaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8bd31d143457d9fd861f7cdc36b5b5fef75d77c/07d65898a76667aaf97cd93fe848d684.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강보험료 부과체계 2단계 개편 준비 중…일정변경 논의 및 확정사항 없어]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3381</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3381</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “형평하고 지속가능한 건강보험료 부과체계 2단계 개편을 위해 착실히 준비 중이며, 일정변경에 대한 논의나 확정사항은 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGtaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3855c0c064447343c533c16c0e2be6a8130f9321/1d830def7f027f06312bc2102248ea97.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
