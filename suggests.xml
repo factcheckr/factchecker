@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-24T20:12:37.555Z</updated>
+    <updated>2022-01-24T21:09:46.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[항체검사를 통한 방역패스적용]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/513</id>
+        <link href="https://factchecker.or.kr/fc_suggests/513"/>
+        <updated>2022-01-24T21:09:03.696Z</updated>
+        <content type="html"><![CDATA[안되나요?
+확진자는 자연 항체생성
+확자여부를 이미 지나버린 무증상 감염&nbsp; 후 자연치유자도 항체생성!
+백신접종완료자도 항체생성
+&nbsp;
+항체가 있으면
+방역 대책 제외대상이어야 하는거 아닌가요?
+&nbsp;
+항체검사를 왜 안...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/512</id>
@@ -78,12 +93,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/504"/>
         <updated>2022-01-17T22:12:00.523Z</updated>
         <content type="html"><![CDATA[급여명세서&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석 민영화 발언 팩트체크 요청]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/503</id>
-        <link href="https://factchecker.or.kr/fc_suggests/503"/>
-        <updated>2022-01-14T08:15:16.102Z</updated>
-        <content type="html"><![CDATA[이준석 국민의당 대표가 과거 유튜브에 출연해 발언한 고속도로 민영화 관련 내용이 최근 다시 SNS에 많이 보입니다. 많은 사람들이 민영화로 요금이 상승한 일본 사례를 들며 이 주장에 반박하기도 했는데요. 오늘 기사를 찾아...]]></content>
     </entry>
 </feed>
