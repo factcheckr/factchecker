@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[화이자 ceo가 부스터샷은 의미가 없다고 인터뷰 했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/511</link>
+            <guid>https://factchecker.or.kr/fc_suggests/511</guid>
+            <pubDate>Mon, 24 Jan 2022 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[백신 반대 주장을 펼치는 쪽에서 비슷한 정보들이 돌아다니는데요.
+화이자 ceo가 코로나19 백신은 1년에 한번만 맞으면 된다고 했다는 게 주요 내용이더라고요.
+이걸 가지고 부스터샷은 필요가 없는 것처럼 표현하고 있는데요....]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[문재인 대통령이 트위터에 뭔가를 올렸었다는 기사가 사실인지 알려주세요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/510</link>
             <guid>https://factchecker.or.kr/fc_suggests/510</guid>
@@ -273,13 +282,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <pubDate>Fri, 14 Jan 2022 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[매일경제신문에 올라온 기사에서 90년생은 국민연금을 평생 내도 한푼도 못받는다고 보았는데요.
 연금은 부과식과 적립식이 있는데, 현재 적립이 가능한 구조라 적립금을 만들어 연금을 지급 중이지만.. 적립금이 고갈되면 부과식으...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[킥보드사고시 헬멧외 무릎, 팔꿈치보호대 착용해야 산재처리가 되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/501</link>
-            <guid>https://factchecker.or.kr/fc_suggests/501</guid>
-            <pubDate>Thu, 13 Jan 2022 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[킥보드를 타고 출퇴근 중인데 회사측에서 헬멧 외에도 무릎보호대와 팔꿈치 보호대를 착용해야 사고가 날 시 산재보험 처리가 된다고 하는데요~도로교통법 제50조 4항에 나온 인명보호장구는 헬멧만 나와있더라고요~킥보드주행시 헬멋...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“장애인 국가대표 운동선수..군대 가야 할 수도 있다?” [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
