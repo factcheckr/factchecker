@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[당사자 동의 없이 졸업앨범에 사진을 사용하면 초상권 침해 아닌가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/515</link>
+            <guid>https://factchecker.or.kr/fc_suggests/515</guid>
+            <pubDate>Tue, 25 Jan 2022 09:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[졸업 앨범에 있는 사진을 악용해서 범죄를 저지른 사건 기사를 보고 깜짝 놀랐습니다
+이제는 스마트폰으로 언제든 사진을 찍는 시대인데 졸업앨범이 필요할까 싶기도 한데요
+그런데 보도를 보니 선생님 사진을 졸업앨범에 넣도록 강요...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[외국인 부동산 투기가 지속해서 증가하고 있다는 주장은 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/514</link>
             <guid>https://factchecker.or.kr/fc_suggests/514</guid>
@@ -284,14 +293,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/506</guid>
             <pubDate>Wed, 19 Jan 2022 01:52:36 GMT</pubDate>
             <content:encoded><![CDATA[17일 ‘카카오톡에 청와대 앱이 설치돼 우리 대화 내용을 다 살피고 있었네요’라는 문구가 담긴 악의적 메시지가 일부 카카오톡 이용자 사이에 확산되고 있다. 카카오톡 설정에 들어가 카카오 계정과 연결된 외부 서비스를 보니 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[종이테이프는 재활용이 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/505</link>
-            <guid>https://factchecker.or.kr/fc_suggests/505</guid>
-            <pubDate>Tue, 18 Jan 2022 02:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 윤석열 대선 후보가 종이 테이프가 붙은 박스는 그대로 재활용이 가능하다고 발언했는데요. 이게 사실인가요?
-일반 투명테이프는 재활용이 불가능해서 일반 쓰레기로 배출하고, 박스 배출시에도 테이프를 모두 제거해야 한다고 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명·윤석열 "LTV 완화"…80~90% 적용 가능할까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
