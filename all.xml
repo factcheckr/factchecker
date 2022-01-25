@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[외국인 부동산 투기가 지속해서 증가하고 있다는 주장은 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/514</link>
+            <guid>https://factchecker.or.kr/fc_suggests/514</guid>
+            <pubDate>Tue, 25 Jan 2022 04:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[최근에 안철수 국민의당 대선 후보가 외국인 투기세를 도입하겠다고 주장했는데요.
+주택담보 대출규제에 역차별이 있다는 도입 근거가 사실이 아니라는 오마이뉴스 팩트체크가 나왔더라고요.
+그런데 일부 커뮤니티를 보니 사실이 아닌 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[항체검사를 통한 방역패스적용 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/513</link>
             <guid>https://factchecker.or.kr/fc_suggests/513</guid>
@@ -283,13 +292,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <pubDate>Tue, 18 Jan 2022 02:05:22 GMT</pubDate>
             <content:encoded><![CDATA[오늘 윤석열 대선 후보가 종이 테이프가 붙은 박스는 그대로 재활용이 가능하다고 발언했는데요. 이게 사실인가요?
 일반 투명테이프는 재활용이 불가능해서 일반 쓰레기로 배출하고, 박스 배출시에도 테이프를 모두 제거해야 한다고 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요양보호사 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/504</link>
-            <guid>https://factchecker.or.kr/fc_suggests/504</guid>
-            <pubDate>Mon, 17 Jan 2022 22:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[급여명세서&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 이재명·윤석열 "LTV 완화"…80~90% 적용 가능할까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
