@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-25T11:10:18.138Z</updated>
+    <updated>2022-01-25T12:19:07.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[배달원 억대연봉]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/516</id>
+        <link href="https://factchecker.or.kr/fc_suggests/516"/>
+        <updated>2022-01-25T12:18:23.948Z</updated>
+        <content type="html"><![CDATA[“강남서 배달하면 월 1300만원 번다”…의사급 연봉 자랑한 기사(https://m.segye.com/view/20220122504822)
+최근 눈에 띄게 늘어난 배달 라이더들의 실제 수익은 얼마나 될까?
+배달앱 업체...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당사자 동의 없이 졸업앨범에 사진을 사용하면 초상권 침해 아닌가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/515</id>
@@ -89,12 +98,5 @@
         <updated>2022-01-21T04:16:07.905Z</updated>
         <content type="html"><![CDATA[코로나19로 긴 시간의 고통을 겪고 있는 전국민들의 고충이 하나하나 늘어만 가고 코로나의 기세는 꺽일지 모르는 이때 방역패스 강화로 인한 불편함과 부담이 늘어가고 있습니다.
 그러던 지인이 백신패스 사용을 하다보니 테이터부...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청와대가 카톡을 들여다본다는 루머 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/506</id>
-        <link href="https://factchecker.or.kr/fc_suggests/506"/>
-        <updated>2022-01-19T01:52:36.180Z</updated>
-        <content type="html"><![CDATA[17일 ‘카카오톡에 청와대 앱이 설치돼 우리 대화 내용을 다 살피고 있었네요’라는 문구가 담긴 악의적 메시지가 일부 카카오톡 이용자 사이에 확산되고 있다. 카카오톡 설정에 들어가 카카오 계정과 연결된 외부 서비스를 보니 ...]]></content>
     </entry>
 </feed>
