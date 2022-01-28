@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -187,6 +187,16 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[성별 임금격차는 명백하게 존재하는 사실 아닌가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/520</link>
+            <guid>https://factchecker.or.kr/fc_suggests/520</guid>
+            <pubDate>Fri, 28 Jan 2022 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[유명한 교수가 성별 임금격차는 존재하지 않는다고 주장했다는 게시글을 봤어요
+그런데 이게 진짜 사실일까요?
+최근에 CNN에서도 한국에서 벌어지고 있는 안티페미니즘 현상을 다루면서 성별 임금격차 통계를 언급했다고 들었어요
+O...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[노벨상 수상자가 백신은 독약이라는데 사실인가요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/519</link>
             <guid>https://factchecker.or.kr/fc_suggests/519</guid>
@@ -273,13 +283,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <content:encoded><![CDATA[백신 반대 주장을 펼치는 쪽에서 비슷한 정보들이 돌아다니는데요.
 화이자 ceo가 코로나19 백신은 1년에 한번만 맞으면 된다고 했다는 게 주요 내용이더라고요.
 이걸 가지고 부스터샷은 필요가 없는 것처럼 표현하고 있는데요....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문재인 대통령이 트위터에 뭔가를 올렸었다는 기사가 사실인지 알려주세요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/510</link>
-            <guid>https://factchecker.or.kr/fc_suggests/510</guid>
-            <pubDate>Sun, 23 Jan 2022 03:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.newdaily.co.kr/site/data/html/2020/09/07/2020090700173.html]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] '당장'은 아니다? 민주당 '4선 금지' 법안 보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
