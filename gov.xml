@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 00:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 01:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그린스마트 미래학교, 미래형 교육과정 구현 위한 인프라 구축 사업]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3451</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3451</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부는 “그린스마트 미래학교는 미래형 교육과정을 구현하기 위한 인프라를 구축하는 사업”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97b536cefb28518f95af07cc16f347e323b3524d/51974d0e4d1e834e87da1db0151ff5c3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국민취업지원제도 참여 취업자 중 정규직 비율 75.5%]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3443</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “퇴직교원 중 민주화운동 관련자로 인정받은 교원은 정부포상 대상으로 추천 가능하다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e27ba9ccc93ccf2abf938e2a25081045e88607e/7ccc421ed3aebc20cb5ebd3250746e03.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[에너지법 개정안 국회 산중위 계류 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3413</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3413</guid>
-            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “에너지기본계획 근거조항을 에너지법으로 이관하는 내용의 에너지법 개정안이 국회 산중위 계류 중”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41f3bcace03483780203e2b597f70652f3558c08/805a023e7b9a353daf87e17448210767.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

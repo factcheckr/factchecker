@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-01-28T00:40:42.794Z</updated>
+    <updated>2022-01-28T01:55:40.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/296</id>
+        <link href="https://factchecker.or.kr/fc_subjects/296"/>
+        <updated>2022-01-28T01:54:43.424Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/296">자연면역이 백신보다 더 강하고 오래 지속되는 면역을 제공하는 게 확인되었다는 내용의 기사가 보도되었다. 이는 최춘식 의원 네이버 블로그에도 나와있다.
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/295</id>
@@ -80,27 +93,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
         <updated>2021-11-29T14:18:52.143Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/265">조금이나마 플라스틱 쓰레기를 줄이기 위해 깨끗이 씻어서 분리배출 하려고 노력했지만, 실제로는 재활용이 안되는 것들이 많다. 특히 OTHER 표시가 된 제품들의 경우 재활용이 되는 것인지 안되는 것인지 혼란스러울때가 많다. 분리배출 표시 중 OTHER 에 대해 살펴보고 제대로 된 분리배출법 혹은 재활용 여부를 검증해보고자 한다. 
 관련제안 :&nbsp;https://factchecker.or.kr/fc_suggests/397
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부항이 코로나 백신 효과를 100배 증가시킨다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/264</id>
-        <link href="https://factchecker.or.kr/fc_subjects/264"/>
-        <updated>2021-11-26T10:21:44.013Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/264">지난 11월 8일, 조선일보의 이영완 과학전문기자는 ‘한미(韓美)연구진이 근육통을 없애는 한방치료인 부항(附缸)으로 코로나 백신의 효과를 100배나 높이는 데 성공했다.라는 내용의 기사를 보도하였다. 이후 동아사이언스 등의 언론사가 비슷한 논조의 보도를 유포하면서, 부항과 코로나 예방의 연관성에 대한 관심이 대두되었다. 4기 시민팩트체커 2팀은 해당 조선일보 기사를 면밀히 조사하여 실제로 부항이 코로나 예방과 연관성이 있는지를 확인해보고자 하였다.
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-(출처: 조선일보 기사 캡쳐)
-&nbsp;
 </a>]]></content>
     </entry>
 </feed>
