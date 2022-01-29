@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-01-29T10:12:41.812Z</updated>
+    <updated>2022-01-29T11:10:50.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/79</id>
+        <link href="https://factchecker.or.kr/fc_publications/79"/>
+        <updated>2022-01-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[최근 SNS를 통해, 유엔(UN) 공식통용어에 한국어가 포함된다는 소식이 퍼지고 있습니다. UN 공식 홈페이지 확인 결과, 한국어가 유엔 공식통용어에 포함된다는 정보는 사실이 아닙니다.
+&nbsp;
+2021년 12월 말 반크에서 한국어를 유엔(UN) 공식 통용어에 포함시키기 위한 캠페인을 펼치고 있다는 보도가 있었습니다.
+https://www.yna.co.kr/view/AKR20211221040200371
+
+또한, 유엔(UN)의 6개 공식 통용어인 아랍어, 중국어, 영어, 프랑스어, 러시아어, 스페인어 외의 그 어떤 언어의 공식 통용어 추가 논의조차 2019년까지 없었습니다.
+그 후 최근 유엔(UN) 총회의 안건을 살펴보아도 공식 통용어 추가에 대한 내용은 존재하지 않습니다.
+https://www.un.org/en/ga/info/meetings/75schedule.shtml
+&nbsp;
+앞으로 있을 76회 UN 총회에도 토착언어 10주년의 해를 제외한 공식 통용어 및 언어 관련 내용은 존재하지 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/78</id>
@@ -117,12 +133,5 @@
 1-1)초, 중, 고등학교 교사 임용에는 성 할당제가 없다.
 -경북교육청 초/중등교육과에 유선 문의 결과 경북뿐만 아니라, 전국의 초, 중, 고등학교 교사 임용에 성 할당제 도입하지 않았다고 했다.-교육부 관련 부서에도 전화를 했으나 받지 않았다. 
 -한국교육개발원의 2020년 교육통계분석자료집에 의하면, 2020년 전체 초등학교 교사 중 여성의 비율은 77.1%이며, 국공립의 경우는 77.3%이다. 전체 중학교 교사 중 여성의 비율은 70.5%이며 국공립 중학교 여성 교원의 비율은 74.3%이다. 이재명 후보의 발언대로 특정 성이 30%를 초과하지 못하도록 성 할당제가 도입되었다면, 초등학교와 중학교 여성 교사의 비율이 70%를 넘을 수 없다.(밑에서 언급하겠지만)국공립 대학 교원 채용에 적용된 특정 성별이 4분의 3을 초과...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/69</id>
-        <link href="https://factchecker.or.kr/fc_publications/69"/>
-        <updated>2021-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 암행순찰차란?암행순찰차는 정체를 숨기고 활동하는 순찰차로 일반 경찰차의 역할 외에 속도위반이나 난폭 운전 등을 단속하는 차량인데 &nbsp;겉으로 보기에는 그 어떤 표시도 없어 암행순찰차량이라는 것을 알 수가 없다. 그러나 단속을 하게 되는 경우, 내부에서 버튼을 누르면 암행경찰이라는 문구가 뜨고 경광등 사이렌이 작동되면서 경찰차라는 것을 인지하게 되는데, 암행순찰차는 외관이 일반 승용차와 거의 똑같다. 유일한 차이는 보닛과 좌우 도어에 경찰 마크가 부착되었다는 점이지만, 마그네틱 방식(자석식)이라 탈부착이 가능하다고 한다. &nbsp;영화에서도 가끔 등장하기도 한다. 또한 차량 내부 전·후방에는 적색·청색 LED 실내 경광등이 있으며, 차량 전면 그릴 내부에도 보조 경광등이 장착되어 있고, 후면 유리에는 경고 또는 단속 문구를 표시하는 LED 전광판과 슬림형 내부 경광등이 있다. &nbsp; 이 밖에 확성기와 시그널 등이 설치되어 있으며, 고성능 블랙박스, 과속 차량의 속도 측정 장치 등 교통법규...]]></content>
     </entry>
 </feed>

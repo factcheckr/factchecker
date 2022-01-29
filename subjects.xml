@@ -4,9 +4,16 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 10:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/297</link>
+            <guid>https://factchecker.or.kr/fc_subjects/297</guid>
+            <pubDate>Sat, 29 Jan 2022 11:10:02 GMT</pubDate>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/296</link>
@@ -85,15 +92,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_subjects/269</guid>
             <pubDate>Tue, 25 Jan 2022 12:18:15 GMT</pubDate>
             <content:encoded><![CDATA[한국인의 커피 사랑은 유별납니다. 현대경제연구원 조사에 따르면 성인 한 명이 1년간 마시는 커피는 2015년 291잔, 2016년 317잔, 2017년 336잔, 2018년 353잔으로 계속 증가했습니다. 같은 기간 세계 평균 커피 소비량은 한국의 3분의 1 수준인 130~132잔으로 거의 변화가 없었습니다. 그런데 최근 커피 주요 산지의 이상기후와 세계적 물류 대란이 겹치며 커피 원두 가격이 계속 오르고 있습니다. 이대로라면 국내 커피 가격도 오를 수밖에 없다는 전망이 나오는데요, 과연 현재의 커피 원두가격이 사상 최고치인지 체크를 해보고 앞으로의 전망을 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플라스틱 OTHER는 재활용이 불가능하다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/265</link>
-            <guid>https://factchecker.or.kr/fc_subjects/265</guid>
-            <pubDate>Tue, 25 Jan 2022 12:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[조금이나마 플라스틱 쓰레기를 줄이기 위해 깨끗이 씻어서 분리배출 하려고 노력했지만, 실제로는 재활용이 안되는 것들이 많다. 특히 OTHER 표시가 된 제품들의 경우 재활용이 되는 것인지 안되는 것인지 혼란스러울때가 많다. 분리배출 표시 중 OTHER 에 대해 살펴보고 제대로 된 분리배출법 혹은 재활용 여부를 검증해보고자 한다. 
-관련제안 :&nbsp;https://factchecker.or.kr/fc_suggests/397]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>

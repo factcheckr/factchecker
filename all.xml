@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 10:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/297</link>
+            <guid>https://factchecker.or.kr/fc_subjects/297</guid>
+            <pubDate>Sat, 29 Jan 2022 11:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/297">
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/296</link>
@@ -89,13 +97,11 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플라스틱 OTHER는 재활용이 불가능하다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/265</link>
-            <guid>https://factchecker.or.kr/fc_subjects/265</guid>
-            <pubDate>Mon, 29 Nov 2021 14:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/265">조금이나마 플라스틱 쓰레기를 줄이기 위해 깨끗이 씻어서 분리배출 하려고 노력했지만, 실제로는 재활용이 안되는 것들이 많다. 특히 OTHER 표시가 된 제품들의 경우 재활용이 되는 것인지 안되는 것인지 혼란스러울때가 많다. 분리배출 표시 중 OTHER 에 대해 살펴보고 제대로 된 분리배출법 혹은 재활용 여부를 검증해보고자 한다. 
-관련제안 :&nbsp;https://factchecker.or.kr/fc_suggests/397
-</a>]]></content:encoded>
+            <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/297</link>
+            <guid>https://factchecker.or.kr/fc_subjects/297</guid>
+            <pubDate>Sat, 29 Jan 2022 11:10:02 GMT</pubDate>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -175,15 +181,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_subjects/269</guid>
             <pubDate>Sun, 05 Dec 2021 07:18:43 GMT</pubDate>
             <content:encoded><![CDATA[한국인의 커피 사랑은 유별납니다. 현대경제연구원 조사에 따르면 성인 한 명이 1년간 마시는 커피는 2015년 291잔, 2016년 317잔, 2017년 336잔, 2018년 353잔으로 계속 증가했습니다. 같은 기간 세계 평균 커피 소비량은 한국의 3분의 1 수준인 130~132잔으로 거의 변화가 없었습니다. 그런데 최근 커피 주요 산지의 이상기후와 세계적 물류 대란이 겹치며 커피 원두 가격이 계속 오르고 있습니다. 이대로라면 국내 커피 가격도 오를 수밖에 없다는 전망이 나오는데요, 과연 현재의 커피 원두가격이 사상 최고치인지 체크를 해보고 앞으로의 전망을 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플라스틱 OTHER는 재활용이 불가능하다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/265</link>
-            <guid>https://factchecker.or.kr/fc_subjects/265</guid>
-            <pubDate>Mon, 29 Nov 2021 14:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[조금이나마 플라스틱 쓰레기를 줄이기 위해 깨끗이 씻어서 분리배출 하려고 노력했지만, 실제로는 재활용이 안되는 것들이 많다. 특히 OTHER 표시가 된 제품들의 경우 재활용이 되는 것인지 안되는 것인지 혼란스러울때가 많다. 분리배출 표시 중 OTHER 에 대해 살펴보고 제대로 된 분리배출법 혹은 재활용 여부를 검증해보고자 한다. 
-관련제안 :&nbsp;https://factchecker.or.kr/fc_suggests/397]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -445,6 +442,22 @@ O...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e27ba9ccc93ccf2abf938e2a25081045e88607e/7ccc421ed3aebc20cb5ebd3250746e03.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/79</link>
+            <guid>https://factchecker.or.kr/fc_publications/79</guid>
+            <pubDate>Sat, 29 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 SNS를 통해, 유엔(UN) 공식통용어에 한국어가 포함된다는 소식이 퍼지고 있습니다. UN 공식 홈페이지 확인 결과, 한국어가 유엔 공식통용어에 포함된다는 정보는 사실이 아닙니다.
+&nbsp;
+2021년 12월 말 반크에서 한국어를 유엔(UN) 공식 통용어에 포함시키기 위한 캠페인을 펼치고 있다는 보도가 있었습니다.
+https://www.yna.co.kr/view/AKR20211221040200371
+
+또한, 유엔(UN)의 6개 공식 통용어인 아랍어, 중국어, 영어, 프랑스어, 러시아어, 스페인어 외의 그 어떤 언어의 공식 통용어 추가 논의조차 2019년까지 없었습니다.
+그 후 최근 유엔(UN) 총회의 안건을 살펴보아도 공식 통용어 추가에 대한 내용은 존재하지 않습니다.
+https://www.un.org/en/ga/info/meetings/75schedule.shtml
+&nbsp;
+앞으로 있을 76회 UN 총회에도 토착언어 10주년의 해를 제외한 공식 통용어 및 언어 관련 내용은 존재하지 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/78</link>
             <guid>https://factchecker.or.kr/fc_publications/78</guid>
@@ -556,13 +569,6 @@ O...]]></content:encoded>
 1-1)초, 중, 고등학교 교사 임용에는 성 할당제가 없다.
 -경북교육청 초/중등교육과에 유선 문의 결과 경북뿐만 아니라, 전국의 초, 중, 고등학교 교사 임용에 성 할당제 도입하지 않았다고 했다.-교육부 관련 부서에도 전화를 했으나 받지 않았다. 
 -한국교육개발원의 2020년 교육통계분석자료집에 의하면, 2020년 전체 초등학교 교사 중 여성의 비율은 77.1%이며, 국공립의 경우는 77.3%이다. 전체 중학교 교사 중 여성의 비율은 70.5%이며 국공립 중학교 여성 교원의 비율은 74.3%이다. 이재명 후보의 발언대로 특정 성이 30%를 초과하지 못하도록 성 할당제가 도입되었다면, 초등학교와 중학교 여성 교사의 비율이 70%를 넘을 수 없다.(밑에서 언급하겠지만)국공립 대학 교원 채용에 적용된 특정 성별이 4분의 3을 초과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암행순찰차는 단속안내를 안했기 때문에 불법이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/69</link>
-            <guid>https://factchecker.or.kr/fc_publications/69</guid>
-            <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 암행순찰차란?암행순찰차는 정체를 숨기고 활동하는 순찰차로 일반 경찰차의 역할 외에 속도위반이나 난폭 운전 등을 단속하는 차량인데 &nbsp;겉으로 보기에는 그 어떤 표시도 없어 암행순찰차량이라는 것을 알 수가 없다. 그러나 단속을 하게 되는 경우, 내부에서 버튼을 누르면 암행경찰이라는 문구가 뜨고 경광등 사이렌이 작동되면서 경찰차라는 것을 인지하게 되는데, 암행순찰차는 외관이 일반 승용차와 거의 똑같다. 유일한 차이는 보닛과 좌우 도어에 경찰 마크가 부착되었다는 점이지만, 마그네틱 방식(자석식)이라 탈부착이 가능하다고 한다. &nbsp;영화에서도 가끔 등장하기도 한다. 또한 차량 내부 전·후방에는 적색·청색 LED 실내 경광등이 있으며, 차량 전면 그릴 내부에도 보조 경광등이 장착되어 있고, 후면 유리에는 경고 또는 단속 문구를 표시하는 LED 전광판과 슬림형 내부 경광등이 있다. &nbsp; 이 밖에 확성기와 시그널 등이 설치되어 있으며, 고성능 블랙박스, 과속 차량의 속도 측정 장치 등 교통법규...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
