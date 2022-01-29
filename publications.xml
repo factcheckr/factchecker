@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-01-29T11:10:50.156Z</updated>
+    <updated>2022-01-29T12:17:31.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://factchecker.or.kr/fc_publications/79</id>
         <link href="https://factchecker.or.kr/fc_publications/79"/>
         <updated>2022-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 SNS를 통해, 유엔(UN) 공식통용어에 한국어가 포함된다는 소식이 퍼지고 있습니다. UN 공식 홈페이지 확인 결과, 한국어가 유엔 공식통용어에 포함된다는 정보는 사실이 아닙니다.
+        <content type="html"><![CDATA[최근 SNS를 통해, 유엔(UN) 공식통용어에 한국어가 포함된다는 소식이 퍼지고 있습니다. UN 공식 홈페이지 확인 결과, 한국어가 유엔(UN) 공식통용어에 포함된다는 정보는 사실이 아닙니다.
 &nbsp;
 2021년 12월 말 반크에서 한국어를 유엔(UN) 공식 통용어에 포함시키기 위한 캠페인을 펼치고 있다는 보도가 있었습니다.
 https://www.yna.co.kr/view/AKR20211221040200371
@@ -19,7 +19,7 @@ https://www.yna.co.kr/view/AKR20211221040200371
 그 후 최근 유엔(UN) 총회의 안건을 살펴보아도 공식 통용어 추가에 대한 내용은 존재하지 않습니다.
 https://www.un.org/en/ga/info/meetings/75schedule.shtml
 &nbsp;
-앞으로 있을 76회 UN 총회에도 토착언어 10주년의 해를 제외한 공식 통용어 및 언어 관련 내용은 존재하지 ...]]></content>
+앞으로 있을 76회 유엔(UN) 총회에도 토착언어 10주년의 해를 제외한 공식 통용어 및 언어 관련 내...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염 후 자연 면역이 백신 면역 보다 더 강하고, 오래 지속된다?]]></title>
