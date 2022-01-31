@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-01-31T00:39:35.850Z</updated>
+    <updated>2022-01-31T01:53:07.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 백신을 맞으면 면역력을 떨어뜨리나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/522</id>
+        <link href="https://factchecker.or.kr/fc_suggests/522"/>
+        <updated>2022-01-31T01:52:25.991Z</updated>
+        <content type="html"><![CDATA[코로나19 백신을 맞으면 면역력을 떨어진다는대 떨어지나요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성별 임금격차는 명백하게 존재하는 사실 아닌가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/520</id>
@@ -93,14 +100,5 @@ O...]]></content>
         <updated>2022-01-24T08:14:09.524Z</updated>
         <content type="html"><![CDATA[온라인 커뮤니티를 돌아다니다 보니까 을지문덕 장군은 언제 태어났는지, 어디 출신인지, 어떻게 관직에 등용했는지 등이 하나도 알려지지 않은 인물이라고 하는 글을 봤는데요.
 역사적 사실 여부를 떠나서 관련된 정보가 하나도 알...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자 ceo가 부스터샷은 의미가 없다고 인터뷰 했나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/511</id>
-        <link href="https://factchecker.or.kr/fc_suggests/511"/>
-        <updated>2022-01-24T06:17:01.514Z</updated>
-        <content type="html"><![CDATA[백신 반대 주장을 펼치는 쪽에서 비슷한 정보들이 돌아다니는데요.
-화이자 ceo가 코로나19 백신은 1년에 한번만 맞으면 된다고 했다는 게 주요 내용이더라고요.
-이걸 가지고 부스터샷은 필요가 없는 것처럼 표현하고 있는데요....]]></content>
     </entry>
 </feed>
