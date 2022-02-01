@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 04:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 05:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 “한국은 선진국” 팩트체크 기사 따져보니]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3472</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3472</guid>
+            <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팩트체크가 유행이다. 팩트체크가 하도 난립을 하니 이제는 ‘메타 팩트 체크’가 필요해 보인다. 팩트체크를 팩트체크해야 한다는 뜻이다. 지난 28일 매일경제에 “[팩트체크]한국은 선진국인가”라는 기사가 실렸다. “대한민국은 전 세계가 인정하는 선진국”이라는 이재명 더불어민주당 대선후보의 발언에 대한 팩트체크라고 한다. 이 기사는 한국이 선진국이라는 말은 절반의 사실이라고 주장한다. “1인당 GNI, 출산율, 정치 사회적 갈등 측면은 선진국이 아니지만, 기술혁신 분야는 선진국”이라고 한다. 그러나 많은 국제기준에 따르면 한국은 이미 선]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ec4c0cf08f083a9562eb04adba145cafab79e0d/f6fee10e5772a0a7f8d2478151cdea17.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] '포퓰리즘'은 언제 많이 거론됐나요]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3467</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시사위크=서예진 기자 최근 20대 대통령선거 후보 간 방송 토론회를 두고 정치권이 뜨겁게 설전 중이다. 윤석열 국민의힘 대선후보는 이재명 더불어민주당 대선후보에게 ‘양자 토론’을 제의했고, 이에 대해 안철수 국민의당 대선후보와 심상정 정의당 대선후보는 ‘4자 토론’을 주장하고 있다. 그런데 이 ‘4자 토론’에 가처분 신청을 한 이가 있다. 바로 허경영 국가혁명당 대선후보다. 허 후보는 지난 27일 자신의 페이스북에 “이게 맞는 건가? 온 국민이 지켜보고 있는데 지금 뭐하고 있는 건가. 하늘이 무섭지도 않나. 이런 천벌을 받을”이라고]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e2a62b2a858e4350c63c1a083b69b8687e6e9ae/92a55cc115a1570a00f35726c47a7316.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 병사들 월급 올려준다던데? 어쩔 연공서열]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3460</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3460</guid>
-            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBS 팩트체크 팀의 대선 공약 팩트체크, 오늘은 병사 월급 인상을 살펴보겠습니다. 더불어민주당 이재명 후보도 비슷한 공약을 내놨지만, 국민의힘 윤석열 후보가 가장 적극적입니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6380da7a7c61f3f8dc3bd5f647f0f0299de083a6/d934321384e6fd6a19d9b8adb8d24d57.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
