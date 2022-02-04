@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 06:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/525</link>
+            <guid>https://factchecker.or.kr/fc_suggests/525</guid>
+            <pubDate>Fri, 04 Feb 2022 06:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 영상을 살펴보면 과일을 식사후 두시간, 식전 1-2시간 공복에 배고플 때 먹는 것이 좋다는 영상이 여러 개 있습니다. 특히 식후에 바로 과일을 먹으면 빨리 분해 흡수되는 과딩이 몇 시간에 걸쳐 천천히 분해흡수되는 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나바이러스를 계절성 독감으로 간주? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/524</link>
             <guid>https://factchecker.or.kr/fc_suggests/524</guid>
@@ -269,15 +276,6 @@ O...]]></content:encoded>
             <content:encoded><![CDATA[졸업 앨범에 있는 사진을 악용해서 범죄를 저지른 사건 기사를 보고 깜짝 놀랐습니다
 이제는 스마트폰으로 언제든 사진을 찍는 시대인데 졸업앨범이 필요할까 싶기도 한데요
 그런데 보도를 보니 선생님 사진을 졸업앨범에 넣도록 강요...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외국인 부동산 투기가 지속해서 증가하고 있다는 주장은 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/514</link>
-            <guid>https://factchecker.or.kr/fc_suggests/514</guid>
-            <pubDate>Tue, 25 Jan 2022 04:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[최근에 안철수 국민의당 대선 후보가 외국인 투기세를 도입하겠다고 주장했는데요.
-주택담보 대출규제에 역차별이 있다는 도입 근거가 사실이 아니라는 오마이뉴스 팩트체크가 나왔더라고요.
-그런데 일부 커뮤니티를 보니 사실이 아닌 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열, 최저임금·52시간 폐지 주장? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
