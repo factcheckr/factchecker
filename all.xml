@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 06:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 07:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,29 @@ O...]]></content:encoded>
 그런데 보도를 보니 선생님 사진을 졸업앨범에 넣도록 강요...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크]회사원이든 공무원이든 똑같은 기준 정하면, 국민연금이 지속가능해진다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3510</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3510</guid>
+            <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(회사원이든 공무원이든) 똑같은 기준을 적용해야지 지속 가능한 대한민국이 되고, 또 후대에 우리가 빚을 넘겨주지 않게 되는 것이지요. 3일 방송사 3사 주최 대선후보 토론에서 안철수 국민의당 대선후보는 ‘연금개혁’의 필요성을 강조했다. 국민의힘 대선 경선에서 연금개혁을 강조한 유승민·윤희숙 전 의원을 제외한다면 이번 대선에서 안 후보는 독보적이라고 할 정도로 연금개혁의 필요성을 강]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a50867ba6b406ca19e5549e6fe2c916de8bd56b/ebde952b21e9c8e491b0a6c330255540.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노컷체크]수도권에 미사일 쏠 때 고각발사? 개성에 사드? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3511</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3511</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3일 열린 대선후보 첫 TV토론에선 5년 전 임시배치됐던 고고도미사일방어체계(THAAD)가 또 튀어나왔다. 국민의힘 윤석열 후보는 북한에서 수도권을 (미사일로) 겨냥할 경우 고각발사를 하는 경우가 많기 때문에 당..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--babe328b572ccc2ea1731b29fb7ff734b5c28079/a1fb5fdc4e60a5fc1b756e3a8bb4766a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]정용진 "北이 미사일 쏘면 투자도 다 빠져" 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3509</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3509</guid>
+            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정용진 신세계 그룹 부회장은 지난 1월 10일 자신의 SNS에 “(북한이) 미사일 쏘면 투자도 다 빠져나가더라”라며 북한 리스크로 기업 경영 활동에 어려움을 겪고 있다는 발언을 했다. 실제 북한은 설 연휴에 발사한 미사일을 포함해 1월에만 7차례 미사일을 발사했다....]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 차려놓은 밥상에 숟가락만 얹는 외국인 건강보험? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3508</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3508</guid>
@@ -334,28 +357,20 @@ O...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8615cf9d8ffb15984d78e552c563c917ffbc592/6fd54903acd2e67ebca5ac6b846f2809.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 토론 팩트체크] 브룩스 사드 발언·LTV 90%·주 52시간 근무···與野 대선주자 충돌 | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3501</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3501</guid>
+            <title><![CDATA[동해 대륙붕 등 3개 지역 유·가스전 탐사·개발 지원 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3513</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3513</guid>
             <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대선 후보가 2월 3일 서울 여의도 KBS 공개홀에서 열린 방송 3사 합동 초청 2022 대선후보 토론에 앞서 준비를 하고 있다. [사진=연합뉴스 ]제20대 대통령...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--573b03d7fef6bd07977a8d091609492a3a8364b1/70b45ad85e6c6e14bd01516a8fe1dbec.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[산업통상자원부는 “정부는 금년에 140억원을 석유공사에 출자해 동해 대륙붕 등 3개 지역의 유·가스전 탐사·개발 지원 중”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--863cc47368bfd3ff4680d6c32181932a98e5166f/d9f49b1468c07d55cd49c988f29a4620.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[뉴있저] 첫 대선 후보 TV 토론...주요 발언 사실관계 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3500</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3500</guid>
+            <title><![CDATA[LNG 직도입 민간업체 대상 비축의무 설정 방안, 현재 검토 안해 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3512</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3512</guid>
             <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[앵커]어제 열린 대선 후보 첫 TV 토론에서는 부동산과 외...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--498b4fcdb8a089bcc6da577db53b6bbefe732b4d/d54304d75bb0a3ad025524341d8c40f2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 알고보니] "사드 추가 필요없다" "최저 임금 폐지" 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3499</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3499</guid>
-            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대선 알고 보니, 오늘은 어제 TV 토론에서 상대 후보의 발언을 팩트 체크해 달라 면서 공방이 벌어진 정책 이슈를 정리합니다. 예전에 그런 말을 한 적이 있다, 없...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c952af0bdf2777a8df6e320be2285fa2dcfc245c/d3630a0be05209b52d9de60e77fb11de.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[산업통상자원부는 “LNG 직도입 민간 업체를 대상으로 비축의무를 설정하는 방안에 대해 현재 검토하고 있지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f26f97f7766f8c3c4a465c88da2d7973722a5c6a/af5f7a5714277a81e71ab96292239840.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[양주 채석장 붕괴사고, 중대재해처벌법 위반 여부 철저히 수사 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -420,22 +435,6 @@ O...]]></content:encoded>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법제처는 “기사 관련 고시의 제정가능성 여부에 대해서는 검토하거나 의견을 낸 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE1aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--12eb8e4ffe07c9d6d0121cb4c5589680d61696bb/32324f29afb4d5118fa785c363f2d145.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용유지지원 필요한 사업장에 적극 지원 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3429</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3429</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “고용유지지원금이 오늘 3월부터 중단된다는 내용은 사실과 다르다”면서 “고용유지지원이 필요한 사업장에 대해 도움이 될 수 있도록 적극적으로 지원하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c848151008a84b376c51a517054bebeaeb93dd/8a72d4999fa9e6cb0f605fb04b4f1790.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[사고 발생 직후부터 관계기관 간 긴밀히 협업·적극 대응 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3428</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3428</guid>
-            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “사고 직후인 지난 11일 저녁 기관 간 역할을 분담하고, 산업재해수습본부 및 건설사고대응본부 구성하고 현장상황관리관을 파견하는 등 수습을 지원하고 있다”면서 “사고 발생 직후부터 현재까지 관계기관 간 긴밀하게 협업하며 적극 대응하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2taIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8ac112b66de3e904f27cc789377804b52d268c9/985eafe0b6ad6bdbb9f7e080140b45a4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
