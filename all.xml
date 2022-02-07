@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쉐딩현상이라는게 존재하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/528</link>
+            <guid>https://factchecker.or.kr/fc_suggests/528</guid>
+            <pubDate>Mon, 07 Feb 2022 06:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[백신 접종을 한 사람 근처에 있기만 해도 머리가 어지럽다면서 이게 쉐딩현상 때문이라고 하는 글이 SNS에 올라왔습니다
+올라온 내용을 보니 바이러스성 현상이라고 주장하던데 이런 현상이 실제로 존재하나요?
+존재한다면 백신 접...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[관우정보기술 부정 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/527</link>
             <guid>https://factchecker.or.kr/fc_suggests/527</guid>
@@ -263,15 +272,6 @@ O...]]></content:encoded>
 자주 퍼지는것같습니다.
 &nbsp;
 검증할내용: 백신접종자는 허혈을 할수없나? &nbsp;개인적인생각인 아예 백신을 접종하면 어떤 피든 수혈받을수있으니 백신접종을 해야하는게 아닌가 싶은데 요즘 지인 카톡들을 보...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단체집회와 1인 시위를 막는 법안이 발의됐다는게 사실입니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/517</link>
-            <guid>https://factchecker.or.kr/fc_suggests/517</guid>
-            <pubDate>Wed, 26 Jan 2022 03:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷을 돌아다니다 보니 단체집회와 1인 시위를 막는 법안의 발의됐다며 반대해야 한다는 글을 봤습니다
-저런 법안이 국회를 통해 나왔다는 주장이 상식적이지 않아보입니다
-반대의 근거도 법안 내용은 하나도 없고 무작정 우기기 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크]회사원이든 공무원이든 똑같은 기준 정하면, 국민연금이 지속가능해진다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
