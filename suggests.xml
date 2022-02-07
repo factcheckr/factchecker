@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-07T13:15:57.345Z</updated>
+    <updated>2022-02-07T14:11:48.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[톡으로 이런 내용을 받았는데 사실일까요??]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/529</id>
+        <link href="https://factchecker.or.kr/fc_suggests/529"/>
+        <updated>2022-02-07T14:11:06.651Z</updated>
+        <content type="html"><![CDATA[🍎긴급 중요정보🍎
+♡ 이젠 살았습니다 ♡
+혈전 용해제인 아스피린이 코로나 치료 만병통치약임을 극비리에 중국을 통해 싱가포르가 발견한 듯함.&nbsp;
+코로나 증상 있으면 아스피린만 잡수세요!!!
+😷매우 중요한 정보이므로 주...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉐딩현상이라는게 존재하나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/528</id>
@@ -84,15 +95,5 @@ O...]]></content>
 이런 기사입니다
 &nbsp;
 아니면 개인의 의견일 뿐인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신 미접종자 피가 귀하다는데 ...]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/518</id>
-        <link href="https://factchecker.or.kr/fc_suggests/518"/>
-        <updated>2022-01-26T17:14:52.735Z</updated>
-        <content type="html"><![CDATA[카톡 지인들을 통해서 빠르게
-자주 퍼지는것같습니다.
-&nbsp;
-검증할내용: 백신접종자는 허혈을 할수없나? &nbsp;개인적인생각인 아예 백신을 접종하면 어떤 피든 수혈받을수있으니 백신접종을 해야하는게 아닌가 싶은데 요즘 지인 카톡들을 보...]]></content>
     </entry>
 </feed>
