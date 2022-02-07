@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-06T23:11:31.949Z</updated>
+    <updated>2022-02-07T00:41:07.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[관우정보기술 부정]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/527</id>
+        <link href="https://factchecker.or.kr/fc_suggests/527"/>
+        <updated>2022-02-07T00:40:26.607Z</updated>
+        <content type="html"><![CDATA[부정선거개표]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기본자산제 동영상 좀 검증해 주세요.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/526</id>
@@ -87,14 +94,5 @@ O...]]></content>
         <content type="html"><![CDATA[인터넷을 돌아다니다 보니 단체집회와 1인 시위를 막는 법안의 발의됐다며 반대해야 한다는 글을 봤습니다
 저런 법안이 국회를 통해 나왔다는 주장이 상식적이지 않아보입니다
 반대의 근거도 법안 내용은 하나도 없고 무작정 우기기 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달원 억대연봉]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/516</id>
-        <link href="https://factchecker.or.kr/fc_suggests/516"/>
-        <updated>2022-01-25T12:18:23.948Z</updated>
-        <content type="html"><![CDATA[“강남서 배달하면 월 1300만원 번다”…의사급 연봉 자랑한 기사(https://m.segye.com/view/20220122504822)
-최근 눈에 띄게 늘어난 배달 라이더들의 실제 수익은 얼마나 될까?
-배달앱 업체...]]></content>
     </entry>
 </feed>

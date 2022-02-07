@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 00:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[관우정보기술 부정 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/527</link>
+            <guid>https://factchecker.or.kr/fc_suggests/527</guid>
+            <pubDate>Mon, 07 Feb 2022 00:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[부정선거개표]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기본자산제 동영상 좀 검증해 주세요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/526</link>
             <guid>https://factchecker.or.kr/fc_suggests/526</guid>
@@ -265,15 +272,6 @@ O...]]></content:encoded>
             <content:encoded><![CDATA[인터넷을 돌아다니다 보니 단체집회와 1인 시위를 막는 법안의 발의됐다며 반대해야 한다는 글을 봤습니다
 저런 법안이 국회를 통해 나왔다는 주장이 상식적이지 않아보입니다
 반대의 근거도 법안 내용은 하나도 없고 무작정 우기기 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배달원 억대연봉 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/516</link>
-            <guid>https://factchecker.or.kr/fc_suggests/516</guid>
-            <pubDate>Tue, 25 Jan 2022 12:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[“강남서 배달하면 월 1300만원 번다”…의사급 연봉 자랑한 기사(https://m.segye.com/view/20220122504822)
-최근 눈에 띄게 늘어난 배달 라이더들의 실제 수익은 얼마나 될까?
-배달앱 업체...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크]회사원이든 공무원이든 똑같은 기준 정하면, 국민연금이 지속가능해진다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
