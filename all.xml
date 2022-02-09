@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 10:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 11:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[코로나19 걸리더라도 일주일만 지나면 무조건 출근해야 하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/531</link>
+            <guid>https://factchecker.or.kr/fc_suggests/531</guid>
+            <pubDate>Wed, 09 Feb 2022 11:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[이번에 방역수칙이 바뀌면서 코로나19 확진 되더라도 7일만 지나면 출근해야 한다고 하더라고요?
+근데 확진자가 아직 완치되지 않았으면 확산의 위험이 남아 있을 것 같은데 별도의 검사 없이 출근을 하도록 해도 되는 걸까요?
+...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[치유 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/530</link>
             <guid>https://factchecker.or.kr/fc_suggests/530</guid>
@@ -260,16 +269,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/522</guid>
             <pubDate>Mon, 31 Jan 2022 01:52:25 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 백신을 맞으면 면역력을 떨어진다는대 떨어지나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성별 임금격차는 명백하게 존재하는 사실 아닌가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/520</link>
-            <guid>https://factchecker.or.kr/fc_suggests/520</guid>
-            <pubDate>Fri, 28 Jan 2022 03:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[유명한 교수가 성별 임금격차는 존재하지 않는다고 주장했다는 게시글을 봤어요
-그런데 이게 진짜 사실일까요?
-최근에 CNN에서도 한국에서 벌어지고 있는 안티페미니즘 현상을 다루면서 성별 임금격차 통계를 언급했다고 들었어요
-O...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
