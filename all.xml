@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 11:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 12:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대통령은 마음대로 일하는 곳을 고를 수 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/532</link>
+            <guid>https://factchecker.or.kr/fc_suggests/532</guid>
+            <pubDate>Wed, 09 Feb 2022 12:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 후보가 대통령이 되면 청와대가 아니라 다른 곳에서 일하겠다고 말했는데요
+보통은 정해진 공간에서 다들 일을 하는 것 같은데 대통령은 본인이 원하는 곳에서 마음대로 일 할 수 있나요?
+대통령만 일하는 곳을 마음대로 정...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19 걸리더라도 일주일만 지나면 무조건 출근해야 하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/531</link>
             <guid>https://factchecker.or.kr/fc_suggests/531</guid>
@@ -262,13 +271,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
 진행되기도 어려워보이는데
 유튜버들도 자기진영의 주장만해서 객관성이 떨어진다 봅니다
 제일중요...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 백신을 맞으면 면역력을 떨어뜨리나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/522</link>
-            <guid>https://factchecker.or.kr/fc_suggests/522</guid>
-            <pubDate>Mon, 31 Jan 2022 01:52:25 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 백신을 맞으면 면역력을 떨어진다는대 떨어지나요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["윤석열 147억 특활비 검증 끝났다" 국힘 주장 '대체로 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
