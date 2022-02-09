@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 현금 사용했지만 세부 집행내역 비공개... 법원 1월 정보공개 판결에 항소]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57f2307167ecc92f333587471caffeffea5ab342/301a67583c9e51cecf7a58ef5887a128.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노컷체크]이재명 장남 군 병원 입원, 특혜였을까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3521</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3521</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 박수영 의원은 더불어민주당 이재명 후보 장남 이모씨가 지난 2014년 공군 병으로 복무할 당시, 인대가 파열돼 수술을 받고 군 병원에 입원하는 과정에서 특혜가 있었다고 주장했다. 핵심은 그가 경남 진주..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ebc7adf026c992dae3a71ff7ead2436938f70b54/2011627bcb0d524432c28cb35265f321.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크]"RE100 현실적으로 불가능"하다는 윤석열..사실일까?]]></title>
@@ -77,14 +85,6 @@
             <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 국민의힘 대선 후보의 외국인 건강보험 관련 공약을 담은 SNS 게시 글이 논란이 됐습니다. 윤 후보는 지난 1월 30일 자신의 페이스북에 “국민이 잘 차려놓은 밥상에 숟가락만 얹는 외국인 건강보험 문제 해결하겠습니다.”로 시작하는 글을 올렸습니다. 외국인 건강보험 피부양자 자격의 허점을 지적한 것으로 볼 수 있는데, 중국인들을 사례로 들면서 ‘반중 정서’ 논란이 일었습니다.윤 후보가 글에 ‘숟가락 얹기’, ‘불공정’, ‘허탈감’ 등의 단어를 사용해, 일부 온라인 커뮤니티와 SNS에서는 건보 재정과 관련해 외국인이 부담은 하지]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e82d373027c39639e00698f1d7f0442f4263783a/f752ad78f744c818e6368a222a39011c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 사드로 수도권 노리는 북한 미사일 막을 수 있나 | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3507</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3507</guid>
-            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김용래 정빛나 기자 = 북한의 탄도미사일 위협과 맞물려 사드(THAAD·고고도미사일방어체계) 추가배치 문제가 대선 정국을 뜨겁...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f17a3271d956b6a1e245a330381d05989400dd8/2251628b3c0156c33393a42fb601125d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

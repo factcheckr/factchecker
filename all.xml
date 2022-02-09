@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,14 @@ O...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57f2307167ecc92f333587471caffeffea5ab342/301a67583c9e51cecf7a58ef5887a128.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[노컷체크]이재명 장남 군 병원 입원, 특혜였을까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3521</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3521</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 박수영 의원은 더불어민주당 이재명 후보 장남 이모씨가 지난 2014년 공군 병으로 복무할 당시, 인대가 파열돼 수술을 받고 군 병원에 입원하는 과정에서 특혜가 있었다고 주장했다. 핵심은 그가 경남 진주..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ebc7adf026c992dae3a71ff7ead2436938f70b54/2011627bcb0d524432c28cb35265f321.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크]"RE100 현실적으로 불가능"하다는 윤석열..사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3519</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3519</guid>
@@ -343,12 +351,12 @@ O...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e82d373027c39639e00698f1d7f0442f4263783a/f752ad78f744c818e6368a222a39011c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 사드로 수도권 노리는 북한 미사일 막을 수 있나 | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3507</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3507</guid>
-            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 김용래 정빛나 기자 = 북한의 탄도미사일 위협과 맞물려 사드(THAAD·고고도미사일방어체계) 추가배치 문제가 대선 정국을 뜨겁...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f17a3271d956b6a1e245a330381d05989400dd8/2251628b3c0156c33393a42fb601125d.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[만기연장·상환유예 조치 3월말 종료 여부 결정된 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3522</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3522</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “만기연장·상환유예 조치의 3월말 종료여부는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--372e6817a3b9d79cf66614f35d5f503898a65e9d/da797b3d2e95a42efbc15bf582b90428.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[현행 전자상거래법, 개인간 거래플랫폼으로 하여금 판매자 신원정보 확인·제공 의무 규정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -421,14 +429,6 @@ O...]]></content:encoded>
             <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “국민취업지원제도에서 취업지원을 마친 후 취업에 성공한 참여자 중 정규직 취업비율은 75.5%”라면서 “취업지원 내실화를 위해 지속 노력하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--118a3b2de959b387d09bb187f920bc7711699fcb/1500b52712b1ea6724af71bf49fe7fc8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘신문잡지 이용조사’ 관련 언론 4단체 공동 성명에 대한 문체부 설명 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3442</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3442</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[문화체육관광부는 ‘신문잡지 이용조사’ 관련 언론 4단체 공동 성명에 대해 다음과 같이 설명했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--076696136f454edb2a8941b5e6341b413b88d160/1fe82274059a1c2b40cae8de6d3e8480.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
