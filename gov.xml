@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 00:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비정규직 정규직 전환으로 공기업 신규채용 감소? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3529</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3529</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “비정규직의 정규직 전환으로 공기업의 신규 채용이 감소했다는 보도는 사실과 다르다”고 밝혔습니다. 그러면서 “2019년 이후 공공기관의 채용실적 감소는 코로나로 인한 기업 경영여건 변화, 정규직 전환 및 자율정원조정제도로 인한 2018~19년 당시 채용 규모의 일시적 증가 등이 복합적으로 작용한 것으로 판단된다”고 설명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b0aca553d973c8246b4e371f2e87f1c94502d1a/15401da7cbd26d6dd0f3c05bf58a7874.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[만기연장·상환유예 조치 3월말 종료 여부 결정된 바 없어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3522</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 “그린스마트 미래학교는 미래형 교육과정을 구현하기 위한 인프라를 구축하는 사업”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97b536cefb28518f95af07cc16f347e323b3524d/51974d0e4d1e834e87da1db0151ff5c3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민취업지원제도 참여 취업자 중 정규직 비율 75.5%]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3443</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3443</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “국민취업지원제도에서 취업지원을 마친 후 취업에 성공한 참여자 중 정규직 취업비율은 75.5%”라면서 “취업지원 내실화를 위해 지속 노력하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--118a3b2de959b387d09bb187f920bc7711699fcb/1500b52712b1ea6724af71bf49fe7fc8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
