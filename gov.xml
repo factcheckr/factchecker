@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 15:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 16:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자상거래법 개정안 입법예고 전부터 온라인 중고거래시장 현행법 위반 여부 조사]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3532</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3532</guid>
+            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “전자상거래법 개정안 입법예고 전부터 온라인 중고거래시장의 현행법 위반 여부를 조사해 왔다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a0ec2c63d60e3836b206a5d26137e541810d492/08105b881b5d236d2bd138a8a4b4f166.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[비정규직 정규직 전환으로 공기업 신규채용 감소? 사실과 다르다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3529</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 “산업안전보건 체제 구성을 통해 교육기관 근로자의 안전한 근로환경을 만들어 나가겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b25c2ecb57698846e18e2f6ee72ee8d972f79601/e569576fea47f2ece666217fa2e5c09d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린스마트 미래학교, 미래형 교육과정 구현 위한 인프라 구축 사업]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3451</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3451</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부는 “그린스마트 미래학교는 미래형 교육과정을 구현하기 위한 인프라를 구축하는 사업”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97b536cefb28518f95af07cc16f347e323b3524d/51974d0e4d1e834e87da1db0151ff5c3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
