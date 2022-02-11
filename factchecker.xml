@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-02-11T13:14:35.664Z</updated>
+    <updated>2022-02-11T14:11:59.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/298</id>
+        <link href="https://factchecker.or.kr/fc_subjects/298"/>
+        <updated>2022-02-11T14:11:06.716Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/298">온라인 커뮤니티를 돌아다니다 보니까 을지문덕 장군은 언제 태어났는지, 어디 출신인지, 어떻게 관직에 등용했는지 등이 하나도 알려지지 않은 인물이라고 하는 글을 봤는데요.역사적 사실 여부를 떠나서 관련된 정보가 하나도 알려지지 않은 인물이라는게 맞는 말인가요?을지문덕 장군과 관련된 정보를 다룬 논문이나 연구결과 조차도 없는 건가요?
+https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/297</id>
@@ -84,14 +93,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
         <link href="https://factchecker.or.kr/fc_subjects/274"/>
         <updated>2022-02-11T05:10:09.720Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/274">맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피 원두 사상 최고치 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/269</id>
-        <link href="https://factchecker.or.kr/fc_subjects/269"/>
-        <updated>2022-02-11T05:10:09.723Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/269">한국인의 커피 사랑은 유별납니다. 현대경제연구원 조사에 따르면 성인 한 명이 1년간 마시는 커피는 2015년 291잔, 2016년 317잔, 2017년 336잔, 2018년 353잔으로 계속 증가했습니다. 같은 기간 세계 평균 커피 소비량은 한국의 3분의 1 수준인 130~132잔으로 거의 변화가 없었습니다. 그런데 최근 커피 주요 산지의 이상기후와 세계적 물류 대란이 겹치며 커피 원두 가격이 계속 오르고 있습니다. 이대로라면 국내 커피 가격도 오를 수밖에 없다는 전망이 나오는데요, 과연 현재의 커피 원두가격이 사상 최고치인지 체크를 해보고 앞으로의 전망을 살펴봅니다.
 </a>]]></content>
     </entry>
 </feed>
