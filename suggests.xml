@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-11T06:15:30.825Z</updated>
+    <updated>2022-02-11T07:11:37.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩에서 방역수칙 위반하면 벌금이 엄청나다고 하네요]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/533</id>
+        <link href="https://factchecker.or.kr/fc_suggests/533"/>
+        <updated>2022-02-11T07:10:55.168Z</updated>
+        <content type="html"><![CDATA[페이스북에 올라온 영상을 보니 홍콩에서는 거리에서 담배를 피우기만 해도 방역수칙 위반이라고 하네요
+벌금이 150만 원이라고 커뮤니티에 올라왔는데 사실인가요?
+https://www.ppomppu.co.kr/zboard/vi...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령은 마음대로 일하는 곳을 고를 수 있나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/532</id>
@@ -80,18 +89,5 @@
 &nbsp;
 &lt;아래&gt;
 다음 국가는 모든 검역 절차, 코로나바이러스 검사 및 필수 예방접종을 폐지하고 코로나바이러스를 계절성...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4.15총선은 부정선거인가]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/523</id>
-        <link href="https://factchecker.or.kr/fc_suggests/523"/>
-        <updated>2022-02-11T05:10:25.360Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-지난 4.15총선이 부정선거였다는 주장이있는대요
-사전투표 의심 투표득표율수 등&nbsp;
-그러나 내부폭로도 1명 나온게없고 실제 그렇게
-진행되기도 어려워보이는데
-유튜버들도 자기진영의 주장만해서 객관성이 떨어진다 봅니다
-제일중요...]]></content>
     </entry>
 </feed>
