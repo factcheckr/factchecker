@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 01:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 02:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/299</link>
+            <guid>https://factchecker.or.kr/fc_subjects/299</guid>
+            <pubDate>Mon, 14 Feb 2022 02:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/299">
+
+https://blog.naver.com/cschoi415/222637605327
+&nbsp;
+
+
+http://m-economynews.com/news/article.html?no=32569
+&nbsp;
+
+
+https://segye.com/newsView/20220126520952?OutUrl=naver
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/298</link>
@@ -90,12 +108,20 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/274</link>
-            <guid>https://factchecker.or.kr/fc_subjects/274</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/274">맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.
-</a>]]></content:encoded>
+            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/299</link>
+            <guid>https://factchecker.or.kr/fc_subjects/299</guid>
+            <pubDate>Mon, 14 Feb 2022 02:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222637605327
+&nbsp;
+
+
+http://m-economynews.com/news/article.html?no=32569
+&nbsp;
+
+
+https://segye.com/newsView/20220126520952?OutUrl=naver]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -176,14 +202,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <pubDate>Fri, 11 Feb 2022 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[최근 인천의 한 아파트 입주자대표가 아파트 놀이터에서 놀던 어린이들을 ‘주거침입죄’로 경찰에 신고해 논란을 빚었습니다. 경기도의 한 아파트에선 놀이터를 이용하려는 외부인에게 ‘인식표’를 받도록 해 논란이 일었습니다. 놀이터를 둘러싼 분쟁이 반복되고 있는 배경에 대해 다양한 의견이 나왔습니다. 실제로 놀이터가 부족한 건지 아니면 편중된 건지, 최근 놀이터 설치의 추세는 어떤지 현황을 파악했습니다. 반복되는 분쟁을 해소하기 위해 입주민의 선의에만 기대는 게 바람직한지 등 구조적인 문제를 따져봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/274</link>
-            <guid>https://factchecker.or.kr/fc_subjects/274</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[홍콩에서 방역수칙 위반하면 벌금이 엄청나다고 하네요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -431,6 +449,21 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f26f97f7766f8c3c4a465c88da2d7973722a5c6a/af5f7a5714277a81e71ab96292239840.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/81</link>
+            <guid>https://factchecker.or.kr/fc_publications/81</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1). 심근염, 심낭염은 어떤 원인으로 발생하는 질병인가?
+https://www.kdca.go.kr/gallery.es?mid=a20503020000&amp;bid=0003&amp;act=view&amp;list_no=145190
+
+- 서울대학교 병원 참고http://snuh.org/health/nMedInfo/nView.do?category=DIS&amp;medid=AA000696
+http://www.snuh.org/health/encyclo/view/8/4/11/1.do
+
+서울대학교 병원에 따르면 심근염, 심낭염의 원인은 바이러스성, 면역성 등 류마티즘 관절염까지 다양하다. 건강보험심의평가원과 한국 표준질병사인분류 질병코드에 따라 분류한 내용을 봐도 마찬가지로 심낭염, 심근염이 여러 원인으로 발생한다는 것을 알 수 있다.
+*심평원에 추가 문의를 해보니 심낭염 관련 질병코드는 74건이 조회된다고 한다.&nbsp;백신 접종으로 인한 심근염, 심낭염에 대한 질병코드는 존재하지 않는다고 답변 받았다.
+http://op...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/80</link>
             <guid>https://factchecker.or.kr/fc_publications/80</guid>
@@ -548,14 +581,6 @@ https://www.un.org/en/ga/info/meetings/75schedule.shtml
 커피 원두의 국제 거래 가격이 2014년 기준으로 7년 만에 최고치를 기록한 데 이어 국내 우윳값 등도 상승하면서 1천 원대 저가 커피가 사라지는 것 아니냐는 관측이 나오고 있습니다.현지 시간으로 12일, 블룸버그 통신은 미국 뉴욕 상품거래소에서 아라비카 원두 선물가격이
 7년 만에 최고치인 파운드(454g)당 2.235달러에 거래됐다고 보도했습니다.
 특히 커피 생산 1위국인 브라질에서 길어지는 가뭄과 기후 변화로 인한 한파, 100년 만의 물 부족과 더불어 세계적 물류 대란이 겹치면서 전 세계 커피 가격 인상에 영향을 미쳤습니다.아라비카 원두의 대표 산지인 에티오피아는 8월부터 내전이 확산돼 커피 농가와 현지 물류가 제대로 운영되지 않는 상황입니다.또 커피 생산 2위국이자 로브스타 원두의 최대 생산국인 베트남에서는 당국의 강력한 코로나19 방역 대책으로 인한 노...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부항이 코로나 백신 효과를 100배 증가시킨다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/71</link>
-            <guid>https://factchecker.or.kr/fc_publications/71</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 논문, 보도자료에 사용된 도구는 ‘부항’기기가 아니다.
-상기한 기사에 따르면, 부항이 코로나 백신 효과를 증가시킨다는 연구결과는 미국 럿거스대의 하오 린 교수와 국내 진원생명과학의 최고의학책임자인 조엘 매슬로우 등이 발표하였다. 이후 동아사이언스는 같은 골자의 보도에서 연구 관계자로서 진원생명과학의 대표 ‘박영근’의 발언을 근거 자료로 이용하였다. 그러나 보도자료들이 ‘부항’이라고 표현한 백신용 ‘흡인기’는 압력으로 작동한다는 원리만 같을 뿐 부항용 도구로 사용되지 않는다. 진원생명과학은 ‘흡인작용 피내접종기’의 특허권을 가지고 있는 제약회사이며, 피부미용, 의료기기 전문 업체인 ‘큐비스트’와 함께 위 흡인기를 발명하였다. 또한 사측에서 발표한 보도자료에는 ‘부항’이라는 단어는 전혀 들어있지 않았다. 오직 연구논문에서 ‘부항’이라는 단어가 ‘The pressure magnitude is commensurate with that from commercially availa...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>

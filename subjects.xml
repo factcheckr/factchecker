@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 01:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 02:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/299</link>
+            <guid>https://factchecker.or.kr/fc_subjects/299</guid>
+            <pubDate>Mon, 14 Feb 2022 02:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222637605327
+&nbsp;
+
+
+http://m-economynews.com/news/article.html?no=32569
+&nbsp;
+
+
+https://segye.com/newsView/20220126520952?OutUrl=naver]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/298</link>
@@ -86,14 +102,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <pubDate>Fri, 11 Feb 2022 05:10:17 GMT</pubDate>
             <content:encoded><![CDATA[최근 인천의 한 아파트 입주자대표가 아파트 놀이터에서 놀던 어린이들을 ‘주거침입죄’로 경찰에 신고해 논란을 빚었습니다. 경기도의 한 아파트에선 놀이터를 이용하려는 외부인에게 ‘인식표’를 받도록 해 논란이 일었습니다. 놀이터를 둘러싼 분쟁이 반복되고 있는 배경에 대해 다양한 의견이 나왔습니다. 실제로 놀이터가 부족한 건지 아니면 편중된 건지, 최근 놀이터 설치의 추세는 어떤지 현황을 파악했습니다. 반복되는 분쟁을 해소하기 위해 입주민의 선의에만 기대는 게 바람직한지 등 구조적인 문제를 따져봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/274</link>
-            <guid>https://factchecker.or.kr/fc_subjects/274</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

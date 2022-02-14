@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-02-14T01:54:29.688Z</updated>
+    <updated>2022-02-14T02:23:18.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/299</id>
+        <link href="https://factchecker.or.kr/fc_subjects/299"/>
+        <updated>2022-02-14T02:22:18.888Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/299">
+
+https://blog.naver.com/cschoi415/222637605327
+&nbsp;
+
+
+http://m-economynews.com/news/article.html?no=32569
+&nbsp;
+
+
+https://segye.com/newsView/20220126520952?OutUrl=naver
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/298</id>
@@ -85,14 +103,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
         <link href="https://factchecker.or.kr/fc_subjects/275"/>
         <updated>2022-02-11T05:10:09.720Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/275">최근 인천의 한 아파트 입주자대표가 아파트 놀이터에서 놀던 어린이들을 ‘주거침입죄’로 경찰에 신고해 논란을 빚었습니다. 경기도의 한 아파트에선 놀이터를 이용하려는 외부인에게 ‘인식표’를 받도록 해 논란이 일었습니다. 놀이터를 둘러싼 분쟁이 반복되고 있는 배경에 대해 다양한 의견이 나왔습니다. 실제로 놀이터가 부족한 건지 아니면 편중된 건지, 최근 놀이터 설치의 추세는 어떤지 현황을 파악했습니다. 반복되는 분쟁을 해소하기 위해 입주민의 선의에만 기대는 게 바람직한지 등 구조적인 문제를 따져봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/274</id>
-        <link href="https://factchecker.or.kr/fc_subjects/274"/>
-        <updated>2022-02-11T05:10:09.720Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/274">맥도날드의 음료 뚜껑 뚜껑이가 환경에 도움이 되는지 알아본다.
 </a>]]></content>
     </entry>
 </feed>
