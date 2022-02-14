@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-14T10:13:09.271Z</updated>
+    <updated>2022-02-14T11:11:14.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 퇴치비법 공개]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/535</id>
+        <link href="https://factchecker.or.kr/fc_suggests/535"/>
+        <updated>2022-02-14T11:10:33.419Z</updated>
+        <content type="html"><![CDATA[🌐오미크론퇴치 비법공개 🌐&nbsp;The Light &amp; Solt 🧡 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; (발명왕 한상관 교수)
+오미크론과 코로나를 완벽하게 즉시 치료하는 방법을 알려 드립니다
+또한 정부당국자와 정치인들에게 통보하오니 즉...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 14일 안중근의사 사형일?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/534</id>
@@ -79,12 +88,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/526"/>
         <updated>2022-02-11T05:10:25.356Z</updated>
         <content type="html"><![CDATA[어르신들 사이에서 도는 동영상 캡쳐본입니다. 이거 사실인지 체크해 주세요.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과일은 공복에 먹는 것이 좋다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/525</id>
-        <link href="https://factchecker.or.kr/fc_suggests/525"/>
-        <updated>2022-02-11T05:10:25.357Z</updated>
-        <content type="html"><![CDATA[유튜브 영상을 살펴보면 과일을 식사후 두시간, 식전 1-2시간 공복에 배고플 때 먹는 것이 좋다는 영상이 여러 개 있습니다. 특히 식후에 바로 과일을 먹으면 빨리 분해 흡수되는 과딩이 몇 시간에 걸쳐 천천히 분해흡수되는 ...]]></content>
     </entry>
 </feed>
