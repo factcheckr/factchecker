@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-02-14T02:23:18.684Z</updated>
+    <updated>2022-02-14T03:12:31.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -17,8 +17,9 @@ https://www.kdca.go.kr/gallery.es?mid=a20503020000&amp;bid=0003&amp;act=view&amp
 http://www.snuh.org/health/encyclo/view/8/4/11/1.do
 
 서울대학교 병원에 따르면 심근염, 심낭염의 원인은 바이러스성, 면역성 등 류마티즘 관절염까지 다양하다. 건강보험심의평가원과 한국 표준질병사인분류 질병코드에 따라 분류한 내용을 봐도 마찬가지로 심낭염, 심근염이 여러 원인으로 발생한다는 것을 알 수 있다.
-*심평원에 추가 문의를 해보니 심낭염 관련 질병코드는 74건이 조회된다고 한다.&nbsp;백신 접종으로 인한 심근염, 심낭염에 대한 질병코드는 존재하지 않는다고 답변 받았다.
-http://op...]]></content>
+http://opendata.hira.or.kr/op/opc/olap4thDsPList.do?cdTp=A
+https://www.koicd.kr/sch/searchEasy.do
+*심평원...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요?]]></title>

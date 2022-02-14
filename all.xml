@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 02:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 03:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,7 +111,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
             <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/299</link>
             <guid>https://factchecker.or.kr/fc_subjects/299</guid>
-            <pubDate>Mon, 14 Feb 2022 02:22:26 GMT</pubDate>
+            <pubDate>Mon, 14 Feb 2022 02:22:18 GMT</pubDate>
             <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222637605327
 &nbsp;
 
@@ -460,8 +460,9 @@ https://www.kdca.go.kr/gallery.es?mid=a20503020000&amp;bid=0003&amp;act=view&amp
 http://www.snuh.org/health/encyclo/view/8/4/11/1.do
 
 서울대학교 병원에 따르면 심근염, 심낭염의 원인은 바이러스성, 면역성 등 류마티즘 관절염까지 다양하다. 건강보험심의평가원과 한국 표준질병사인분류 질병코드에 따라 분류한 내용을 봐도 마찬가지로 심낭염, 심근염이 여러 원인으로 발생한다는 것을 알 수 있다.
-*심평원에 추가 문의를 해보니 심낭염 관련 질병코드는 74건이 조회된다고 한다.&nbsp;백신 접종으로 인한 심근염, 심낭염에 대한 질병코드는 존재하지 않는다고 답변 받았다.
-http://op...]]></content:encoded>
+http://opendata.hira.or.kr/op/opc/olap4thDsPList.do?cdTp=A
+https://www.koicd.kr/sch/searchEasy.do
+*심평원...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[을지문덕 장군은 역사적 기록이 하나도 남아있지 않나요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
