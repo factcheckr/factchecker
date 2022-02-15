@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-15T06:14:56.641Z</updated>
+    <updated>2022-02-15T07:12:00.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[주식양도세·여가부 폐지”...구독자 6만 유튜브, 하루 아침에 사라졌다 라는 기사 검증 부탁드립니다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/536</id>
+        <link href="https://factchecker.or.kr/fc_suggests/536"/>
+        <updated>2022-02-15T07:11:16.907Z</updated>
+        <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-15T06:14:13.129Z</updated>
+        <updated>2022-02-15T07:11:16.838Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -81,12 +88,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/527"/>
         <updated>2022-02-11T05:10:25.355Z</updated>
         <content type="html"><![CDATA[부정선거개표]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본자산제 동영상 좀 검증해 주세요.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/526</id>
-        <link href="https://factchecker.or.kr/fc_suggests/526"/>
-        <updated>2022-02-11T05:10:25.356Z</updated>
-        <content type="html"><![CDATA[어르신들 사이에서 도는 동영상 캡쳐본입니다. 이거 사실인지 체크해 주세요.&nbsp;]]></content>
     </entry>
 </feed>

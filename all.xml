@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,10 +204,17 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[주식양도세·여가부 폐지”...구독자 6만 유튜브, 하루 아침에 사라졌다 라는 기사 검증 부탁드립니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/536</link>
+            <guid>https://factchecker.or.kr/fc_suggests/536</guid>
+            <pubDate>Tue, 15 Feb 2022 07:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 15 Feb 2022 06:14:13 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 07:11:16 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content:encoded>
@@ -279,13 +286,6 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/527</guid>
             <pubDate>Fri, 11 Feb 2022 05:10:25 GMT</pubDate>
             <content:encoded><![CDATA[부정선거개표]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기본자산제 동영상 좀 검증해 주세요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/526</link>
-            <guid>https://factchecker.or.kr/fc_suggests/526</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[어르신들 사이에서 도는 동영상 캡쳐본입니다. 이거 사실인지 체크해 주세요.&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(180)] 교차로 우회전 시, 횡단보도 앞 무조건 정지한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
