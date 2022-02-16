@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-15T23:12:57.518Z</updated>
+    <updated>2022-02-16T00:43:33.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA['2018 수륙대전' 행사에 대통령 연등을 보낸 사실이 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/537</id>
+        <link href="https://factchecker.or.kr/fc_suggests/537"/>
+        <updated>2022-02-16T00:42:52.292Z</updated>
+        <content type="html"><![CDATA[김의겸 더불어민주당 의원이 윤석열 국민의힘 대선후보 캠프 운영에 깊이 관여했다는 건진법사 전 모 씨가 살아있는 소의 가죽을 벗겨 전시해 논란을 빚은 2018 수륙대재 행사를 주관했다고 주장했는데요.&nbsp;
+이에, 국민의 힘에서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식양도세·여가부 폐지”...구독자 6만 유튜브, 하루 아침에 사라졌다 라는 기사 검증 부탁드립니다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/536</id>
@@ -13,10 +21,10 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-15T23:12:16.857Z</updated>
+        <updated>2022-02-16T00:42:52.193Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -81,12 +89,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
         <content type="html"><![CDATA[백신 접종을 한 사람 근처에 있기만 해도 머리가 어지럽다면서 이게 쉐딩현상 때문이라고 하는 글이 SNS에 올라왔습니다
 올라온 내용을 보니 바이러스성 현상이라고 주장하던데 이런 현상이 실제로 존재하나요?
 존재한다면 백신 접...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관우정보기술 부정]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/527</id>
-        <link href="https://factchecker.or.kr/fc_suggests/527"/>
-        <updated>2022-02-11T05:10:25.355Z</updated>
-        <content type="html"><![CDATA[부정선거개표]]></content>
     </entry>
 </feed>
