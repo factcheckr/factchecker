@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-16T00:43:33.872Z</updated>
+    <updated>2022-02-16T02:04:15.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[선거에 수백 수천  명이 모여서  거리두기를 하지않는 사실을 아시나요]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/538</id>
+        <link href="https://factchecker.or.kr/fc_suggests/538"/>
+        <updated>2022-02-16T02:03:33.590Z</updated>
+        <content type="html"><![CDATA[선거운동에 수백명이모여서 거리 두기를&nbsp; 하지않는데 너무 위험하고, 코로나 전염 조작하는게 아닌가요. 확진자 10만을 바라보는시대에 !]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2018 수륙대전' 행사에 대통령 연등을 보낸 사실이 있다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/537</id>
@@ -21,10 +28,10 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-16T00:42:52.193Z</updated>
+        <updated>2022-02-16T02:03:33.524Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -80,14 +87,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
 혈전 용해제인 아스피린이 코로나 치료 만병통치약임을 극비리에 중국을 통해 싱가포르가 발견한 듯함.&nbsp;
 코로나 증상 있으면 아스피린만 잡수세요!!!
 😷매우 중요한 정보이므로 주...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉐딩현상이라는게 존재하나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/528</id>
-        <link href="https://factchecker.or.kr/fc_suggests/528"/>
-        <updated>2022-02-11T05:10:25.354Z</updated>
-        <content type="html"><![CDATA[백신 접종을 한 사람 근처에 있기만 해도 머리가 어지럽다면서 이게 쉐딩현상 때문이라고 하는 글이 SNS에 올라왔습니다
-올라온 내용을 보니 바이러스성 현상이라고 주장하던데 이런 현상이 실제로 존재하나요?
-존재한다면 백신 접...]]></content>
     </entry>
 </feed>

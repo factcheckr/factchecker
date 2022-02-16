@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 00:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[선거에 수백 수천  명이 모여서  거리두기를 하지않는 사실을 아시나요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/538</link>
+            <guid>https://factchecker.or.kr/fc_suggests/538</guid>
+            <pubDate>Wed, 16 Feb 2022 02:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[선거운동에 수백명이모여서 거리 두기를&nbsp; 하지않는데 너무 위험하고, 코로나 전염 조작하는게 아닌가요. 확진자 10만을 바라보는시대에 !]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['2018 수륙대전' 행사에 대통령 연등을 보낸 사실이 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/537</link>
             <guid>https://factchecker.or.kr/fc_suggests/537</guid>
@@ -222,7 +229,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 00:42:52 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 02:03:33 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content:encoded>
@@ -280,13 +287,27 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
 😷매우 중요한 정보이므로 주...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉐딩현상이라는게 존재하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/528</link>
-            <guid>https://factchecker.or.kr/fc_suggests/528</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[백신 접종을 한 사람 근처에 있기만 해도 머리가 어지럽다면서 이게 쉐딩현상 때문이라고 하는 글이 SNS에 올라왔습니다
-올라온 내용을 보니 바이러스성 현상이라고 주장하던데 이런 현상이 실제로 존재하나요?
-존재한다면 백신 접...]]></content:encoded>
+            <title><![CDATA[[사실확인] 종이테이프는 종이 상자와 함께 버려도 재활용된다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3570</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3570</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사실확인] 종이테이프, 종이 상자와 함께 버려도 재활용된다?  택배 상자를 비롯한 종이 상자에 붙어 있는 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa7d6662282b267ed54f546a8d65ec6d7d41e0a7/abe1c467c7f4888b5cc8da14aa3629b3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]"홍남기 추경 반대는 월권"이라는 이재명 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3569</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3569</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보는 지난 4일 서울 여의도 당사에서 열린 ‘우리동네공약 언박싱데이’에서 홍남기 기획재정부 장관이 추가경정예산안(추경) 증액에 반대하는 것을 두고 월권 행위라 비판했다. 이재명 더불어민주당 대선후보가 4일 오후 서울 여의도 중앙당사에서 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크 그 후] 코로나 예방한다던 '코고리', 벌금 500만원 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3568</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3568</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[코에 끼우기만 하면 코로나19 등 모든 호흡기 질환을 예방한다며 ‘비강 확장기’를 판매한 천하종합(주) 대표 한기언씨가 1심에서 의료기기법 위반으로 유죄 판결을 받았다. 벌금 300만원의 약식명령에 불복해 정식재판을 청구했지만 1심 재판부는 약식명령보다 더 무거운 벌금형을 내렸다.전주지방법원 정읍지원 형사 1단독(판사 전재현) 재판부는 지난 10일 열린 선고공판에서 의료기기법 위반 혐의로 기소된 한씨의 혐의를 유죄로 판단하고 벌금 500만원을 선고했다. 한씨는 “이 사건에 적용된 의료기기법 조항은 ’모든 국민은 보건에 관하여 국가의]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f026c879f1efa6dc4fd642087b11f795e78a861/ad574ab1db1804885a37a3ef3b0382d4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 테슬라는 정말 배터리 과장 광고를 했을까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -349,28 +370,44 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72a733f5cc4cef0159d9ef53c686b18bb46d5a96/25bf62b1a9e4a570ec755701845879d8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]톱10 절반이 청불… 넷플릭스, 18금 타고 날았다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3554</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3554</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[■ 작품 544편 중 33%가 ‘청소년관람불가’… 경쟁 OTT의 3배15세 관람가까지 합치면 70%청불, 디즈니+ ‘9%..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f28b4ab0a8eea9d52fa06678a2a6d41557255945/e8b58738b9c20d9a55caa8f3be60362e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[서울동부구치소 코로나19 확산방지 및 관리에 최선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3575</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3575</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법무부는 “서울동부구치소는 수용자가 확진 판정통보를 받으면 신속하게 격리 수용하고, 밀접접촉자는 분리 수용하는 등 코로나19 확산 방지 및 확진자 관리에 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86d58f9d0e61e209ee189a2e48c8e9af2311d0ae/096e7bacb4df3934a1b97fcd1333a67a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 이재명과 윤석열 '국가 부채 해법' 따져 봤습니다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3553</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3553</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 최근 14조 원 규모의 추가경정예산안, 추경안을 국회에 제출했습니다. 추경안에는 소상공인 지원 11.5조 원이 포함돼 있습니다. 결은 다르지만, 여야 모두 추경안 액수가 적다고 한목소리를 내고 있습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af1882e72289b3d34c4889eb39e840e6f7ee0412/020eb334aa2c4215dad8206b489b1e60.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[교통수단 디지털 광고물 수량 제한은 안전성 검증 위한 것 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3574</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3574</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “교통수단 디지털 광고물 수량 제한은 실증특례 제도 취지인 안전성 검증을 위한 것으로, 불합리한 광고물 관련 규제를 적극적으로 해소하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--240a420b33920f9a122308e284cd66cca780a3bf/dfbbbf5627bd0a888ced6db6a00730d2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 불법 영해침범 어선 격침=몰수+폐기? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3552</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3552</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보의 중국 어선 격침 발언이 논란이 됐다. 심상정 정의당 후보는 국지전 위험을 경고했고, 이준석 국민의힘 대표는 사드는 안 되고 민간어선은 격침?이라고 비꼬았다. 뉴스톱은 영해를 침범한 타국 어선이 격침 대상인지 짚어봤다. ①이재명 격침=현지 몰수+폐기 처분논란이 된 이 후보의 발언은 지난 8일 보도된  인터뷰에서 나왔다. 이 후보는 당시 인터뷰에서 대(對) 중국 외교 관련 질문을 받고 동서 해역의 북한이나 중국 (어선의) 불법 (조업)은 강력하게 단속할 것이라며 불법 영]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68bef44139338778ca2be1d1c9b315e3bb53f4ea/5c42065a5d35ad63c1d9550beeae069f.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[거리두기 조정방안 현재 정해진 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3573</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3573</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보건복지부는 “거리두기 조정방안은 현재 정해진 바 없으며, 전문가 자문 등 다양한 의견수렴 과정을 거쳐 중대본 회의에서 최종 결정될 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c75cc16dfae1b71db44a8ab3422e36bad440127d/b566ec7f2f4734bdb3fd10bbf993de71.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ILO 기준 공식 고용통계로 고용시장 회복세 지속 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3572</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3572</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “ILO 기준 공식 고용통계에 따르면 우리 고용시장은 회복세가 지속되고 있다”면서 “고용상황 비교 목적이 아닌 FTE 통계를 근거로 고용 상황이 악화되었다고 평가하기는 어렵다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dfed3c8d2772b8cac0d65bfa970f6f9c85d2c49/e917e00c0f5415f5e963f13dde3d4674.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[회계상 법인세 비용 증가와  법인 납부 실제 세액 증가는 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3571</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3571</guid>
+            <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “회계상 법인세 비용이 증가한 것과 법인이 납부한 실제 세액이 증가한 것은 다른 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50e16dae8ff372476076aab153c815b49db3572e/3917688b275322089607b438283e06e7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[OECD FTE 통계, 고용상황 비교 아닌 양성평등 판단 지표로 사용 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -411,46 +448,6 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
             <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “근로소득세 국세수입이 증가한 것과 근로소득자의 세부담이 증가한 것은 다른 것”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53a59f20e0c35b3a2cc9c1cbce51cf04a2e8ee6d/3a5cd0a691b2bce6ddab6038ff229b9c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[목적과 취지에 맞게 청년인턴사업 관리·운영 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3560</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3560</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “맞춤형 교육과 기술지도를 통해 인재양성이라는 목적과 취지에 맞게 청년인턴 사업을 관리·운영 중”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--32506de2247fb296821d5910f70de808dc35cfc0/2cbc50af7d74bbc3605834a301fa1d02.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[햇살론카드, 상환능력 범위 내 발급…지속 모니터링 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3551</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3551</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “햇살론카드는 상환 능력 범위내에서 발급되고 있고, 건전한 소비가 가능하도록 지속 모니터링하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--286319d39355832378f923203bed55c32044a6b2/fcabe509531661c2ecc28cef75354ba7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 수소차 4만 8000대까지 보급 전망 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3550</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3550</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “올해는 충전여건 개선과 지자체 협력사업 확대 등을 통해 수소차 4만 8000대까지 보급 전망”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0eeed1a9807e595a314602418ee67635e490cd57/3866aef616d05369781e73e21badf4a2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공기관 신규채용 확대 추세…상임임원 규모는 거의 변동 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3549</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3549</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “공공기관 신규채용은 확대 추세인 반면, 상임임원 규모는 거의 변동이 없다”면서 “일부 공기업의 신규채용 규모가 감소한 것은 코로나19로 인한 집합금지에 따른 영업축소, 여객수요 감소 등 경영여건에 따른 것으로 비정규직의 정규직 전환과는 무관하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--457c5d20ba35cccbc2d471a4daf9711af6e9aa4a/9b2548359bd868e1046e4e8b70565d27.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자상거래법 개정안 입법예고 전부터 온라인 중고거래시장 현행법 위반 여부 조사 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3532</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3532</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “전자상거래법 개정안 입법예고 전부터 온라인 중고거래시장의 현행법 위반 여부를 조사해 왔다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a0ec2c63d60e3836b206a5d26137e541810d492/08105b881b5d236d2bd138a8a4b4f166.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
