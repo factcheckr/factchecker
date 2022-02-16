@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-16T04:15:03.757Z</updated>
+    <updated>2022-02-16T05:11:32.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19가 감기랑 비슷한 수준인가요]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/539</id>
+        <link href="https://factchecker.or.kr/fc_suggests/539"/>
+        <updated>2022-02-16T05:10:52.806Z</updated>
+        <content type="html"><![CDATA[인스타그램을 돌아다니다 보니까 코로나19 확진자 검사 방식에서 수치를 조작했다는 게시글이 보이더라고요
+상식적이지 않은 내용으로 보이는데 사실인지 확인이 필요할 것 같아요
+그리고 코로나19 확진 후에 종합감기약을 받았다면서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선거에 수백 수천  명이 모여서  거리두기를 하지않는 사실을 아시나요]]></title>
         <id>https://factchecker.or.kr/fc_suggests/538</id>
@@ -28,10 +37,10 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-16T04:14:19.756Z</updated>
+        <updated>2022-02-16T05:10:52.747Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -76,16 +85,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/530"/>
         <updated>2022-02-11T05:10:25.352Z</updated>
         <content type="html"><![CDATA[숲속에서의 힐링이란?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톡으로 이런 내용을 받았는데 사실일까요??]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/529</id>
-        <link href="https://factchecker.or.kr/fc_suggests/529"/>
-        <updated>2022-02-11T05:10:25.352Z</updated>
-        <content type="html"><![CDATA[🍎긴급 중요정보🍎
-♡ 이젠 살았습니다 ♡
-혈전 용해제인 아스피린이 코로나 치료 만병통치약임을 극비리에 중국을 통해 싱가포르가 발견한 듯함.&nbsp;
-코로나 증상 있으면 아스피린만 잡수세요!!!
-😷매우 중요한 정보이므로 주...]]></content>
     </entry>
 </feed>
