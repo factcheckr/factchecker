@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-02-18T04:16:17.012Z</updated>
+    <updated>2022-02-18T05:12:01.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련서적] 인포데믹 또는 정보 감염병]]></title>
+        <id>https://factchecker.or.kr/papers/385</id>
+        <link href="https://factchecker.or.kr/papers/385"/>
+        <updated>2022-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[- 출간일 : 2022년 2월 4일
+- 저자 : 안종주 한국산업안전보건공단 이사장, 선정수 뉴스톱 기자
+&nbsp;
+
+책소개
+
+
+
+&nbsp;
+정보 감염병은 변이에 변이를 거듭하는 특징을 가지고 있다. 이는 알파, 베타...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 3호]]></title>
         <id>https://factchecker.or.kr/papers/384</id>
@@ -114,18 +130,5 @@
 저자 : 김민정, 박한우, 정정주
 &nbsp;
 출처 : https://www.kpf.or.kr/synap/ski...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국언론진흥재단] 허위정보로서 딥페이크, 어떻게 대처할 것인가]]></title>
-        <id>https://factchecker.or.kr/papers/202</id>
-        <link href="https://factchecker.or.kr/papers/202"/>
-        <updated>2021-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : 허위정보로서 딥페이크, 어떻게 대처할 것인가
-&nbsp;
-저자 : 오세욱, 박아란
-&nbsp;
-출처 : https://www.kpf.or.kr/synap/skin/doc.ht...]]></content>
     </entry>
 </feed>
