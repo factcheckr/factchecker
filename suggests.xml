@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-18T07:12:52.902Z</updated>
+    <updated>2022-02-18T08:14:39.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 국경에서 헬기가 날아가는 영상이 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/541</id>
+        <link href="https://factchecker.or.kr/fc_suggests/541"/>
+        <updated>2022-02-18T08:13:58.268Z</updated>
+        <content type="html"><![CDATA[우크라이나에서 전쟁이 일어나기 직전이라면서 국경 인근에서 헬기가 다수 날아가고 있다는 영상이 올라왔습니다
+우크라이나에서 전쟁이 시작되면 굉장히 큰 문제로 보이는데 우리나라 언론에서는 큰 관심이 없는 것 같은데요
+이게 사실...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이슬람, 무슬림이 출생율 세계 1위라는게 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/540</id>
@@ -46,10 +55,10 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-18T07:12:10.587Z</updated>
+        <updated>2022-02-18T08:13:58.228Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -78,14 +87,5 @@ https://www.ppomppu.co.kr/zboard/vi...]]></content>
         <content type="html"><![CDATA[윤석열 후보가 대통령이 되면 청와대가 아니라 다른 곳에서 일하겠다고 말했는데요
 보통은 정해진 공간에서 다들 일을 하는 것 같은데 대통령은 본인이 원하는 곳에서 마음대로 일 할 수 있나요?
 대통령만 일하는 곳을 마음대로 정...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 걸리더라도 일주일만 지나면 무조건 출근해야 하나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/531</id>
-        <link href="https://factchecker.or.kr/fc_suggests/531"/>
-        <updated>2022-02-11T05:10:25.352Z</updated>
-        <content type="html"><![CDATA[이번에 방역수칙이 바뀌면서 코로나19 확진 되더라도 7일만 지나면 출근해야 한다고 하더라고요?
-근데 확진자가 아직 완치되지 않았으면 확산의 위험이 남아 있을 것 같은데 별도의 검사 없이 출근을 하도록 해도 되는 걸까요?
-...]]></content>
     </entry>
 </feed>
