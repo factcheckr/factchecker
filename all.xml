@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[해외 입국자도 '자가격리앱' 폐지..격리는 그대로 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/543</link>
+            <guid>https://factchecker.or.kr/fc_suggests/543</guid>
+            <pubDate>Sun, 20 Feb 2022 06:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[https://news.v.daum.net/v/20220218144302826?f=o]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[내로남불' 표현도 안 된다던 선관위…'신천지' 현수막은 허용 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/542</link>
             <guid>https://factchecker.or.kr/fc_suggests/542</guid>
@@ -263,7 +270,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Sun, 20 Feb 2022 05:10:45 GMT</pubDate>
+            <pubDate>Sun, 20 Feb 2022 06:14:00 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content:encoded>
@@ -274,15 +281,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/534</guid>
             <pubDate>Mon, 14 Feb 2022 08:14:06 GMT</pubDate>
             <content:encoded><![CDATA[2월 14일 안중근의사 사형일이 맞나요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍콩에서 방역수칙 위반하면 벌금이 엄청나다고 하네요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/533</link>
-            <guid>https://factchecker.or.kr/fc_suggests/533</guid>
-            <pubDate>Fri, 11 Feb 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북에 올라온 영상을 보니 홍콩에서는 거리에서 담배를 피우기만 해도 방역수칙 위반이라고 하네요
-벌금이 150만 원이라고 커뮤니티에 올라왔는데 사실인가요?
-https://www.ppomppu.co.kr/zboard/vi...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[尹, 300분 'NO마스크' 연설…과태료 대상일까?[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

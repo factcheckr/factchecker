@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-20T05:11:29.487Z</updated>
+    <updated>2022-02-20T06:14:44.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[해외 입국자도 '자가격리앱' 폐지..격리는 그대로]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/543</id>
+        <link href="https://factchecker.or.kr/fc_suggests/543"/>
+        <updated>2022-02-20T06:14:00.117Z</updated>
+        <content type="html"><![CDATA[https://news.v.daum.net/v/20220218144302826?f=o]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내로남불' 표현도 안 된다던 선관위…'신천지' 현수막은 허용]]></title>
         <id>https://factchecker.or.kr/fc_suggests/542</id>
@@ -62,10 +69,10 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-20T05:10:45.426Z</updated>
+        <updated>2022-02-20T06:14:00.054Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
@@ -76,14 +83,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/534"/>
         <updated>2022-02-14T08:14:06.858Z</updated>
         <content type="html"><![CDATA[2월 14일 안중근의사 사형일이 맞나요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩에서 방역수칙 위반하면 벌금이 엄청나다고 하네요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/533</id>
-        <link href="https://factchecker.or.kr/fc_suggests/533"/>
-        <updated>2022-02-11T07:10:55.168Z</updated>
-        <content type="html"><![CDATA[페이스북에 올라온 영상을 보니 홍콩에서는 거리에서 담배를 피우기만 해도 방역수칙 위반이라고 하네요
-벌금이 150만 원이라고 커뮤니티에 올라왔는데 사실인가요?
-https://www.ppomppu.co.kr/zboard/vi...]]></content>
     </entry>
 </feed>
