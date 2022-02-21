@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-21T04:16:16.425Z</updated>
+    <updated>2022-02-21T05:12:25.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론의 특징과 코로나 먹는 치료제(팍스로비드)의 진실]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/544</id>
+        <link href="https://factchecker.or.kr/fc_suggests/544"/>
+        <updated>2022-02-21T05:11:44.600Z</updated>
+        <content type="html"><![CDATA[오미크론의 특징과 코로나 먹는치료제(팍스로비드)의 진실 - YouTube -
+
+&nbsp;
+
+
+
+
+오미크론의 특징과 코로나 먹는치료제(팍스로비드)의 진실오미크론의 특성과 코로나 먹는 치료제 팍스로비드의 위험성에 대한 강의입니다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 입국자도 '자가격리앱' 폐지..격리는 그대로]]></title>
         <id>https://factchecker.or.kr/fc_suggests/543</id>
@@ -69,19 +83,12 @@
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-21T04:15:33.084Z</updated>
+        <updated>2022-02-21T05:11:44.553Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 14일 안중근의사 사형일?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/534</id>
-        <link href="https://factchecker.or.kr/fc_suggests/534"/>
-        <updated>2022-02-14T08:14:06.858Z</updated>
-        <content type="html"><![CDATA[2월 14일 안중근의사 사형일이 맞나요]]></content>
     </entry>
 </feed>
