@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-21T08:15:21.857Z</updated>
+    <updated>2022-02-21T09:14:12.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[우리나라 국민연금의 국내 주식투자 비율은 해외 연기금에 비해 낮나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/545</id>
+        <link href="https://factchecker.or.kr/fc_suggests/545"/>
+        <updated>2022-02-21T09:13:28.462Z</updated>
+        <content type="html"><![CDATA[이재명 후보가 페이스북에 국민연금의 국내 주식투자 비율을 높이겠다고 말했는데요
+일본을 예시로 들면서 설명했는데 조선비즈에서는 일본이 자국 주식투자 비율을 최근에 높였다면서 대규모 손실이 나서 문제가 됐다고 설명하더라고요
+...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-21T08:14:41.390Z</updated>
+        <updated>2022-02-21T09:13:28.423Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -76,14 +85,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/536"/>
         <updated>2022-02-15T07:11:16.907Z</updated>
         <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://factchecker.or.kr/fc_suggests</id>
-        <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-21T08:14:41.390Z</updated>
-        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
-조계성
-2022.02.14 19:14:38]]></content>
     </entry>
 </feed>
