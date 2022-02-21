@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 00:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,7 +270,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 21 Feb 2022 00:43:06 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 01:56:27 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 조계성
 2022.02.14 19:14:38]]></content:encoded>
@@ -283,84 +283,110 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <content:encoded><![CDATA[2월 14일 안중근의사 사형일이 맞나요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[尹, 300분 'NO마스크' 연설…과태료 대상일까?[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3595</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3595</guid>
+            <title><![CDATA[(팩트체크)윤석열 '박정희·호남' 발언 "사실 아니다" (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3608</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3608</guid>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“박정희 대통령 시절에 영·호남이 이렇게 나뉘어져서 편 가르기 했나. 박정희 대통령이 첫 번째 대통령 당선된 것, 또 두 번째 대통령이 된 것은 호남의 확고한 지지 때문에 당선된 것을 여러분 다 알지 않나.”&nbsp;윤석열 국민의힘 후보가 지난 18일 경북 구미의 박정희 전 대통령 생가를 찾아 추모한 뒤 구미역 유세에서 한 연설 일부다. 윤 후보는 이날 대구·경북(TK) 민심을 의식, 박 전 대통령을 한껏 칭송하면서 지역감정이 그와 무관하다는 점을 역설했다.&nbsp;&nbsp;20일 가 이에 대해 팩트체크를 진행한 결과, 모두 사실이 아니었다.&nbsp;&nbsp;&nbsp;박 전 대통령은 1963년 5대 대통령을 시작으로 1979년 9대 대통령까지 역임했다. 재임 기간은 총 15년10개월9일이었으며, 김재규 중앙정보부장의 흉탄에 의해 독재자로서의 삶을 마감했다. 이른바&nbsp;10·26 사태였다. 박 전 대통령 선출을 뜯어보면 8대와 9대는 통일주체국민회의를 통한 간선제였다. 직선제는 5대, 6대, 7대였으며 이중 박 전 대통령이 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60dd1babed3cbfb04b06d2ca7e6263de0e26ff1b/41a07f08e449880435bb5156ddf6fe9a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[노동이사제 도입시 공공기관 개혁 타격받는다?[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3610</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3610</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의당 안철수 대선 후보가 공공기관 노동이사제 도입을 두고 공기업(공공기관)의 개혁이 심각하게 타격을 받을 수 있다며 연이어 비판하고 나섰다. 지난달 노동이사제 시행 전면 보류해서 민노총의 패악을 막..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--56210a5b1a58d45c002eca89fa1c2d54fdb060a7/8d52f7529bb662263a5f18a5228367e5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '화천대유 장애물' 이재명 제거하려 우병우 만난 김만배? | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3607</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3607</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[화천대유 대주주 김만배씨(왼쪽)와 우병우 전&nbsp;청와대 민정수석. [사진=연합뉴스]대장동 개발 특혜 의혹의 핵심 인물 김만배씨가 2014년 이재명 더불어민주당 대선후보가 성남...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc5686393ec05e01a927fa7d7c9cd38f7593857a/e776a6adc338a632a0cd4cffe71d602a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3606</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3606</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[그래픽뉴스] 손해만 보고 팔았다?... 윤석열 측 각종 해명, 모두 거짓 또는 대체로 거짓]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dfaa750c727010ab0c1be6e91c93af7d0e50227/e0ed8f081edd3703a343c1deb50b1c54.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 부활한 '택시 합승', 기사 마음대로 승객 태운다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3605</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3605</guid>
+            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[아이뉴스24 장가람 기자] 지난달 한 온라인 커뮤니티에 황당한 일을 겪었다는 글이 게재됐다. 택시를 타고 목적지를 가던 중 택시 기사가 일방적으로 잠시 정차해 목적지가 맞는 승객]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63b731ceeb3966218aadd040602c2606748af40c/0387c9474dd92169f339b3cb122cf9dc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈&팩트(181)] 윤석열의 '광주 GDP 꼴등' 발언 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3609</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3609</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[왜 자꾸 마스크를 벗어서 (코로나19) 감염 위험을 높이는 것이냐 더불어민주당 이재명 대통령 후보가 지난 16일 국민의힘 윤석열 대선 후보를 향해 내놓은 비판입니다. 공식 선거운동이 시작된 지난 15일부터 윤 ..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b5fd79c3f640240108b9a3598ce10dfad76d849a/b67c5666337e74459b294ddae0e561ec.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[시사위크=이선민 기자 윤석열 국민의힘 대선 후보가 16일 광주 광산구 송정매일시장을 찾아 호남지역의 발전이 느리다는 점을 강조하며 “민주당은 입만 열면 광주·전남을 발전시키겠다고 말한다”며 “ 광주의 GDP가 전국 몇 위쯤 하나. 꼴등이다, 꼴등. 왜 이렇게 됐나. 수십 년에 걸친 지역 독점정치가 지역민들에게 한 게 뭐 있나”고 비판한 가운데 사실 여부가 논란이다.◇ 실제 1인당 지역내총생산 꼴찌 대구통계청의 시도별 1인당 지역내총생산(GRDP) 자료에 따르면 광주의 2020년 1인당 GRDP는 2,799만 4,0]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0910ffa41291de65acd64277c3b094d9a21258a/d026b6788d2f0e070e8b5bcb75e0c250.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 민주당 반대로 광주에 복합쇼핑몰 들어서지 못했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3592</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3592</guid>
+            <title><![CDATA[[대선 SNS 팩트체크-안철수⑲] “선진국에선 심신미약 범죄 처벌 명시한다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3604</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3604</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 국민의힘 윤석열 대선 후보가 16일 더불어민주당의 텃밭인 호남을 찾아 호남 홀대론을 꺼내 들고 광주 복합쇼...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--88f1ccf908e618a7f5a7bf51e97412a375c48ae1/f1aa4acd8905ee75d112f2ea5513135e.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f6648301d1695882f47b4abd00ff224099de07c/5793e2a853d0ae4c00952f75fbc9e414.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[사실은] 들쑥날쑥 여론조사, 평균화(化) 해봤더니… (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3594</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3594</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[늘 새로운 역사를 쓰고 있는 SBS 선거방송! 일각에서는 SBS 선거팀 도핑테스트가 필요하다는 말까지 나오고 있다는데..이걸로 만족할 수 없습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2868d4a631553590a00c9e70d3d0aa4c0eb64874/7a111f4fa5a68d43212eab50dfc510d6.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[팩트 체크] 자가검사키트, 발암 물질 범벅이라고? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3603</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3603</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 3월 새학기부터 전면 등교가 시작됩니다. 
+교육부는 주2회 등교 전 신속항원검사 권고했습니다. 
+하지만 맘카페나 SNS를 중심으로 어린아이들이 자가검사키트를 주기적으로 사용해도 안전한지에 대한 의문이 제기되고 있고, 자가검사키트 성분을 놓고 거짓정보가 퍼지고]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b595207ed8a1e65b2aa4103fddb1d544475c102e/fee6f89465fb9bd701a97a6366eb9184.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 SNS 팩트체크-이재명⑲] “사드 보복 피해 연 22조?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3593</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3593</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=박재령 기자] 이재명 더불어민주당 대선 후보의 공식 소셜네트워크서비스(S]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dfc3f16686332c98f5ab5ffd3a755e42c52de9be/5b9b4eb0f6e1ce35b273e0eb956c60a3.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[팩트체크] ‘광주 복합쇼핑몰’ 무산…정말 민주당 반대 때문일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3602</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3602</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정답 : X 시·신세계, 2015년 축구장 48개 규모 호텔·쇼핑몰 추진 특혜제공 의혹과 상인 반발, 골목상권 이슈화되며 무산]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2968788891486a3ec9f2019df3de36b26707d50b/c6f72039f9a40fecf931c92d7e191012.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 자가진단키트 '만 18세 미만 금지' 경고문 있다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3591</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3591</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부가 초, 중, 고등학생들에게 코로나 자가검사를 적극적으로 권고하면서 일부에서 항의가 잇따르고 있습니다. 자가검사키트에 ..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad834e8442c8636c76868e033461b2d4e0dd277f/77aa3e1cf162013048f1b921c3ea98a7.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[팩트체크] “현 정권이 박근혜 정권보다 700조 더 썼다”는 윤석열 발언은 ‘거짓’ (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3601</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3601</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예산·국채 묶어서 돈 더 썼다는 황당 계산법...재정 공포 마케팅도 우려]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44ae1f06d2d8e04037a3aa9ef75dca7a9bdfd1e6/112cc70ea79bac7e07bb4f17cbe3075b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 SNS 팩트체크-윤석열⑲] “코로나19 데이터 관리 전혀 안 돼있다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3590</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3590</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=김혜선 기자] 윤석열 국민의힘 대선후보의 공식 소셜네트워크서비스(SNS)]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--449ccdbbb8cd8af9ea06091895293e40edc56a69/da2e02b10923c451274f1623b1032506.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[법무부 “치료감호심의위원회 심사에 최선” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3613</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3613</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법무부는 “치료감호심의위원회 심사에 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWthIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8899b7300dc69c976649e59d69a18bbea17fc50f/ae5c68d3b2763cb3f6dd445d0284c011.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트인사이드] 이재명 “영흥석탄발전소가 인천 온실가스 배출량의 49% 차지한다” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3589</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3589</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[검증 대상] 이재명 더불어민주당 대선 후보 “영흥석탄발전소, 인천 온실가스 배출량의 49% 차지한다”미세먼지로 인한 대기 오염 피해가 극심해지면서 지구 온난화를 막기 위한 온실가스 제거를 골자로 하는 탄소중립 정책이 범정부 차원으로 펼쳐지고 있다. 이번 대선에서도 기업에서 사용하는 전력의 100%를 재생에너지로 대체하는 내용의 RE100이 대선 토론에서 언급돼 화제가 되기도 했다.이런 가운데 이재명 더불어민주당 대선후보는 지난달 14일 인천지역 공약 발표에서 탄소중립 실현 지원을 언급하며 지역 현안 중 하나인 영흥석탄발전소(영흥화]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63d55386738c251c93d5da5af5497aabdc8d33e4/144793e7fddf211c0fefdd6f345cf56e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[보건소에 인력 전환배치·추가 인력지원 추진 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3612</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3612</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “정부와 지방자치단체는 방역·재택치료 개편에 따라 보건소에 인력 전환배치 및 추가 인력지원을 추진 중”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--25a2494ce1190d5b8dc221f62a0f36c7b02150be/5f4b124126ac1a0679104b507b3af69d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[李 "코로나 치명률 독감 비슷"·尹 "광주 GDP 꼴찌" 사실일까 [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3588</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3588</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[李 코로나 치명률 독감 비슷·尹 광주 GDP 꼴찌 사실일까 [팩트체크], 李 코로나 치명율 독감 비슷→독감이 2~4배 높아 10년 내 원전 재생에너지보다 비싸→가정용 태양광만 해당 宋 MB 때 전북 장관 1명→김관진·유인촌·정운천 3명 尹 광주 GDP 꼴찌→세종이 최저. 1인당 GRDP도 꼴찌 아냐]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e69844a857e6d8f691ab502bf87aa017d158a096/cea6595d4de1f0447b71e0edf6223d61.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 대선 D-20, '20일의 데이터'를 분석했습니다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3587</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3587</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대선까지 20일 남았습니다. 그제 공식 선거 운동도 시작됐습니다. 후보들은 한 표라도 더 끌어모으기 위해 총력전을 펼치고 있습니다. 당내 경선부터 공식 선거 운동 기간까지, 반 년 넘게 대선 정국이 이어진 것을 고려하면 20일은 짧은 시간입니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2thIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6b341f10944866a2758032bbe2df31f781a2a2d/9169ae25a4254b83c81c8527e58d57d3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 코로나 자가진단키트에 독성 물질?…"인체 유해 수준 아냐" | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3586</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3586</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 제은효 인턴기자 = 정부가 유치원생과 초·중·고등학생에게 등교전 코로나19 자가진단을 권고한 가운데 온라인 커뮤니...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d510ed75ad8d4e9f0730cee179fc6189344ccda/96dc2a309c044cdb77e5fd9f490ef409.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[공급망 기획단, 범부처 합동 조직으로 설치 예정…부처간 이견 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3611</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3611</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “글로벌 리스크 확대에 따라 관계부처와 긴밀이 협력해 범부처적인 공급망 대응 시스템을 구축해 나가고 있다”면서 “공급망 기획단은 제4차 대외경제안보전략회의 결정에 따라 범부처 합동 조직으로 설치될 예정으로, 부처간 이견이 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e73b79424b2180e754420cfa427b280d90576615/b4bedba6fb8b55d3e900a1c592d0f18b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[2050 탄소중립 달성 위해 석탄발전 과감한 감축에 최선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -417,30 +443,6 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조달청은 정부물품재활용 사업자 모집과 관련해 “특정 단체를 위해 ‘응모지역 삭제’ 등 규정을 바꿨다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e844f5142f52ec9c90e8d4951eac9bb96ebccce4/a152a295d75a3276e48c6ad07bf49d48.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울동부구치소 코로나19 확산방지 및 관리에 최선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3575</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3575</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법무부는 “서울동부구치소는 수용자가 확진 판정통보를 받으면 신속하게 격리 수용하고, 밀접접촉자는 분리 수용하는 등 코로나19 확산 방지 및 확진자 관리에 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86d58f9d0e61e209ee189a2e48c8e9af2311d0ae/096e7bacb4df3934a1b97fcd1333a67a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[교통수단 디지털 광고물 수량 제한은 안전성 검증 위한 것 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3574</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3574</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “교통수단 디지털 광고물 수량 제한은 실증특례 제도 취지인 안전성 검증을 위한 것으로, 불합리한 광고물 관련 규제를 적극적으로 해소하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--240a420b33920f9a122308e284cd66cca780a3bf/dfbbbf5627bd0a888ced6db6a00730d2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 조정방안 현재 정해진 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3573</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3573</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 “거리두기 조정방안은 현재 정해진 바 없으며, 전문가 자문 등 다양한 의견수렴 과정을 거쳐 중대본 회의에서 최종 결정될 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c75cc16dfae1b71db44a8ab3422e36bad440127d/b566ec7f2f4734bdb3fd10bbf993de71.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
