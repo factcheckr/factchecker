@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 00:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 01:57:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,7 +216,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 22 Feb 2022 00:42:51 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 01:57:05 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content:encoded>
@@ -285,6 +285,38 @@ moon
             <content:encoded><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대선후보 토론에도 나온 '이재명 게이트'…녹취록에 있나?[노컷체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3621</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3621</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경제분야 TV대선후보 토론 뜯어보니]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52894aae1fea803d3c98ccd52baba4bc9a080151/ee31cf9e72c3d2c81d02d4e3f3d691ea.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 심상정 “지역화폐, 소상공인 지원 효과 ‘0원’”? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3619</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3619</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■ 발언 : 지역화폐, 소상공인 지원 0원 지역 화폐로 하게 되면, 거기서 음식값 빼고 마진(이윤)만 소...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e5ede1768c5c7302030ea64a19de3990bac71f13/30c23d661a34eac4abafa8f5784b4f97.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 안철수 “공정위 비정규직 10명이 ‘기술 탈취’ 감독” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3618</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3618</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■ 발언 : 중소기업 기술 탈취, 공정위 비정규직 10명이 담당 대기업의 중소기업 기술 탈취에 대해서 어...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86991070f314a2b9472da2ac4091735183a5a210/034c4bebe6d7ed30bc2f3b13a954bef8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 윤석열 “대만, 주식 양도세에 장관 경질” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3617</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3617</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[■ 발언 : 주식 양도세 제안, 대만 경제장관 경질 주식 양도세는 대만에서 실시했다가 주가 폭락이 돼가...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b8121ee16b9cd64585006217511f301c0655731/208989b8d166d9e9cd4ce9332b71a2ca.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크K] 이재명 “한국, 곧 기축통화국 될 가능성 매우 높아” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3616</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3616</guid>
@@ -333,36 +365,28 @@ moon
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc5686393ec05e01a927fa7d7c9cd38f7593857a/e776a6adc338a632a0cd4cffe71d602a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[김건희 도이치모터스 주가조작 의혹 5대 쟁점 팩트체크 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3606</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3606</guid>
-            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[그래픽뉴스] 손해만 보고 팔았다?... 윤석열 측 각종 해명, 모두 거짓 또는 대체로 거짓]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUlhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dfaa750c727010ab0c1be6e91c93af7d0e50227/e0ed8f081edd3703a343c1deb50b1c54.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[공공기관 부채비율 안정적 관리…신규채용 확대 추세 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3624</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3624</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “공공기관 부채와 자산(자본)이 동시에 증가하는 등 부채비율을 안정적으로 관리하고 있다”고 밝혔습니다. 또 “공공기관 신규채용은 확대 추세이며, 재무적성과·사회적가치 추진 등 경영실적을 종합적으로 평가하고 있다”고 설명했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f17f8f22a805a1730eece15b8b397636afcaf487/ff6cd04582e25cc7fa0280e4c326430f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 부활한 '택시 합승', 기사 마음대로 승객 태운다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3605</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3605</guid>
-            <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[아이뉴스24 장가람 기자] 지난달 한 온라인 커뮤니티에 황당한 일을 겪었다는 글이 게재됐다. 택시를 타고 목적지를 가던 중 택시 기사가 일방적으로 잠시 정차해 목적지가 맞는 승객]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63b731ceeb3966218aadd040602c2606748af40c/0387c9474dd92169f339b3cb122cf9dc.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[실적 저조 위원회 통폐합·위원 구성 다양화 등 내실화 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3623</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3623</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “위원회 신설은 신중하게, 또한 운영실적 저조 위원회는 통폐합하고 위원 구성 다양화 등 운영 내실화를 추진하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13d7d6ae5a45a2371b68e30d44f44adaa4475328/281a3757769ee61464a09d940743cab0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[이슈&팩트(181)] 윤석열의 '광주 GDP 꼴등' 발언 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3609</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3609</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시사위크=이선민 기자 윤석열 국민의힘 대선 후보가 16일 광주 광산구 송정매일시장을 찾아 호남지역의 발전이 느리다는 점을 강조하며 “민주당은 입만 열면 광주·전남을 발전시키겠다고 말한다”며 “ 광주의 GDP가 전국 몇 위쯤 하나. 꼴등이다, 꼴등. 왜 이렇게 됐나. 수십 년에 걸친 지역 독점정치가 지역민들에게 한 게 뭐 있나”고 비판한 가운데 사실 여부가 논란이다.◇ 실제 1인당 지역내총생산 꼴찌 대구통계청의 시도별 1인당 지역내총생산(GRDP) 자료에 따르면 광주의 2020년 1인당 GRDP는 2,799만 4,0]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0910ffa41291de65acd64277c3b094d9a21258a/d026b6788d2f0e070e8b5bcb75e0c250.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-안철수⑲] “선진국에선 심신미약 범죄 처벌 명시한다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3604</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3604</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f6648301d1695882f47b4abd00ff224099de07c/5793e2a853d0ae4c00952f75fbc9e414.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[ESS사고조사 결과 토대로 안전대책 시행 중…안전관리에 만전 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3622</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3622</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “ESS사고조사 결과를 토대로 안전대책을 시행 중이며, 안전관리에 만전을 기하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bc3966cdd1a426d7638a3930ff7d25c87b866a0/746081071c60e199c86302db1cc13027.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[법무부 “치료감호심의위원회 심사에 최선” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -419,30 +443,6 @@ moon
             <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “소득·분배지표는 2017년부터 4년 연속 개선세가 이어지고 있다”고 밝혔습니다. 이어 “국세청 통합소득 자료는 공식 소득분배통계인 가금복과 소득 주체·범위가 상이해 자료 활용·해석에 유의해야 한다”면서 “가계금융복지조사 기준으로 하위 10% 가계의 처분가능소득 증가율은 상위 10%를 최근 4년(2016~2020년)간 큰 폭으로 상회하고 있다”]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee57ee6dcd05e30455ff4faecaf2576ef2633451/2d628837c5b9914817bc66de0d3e446b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[원전 가동, 법과 제도적 절차 따라…이용률 인위적 조정 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3584</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3584</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “원전가동은 안전 확보를 위해 계획예방 정비 등 법과 제도적 절차에 따르고 있어 이용률을 인위적으로 조정한 것이 아니며, 이번 정부 초반 이용률이 낮았던 것은 한빛원전 공극 발견 등에 따라 전체 원전에 대한 안전점검이 불가피한 상황에 따른 것이었다”고 설명했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a7b02332b795469a28aa16f358f998a2b9e1878/a9887d3500610366642577e2a6fd0b97.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 해외자산 매각 원점서 재검토? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3583</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3583</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “자원 공급망 측면의 중요 자산일 경우 매각의 적정성·타당성을 재검토하겠다는 것이며, 모든 해외자산매각을 원점에서 재검토하겠다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c653a8e4e17aea1a42fa0f25fc067d2473c8d16b/9cc6af5fdc64e115c0dd41fc7de5fb1a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[특정 단체 위해 응모지역 삭제? 사실과 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3582</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3582</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조달청은 정부물품재활용 사업자 모집과 관련해 “특정 단체를 위해 ‘응모지역 삭제’ 등 규정을 바꿨다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01hIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e844f5142f52ec9c90e8d4951eac9bb96ebccce4/a152a295d75a3276e48c6ad07bf49d48.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
