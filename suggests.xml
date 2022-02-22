@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-22T06:15:39.583Z</updated>
+    <updated>2022-02-22T07:11:02.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2월21일대선 토론 윤석열의 인이어]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/546</id>
+        <link href="https://factchecker.or.kr/fc_suggests/546"/>
+        <updated>2022-02-22T07:10:16.834Z</updated>
+        <content type="html"><![CDATA[2월 2ㅣ일 대선 토론중 윤석열 후보가 질문자의 질문에 집중하지 못하고 있는것을 보았습니다.
+그리고 중간에 두세 차례 잡음이 들렸습니다.
+그 상황과 소리를 들은 사람들이 윤석열 후보가 인이어 이어폰을 착용한것이 아닌가...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 국민연금의 국내 주식투자 비율은 해외 연기금에 비해 낮나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/545</id>
@@ -15,10 +24,10 @@
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-22T06:14:50.685Z</updated>
+        <updated>2022-02-22T07:10:16.766Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -78,12 +87,5 @@ moon
         <updated>2022-02-16T00:42:52.292Z</updated>
         <content type="html"><![CDATA[김의겸 더불어민주당 의원이 윤석열 국민의힘 대선후보 캠프 운영에 깊이 관여했다는 건진법사 전 모 씨가 살아있는 소의 가죽을 벗겨 전시해 논란을 빚은 2018 수륙대재 행사를 주관했다고 주장했는데요.&nbsp;
 이에, 국민의 힘에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식양도세·여가부 폐지”...구독자 6만 유튜브, 하루 아침에 사라졌다 라는 기사 검증 부탁드립니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/536</id>
-        <link href="https://factchecker.or.kr/fc_suggests/536"/>
-        <updated>2022-02-15T07:11:16.907Z</updated>
-        <content type="html"><![CDATA[유튜브 채널 ‘냉철tv’와 ‘아님말고’를 운영하는 박홍일(43)씨는&nbsp;10일 오후 5시쯤 “유튜브 채널이 삭제됐다”는 메일을 받았다. 유튜브 측이 박씨에게 ‘아님말고’ 채널을 삭제했다고 통보한 것이다. ‘아님말고’는 박씨가...]]></content>
     </entry>
 </feed>
