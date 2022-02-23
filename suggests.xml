@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-23T00:51:39.651Z</updated>
+    <updated>2022-02-23T02:06:14.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YouTube 오미크론 특징과 코로나 먹는 치료제(팍스로비드)의 진실]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/547</id>
+        <link href="https://factchecker.or.kr/fc_suggests/547"/>
+        <updated>2022-02-23T02:05:29.348Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/sTQSL8dqjaY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월21일대선 토론 윤석열의 인이어]]></title>
         <id>https://factchecker.or.kr/fc_suggests/546</id>
@@ -24,10 +31,10 @@
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-23T00:50:54.710Z</updated>
+        <updated>2022-02-23T02:05:29.240Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -79,13 +86,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/538"/>
         <updated>2022-02-16T02:03:33.590Z</updated>
         <content type="html"><![CDATA[선거운동에 수백명이모여서 거리 두기를&nbsp; 하지않는데 너무 위험하고, 코로나 전염 조작하는게 아닌가요. 확진자 10만을 바라보는시대에 !]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2018 수륙대전' 행사에 대통령 연등을 보낸 사실이 있다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/537</id>
-        <link href="https://factchecker.or.kr/fc_suggests/537"/>
-        <updated>2022-02-16T00:42:52.292Z</updated>
-        <content type="html"><![CDATA[김의겸 더불어민주당 의원이 윤석열 국민의힘 대선후보 캠프 운영에 깊이 관여했다는 건진법사 전 모 씨가 살아있는 소의 가죽을 벗겨 전시해 논란을 빚은 2018 수륙대재 행사를 주관했다고 주장했는데요.&nbsp;
-이에, 국민의 힘에서...]]></content>
     </entry>
 </feed>
