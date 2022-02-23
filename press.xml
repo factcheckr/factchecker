@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아주 정확한 팩트체크] 李 '기축통화국' 발언 논란...SDR과 기축통화 다르다 | 아주경제]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3645</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3645</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[7일 오전 명동 하나은행 본점 위변조대응센터에서 직원이 달러화를 정리하고 있다. 7일 한국은행에 따르면 우리나라 외환보유액이 지난달 16억달러 가까이 줄어들며 3개월 연속 감소했다...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4256ecd4708e1dee8b32b72e6e3a1f1a0b3726f/97e032008dde8596945df01702e5ea30.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA["대장동 3억 5천 투자해 1조 수익" 윤석열 발언 '대체로 거짓']]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3644</link>
@@ -22,6 +30,22 @@
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여야 대선 후보 4인이 21일 중앙선거관리위원회 주관으로 열린 1차 TV토론회에서 열띤 공방을 벌였다. 후보들의 일부 발언을 두고 상대 진영에서는 22일까지도&nbsp;...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2tiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d1d1d734b4f43853fb81e2a7c43d5bb2f77e8dcd/f27d52449c071541b36e7a5e18aa0f6d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 집값 폭등, 건국이래 처음?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3647</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3647</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부 집값 폭등, 건국이래 처음?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ad85e8207f3a04dcc8dacfae0c2d46311b52432/6bafd4e07b55f8048b280c1048a826fe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선체크] 경제적으로 가장 힘든 지방은 어디일까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3646</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3646</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대선 공식 유세가 시작되면서 지역을 찾은 대선후보들이 각 지방별 공약을 내세우며 득표에 나섰습니다. 특히 경북 지역과 호남지역 유세에서는 낙후된 지역경제 상황을 언급하는 경우가 많았는데, 일부에서는 지역감정을 부추기는 발언도 있습니다. 광역지자체별 재정자립도를 통해 현재 각 지방의 경제상황과 문재인 정부 5년간의 변화를 확인해봤습니다.재정자립도는 자치단체가 스스로 벌어 살림을 꾸릴 수 있는 능력을 나타내는 지표로 재정자립도가 높을수록 재정운영의 자립능력이 우수함을 의미합니다.당해 지방자치단체의 전제 예산규모 중 자체수입인 지방세와]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3diIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f29da9d8c2f1240c1801de2768ef9c5d019ed03/ee4163798a7834635ffeb57da0180a6e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[사실은] 이-윤이 맞붙은 국가 부채 적정 규모, 정답은?]]></title>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IMF SDR 달러 외 4개국 통화 포함 전경련 주장은 원화 SDR 편입 가능성 IMF SDR 편입이 곧 기축통화 아냐  국제거래 원화 비중 매우 낮은 상황]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4637f7d9a18b09f5a13e9abc810ac60c6a30f61f/a040c53adf92bedc0db16cb868eee721.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 30억원 아파트 종부세가 90만원 맞나요?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3637</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3637</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[에너지경제신문 김기령 기자] 심상정 정의당 대선 후보가 지난 21일 치러진 중앙선거관리위원회 주관 대선후보 토론회에서 윤석열 국민의힘 대선 후보에게 ``(윤 후보가 거주하는)30억..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58b25288e3a1fd31ee82084af899fd91c965df51/c57dbd82f67e1b8d40a3ee9ceb669f08.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명 “공약 이행 95%, 다 지켰다” 주장, 그 진실?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3636</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3636</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민주당, 경기도·성남시 ‘자체 집계’ 등 근거로 94∼96%국힘, 법률소비자연맹 자료 들며 시장 때 63.8% 불과입맛따라 평가 방식 달리한 결과 골라 활용해 차이 나]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0liIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--34a7f15d16ef59215740d43763f9583f9d9a5ecc/89750c6c1ffcf026b21869a777586975.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명 '한국 기축통화국 가능성 커' 발언 따져봤습니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3635</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3635</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 더불어민주당 대선 후보가 21일 열린 TV 토론회에서 발언하고 있다. /연합뉴스대선을 앞둔 정치권에서 때아닌 기축통화 논란이 일고 있다. 이재명 더불어민주당 대선 후보가 지난 21일 열린 TV 토론회에서 “..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0ViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522e5d5dc6fc52cbd33188962b7a91fdb8fa4fbf/b063eed2073dbf3f6ce00dff32129b32.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
