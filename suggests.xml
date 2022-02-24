@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-24T20:13:29.149Z</updated>
+    <updated>2022-02-24T21:12:10.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안전]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/550</id>
+        <link href="https://factchecker.or.kr/fc_suggests/550"/>
+        <updated>2022-02-24T21:11:24.882Z</updated>
+        <content type="html"><![CDATA[00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고통]]></title>
         <id>https://factchecker.or.kr/fc_suggests/548</id>
@@ -39,10 +46,10 @@
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-24T20:12:45.043Z</updated>
+        <updated>2022-02-24T21:11:24.767Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -78,14 +85,5 @@ moon
         <content type="html"><![CDATA[최근에 방송에서 대구 지역 이슬람 사원 문제를 다뤄서 커뮤니티에 관련 내용이 올라왔는데요
 이슬람교를 믿는 사람들이 들어서면 큰 문제가 생긴다면서 별다른 근거도 없이 부정적인 인상을 주더라고요
 특히 댓글을 보니까 이슬람, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19가 감기랑 비슷한 수준인가요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/539</id>
-        <link href="https://factchecker.or.kr/fc_suggests/539"/>
-        <updated>2022-02-16T05:10:52.806Z</updated>
-        <content type="html"><![CDATA[인스타그램을 돌아다니다 보니까 코로나19 확진자 검사 방식에서 수치를 조작했다는 게시글이 보이더라고요
-상식적이지 않은 내용으로 보이는데 사실인지 확인이 필요할 것 같아요
-그리고 코로나19 확진 후에 종합감기약을 받았다면서...]]></content>
     </entry>
 </feed>
