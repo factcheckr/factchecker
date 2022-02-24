@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 00:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,7 +240,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 23 Feb 2022 23:13:42 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 00:46:18 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content:encoded>
@@ -285,6 +285,30 @@ moon
             <content:encoded><![CDATA[인스타그램을 돌아다니다 보니까 코로나19 확진자 검사 방식에서 수치를 조작했다는 게시글이 보이더라고요
 상식적이지 않은 내용으로 보이는데 사실인지 확인이 필요할 것 같아요
 그리고 코로나19 확진 후에 종합감기약을 받았다면서...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정부 “고용 회복”… 일자리 수는 증가, 야당 “점점 악화”… 근로 시간은 감소 [팩트 체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3653</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3653</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘취업자 수’를 놓고 정부와 정치권, 학계에서 갑론을박이 벌어지고 있다. 정부는 “취업자 수가 코로나19 이전 수준을 회복했다”며 자화자찬하고 있고, 야당과 학계는 “고용의 질이 갈수록 악화되고 있다”며 우려를 표하고 나섰다. 국내 고용상황이 정말 정부 말대로 좋아진 것일까, 아니면 야...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77ba2de69e1b1ddd1ef9507c4f67b53805db75af/9da3189a6b67a701f0c1120960ae85b1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 SNS 팩트체크-윤석열⑳] “대한민국 무역 해외 의존도 세계 최고?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3652</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3652</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=김혜선 기자] 윤석열 국민의힘 대선후보의 공식 소셜네트워크서비스(SNS)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cb62c5cbf22da21352db29baa108a1c427114be/3bfb7bd8fcfa42dcfeae7ab42226e25d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 SNS 팩트체크-이재명⑳] “대한민국 출퇴근 시간 OECD 1위?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3651</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3651</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=박재령 기자] 이재명 더불어민주당 대선 후보의 공식 소셜네트워크서비스(S]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--49ccb9ff8648931546abbef05f8c7c317eed7fca/ca6ae8ec97f6bf005710919948f873f9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[아주 정확한 팩트체크] 李 '기축통화국' 발언 논란...SDR과 기축통화 다르다 | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -343,28 +367,12 @@ moon
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f056cb18f356bfd75bf30d725fcb10c464dd466a/5971b0424ff14102868ea0c93627be0c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] “원화, 기축통화국 된다?”…전문가 “불가능, 정부 지출 늘릴 여력도 없어” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3640</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3640</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팩트체크 원화, 기축통화국 된다전문가 불가능, 정부 지출 늘릴 여력도 없어   원화 결제 비중, 세계 20위 안에도 못 들어   전문가 실질적 기축통화는 미국 달러화뿐   전경련 제안 SDR 편입도 현실적으론 어려워 고령화 등 감안해 재정 건전성 개선해야]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1liIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b0b0ef5d713a20dffd4158dd233ae3a88558e0d/197be49a6b7365e30cbd42cc8fb00a3e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명 “IMF가 국가채무비율 85% 권고했다”…사실은 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3639</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3639</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[IMF ‘85%’는 적정선이 아닌 위험 임계치]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1ViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8f5e1152dc1a4733ba2520c2a0222f94ea4dc79/d96c5e1a0ea7bd6993bf0e98befbeca5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 이재명 ‘기축통화’ 발언…‘IMF SDR’과 혼돈해서? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3638</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3638</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[IMF SDR 달러 외 4개국 통화 포함 전경련 주장은 원화 SDR 편입 가능성 IMF SDR 편입이 곧 기축통화 아냐  국제거래 원화 비중 매우 낮은 상황]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4637f7d9a18b09f5a13e9abc810ac60c6a30f61f/a040c53adf92bedc0db16cb868eee721.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[사회초년생도 청년희망적금 가입 기회 방안 논의중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3654</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3654</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “사회초년생도 청년희망적금 가입 기회를 가질 수 있는 방안을 논의 중에 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a199ecb504d6bb8da179e7f01933e6735bd25fd6/904bfab56099ee7001a271b10e66a583.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[새만금 수상태양광 패널에 소금·부식 흔적? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -437,14 +445,6 @@ moon
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “글로벌 리스크 확대에 따라 관계부처와 긴밀이 협력해 범부처적인 공급망 대응 시스템을 구축해 나가고 있다”면서 “공급망 기획단은 제4차 대외경제안보전략회의 결정에 따라 범부처 합동 조직으로 설치될 예정으로, 부처간 이견이 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e73b79424b2180e754420cfa427b280d90576615/b4bedba6fb8b55d3e900a1c592d0f18b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2050 탄소중립 달성 위해 석탄발전 과감한 감축에 최선 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3598</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3598</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “2050 탄소중립 달성을 위해 석탄발전의 과감한 감축에 최선의 노력을 다하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47043ded8429c6a417a84a391953e4ae26716817/5418a070cf2ba23890015a7968f6c3d9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
