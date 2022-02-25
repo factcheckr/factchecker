@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-02-25T02:04:17.568Z</updated>
+    <updated>2022-02-25T03:13:55.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련서적] 슬기로운 팩트체크]]></title>
+        <id>https://factchecker.or.kr/papers/386</id>
+        <link href="https://factchecker.or.kr/papers/386"/>
+        <updated>2022-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[- 출간일 : 2021년 11월 25일
+- 저자 : 정재철 내일신문 기자
+&nbsp;
+
+책소개
+
+
+
+&nbsp;
+가짜뉴스가 위협적인 이유는 그것이 가짜인지 잘 분간할 수 없게 변신하여 우리의 일상 곳곳에서 촘촘하게 스며...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관련서적] 인포데믹 또는 정보 감염병]]></title>
         <id>https://factchecker.or.kr/papers/385</id>
@@ -117,18 +133,5 @@
 제목 : 팩트의 형식적 구성 요건에 대한 탐색적 연구 : SNU FactCheck 기사 메타데이터 분석을 통한 제언
 &nbsp;
 저자 : 오세욱(한국언론진흥재단), 황구현(S...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국언론진흥재단] 해외 인터넷플랫폼의 유해콘텐츠와 허위정보 대응방안]]></title>
-        <id>https://factchecker.or.kr/papers/203</id>
-        <link href="https://factchecker.or.kr/papers/203"/>
-        <updated>2021-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : 해외 인터넷플랫폼의 유해콘텐츠와 허위정보 대응방안
-&nbsp;
-저자 : 김민정, 박한우, 정정주
-&nbsp;
-출처 : https://www.kpf.or.kr/synap/ski...]]></content>
     </entry>
 </feed>

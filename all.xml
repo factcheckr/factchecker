@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,7 +247,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Fri, 25 Feb 2022 02:03:32 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 03:13:11 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content:encoded>
@@ -665,6 +665,22 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 * 본 소개글은 SOMA 프로젝트 홈페이지 (https://www.dis...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[관련서적] 슬기로운 팩트체크 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
+            <link>https://factchecker.or.kr/papers/386</link>
+            <guid>https://factchecker.or.kr/papers/386</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[- 출간일 : 2021년 11월 25일
+- 저자 : 정재철 내일신문 기자
+&nbsp;
+
+책소개
+
+
+
+&nbsp;
+가짜뉴스가 위협적인 이유는 그것이 가짜인지 잘 분간할 수 없게 변신하여 우리의 일상 곳곳에서 촘촘하게 스며...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[관련서적] 인포데믹 또는 정보 감염병 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
             <link>https://factchecker.or.kr/papers/385</link>
             <guid>https://factchecker.or.kr/papers/385</guid>
@@ -776,19 +792,6 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 제목 : 팩트의 형식적 구성 요건에 대한 탐색적 연구 : SNU FactCheck 기사 메타데이터 분석을 통한 제언
 &nbsp;
 저자 : 오세욱(한국언론진흥재단), 황구현(S...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[한국언론진흥재단] 해외 인터넷플랫폼의 유해콘텐츠와 허위정보 대응방안 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
-            <link>https://factchecker.or.kr/papers/203</link>
-            <guid>https://factchecker.or.kr/papers/203</guid>
-            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : 해외 인터넷플랫폼의 유해콘텐츠와 허위정보 대응방안
-&nbsp;
-저자 : 김민정, 박한우, 정정주
-&nbsp;
-출처 : https://www.kpf.or.kr/synap/ski...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉽게 따라하는 팩트체크 가이드북 (포켓용) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>
