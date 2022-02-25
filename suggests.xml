@@ -2,19 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-02-25T06:15:25.260Z</updated>
+    <updated>2022-02-25T07:12:34.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[일본 수출규제 이후 손해를 본 건 대한민국인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/551</id>
-        <link href="https://factchecker.or.kr/fc_suggests/551"/>
-        <updated>2022-02-25T04:15:20.736Z</updated>
-        <content type="html"><![CDATA[지식인, 유튜브 등에서 일본 수출규제 이후 피해에 대해 찾아봤지만 사람마다 다른 주장을 합니다. 누가 더 큰 피해를 본 것인가요?
-&nbsp;
-https://youtu.be/tHEDNgV5gFY
-https://m.kin.naver...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[안전]]></title>
         <id>https://factchecker.or.kr/fc_suggests/550</id>
@@ -56,10 +46,10 @@ https://m.kin.naver...]]></content>
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-02-25T06:14:44.200Z</updated>
+        <updated>2022-02-25T07:11:49.108Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -86,5 +76,14 @@ moon
         <content type="html"><![CDATA[우크라이나에서 전쟁이 일어나기 직전이라면서 국경 인근에서 헬기가 다수 날아가고 있다는 영상이 올라왔습니다
 우크라이나에서 전쟁이 시작되면 굉장히 큰 문제로 보이는데 우리나라 언론에서는 큰 관심이 없는 것 같은데요
 이게 사실...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이슬람, 무슬림이 출생율 세계 1위라는게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/540</id>
+        <link href="https://factchecker.or.kr/fc_suggests/540"/>
+        <updated>2022-02-25T07:11:49.251Z</updated>
+        <content type="html"><![CDATA[최근에 방송에서 대구 지역 이슬람 사원 문제를 다뤄서 커뮤니티에 관련 내용이 올라왔는데요
+이슬람교를 믿는 사람들이 들어서면 큰 문제가 생긴다면서 별다른 근거도 없이 부정적인 인상을 주더라고요
+특히 댓글을 보니까 이슬람, ...]]></content>
     </entry>
 </feed>
