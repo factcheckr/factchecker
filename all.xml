@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 00:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -265,7 +265,7 @@ https://m.dcinside.c...]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Sun, 27 Feb 2022 21:11:16 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 02:03:30 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content:encoded>
@@ -285,84 +285,83 @@ moon
             <content:encoded><![CDATA[중앙선관위가 술과 주술에 빠졌다, 신천지 비호세력이라는 문구가 들어간 현수막을 이번 대선기간에 사용할수 있도록 했습니다.청와대를 굿당으로 만들 순 없다고 적은 현수막도 김건희씨 사진이 없으면 괜찮다고 했습니다.여당과 지지...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팩트체크K] 격리해제 때 PCR 검사, 확진자(X), 동거인(O)…왜? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3661</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3661</guid>
+            <title><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3673</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3673</guid>
+            <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나가 민스크협정에만 의존했다가 전쟁을 맞이했다는 윤 후보의 주장은 사실일까?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbb05daba58ac34fc1067691e70a805a90fa3ae3/5996c67ab918fad55d9cbbe854a2ad89.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "L-SAM 배치" · "핵 공유"…따져 보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3670</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3670</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공으로 안보가 화두인 만큼 어제 토론회에서는 후보들 사이에 안보 문제로 많은 말들이 오갔습니다. 그래서 저희 팩트체크, 사실은 팀이 후보들의 발언을 하나하나 따져봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b596a1077cb11f2c203ecae5121ab88de5e238d0/ee3e5170c8b8fc13b3cec5116e46c993.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]달리는 트럭 짐칸서 선거 유세, 도로교통법 위반? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3669</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3669</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 선거 유세차량들이 각종 관련 법규를 위반했다는 민원이 끊이지 않는다. 지난 15일 한 시민은 이준석 국민의힘 대표가 부산에서 0.5톤 경상용 트럭인 ‘라보 트럭’을 탑승해 유세를 펼친 게 도로교통법 위반이라며 국민 신문고에 민원을 넣었다.불법으로 개조된 유...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 윤석열 부산저축은행 수사 때 일반대출은 기소 안 했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3668</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3668</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 윤석열 대선 후보가 25일 중앙선관위 주관 2차 TV토론에서 부산저축은행 불법 대출 부실 수사와 관련한...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e6ec142ebf769c014d274be36a30fdfc7849a7a/ad00743040058d8f145b15e5ac341353.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 겨울철 '삼한사미' 실제로 일어날까? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3667</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3667</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 겨울철 미세먼지로 인해 삼한사미(三寒四微·사흘은 춥고 나흘은 미세먼지)라는 신조어까지 생겨났다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa6ec50b28824c0b92419e176e5b1d9915a3ade6/ff9b1c119e6c2bf6547207a4785a9abb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV 토론 팩트체크...尹, 전술핵 배치 주장한 적 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3666</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3666</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]어제 정치 분야 대선 후보 TV 토론회에서는 각 후보...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2612da44f06940039a87f9fef92de1594e82fde9/878ac4f4dc1c7c26dbbc9ea2028bd562.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 윤석열은 전술핵 배치·핵공유 주장한 적 없다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3665</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3665</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 여야 대선 후보들이 25일 중앙선거방송토론위원회가 주관한 제20대 대통령선거 후보자 초청 2차 TV토론회에서 정...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f8e7f38d2bdfc670f5cf640e1df3738fa2b4b8a/218385279c11e5ebc0551473ce83ce7a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[노컷체크]윤석열 "ICBM 폭발력 조절해 전술핵무기로"? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3672</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3672</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 확진자가 급증하면서 전체 확진자가 250만 명에 육박했습니다. 하루 신규 확진은 17만 명을 넘어...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e28b9dd4824cdde5640ad2cd43dd1086f9233118/badf94d7d2483db079ed6fc7a625ffc1.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[국민의힘 윤석열 후보는 25일 열린 토론에서 외교안보 분야를 논하면서 확장억제(extended deterrence)에 대해 미국이 보유하고 있는 핵무기를, ICBM이라든가 또는 미국이 우리 아시아 지역에 배치하고 있는 전술핵..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--899cd71932cfa01ab68e5673e731d7dfa7161060/e363b20ec41c71cf1cf8b9a46c5bd310.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트인사이드] 국민의힘 “경기도 경제성장률, 팬데믹 시기 고려해도 낮은 수치다” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3660</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3660</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[검증 대상] 국민의힘 선대본부 대변인실 “경기도 경제성장률, 팬데믹 시기 고려해도 낮은 수치”지난 15일 제20대 대통령선거의 공식 선거전이 시작되면서 각 진영 간 경쟁이 치열해지고 있다.더불어민주당 이재명 후보는 ‘위기에 강한 유능한 경제 대통령’을 표방했고, 국민의힘 윤석열 후보는 ‘국민이 키운 윤석열, 내일을 바꾸는 대통령’이라는 슬로건으로 정권교체 필요성을 내세웠다.특히 선거운동 첫날인 15일 국민의힘은 이 후보가 “위기 극복의 총사령관이자 경제를 살리는 유능한 경제 대통령이 되겠다”고 발언한 것에 반박하는 논평을 내놨다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--90bb926d1bc373527909870a8e20988369187fd6/61919ee1c7dd0331a7ab842f8af90ad2.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[대선체크] 기업 해고 쉬워지면 ‘이대남’에 기회? 인사담당자에 물어보니... (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3671</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3671</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 온라인 ‘남초’커뮤니티와 소셜미디어에서 ‘해고 자유’가 논란이 됐습니다. 윤석열 국민의힘 대선후보가 지난 7월 19일 매일경제 인터뷰에서 언급한 해고프로그램이 적용되면, 기업은 주로 4050세대인 고임금·고연차 직원들을 해고하게 되고 그 자리는 신입 20대 남성(속칭 ‘이대남’)들로 충원할 거라는 내용입니다. 해고결정권을 가진 기업 대표와 담당 임원들에게 직접 물어봤습니다.한국사회는 1998년 경영상 사유에 의한 해고자가 12만 6,555명을 기록하는 등 1990년대 말 외환위기로 인한 구조조정과 대량해고의 아픔을 겪은 바 있]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9e6160657a1cd88f48aad4ca4819b47f5c84f5e/eacd55f0c018e20e412dfcbabfbae6c9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[알고보니]  '소가죽', '패륜아'‥ 대선 현수막에 써도 된다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3659</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3659</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알고보니 시작합니다. 대통령 선거 운동이 본격화되면서 최근 이런 현수막들이 등장했습니다. 사진과 함께 이런 영부인 괜찮습니까 또 재명마눌 황제갑질했다 검사 정부 반대 한...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba03f584ea66c8a3149b61a26bc4cd4d5d155248/ba784e5469e2f4251e75a36c8a30f1b7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '2월 여론조사' 모두 모아 평균화(化) 했습니다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3658</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3658</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 여론조사는 이 사람이 높다, 또 어떤 여론조사는 저 사람이 높다, 조사 결과가 제각각입니다. 어떤 여론조사를 믿어야 할지 모르겠습니다. SBS 선거팀은 이런 문제를 해결하기 위해 메타S 심층 여론 지수를 내놨습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36cd33995d3924fa793f873f9e65502bf0159a6f/b564c1474bb97fb08da154b005f73f40.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-안철수⑳] “한국 노동이사제 전 세계 유례 찾기 힘들다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3657</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3657</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 안철수 국민의당 대선후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--feaa7200b222902afc35cfa154413ec5b4fcf196/1351bc17552427336c9a09dc2e62785b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 국가 부채는 다른 나라에 진 빚이 아니다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3656</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3656</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 대선을 앞두고 국가 채무의 적정 규모에 대한 논쟁이 이어지는 가운데 더불어민주당 이재명 대선 후보가 국가 부...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69dd023729a664a1c6a3a166190fc813c11f0279/68832bee21fb8a763dec7f3aff3c58ad.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-심상정⑳] “해마다 2천명의 산업재해 사망자 생긴다?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3655</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3655</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회검토를 거칩니다.[뉴스포스트=박재령 기자] 심상정 정의당 대선 후보의 공식 소셜네트워크서비스(SNS)를]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9bf04515c33be0a8f0586f20e1fec197657582ed/16119e501a6fd86eb17e77bc521fb6f5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 “고용 회복”… 일자리 수는 증가, 야당 “점점 악화”… 근로 시간은 감소 [팩트 체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3653</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3653</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘취업자 수’를 놓고 정부와 정치권, 학계에서 갑론을박이 벌어지고 있다. 정부는 “취업자 수가 코로나19 이전 수준을 회복했다”며 자화자찬하고 있고, 야당과 학계는 “고용의 질이 갈수록 악화되고 있다”며 우려를 표하고 나섰다. 국내 고용상황이 정말 정부 말대로 좋아진 것일까, 아니면 야...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77ba2de69e1b1ddd1ef9507c4f67b53805db75af/9da3189a6b67a701f0c1120960ae85b1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-윤석열⑳] “대한민국 무역 해외 의존도 세계 최고?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3652</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3652</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=김혜선 기자] 윤석열 국민의힘 대선후보의 공식 소셜네트워크서비스(SNS)]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cb62c5cbf22da21352db29baa108a1c427114be/3bfb7bd8fcfa42dcfeae7ab42226e25d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 SNS 팩트체크-이재명⑳] “대한민국 출퇴근 시간 OECD 1위?” (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3651</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3651</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소설네트워크서비스(SNS)는 정치인과 유권자가 직접 소통할 수 있는 시대를 열어줬습니다. 동시에 검증되지 않은 정보가 각종 SNS를 타고 유권자에 전달됩니다. 대선후보의 SNS 발언이 좀 더 명확하고 깨끗하게 유권자에 전달되도록 돕기 위해 가 20대 대선 특집으로 대선후보 SNS 발언 검증대, 스낵 팩트 시리즈를 시작합니다.공정한 팩트 평가를 위해 최종 판정은 법조계, 학계 등 전문가로 구성된 팩트체크 평가위원회 검토를 거칩니다.[뉴스포스트=박재령 기자] 이재명 더불어민주당 대선 후보의 공식 소셜네트워크서비스(S]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--49ccb9ff8648931546abbef05f8c7c317eed7fca/ca6ae8ec97f6bf005710919948f873f9.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[尹 “전술핵 배치 한번도 주장 안해”… 지난해 9월 尹 공약 [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3664</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3664</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 국민의힘 대선 후보가 ‘전술핵 배치를 요구한 적은 한번도 없다’고 말했다. 그러나 확인결과 윤 후보는 지난해 9월 국민 위협이 가중될 경우 미국에 전술핵 배치를 요구하겠다고 밝힌 바 있다. 당시 중국 등은 윤 후보의 전술핵 배치 주장에 대해 비판의 목소리를 낸 바 있다. 25일 서울 SBS 프리즘 타워에서 열린 2차 법정 TV토론에 출연해 이재명 더불어민주당 대선 후보가 “전술핵을 한반도에 재배치하자고 여전히 주장하...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d30c0cfadbdd6df0ab79a2e1a9b4ec4bc99638b9/22fce3d370be4fa091ec65ecd3f92e2e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이동통신서비스업 등 통신장애 분쟁해결기준 개선방안, 연구 진행 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
