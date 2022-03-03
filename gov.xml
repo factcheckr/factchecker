@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 00:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지역사랑상품권 사업자의 선지급 이자수익은 지자체에 전액 반납]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3693</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3693</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “지역사랑상품권 사업자가 지자체로부터 국민지원금 대금을 선지급 받아 발생하는 이자수익은 지자체로 전액 반납된다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28a356b5822059bf0dd46172b1036d481a204061/c1d8a1aace1e441ed3dd095befbe5904.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국내산 농산물 소비확대 통한 농업인 소득향상 위해 전통주 산업 진흥·육성]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3685</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “지방자치단체 기관 구성 다양화 방안에 대한 지자체 심층면접 등을 추진하지 않고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b8a09fd224f11ea10092e2b8b38b345f56ad1ad9/cd9291d816a546abeef9f740b5ab9695.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[지방소멸대응기금, 지역주도 정책재원으로 쓰여]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3648</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3648</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “지방소멸대응기금은 지역주도 정책의 재원으로 쓰여진다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--84b92778765aef47a8643ec4144bee2f64695722/a53b851d21f6155ad1647b60358796ce.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
