@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 15:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 16:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀트리온 분식혐의 관련 사안, 증권선물위 심의 진행 중]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3699</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3699</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “셀트리온 분식혐의 관련 사안에 대한 증권선물위원회 심의가 진행중”이라며 “조치 여부와 조치 수준 등에 대해서는 확정된 바가 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55c16d16c13a5221dd8edcb2cd6ea7bdee611218/4190fb5739e9a808b75abd212f817efa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[지역사랑상품권 사업자의 선지급 이자수익은 지자체에 전액 반납]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3693</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “새만금에 연구용으로 설치된 수상태양광 패널에 소금이 달라붙어 있고, 부식 흔적이 나타났다는 내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d142be352e63dd7ddd833936d3d1a754d13e65e/3bbd80d6e1882139586b45d5d58e11a3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기관 구성 다양화 방안 지자체 심층면접 등 추진 안해]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3649</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3649</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “지방자치단체 기관 구성 다양화 방안에 대한 지자체 심층면접 등을 추진하지 않고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b8a09fd224f11ea10092e2b8b38b345f56ad1ad9/cd9291d816a546abeef9f740b5ab9695.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
