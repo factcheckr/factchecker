@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-05T22:14:56.448Z</updated>
+    <updated>2022-03-05T23:13:23.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[낙화암과 삼천궁녀?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/555</id>
+        <link href="https://factchecker.or.kr/fc_suggests/555"/>
+        <updated>2022-03-05T23:11:37.911Z</updated>
+        <content type="html"><![CDATA[백제 멸망 당시 당나라군에 쫓백제궁녀 삼천명이 부소산 낙화암에서 투신했다???]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 두끼먹기와 세끼먹기의 장단점은?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/554</id>
@@ -71,19 +78,12 @@ https://m.dcinside.c...]]></content>
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-05T22:14:13.449Z</updated>
+        <updated>2022-03-05T23:11:37.856Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 입국자도 '자가격리앱' 폐지..격리는 그대로]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/543</id>
-        <link href="https://factchecker.or.kr/fc_suggests/543"/>
-        <updated>2022-02-20T06:14:00.117Z</updated>
-        <content type="html"><![CDATA[https://news.v.daum.net/v/20220218144302826?f=o]]></content>
     </entry>
 </feed>

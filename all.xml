@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 22:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 23:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[낙화암과 삼천궁녀? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/555</link>
+            <guid>https://factchecker.or.kr/fc_suggests/555</guid>
+            <pubDate>Sat, 05 Mar 2022 23:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[백제 멸망 당시 당나라군에 쫓백제궁녀 삼천명이 부소산 낙화암에서 투신했다???]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[하루 두끼먹기와 세끼먹기의 장단점은? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/554</link>
             <guid>https://factchecker.or.kr/fc_suggests/554</guid>
@@ -276,17 +283,10 @@ https://m.dcinside.c...]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Sat, 05 Mar 2022 22:14:13 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 23:11:37 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해외 입국자도 '자가격리앱' 폐지..격리는 그대로 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/543</link>
-            <guid>https://factchecker.or.kr/fc_suggests/543</guid>
-            <pubDate>Sun, 20 Feb 2022 06:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[https://news.v.daum.net/v/20220218144302826?f=o]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 李·尹 공약집에 재정계획 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
