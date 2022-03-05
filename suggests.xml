@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-05T21:12:32.256Z</updated>
+    <updated>2022-03-05T22:14:56.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하루 두끼먹기와 세끼먹기의 장단점은?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/554</id>
+        <link href="https://factchecker.or.kr/fc_suggests/554"/>
+        <updated>2022-03-05T22:14:13.509Z</updated>
+        <content type="html"><![CDATA[하루&nbsp; 두끼&nbsp; 먹기와 세끼먹기의&nbsp; 장단점은 무엇일까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“좋은 전쟁보다 나쁜 평화가 낫다.”는 이완용의 말?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/553</id>
@@ -64,10 +71,10 @@ https://m.dcinside.c...]]></content>
 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-05T21:10:46.452Z</updated>
+        <updated>2022-03-05T22:14:13.449Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.02.21 13:47:46]]></content>
@@ -78,12 +85,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/543"/>
         <updated>2022-02-20T06:14:00.117Z</updated>
         <content type="html"><![CDATA[https://news.v.daum.net/v/20220218144302826?f=o]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내로남불' 표현도 안 된다던 선관위…'신천지' 현수막은 허용]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/542</id>
-        <link href="https://factchecker.or.kr/fc_suggests/542"/>
-        <updated>2022-02-18T16:16:19.017Z</updated>
-        <content type="html"><![CDATA[중앙선관위가 술과 주술에 빠졌다, 신천지 비호세력이라는 문구가 들어간 현수막을 이번 대선기간에 사용할수 있도록 했습니다.청와대를 굿당으로 만들 순 없다고 적은 현수막도 김건희씨 사진이 없으면 괜찮다고 했습니다.여당과 지지...]]></content>
     </entry>
 </feed>
