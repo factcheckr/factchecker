@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-06T09:14:04.816Z</updated>
+    <updated>2022-03-06T10:14:13.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[플라스틱 쓰레기]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/558</id>
+        <link href="https://factchecker.or.kr/fc_suggests/558"/>
+        <updated>2022-03-06T10:12:29.290Z</updated>
+        <content type="html"><![CDATA[https://youtube.com/shorts/mOa-JonHukY?feature=share
+진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기온이 체온보다 높아진 상황에서 옷은 입는 것과 벗는 경우 우리 몸의 적응 상황은?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/557</id>
@@ -72,14 +80,5 @@ https://m.dcinside.c...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/547"/>
         <updated>2022-02-23T02:05:29.348Z</updated>
         <content type="html"><![CDATA[https://youtu.be/sTQSL8dqjaY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월21일대선 토론 윤석열의 인이어]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/546</id>
-        <link href="https://factchecker.or.kr/fc_suggests/546"/>
-        <updated>2022-02-22T07:10:16.834Z</updated>
-        <content type="html"><![CDATA[2월 2ㅣ일 대선 토론중 윤석열 후보가 질문자의 질문에 집중하지 못하고 있는것을 보았습니다.
-그리고 중간에 두세 차례 잡음이 들렸습니다.
-그 상황과 소리를 들은 사람들이 윤석열 후보가 인이어 이어폰을 착용한것이 아닌가...]]></content>
     </entry>
 </feed>

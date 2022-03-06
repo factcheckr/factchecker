@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 09:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 10:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[플라스틱 쓰레기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/558</link>
+            <guid>https://factchecker.or.kr/fc_suggests/558</guid>
+            <pubDate>Sun, 06 Mar 2022 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[https://youtube.com/shorts/mOa-JonHukY?feature=share
+진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기온이 체온보다 높아진 상황에서 옷은 입는 것과 벗는 경우 우리 몸의 적응 상황은? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/557</link>
             <guid>https://factchecker.or.kr/fc_suggests/557</guid>
@@ -274,15 +282,6 @@ https://m.dcinside.c...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/547</guid>
             <pubDate>Wed, 23 Feb 2022 02:05:29 GMT</pubDate>
             <content:encoded><![CDATA[https://youtu.be/sTQSL8dqjaY]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월21일대선 토론 윤석열의 인이어 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/546</link>
-            <guid>https://factchecker.or.kr/fc_suggests/546</guid>
-            <pubDate>Tue, 22 Feb 2022 07:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[2월 2ㅣ일 대선 토론중 윤석열 후보가 질문자의 질문에 집중하지 못하고 있는것을 보았습니다.
-그리고 중간에 두세 차례 잡음이 들렸습니다.
-그 상황과 소리를 들은 사람들이 윤석열 후보가 인이어 이어폰을 착용한것이 아닌가...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 李·尹 공약집에 재정계획 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
