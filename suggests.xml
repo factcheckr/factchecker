@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-06T00:48:05.150Z</updated>
+    <updated>2022-03-06T02:07:28.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기온이 체온보다 높아진 상황에서 옷은 입는 것과 벗는 경우 우리 몸의 적응 상황은?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/557</id>
+        <link href="https://factchecker.or.kr/fc_suggests/557"/>
+        <updated>2022-03-06T02:05:41.992Z</updated>
+        <content type="html"><![CDATA[한여름 무더위에 기온이 체온보다 높은 상황이 종종 발생한다.&nbsp; 이때 옷을 껴입어 외부의 고온은을 막는 것이&nbsp; 건강상 도움이 될까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투표소에서 투표 용지를 찢어도 괜찮을까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/556</id>
+        <link href="https://factchecker.or.kr/fc_suggests/556"/>
+        <updated>2022-03-06T02:05:41.998Z</updated>
+        <content type="html"><![CDATA[투표용지는 국민의 의무를 이행하는 중대한 상항 인데 소종하게 다뤄야할 투표용지를 훼손시켜도 법의 저촉은 안되는지&nbsp; 궁금??]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낙화암과 삼천궁녀?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/555</id>
@@ -67,23 +81,5 @@ https://m.dcinside.c...]]></content>
         <content type="html"><![CDATA[2월 2ㅣ일 대선 토론중 윤석열 후보가 질문자의 질문에 집중하지 못하고 있는것을 보았습니다.
 그리고 중간에 두세 차례 잡음이 들렸습니다.
 그 상황과 소리를 들은 사람들이 윤석열 후보가 인이어 이어폰을 착용한것이 아닌가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 국민연금의 국내 주식투자 비율은 해외 연기금에 비해 낮나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/545</id>
-        <link href="https://factchecker.or.kr/fc_suggests/545"/>
-        <updated>2022-02-21T09:13:28.462Z</updated>
-        <content type="html"><![CDATA[이재명 후보가 페이스북에 국민연금의 국내 주식투자 비율을 높이겠다고 말했는데요
-일본을 예시로 들면서 설명했는데 조선비즈에서는 일본이 자국 주식투자 비율을 최근에 높였다면서 대규모 손실이 나서 문제가 됐다고 설명하더라고요
-...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://factchecker.or.kr/fc_suggests</id>
-        <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-06T00:47:21.791Z</updated>
-        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
-moon
-2022.02.21 13:47:46]]></content>
     </entry>
 </feed>
