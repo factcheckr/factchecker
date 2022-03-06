@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-06T12:19:24.935Z</updated>
+    <updated>2022-03-06T13:15:46.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[성인 한사람이 하루에 섭취해야 하는 물의 양은?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/559</id>
+        <link href="https://factchecker.or.kr/fc_suggests/559"/>
+        <updated>2022-03-06T13:15:05.016Z</updated>
+        <content type="html"><![CDATA[의사들은 통상 물을 많이 성취하는 것이 건강에 도움이 된다고하고 한의학에서는 물을 너무 많이 마시면 위에 부담만 준다고 하는데 그 진실은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 쓰레기]]></title>
         <id>https://factchecker.or.kr/fc_suggests/558</id>
@@ -73,12 +80,5 @@ https://m.dcinside.c...]]></content>
         <updated>2022-02-23T16:16:26.309Z</updated>
         <content type="html"><![CDATA[물고기도 고통을 느끼나요?
 낚시를 하다보면 극과극을 달리니..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube 오미크론 특징과 코로나 먹는 치료제(팍스로비드)의 진실]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/547</id>
-        <link href="https://factchecker.or.kr/fc_suggests/547"/>
-        <updated>2022-02-23T02:05:29.348Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/sTQSL8dqjaY]]></content>
     </entry>
 </feed>

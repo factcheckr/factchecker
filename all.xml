@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 13:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,13 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[성인 한사람이 하루에 섭취해야 하는 물의 양은? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/559</link>
+            <guid>https://factchecker.or.kr/fc_suggests/559</guid>
+            <pubDate>Sun, 06 Mar 2022 13:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[의사들은 통상 물을 많이 성취하는 것이 건강에 도움이 된다고하고 한의학에서는 물을 너무 많이 마시면 위에 부담만 준다고 하는데 그 진실은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[플라스틱 쓰레기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/558</link>
             <guid>https://factchecker.or.kr/fc_suggests/558</guid>
@@ -275,13 +282,6 @@ https://m.dcinside.c...]]></content:encoded>
             <pubDate>Wed, 23 Feb 2022 16:16:26 GMT</pubDate>
             <content:encoded><![CDATA[물고기도 고통을 느끼나요?
 낚시를 하다보면 극과극을 달리니..]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YouTube 오미크론 특징과 코로나 먹는 치료제(팍스로비드)의 진실 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/547</link>
-            <guid>https://factchecker.or.kr/fc_suggests/547</guid>
-            <pubDate>Wed, 23 Feb 2022 02:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[https://youtu.be/sTQSL8dqjaY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 李·尹 공약집에 재정계획 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
