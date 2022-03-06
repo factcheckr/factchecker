@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 22:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,15 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[코로나19는 방사선에 노출된 박테리아와 혈액 응고로 사람을 사망. 아스피린이 치료제 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/560</link>
+            <guid>https://factchecker.or.kr/fc_suggests/560</guid>
+            <pubDate>Sun, 06 Mar 2022 23:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[♥ 이젠 살았습니다 ♥&nbsp; &nbsp; &nbsp; &nbsp;(긴급 중요정보)
+혈전용해제인 아스피린이&nbsp;코로나 치료 만병통치약임이&nbsp;극비리 중국 통해 싱가포르가 발견한듯 함.코로나증상 있으면 &nbsp;아스피린만 먹으세요!
+매우 중요한 정보이므로주의 깊게 읽으...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성인 한사람이 하루에 섭취해야 하는 물의 양은? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/559</link>
             <guid>https://factchecker.or.kr/fc_suggests/559</guid>
@@ -274,14 +283,6 @@ https://m.dcinside.c...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/550</guid>
             <pubDate>Thu, 24 Feb 2022 21:11:24 GMT</pubDate>
             <content:encoded><![CDATA[00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고통 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/548</link>
-            <guid>https://factchecker.or.kr/fc_suggests/548</guid>
-            <pubDate>Wed, 23 Feb 2022 16:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[물고기도 고통을 느끼나요?
-낚시를 하다보면 극과극을 달리니..]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 특혜 아니라는데‥구치소 독방 왜 자꾸 논란되나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
