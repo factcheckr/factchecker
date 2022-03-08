@@ -2,14 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-08T04:16:33.023Z</updated>
+    <updated>2022-03-08T05:13:13.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[이재명 소녀 집단 강간]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/561</id>
+        <link href="https://factchecker.or.kr/fc_suggests/561"/>
+        <updated>2022-03-08T05:11:29.086Z</updated>
+        <content type="html"><![CDATA[👺이재명 &nbsp;이런 개 같은&nbsp; &nbsp; &nbsp;인간이 대통령후보👺
+ㅡ 김동길 교수 ㅡ
+https://m.cafe.daum.net/airforce59/4VUC/11882?q=%EA
+&nbsp;
+&nbsp;
+이재명은 중학교 때여자 초등학생을&nbsp;집단 강간하여&nbsp;...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-08T04:15:52.082Z</updated>
+        <updated>2022-03-08T05:11:29.032Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>
@@ -74,12 +86,5 @@ https://m.dcinside.c...]]></content>
         <content type="html"><![CDATA[러시아가 우크라이나를 침공하고 나서 우크라이나에서 사상자가 발생했다는 뉴스를 봤는데요
 커뮤니티를 보다가 우크라이나 전사자 영상이라면서 올라온 게시글이 있더라구요
 군복을 입은 사람이 군용 차량에 묶여있는 장면도 나오는데요....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/550</id>
-        <link href="https://factchecker.or.kr/fc_suggests/550"/>
-        <updated>2022-02-24T21:11:24.882Z</updated>
-        <content type="html"><![CDATA[00]]></content>
     </entry>
 </feed>

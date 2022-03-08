@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,10 +208,22 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이재명 소녀 집단 강간 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/561</link>
+            <guid>https://factchecker.or.kr/fc_suggests/561</guid>
+            <pubDate>Tue, 08 Mar 2022 05:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[👺이재명 &nbsp;이런 개 같은&nbsp; &nbsp; &nbsp;인간이 대통령후보👺
+ㅡ 김동길 교수 ㅡ
+https://m.cafe.daum.net/airforce59/4VUC/11882?q=%EA
+&nbsp;
+&nbsp;
+이재명은 중학교 때여자 초등학생을&nbsp;집단 강간하여&nbsp;...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 04:15:52 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 05:11:29 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
@@ -276,13 +288,6 @@ https://m.dcinside.c...]]></content:encoded>
             <content:encoded><![CDATA[러시아가 우크라이나를 침공하고 나서 우크라이나에서 사상자가 발생했다는 뉴스를 봤는데요
 커뮤니티를 보다가 우크라이나 전사자 영상이라면서 올라온 게시글이 있더라구요
 군복을 입은 사람이 군용 차량에 묶여있는 장면도 나오는데요....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안전 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/550</link>
-            <guid>https://factchecker.or.kr/fc_suggests/550</guid>
-            <pubDate>Thu, 24 Feb 2022 21:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 후보들의 '육아휴직' 공약…얼마나 더 받을 수 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
