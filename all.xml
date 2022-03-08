@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 00:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 02:08:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,7 +211,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 00:45:30 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 02:07:21 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
@@ -285,6 +285,14 @@ https://m.dcinside.c...]]></content:encoded>
             <content:encoded><![CDATA[00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 후보들의 '육아휴직' 공약…얼마나 더 받을 수 있나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3718</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3718</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그중에서도 육아휴직 급여를 집중적으로 따져봤습니다. 후보들마다 차이가 컸..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a452579862c7d8242a77183d7796a3c3d00415f2/647d704a421a8657571d49508527f9cf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[깐팩] 윤석열 성인지 예산 발언, 모두 사실과 달랐다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3717</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3717</guid>
@@ -355,14 +363,6 @@ https://m.dcinside.c...]]></content:encoded>
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다....]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82d44835e267d13ccd9aa51b690c1e28cf7140c7/30d99d1533b9311fea0542e0ff4a1e5d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실확인] 투표용지 안 접거나 잘못 접으면 무효표? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3713</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3713</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(4일) 사전투표할 때 투표용지를 접어야 하는지, 아니면 그냥 투표함에 넣어야 하는지 헷갈리신 분들...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--783ed5df4c12ed52f60f910d905ddb97d20b181b/c42b82973a4248d8829e57df17c25d07.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[셀트리온 분식혐의 관련 사안, 증권선물위 심의 진행 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
