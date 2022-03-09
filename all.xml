@@ -4,17 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 02:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[진짜 플라스틱 쓰레기가 석유로 환원한다는데 사실인가요? (팩트체크넷)]]></title>
+            <title><![CDATA[플라스틱 쓰레기가 석유로 환원된다는데 사실인가요? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/302</link>
             <guid>https://factchecker.or.kr/fc_subjects/302</guid>
             <pubDate>Wed, 09 Mar 2022 02:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/302">&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;
-&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;
-&nbsp; &nbsp; 진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.
+            <content:encoded><![CDATA[<a href="/fc_subjects/302">&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.
 </a>]]></content:encoded>
         </item>
         <item>
@@ -112,14 +110,12 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[진짜 플라스틱 쓰레기가 석유로 환원한다는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <title><![CDATA[플라스틱 쓰레기가 석유로 환원된다는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/302</link>
             <guid>https://factchecker.or.kr/fc_subjects/302</guid>
-            <pubDate>Wed, 09 Mar 2022 02:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;
-&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;
-&nbsp; &nbsp; 진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <pubDate>Wed, 09 Mar 2022 02:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[60대 이상에서 백신 접종과 비접종간 중증화 예방 차이 거의없다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -216,7 +212,7 @@ https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 02:11:31 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 03:13:38 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -225,7 +221,7 @@ annaija
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 02:11:31 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 03:13:38 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
@@ -452,6 +448,13 @@ https://m.dcinside.c...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d142be352e63dd7ddd833936d3d1a754d13e65e/3bbd80d6e1882139586b45d5d58e11a3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[플라스틱 쓰레기가 석유로 환원된다는데 사실인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/83</link>
+            <guid>https://factchecker.or.kr/fc_publications/83</guid>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 석유정제&nbsp;&nbsp; 석유(petroleum)는 암석을 뜻하는 그리스어 petro와 기름을 뜻하는 라틴어 oleum이 합쳐져 만들어졌다. 정제하지 않은 석유를 원유라고 하며, 이를 증류와 같은 정유공정을 통해 만든 제품을 석유제품이라고 한다. 석유는 탄소 87~83%, 수소 14~10%, 질소 2.0~0.1%, 산소 1.5~0.05%, 황 6~0.05%, 금속(바나듐, 니켈, 철 등) 1000ppm 이하 질량비율로 이루어져 있다. 석유는 액체이므로 수송 및 사용이 용이하고 열량이 높고 불순물이 적어 비교적 완전연소가 가능한 장점이 있다. 석유 정제란 원유를 증류하여 각종 석유 제품과 반제품을 제조하는 것을 말하며 이를 정유라고도 부른다.&nbsp;석유정제는 크게 상압증류 및 감압 증류 과정을 통하는데 이 때 온도에 따라 분류되어 나오는 것들은 1.LPG -&gt; 2.나프타 -&gt; 3.휘발유 -&gt; 4.등유 ~&gt; 5.경유 ~&gt; 6.중유 ~&gt; 7.윤활기유 ~ &gt; 8.피치 -&gt; 9.아스팔트 등이 있다....]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[60대 이상에서 백신 접종과 비접종간 중증화 예방 차이 거의없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/82</link>
             <guid>https://factchecker.or.kr/fc_publications/82</guid>
@@ -568,20 +571,6 @@ https://www.un.org/en/ga/info/meetings/75schedule.shtml
 
 
 - 이는 언론에 보도된 수치이며 보도되지 않은 사건을 포함하며 친밀한 관계의 남성에 의해 살해된 실제 피해 여성은...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드 '뚜껑이', 환경에 도움이 될까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/73</link>
-            <guid>https://factchecker.or.kr/fc_publications/73</guid>
-            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[0. 검증 배경
-&nbsp; 맥도날드는 2020년 10월 12일부터 전국 매장에 플라스틱 빨대가 필요 없는 음료 뚜껑 뚜껑이를 제공하기 시작했다. 맥도날드는 공식 홈페이지 게시글을 통해 뚜껑이 도입이 환경을 위한 것이라 홍보했다. 이어 2021년 3월 25일에는 빨대 은퇴식을 열고 전국 매장에서 플라스틱 빨대가 있던 자리를 없애겠다고 밝혔다. 맥도날드 측은 뚜껑이 도입으로 월 평균 4.3톤의 플라스틱 빨대 사용을 감축했다고 했다.&nbsp;
-
-(출처: 한겨레, 맥도날드, 빨대 은퇴식 연다, 2021.03.25.)
-&nbsp; 플라스틱 빨대 사용을 감축하면 정말 환경에 도움이 되는 것일까?
-&nbsp;
-1. 해양으로 배출되는 플라스틱의 양이 줄었나?: 사실 아님
-&nbsp; 빨대 사용 줄이기가 주목받기 시작한 것은 2015년 미국 텍사스 A&amp;M 대학 해양 생물 연구팀이 코스타리카 연안에서 한 거북이를 발견하면서부터다. 이 거북이의 코에서는 10~12cm 길이의 빨대가 나왔다. 빨대를 빼는 과정에서 거북이는 고통스러워하며 피...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
