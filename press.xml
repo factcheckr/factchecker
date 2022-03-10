@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 23:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 00:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 우리나라 성평등은 뒤떨어져 있다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3719</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3719</guid>
+            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 문재인 대통령이 8일 세계 여성의날을 맞아 우리나라는 국가발전 정도에 비해 성평등에서 크게 뒤떨어져 있다...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04ccdb8702cb39d3a8936d1cf4b66ca9c1af8e17/ab7211d243364de023e16b6269b56ce3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 후보들의 '육아휴직' 공약…얼마나 더 받을 수 있나]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3718</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[20대 대통령선거 사전투표 첫날인 3월 4일 오후 경기도 과천시선거관리위원회에서 문원동 사전투표소 관계자들이 투표함을 과천선관위에 인계하고 있다. [사진=연합뉴스]지난 4일부터 제...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b67415a7e63441e88b3656b1ca9d76f0289d62e/eea6de6e0c6e6f9493ada97bfbd84fe1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 투표 때 투표용지 촬영해도 처벌받지 않는다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3707</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3707</guid>
-            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령 선거 투표가 시작됐습니다. 4일과 5일 사전투표에 이어 9일 선거일에도 투표가 실시됩니다....]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82d44835e267d13ccd9aa51b690c1e28cf7140c7/30d99d1533b9311fea0542e0ff4a1e5d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
