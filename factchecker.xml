@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-10T10:14:25.981Z</updated>
+    <updated>2022-03-10T11:12:17.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유명인 독거실(독방) 수용, 특혜일까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/303</id>
+        <link href="https://factchecker.or.kr/fc_subjects/303"/>
+        <updated>2022-03-10T11:11:19.639Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/303">최근 음주 측정에 불응하고 경찰관을 폭행한 혐의 등으로 구속된 래퍼 장용준씨가 주목을 받고 있습니다. 지난해 10월 중순 구속된 장씨는 현재까지 약 5개월간 서울구치소 독거실(독방)에 수감중입니다. 이 사실이 언론을 통해 밝혀지자, 장제원 국민의힘 의원 아들인 장씨의 독거실 수용이 특혜가 아니냐는 논란이 일었습니다. 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”며 의혹에 강하게 반박했습니다. 정재계 인사와 사회적으로 지탄을 받는 인물이 수용될 때마다 반복되었던 독방(독거실) 특혜 논란, 〈알고보니〉가 알아봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 쓰레기가 석유로 환원된다는데 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/302</id>
@@ -96,15 +104,6 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/284"/>
         <updated>2022-02-11T05:10:09.714Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/284">최근 전동 킥보드 음주운전이 증가하고 있습니다. 11월 기준, 5월 대비 전동 킥보드 음주운전 적발 건수가 3배나 늘었습니다. 지난 달 유명 야구선수가 만취 상태로 킥보드를 운전하다 자동차 면허가 취소됐다는 소식이 보도됐습니다. 지난 6일에는 음주를 한 상태에서 전동 킥보드를 탄 회사원이 운전면허 취소까지는 부당하다면서 행정심판을 청구했지만, 국민권익위원회는 이를 기각했습니다. 전동 킥보드 음주운전이 적발되면 자동차 운전면허까지 취소되는 것이 맞는지, 일반 자동차 음주운전과 비교했을 때 어떤 수위의 처벌을 받는지 궁금증과 경각심이 퍼져나갔습니다. &lt;알고보니&gt;팀이 이에 대한 정확한 정보를 확인했습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혀는 부위별로 느끼는 맛이 다르다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/278</id>
-        <link href="https://factchecker.or.kr/fc_subjects/278"/>
-        <updated>2022-02-11T05:10:09.716Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/278">혀의 맛지도 그림 링크 - 그림만 참고하고 사실과 거짓 판정과는 무관함
-https://t1.daumcdn.net/cfile/tistory/23762D3E57EC8EE407
 </a>]]></content>
     </entry>
 </feed>

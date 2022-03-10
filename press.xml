@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알고보니] 특혜 아니라는데‥구치소 독방 왜 자꾸 논란되나]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3722</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3722</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--703623521434fabc7844d983c9f5a13c0a68544b/fcb32aa945b28d891ef75acdb48d69f8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 우리나라 성평등은 뒤떨어져 있다? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3719</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38b1df0985a612bc98cc55df3162720f6e538648/c4604f649fb64731cf2b1f8114dc391c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '투표용지 안 접으면 무효?'…사전투표 가짜뉴스 논란 진실은 | 아주경제]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3708</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3708</guid>
-            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20대 대통령선거 사전투표 첫날인 3월 4일 오후 경기도 과천시선거관리위원회에서 문원동 사전투표소 관계자들이 투표함을 과천선관위에 인계하고 있다. [사진=연합뉴스]지난 4일부터 제...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b67415a7e63441e88b3656b1ca9d76f0289d62e/eea6de6e0c6e6f9493ada97bfbd84fe1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
