@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,15 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했나요?????? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/563</link>
+            <guid>https://factchecker.or.kr/fc_suggests/563</guid>
+            <pubDate>Fri, 11 Mar 2022 09:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티 인기 게시글에 윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했다면서 우리나라 사람들 나이가 2살씩 어려질거라는 내용이 있더라구요
+실제로 윤석열 당선인이 이런 공약을 낸 게 사실인가요??????
+당선인이 실제로 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/562</link>
             <guid>https://factchecker.or.kr/fc_suggests/562</guid>
@@ -219,7 +228,7 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 08:15:03 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 09:12:46 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -228,7 +237,7 @@ annaija
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 08:15:03 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 09:12:46 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
@@ -275,15 +284,6 @@ moon
             <guid>https://factchecker.or.kr/fc_suggests/554</guid>
             <pubDate>Tue, 08 Mar 2022 23:12:28 GMT</pubDate>
             <content:encoded><![CDATA[하루&nbsp; 두끼&nbsp; 먹기와 세끼먹기의&nbsp; 장단점은 무엇일까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“좋은 전쟁보다 나쁜 평화가 낫다.”는 이완용의 말? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/553</link>
-            <guid>https://factchecker.or.kr/fc_suggests/553</guid>
-            <pubDate>Tue, 08 Mar 2022 23:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[언젠가부터 해당 발언은 이완용이 한 말이라며 각종 보도에 인용되고 있는데 실제 그런 발언을 한 적이 있는지 궁금합니다.
-일반인이 해당 내용을 찾아본 게시글이 있어 링크를 첨부해봅니다.
-https://m.dcinside.c...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 특정후보 기표란만 코팅?…부정선거 의혹 확인해보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

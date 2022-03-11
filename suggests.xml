@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-11T08:16:47.907Z</updated>
+    <updated>2022-03-11T09:13:31.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했나요??????]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/563</id>
+        <link href="https://factchecker.or.kr/fc_suggests/563"/>
+        <updated>2022-03-11T09:12:46.680Z</updated>
+        <content type="html"><![CDATA[커뮤니티 인기 게시글에 윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했다면서 우리나라 사람들 나이가 2살씩 어려질거라는 내용이 있더라구요
+실제로 윤석열 당선인이 이런 공약을 낸 게 사실인가요??????
+당선인이 실제로 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/562</id>
@@ -15,19 +24,19 @@
 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-11T08:15:03.874Z</updated>
+        <updated>2022-03-11T09:12:46.640Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-11T08:15:03.875Z</updated>
+        <updated>2022-03-11T09:12:46.644Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>
@@ -74,14 +83,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/554"/>
         <updated>2022-03-08T23:12:28.278Z</updated>
         <content type="html"><![CDATA[하루&nbsp; 두끼&nbsp; 먹기와 세끼먹기의&nbsp; 장단점은 무엇일까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“좋은 전쟁보다 나쁜 평화가 낫다.”는 이완용의 말?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/553</id>
-        <link href="https://factchecker.or.kr/fc_suggests/553"/>
-        <updated>2022-03-08T23:12:28.279Z</updated>
-        <content type="html"><![CDATA[언젠가부터 해당 발언은 이완용이 한 말이라며 각종 보도에 인용되고 있는데 실제 그런 발언을 한 적이 있는지 궁금합니다.
-일반인이 해당 내용을 찾아본 게시글이 있어 링크를 첨부해봅니다.
-https://m.dcinside.c...]]></content>
     </entry>
 </feed>
