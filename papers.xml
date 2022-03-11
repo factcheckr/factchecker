@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-03-11T03:16:04.243Z</updated>
+    <updated>2022-03-11T04:16:56.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크넷] 시민 협업 팩트체크 오픈플랫폼 활용가이드]]></title>
+        <id>https://factchecker.or.kr/papers/389</id>
+        <link href="https://factchecker.or.kr/papers/389"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(표지를 클릭하시면 보고서를 받으실 수 있습니다)
+&nbsp;
+제목 : 시민 협업 팩트체크 오픈플랫폼 활용가이드
+&nbsp;
+발간사 :&nbsp;
+팩트체크 오픈플랫폼 ‘팩트체크넷’은 공공의 도구입니다. 일상에서 고개를 갸웃하게 만드는 의심...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언론개혁시민연대] 언론은 어떻게 반중을 확산하는가]]></title>
         <id>https://factchecker.or.kr/papers/388</id>
@@ -124,16 +136,5 @@
 
 
 가짜 뉴스의 시대 속에서 팩트체크를 외치다!사실 너머의 진실을 밝히려는 노...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SCIBEH] 코로나19 백신 커뮤니케이션 핸드북]]></title>
-        <id>https://factchecker.or.kr/papers/223</id>
-        <link href="https://factchecker.or.kr/papers/223"/>
-        <updated>2021-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(이미지를 클릭하면 원문으로 이동합니다)
-&nbsp;
-제목 : The Covid-19 Vaccine COMMUNICATION HANDBOOK
-&nbsp;
-저자 : Stephan Lewandowsky, John Cook, Phil...]]></content>
     </entry>
 </feed>
