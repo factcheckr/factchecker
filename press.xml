@@ -4,16 +4,24 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 00:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[알고보니] 특혜 아니라는데‥구치소 독방 왜 자꾸 논란되나]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3722</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3722</guid>
+            <title><![CDATA[[팩트체크] 특정후보 기표란만 코팅?…부정선거 의혹 확인해보니]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3724</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3724</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 음주측정 거부와 경찰관 폭행 혐의 등으로 재판에 넘겨진 래퍼 장용준씨가 주목을 받았습니다. 장씨가 5개월째 서울구치소에 독거실(독방)에 수감중인게 특혜가 아니냐는 논란이 인 것입니다. 아버지인 장제원 국민의힘]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--703623521434fabc7844d983c9f5a13c0a68544b/fcb32aa945b28d891ef75acdb48d69f8.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[이뿐만이 아닙니다. 다른 곳에서도 부정선거라는 주장들이 터져 나왔습니다. 선관위가 신뢰를 주지 못한 탓에 가짜뉴스가 더욱 기승..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69dc9364e1e53a6fc33e769ab9410d271dfe00e3/827a9a095efd3d91c5c0db896d23e746.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 윤석열 정부에서 최저임금 폐지된다고?(종합) | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3723</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3723</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대통령선거에서 국민의힘 윤석열 후보의 당선이 확정된 이후 온라인 커뮤니티에는 최저임금이...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1c563b8db1663d631e5c02571b4bdf691d3e68e0/2c7f58462c004c9a0bddb2287bc2acd6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 우리나라 성평등은 뒤떨어져 있다? | 연합뉴스]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2016~2018년 3년간 고양시 102건·성남시 25건... 시장 권한이지만 보건소장이 결정”]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d92884fece04402e12f9295adcb2114f73c5c657/0ec00c15ea7cc7f201019b021348dc94.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 유럽 주요 국가는 의료비 본인부담상한제 한다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3709</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3709</guid>
-            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 20대 대선에 출마한 정의당 심상정 후보가 의료비 본인부담상한제를 공약으로 내걸어 주목받고 있...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38b1df0985a612bc98cc55df3162720f6e538648/c4604f649fb64731cf2b1f8114dc391c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 00:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트 운영사 ‘두나무’, 대규모 기업집단 지정 여부 결정된 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3727</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3727</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “대규모 기업집단 지정 관련해 업비트 운영사 ‘두나무’의 지정 여부는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba57a123f89a3eac94c35dffe55678251b478588/e4ee0c2325969898b1717eecd428356e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[작업중지 해제 평균 40.5일 소요…사업주 신청 시 법령 따라 결정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3726</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3726</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “작업중지 해제는 평균 40.5일이 소요되며 사업주 신청 시 법령에 따라 결정하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0liIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f4adcc862d22c685bbc1fbf981c8d52dd8fb4c3/06b5aab80cd393fefad4d91b472e0f9a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[유세차 사고, 중대재해처벌법 적용 여부 아직 미확정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3725</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3725</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 유세차 사망 사고와 관련해 “중대재해처벌법 적용 여부는 아직 확정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0ViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbc69a50fdc29944246537f7621f0f73c0a37f14/27082905c7d0be31db0f300e2b259267.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[산업안전보건공단 누리집 사망사고 속보, 산재사망사고 통계로 활용하면 안돼]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3721</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “원전 건설 지연은 경주·포항 지진 및 격납건물 공극 발견에 따른 안전성 보강조치에 기인한 것이며, 정부의 에너지 전환정책 기조에는 변함이 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86ab3a3c536988c5116c01dba22631341facafe7/2ec2216e763aa52aa64dbcd490dc33b2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 에너지공급망 현안점검 회의, 우크라 사태 확산·장기화 대비 원전 운영실태 등 미리 점검 목적]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3682</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3682</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “글로벌 에너지 공급망 현안점검 회의는 우크라이나 사태에 따른 주요 에너지 자원의 단기적 수급영향이 제한적이며 전력공급이 안정적임에도 불구하고, 사태가 확산·장기화돼 에너지 공급망 불안이 상당기간 지속될 경우를 대비하기 위해 원전의 운영실태와 건설상황을 미리 점검하고 최대한 활용 가능한 여력을 준비하고자 한 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--487c7ffa97156aab7475f2d330b3dbbbcf500506/92504f04f63e3d99cf3bd2b5ff3956f6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동통신서비스업 등 통신장애 분쟁해결기준 개선방안, 연구 진행 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3663</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3663</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “이동통신서비스업, 초고속인터넷망서비스업 등의 통신장애와 관련해 분쟁해결기준 개선방안 연구를 진행중에 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0cdfb3420294bb0c4155a7967a0f85f35f9897ee/265e9dab8a6da53784124f7629d23dda.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 발생 산재사망사고 모두 신속·엄정 수사 진행 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3662</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3662</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “올해 발생한 산재사망사고 64건 모두 책임 규명을 위해 신속하게 수사에 착수해 철저히 수사하고 있으며, 법 위반 혐의가 있음에도 비수사 대상으로 분류한 사실이 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9b3cc51912d07b7bcd53a69f285b7da1707008bf/5b89d0f0c1f73e50c84b4b502ea43f00.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
