@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대만 김건희씨 외모 관련 반응 보도 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/569</link>
+            <guid>https://factchecker.or.kr/fc_suggests/569</guid>
+            <pubDate>Mon, 14 Mar 2022 07:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 대선 이후 다수의 언론에서 대만 네티즌들이 김건희 씨 외모를 두고 한류스타 같다 등의 반응을 보였다는 기사를 쏟아냈습니다.&nbsp;
+대만에서 김건희 여사의 외모가 화제다. 대만 네티즌들은 “한류스타 같다”며 관심을 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[3차발효 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/568</link>
             <guid>https://factchecker.or.kr/fc_suggests/568</guid>
@@ -237,7 +245,7 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 06:15:58 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 07:12:43 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -246,7 +254,7 @@ annaija
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 06:15:58 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 07:12:43 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
@@ -279,13 +287,6 @@ moon
             <guid>https://factchecker.or.kr/fc_suggests/556</guid>
             <pubDate>Tue, 08 Mar 2022 23:12:28 GMT</pubDate>
             <content:encoded><![CDATA[투표용지는 국민의 의무를 이행하는 중대한 상항 인데 소종하게 다뤄야할 투표용지를 훼손시켜도 법의 저촉은 안되는지&nbsp; 궁금??]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[낙화암과 삼천궁녀? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/555</link>
-            <guid>https://factchecker.or.kr/fc_suggests/555</guid>
-            <pubDate>Tue, 08 Mar 2022 23:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[백제 멸망 당시 당나라군에 쫓백제궁녀 삼천명이 부소산 낙화암에서 투신했다???]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 최저임금제·주52시간제·여성가족부 폐지한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

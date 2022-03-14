@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-14T06:16:41.773Z</updated>
+    <updated>2022-03-14T07:13:25.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 김건희씨 외모 관련 반응 보도 팩트체크]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/569</id>
+        <link href="https://factchecker.or.kr/fc_suggests/569"/>
+        <updated>2022-03-14T07:12:43.843Z</updated>
+        <content type="html"><![CDATA[안녕하세요. 대선 이후 다수의 언론에서 대만 네티즌들이 김건희 씨 외모를 두고 한류스타 같다 등의 반응을 보였다는 기사를 쏟아냈습니다.&nbsp;
+대만에서 김건희 여사의 외모가 화제다. 대만 네티즌들은 “한류스타 같다”며 관심을 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3차발효]]></title>
         <id>https://factchecker.or.kr/fc_suggests/568</id>
@@ -33,19 +41,19 @@
 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-14T06:15:58.032Z</updated>
+        <updated>2022-03-14T07:12:43.792Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-14T06:15:58.052Z</updated>
+        <updated>2022-03-14T07:12:43.794Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>
@@ -78,12 +86,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/556"/>
         <updated>2022-03-08T23:12:28.274Z</updated>
         <content type="html"><![CDATA[투표용지는 국민의 의무를 이행하는 중대한 상항 인데 소종하게 다뤄야할 투표용지를 훼손시켜도 법의 저촉은 안되는지&nbsp; 궁금??]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낙화암과 삼천궁녀?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/555</id>
-        <link href="https://factchecker.or.kr/fc_suggests/555"/>
-        <updated>2022-03-08T23:12:28.274Z</updated>
-        <content type="html"><![CDATA[백제 멸망 당시 당나라군에 쫓백제궁녀 삼천명이 부소산 낙화암에서 투신했다???]]></content>
     </entry>
 </feed>
