@@ -2,16 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-14T03:15:32.109Z</updated>
+    <updated>2022-03-14T04:20:16.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[3차발효 효소]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/564</id>
-        <link href="https://factchecker.or.kr/fc_suggests/564"/>
-        <updated>2022-03-12T00:44:50.080Z</updated>
+        <title type="html"><![CDATA[3차발효]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/568</id>
+        <link href="https://factchecker.or.kr/fc_suggests/568"/>
+        <updated>2022-03-14T04:18:32.262Z</updated>
         <content type="html"><![CDATA[3차 발효라고 하면서 먹으면 혈압 당뇨 심지어는 무좀 게다가 심장에도 좋다면서 어머니께서 그동안 먹던 약을 끊고 먹어라고 시키는대로 하시고 답답하네요
-살과 근육이 빠진다고 하니 빠지면서 다시 자라난다면서 심지어는 또 고혈...]]></content>
+&nbsp;
+살과 근육이 빠진다고 하니 빠지면서 다시 자라난다면서 심지어는 또 ...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했나요??????]]></title>
@@ -35,7 +36,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-14T03:14:45.015Z</updated>
+        <updated>2022-03-14T04:18:32.224Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content>
@@ -44,7 +45,7 @@ annaija
         <title type="html"><![CDATA[4]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-14T03:14:45.016Z</updated>
+        <updated>2022-03-14T04:18:32.224Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>

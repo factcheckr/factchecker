@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,12 +207,13 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[3차발효 효소 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/564</link>
-            <guid>https://factchecker.or.kr/fc_suggests/564</guid>
-            <pubDate>Sat, 12 Mar 2022 00:44:50 GMT</pubDate>
+            <title><![CDATA[3차발효 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/568</link>
+            <guid>https://factchecker.or.kr/fc_suggests/568</guid>
+            <pubDate>Mon, 14 Mar 2022 04:18:32 GMT</pubDate>
             <content:encoded><![CDATA[3차 발효라고 하면서 먹으면 혈압 당뇨 심지어는 무좀 게다가 심장에도 좋다면서 어머니께서 그동안 먹던 약을 끊고 먹어라고 시키는대로 하시고 답답하네요
-살과 근육이 빠진다고 하니 빠지면서 다시 자라난다면서 심지어는 또 고혈...]]></content:encoded>
+&nbsp;
+살과 근육이 빠진다고 하니 빠지면서 다시 자라난다면서 심지어는 또 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인이 한국식 나이를 폐지하겠다고 공약했나요?????? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -236,7 +237,7 @@ https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></conten
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 03:14:45 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 04:18:32 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -245,7 +246,7 @@ annaija
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 03:14:45 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 04:18:32 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content:encoded>
