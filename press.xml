@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 00:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알고보니] 밤낮없이 산불 진압해도‥ 초과근무수당 '0원'?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3733</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3733</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[알고보니 시작합니다. 역대 최장, 최악의 피해 규모를 기록한 이번 동해안 산불에는 그만큼이나 많은 진화인력이 투입이 됐습니다. 이들 가운데는 산림청 소속의 산불재난 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--edcbb4bba4e7c508481e72ca1e03a274ed8cfcb5/de11b8a564305b944b5ae40f8524295c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 군대에서 휴대전화 사용 못 하게 된다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3732</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3732</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 새 정부의 밑그림을 그릴 대통령직인수위원회(인수위) 출범을 앞두고 군대에서 휴대전화를 사용하지 못하게 되는 게 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d3e141f0c8808cb032d6dde0781ef850452a0fe/1df2aef1da5505b6b223b137b9dea738.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]“새정부 청년희망적금 없앤다” 괴담 확산… 폐지 자체가 불가능]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3731</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3731</guid>
+            <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 공약인 ‘청년도약계좌’희망적금 가입자 중복가입 안돼갈아타기 허용한것이 오해 불러도약계좌 재원 마..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclliIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--45855918b831a577e52d2b4611a528db59532279/cf722e74b6f5a667fadd5ce7b670141c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 최저임금제·주52시간제·여성가족부 폐지한다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3729</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대선후보들의 공약 체크를 이어갑니다. 복지 공약, 그중에서도 육아휴직 급여를 집중적으로 따져봤습니다. 후보들마다 차이가 컸..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a452579862c7d8242a77183d7796a3c3d00415f2/647d704a421a8657571d49508527f9cf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[깐팩] 윤석열 성인지 예산 발언, 모두 사실과 달랐다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3717</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3717</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대선후보가 지난달 27일 경북 포항 유세에서 “(문재인) 정부가 성인지 감수성 예산이란 걸 30조 썼다고 알려져 있다”며 “그 돈이면 그 중 일부만 떼어내도 우리가 이북(북한)의 저런 말도 안 되는 핵 위협을 안전하게 중층적으로 막아낼 수 있다”고 말했다.윤 후보는 2일 중앙선거관리위원회가 주관한 마지막 TV토론에서 “성인지 예산이라고 하는 건 각 부처에 흩어져 있는 예산 중에 여성에게 도움이 된다는 차원으로 만들어 놓은 예산”이라고 주장하기도 했다.윤석열 후보의 성인지 예산 관련 발언은 사실일까. 여성경제신문이 팩]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--33e53bb6b50dcb0ba8abfb372e4bcd07bfb168fe/39d46adf28e36a16b21eca7e3b05e05f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 확진자가 일반 유권자로 속여 투표하면 처벌은? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3716</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3716</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 20대 대선을 이틀 앞둔 가운데 코로나19 확진자 및 격리자 관리가 선거 막판 정국의 뇌관으로 급부상했다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--040360a92b620952d92e655e9388d710f2642ce5/305789c73c51d52ffda1429ea97c43f9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 우크라이나 참전 위해 출국한 이근, 어떤 처벌받나? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3715</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3715</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 해군특수전전단(UDT/SEAL) 대위 출신 이근 씨가 우크라이나 의용군으로 참전하기 위해 정부 허가를 받지 않고...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd222cdb44df559cf1e65bdbbf9d315a090f7b22/ee1ad998325b11b84d58776805d756af.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
