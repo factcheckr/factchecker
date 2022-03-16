@@ -4,9 +4,21 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 10:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 11:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과일은 공복에 먹는 것이 좋다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/307</link>
+            <guid>https://factchecker.or.kr/fc_subjects/307</guid>
+            <pubDate>Wed, 16 Mar 2022 11:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 영상을 살펴보면 과일을 식사 후 두시간, 식전 1-2시간 공복에 배고플 때 먹는 것이 좋다는 영상이 여러 개 있습니다. 특히 식후에 바로 과일을 먹으면 빨리 분해 흡수되는 과딩이 몇 시간에 걸쳐 천천히 분해흡수되는 먼저 먹은 음식물에 가로막혀 문제를 일으킨다는 논리를 전개합니다.
+(예-https://www.youtube.com/watch?v=8QylckRFK84&amp;t=9s)
+그런데 어떤 영상은 과당이 장에서 분해 흡수하는 양이 제한적이라 과일을 공복, 식전이나 식후 한꺼번에 먹는 것보다 식중이나 식후까지 여러번에 걸쳐 조금씩 나누어 음식믈과 함께 먹는 것이 좋다는 영상 정보도 있습니다.
+(https://www.youtube.com/watch?v=3d8VNzkInXg&amp;t=4s)
+저는 후자의 주장처럼 음식과 함께 과일을 같이 조금씩 나눠먹고 있거든요. 근데 아내는 그러면 독을 먹는 거라고 구박을 합니다. 팩트를 체크해주셔서 저의 억울함을 풀어주세요.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유명인 독거실(독방) 수용, 특혜일까?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/303</link>
@@ -96,14 +108,6 @@ https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;]]></content:encode
             <content:encoded><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
 https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전동 킥보드 음주운전, 자동차와 동일 처벌 ?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/284</link>
-            <guid>https://factchecker.or.kr/fc_subjects/284</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[최근 전동 킥보드 음주운전이 증가하고 있습니다. 11월 기준, 5월 대비 전동 킥보드 음주운전 적발 건수가 3배나 늘었습니다. 지난 달 유명 야구선수가 만취 상태로 킥보드를 운전하다 자동차 면허가 취소됐다는 소식이 보도됐습니다. 지난 6일에는 음주를 한 상태에서 전동 킥보드를 탄 회사원이 운전면허 취소까지는 부당하다면서 행정심판을 청구했지만, 국민권익위원회는 이를 기각했습니다. 전동 킥보드 음주운전이 적발되면 자동차 운전면허까지 취소되는 것이 맞는지, 일반 자동차 음주운전과 비교했을 때 어떤 수위의 처벌을 받는지 궁금증과 경각심이 퍼져나갔습니다. &lt;알고보니&gt;팀이 이에 대한 정확한 정보를 확인했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
