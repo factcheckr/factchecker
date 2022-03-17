@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-17T11:12:33.243Z</updated>
+    <updated>2022-03-17T12:22:20.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[테스트]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/308</id>
+        <link href="https://factchecker.or.kr/fc_subjects/308"/>
+        <updated>2022-03-17T12:21:19.663Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/308">진술문
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과일은 공복에 먹는 것이 좋다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/307</id>
@@ -99,15 +107,6 @@ https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/295</id>
-        <link href="https://factchecker.or.kr/fc_subjects/295"/>
-        <updated>2022-02-11T05:10:09.714Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/295">미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
-https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;
 </a>]]></content>
     </entry>
 </feed>
