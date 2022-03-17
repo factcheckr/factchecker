@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 00:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물류·IT 서비스 공시 기준 마련…공시제도 개편도 추진]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3747</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3747</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “기업집단 의견을 적극 반영해 물류·IT 서비스 공시 기준을 마련하고, 공시제도 개편도 함께 추진하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc436ee713fd18c17b3787adb01c82f4ba0599a4/600365575d96dbb18fdf84443563d421.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[무궁화대훈장, ‘상훈법’에 따라 우리나라 대통령 등에게 수여]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3742</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 “지역사랑상품권 사업자가 지자체로부터 국민지원금 대금을 선지급 받아 발생하는 이자수익은 지자체로 전액 반납된다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28a356b5822059bf0dd46172b1036d481a204061/c1d8a1aace1e441ed3dd095befbe5904.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내산 농산물 소비확대 통한 농업인 소득향상 위해 전통주 산업 진흥·육성]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3685</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3685</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[농림축산식품부는 “국내산 농산물 소비 확대를 통한 농업인의 소득향상을 위해 전통주 산업을 진흥 육성하고 있다”며 “향후 전통주 산업 육성 및 국산농산물 소비확대를 위해 전통주 소비·홍보, 찾아가는 양조장 선정, 양조용 발효제 보급, 국산 농산물 원료구매 등을 지원하고 전통주의 품질향상을 위해 연구지원, 품질 및 경영·마케팅 컨설팅지원, 전통주 산업 활성화]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1liIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--430130ab2c17a9953e01d9b8e804231ee769e953/827db254368d41a93bfc26d71811a822.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
