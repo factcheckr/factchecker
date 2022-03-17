@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 12:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 13:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[테스트 (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/308</link>
-            <guid>https://factchecker.or.kr/fc_subjects/308</guid>
-            <pubDate>Thu, 17 Mar 2022 12:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/308">진술문
-</a>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/307</link>
@@ -112,12 +104,13 @@ https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테스트 (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/308</link>
-            <guid>https://factchecker.or.kr/fc_subjects/308</guid>
-            <pubDate>Thu, 17 Mar 2022 12:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[진술문]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/295</link>
+            <guid>https://factchecker.or.kr/fc_subjects/295</guid>
+            <pubDate>Thu, 17 Mar 2022 13:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/295">미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;
+</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -211,6 +204,15 @@ https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;]]></content:encode
 &nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/295</link>
+            <guid>https://factchecker.or.kr/fc_subjects/295</guid>
+            <pubDate>Thu, 17 Mar 2022 13:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요. 얼마나 위험한지도 궁금합니다.
+https://www.docdocdoc.co.kr/news/articleView.html?idxno=2007738&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성냥과 라이터 중 성냥이 더 환경적인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
