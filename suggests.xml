@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-18T00:49:18.665Z</updated>
+    <updated>2022-03-18T02:19:27.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청와대 이전 비용 대체 뭐가 팩트죠?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/572</id>
+        <link href="https://factchecker.or.kr/fc_suggests/572"/>
+        <updated>2022-03-18T02:18:44.928Z</updated>
+        <content type="html"><![CDATA[윤석열 당선자의 청와대 이전 공약을 놓고 시끄러운데요.&nbsp;
+용산으로 이전할 때의 비용 예측에 대해 언론보도가 제각각이어서 뭐가 사실인지 모르겠어요.&nbsp;
+500억이 든다(현실 장벽에 가로막힌 `脫청와대 공약` - 디지털타임스 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성냥과 라이터 중 성냥이 더 환경적인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/571</id>
@@ -58,19 +67,19 @@
 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-18T00:48:34.879Z</updated>
+        <updated>2022-03-18T02:18:44.814Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-18T00:48:34.879Z</updated>
+        <updated>2022-03-18T02:18:44.816Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>
@@ -81,13 +90,5 @@ moon
         <link href="https://factchecker.or.kr/fc_suggests/559"/>
         <updated>2022-03-08T23:12:28.272Z</updated>
         <content type="html"><![CDATA[의사들은 통상 물을 많이 성취하는 것이 건강에 도움이 된다고하고 한의학에서는 물을 너무 많이 마시면 위에 부담만 준다고 하는데 그 진실은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라스틱 쓰레기]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/558</id>
-        <link href="https://factchecker.or.kr/fc_suggests/558"/>
-        <updated>2022-03-08T23:12:28.273Z</updated>
-        <content type="html"><![CDATA[https://youtube.com/shorts/mOa-JonHukY?feature=share
-진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content>
     </entry>
 </feed>
