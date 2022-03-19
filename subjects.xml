@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 09:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/313</link>
+            <guid>https://factchecker.or.kr/fc_subjects/313</guid>
+            <pubDate>Sat, 19 Mar 2022 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2일 20대 대선 후보 TV토론에서 안철수 당시 후보는 2020년 OECD 자료를 보면 전국민 재난지원금을 지급한 건 미국과 일본 그리고 대한민국 세 나라뿐이라며 이재명 후보의 정책을 비난했습니다. 다른 한편에선 국가의 재정지출은 턱없이 부족하다며 여타 국가 대비 우리나라 정부 지원 부족을 꼬집었습니다. 한미일 삼국만이 전국민 재난지원금을 지급했다는 발언이 사실인지 살펴보고, 사실이라면 한국 정부보다 많은 지출을 한 국가들은 어디에 재정을 투입했는지 살펴봅니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리나라의 노사협력 분야 경쟁력은 줄곧 세계 최하위 수준이다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/312</link>
@@ -96,13 +104,6 @@ https://segye.com/newsView/20220126520952?OutUrl=naver]]></content:encoded>
             <content:encoded><![CDATA[온라인 커뮤니티를 돌아다니다 보니까 을지문덕 장군은 언제 태어났는지, 어디 출신인지, 어떻게 관직에 등용했는지 등이 하나도 알려지지 않은 인물이라고 하는 글을 봤는데요.역사적 사실 여부를 떠나서 관련된 정보가 하나도 알려지지 않은 인물이라는게 맞는 말인가요?을지문덕 장군과 관련된 정보를 다룬 논문이나 연구결과 조차도 없는 건가요?
 https://www.instiz.net/pt/7086840?page=5&amp;category=1&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔(UN) 공식 통용어에 한국어가 포함된다고?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/297</link>
-            <guid>https://factchecker.or.kr/fc_subjects/297</guid>
-            <pubDate>Fri, 11 Feb 2022 05:10:17 GMT</pubDate>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
