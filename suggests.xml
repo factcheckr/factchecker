@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-19T02:09:02.007Z</updated>
+    <updated>2022-03-19T03:13:17.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유산균 제품을 먹어도 장내유익균이 되지 않나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/573</id>
+        <link href="https://factchecker.or.kr/fc_suggests/573"/>
+        <updated>2022-03-19T03:12:34.948Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/pLj7-hsq6kw
+&nbsp;
+우리가 먹는 프로바이오틱스는
+장내유익균이 되지 않고&nbsp;
+잠시 머물다가 배출된다는데
+사실인가요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청와대 이전 비용 대체 뭐가 팩트죠?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/572</id>
@@ -67,28 +79,21 @@
 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-19T02:08:16.260Z</updated>
+        <updated>2022-03-19T03:12:34.871Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-19T02:08:16.275Z</updated>
+        <updated>2022-03-19T03:12:34.872Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 moon
 2022.03.07 07:43:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성인 한사람이 하루에 섭취해야 하는 물의 양은?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/559</id>
-        <link href="https://factchecker.or.kr/fc_suggests/559"/>
-        <updated>2022-03-08T23:12:28.272Z</updated>
-        <content type="html"><![CDATA[의사들은 통상 물을 많이 성취하는 것이 건강에 도움이 된다고하고 한의학에서는 물을 너무 많이 마시면 위에 부담만 준다고 하는데 그 진실은?]]></content>
     </entry>
 </feed>
