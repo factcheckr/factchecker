@@ -2,16 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-21T10:14:29.369Z</updated>
+    <updated>2022-03-21T11:12:16.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않았다?]]></title>
+        <title type="html"><![CDATA[문재인 정부는 어떤 연금 개혁도 추진하지 않았다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/320</id>
         <link href="https://factchecker.or.kr/fc_subjects/320"/>
         <updated>2022-03-21T09:12:54.260Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/320">문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않음
 제20대 대통령선거 국민의힘 정책공약집 p.135
+&nbsp;
+
 </a>]]></content>
     </entry>
     <entry>
