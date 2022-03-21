@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 11:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 12:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테스트 (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/321</link>
+            <guid>https://factchecker.or.kr/fc_subjects/321</guid>
+            <pubDate>Mon, 21 Mar 2022 12:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/321">검증대상
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[문재인 정부는 어떤 연금 개혁도 추진하지 않았다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/320</link>
@@ -53,6 +61,14 @@
 </a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/309</link>
+            <guid>https://factchecker.or.kr/fc_subjects/309</guid>
+            <pubDate>Mon, 21 Mar 2022 12:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/309">국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다?
+</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/307</link>
             <guid>https://factchecker.or.kr/fc_subjects/307</guid>
@@ -81,24 +97,12 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[60대 이상에서 백신 접종과 비접종간 중증화 예방 차이 거의없다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/301</link>
-            <guid>https://factchecker.or.kr/fc_subjects/301</guid>
-            <pubDate>Mon, 28 Feb 2022 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/301">https://blog.naver.com/cschoi415/222650067639
-&nbsp;
-60대 이상에서 백신 접종으로 인한 감염예방과 중증화 예방 효과가 없다?
-&nbsp;
-&nbsp;
-</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[종이테이프, 종이 상자와 함께 버려도 재활용된다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/300</link>
-            <guid>https://factchecker.or.kr/fc_subjects/300</guid>
-            <pubDate>Fri, 18 Feb 2022 09:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/300">택배 상자를 비롯한 종이 상자에 붙어 있는 포장용 비닐테이프는 반드시 떼고 버려야 한다는 건 요즘 대부분 사람들이 알고 있습니다. 요즘은 비닐테이프 대신 종이테이프가 많이 쓰이기도 하는데요. 얼핏 생각하면 테이프와 상자 모두 종이 재질이어서 재활용하는 데 아무런 문제가 없을 것 같아 보이기도 합니다. 정말 아무런 문제가 없는 것인지 확인해봤습니다.
-</a>]]></content:encoded>
+            <title><![CDATA[테스트 (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/321</link>
+            <guid>https://factchecker.or.kr/fc_subjects/321</guid>
+            <pubDate>Mon, 21 Mar 2022 12:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[검증대상]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[문재인 정부는 어떤 연금 개혁도 추진하지 않았다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -144,6 +148,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/309</link>
+            <guid>https://factchecker.or.kr/fc_subjects/309</guid>
+            <pubDate>Mon, 21 Mar 2022 12:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/307</link>
             <guid>https://factchecker.or.kr/fc_subjects/307</guid>
@@ -170,26 +182,6 @@
             <pubDate>Wed, 09 Mar 2022 02:11:16 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[60대 이상에서 백신 접종과 비접종간 중증화 예방 차이 거의없다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/301</link>
-            <guid>https://factchecker.or.kr/fc_subjects/301</guid>
-            <pubDate>Mon, 28 Feb 2022 07:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222650067639
-&nbsp;
-60대 이상에서 백신 접종으로 인한 감염예방과 중증화 예방 효과가 없다?
-&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[종이테이프, 종이 상자와 함께 버려도 재활용된다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/300</link>
-            <guid>https://factchecker.or.kr/fc_subjects/300</guid>
-            <pubDate>Fri, 18 Feb 2022 09:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[택배 상자를 비롯한 종이 상자에 붙어 있는 포장용 비닐테이프는 반드시 떼고 버려야 한다는 건 요즘 대부분 사람들이 알고 있습니다. 요즘은 비닐테이프 대신 종이테이프가 많이 쓰이기도 하는데요. 얼핏 생각하면 테이프와 상자 모두 종이 재질이어서 재활용하는 데 아무런 문제가 없을 것 같아 보이기도 합니다. 정말 아무런 문제가 없는 것인지 확인해봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성일종 의원의 청와대 용산이전에 대해 김병주의원의 말이 전혀 틀리다라고 했습니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -276,7 +268,7 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 11:11:31 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 12:20:45 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
