@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않았다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/320</link>
+            <guid>https://factchecker.or.kr/fc_subjects/320</guid>
+            <pubDate>Mon, 21 Mar 2022 09:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않음
+제20대 대통령선거 국민의힘 정책공약집 p.135]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태양광 발전 시설이 신안군 인구 유입을 이끌었다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/316</link>
@@ -21,7 +30,7 @@
             <guid>https://factchecker.or.kr/fc_subjects/313</guid>
             <pubDate>Sat, 19 Mar 2022 09:12:05 GMT</pubDate>
             <content:encoded><![CDATA[지난 2일 20대 대선 후보 TV토론에서 안철수 당시 후보는 2020년 OECD 자료를 보면 전국민 재난지원금을 지급한 건 미국과 일본 그리고 대한민국 세 나라뿐이라며 이재명 후보의 정책을 비난했습니다. 다른 한편에선 국가의 재정지출은 턱없이 부족하다며 여타 국가 대비 우리나라 정부 지원 부족을 꼬집었습니다. 한미일 삼국만이 전국민 재난지원금을 지급했다는 발언이 사실인지 살펴보고, 사실이라면 한국 정부보다 많은 지출을 한 국가들은 어디에 재정을 투입했는지 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우리나라의 노사협력 분야 경쟁력은 줄곧 세계 최하위 수준이다?]]></title>
@@ -87,22 +96,6 @@
             <pubDate>Fri, 18 Feb 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[택배 상자를 비롯한 종이 상자에 붙어 있는 포장용 비닐테이프는 반드시 떼고 버려야 한다는 건 요즘 대부분 사람들이 알고 있습니다. 요즘은 비닐테이프 대신 종이테이프가 많이 쓰이기도 하는데요. 얼핏 생각하면 테이프와 상자 모두 종이 재질이어서 재활용하는 데 아무런 문제가 없을 것 같아 보이기도 합니다. 정말 아무런 문제가 없는 것인지 확인해봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/299</link>
-            <guid>https://factchecker.or.kr/fc_subjects/299</guid>
-            <pubDate>Mon, 14 Feb 2022 02:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222637605327
-&nbsp;
-
-
-http://m-economynews.com/news/article.html?no=32569
-&nbsp;
-
-
-https://segye.com/newsView/20220126520952?OutUrl=naver]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

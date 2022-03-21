@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-21T08:16:51.756Z</updated>
+    <updated>2022-03-21T09:13:51.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않았다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/320</id>
+        <link href="https://factchecker.or.kr/fc_subjects/320"/>
+        <updated>2022-03-21T09:12:54.260Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/320">문재인 정부가 재정적 지속가능성 문제를 방치하고 어떤 개혁도 추진하지 않음
+제20대 대통령선거 국민의힘 정책공약집 p.135
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태양광 발전 시설이 신안군 인구 유입을 이끌었다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/316</id>
@@ -85,24 +94,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/300"/>
         <updated>2022-02-18T09:12:02.380Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/300">택배 상자를 비롯한 종이 상자에 붙어 있는 포장용 비닐테이프는 반드시 떼고 버려야 한다는 건 요즘 대부분 사람들이 알고 있습니다. 요즘은 비닐테이프 대신 종이테이프가 많이 쓰이기도 하는데요. 얼핏 생각하면 테이프와 상자 모두 종이 재질이어서 재활용하는 데 아무런 문제가 없을 것 같아 보이기도 합니다. 정말 아무런 문제가 없는 것인지 확인해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/299</id>
-        <link href="https://factchecker.or.kr/fc_subjects/299"/>
-        <updated>2022-02-14T02:22:18.888Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/299">
-
-https://blog.naver.com/cschoi415/222637605327
-&nbsp;
-
-
-http://m-economynews.com/news/article.html?no=32569
-&nbsp;
-
-
-https://segye.com/newsView/20220126520952?OutUrl=naver
 </a>]]></content>
     </entry>
 </feed>
