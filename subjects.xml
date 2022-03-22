@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 00:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국은 ‘세계 갈등 1위’ 국가다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/323</link>
+            <guid>https://factchecker.or.kr/fc_subjects/323</guid>
+            <pubDate>Tue, 22 Mar 2022 00:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;
+최근 온라인 커뮤니티 등에서 우리나라가 세계 갈등 1위로 공인을 받았다는 주장이 제기됐습니다.전 세계인을 대상으로 한 조사에서 우리나라가 가장 많은 갈등을 겪고 있는 나라로 선정되었다는 것입니다. 해당 주장은 지난해 6월 영국 킹스컬리지가 여론조사기관인 입소스에 의뢰해 발간한 보고서를 근거로 내세우고 있습니다. 우리나라가 세계에서 갈등 1위 국가로 선정되었는지, 보고서는 이에 대해 어떤 분석을 내놓았는지, 한국이 갈등 1위 국가라는 주장을 뒷받침할만한 다른 연구 보고서는 있는지 &lt;알고보니&gt;에서 확인해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[문재인 정부는 어떤 연금 개혁도 추진하지 않았다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/320</link>
@@ -85,18 +94,6 @@
             <pubDate>Wed, 09 Mar 2022 02:11:24 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[60대 이상에서 백신 접종과 비접종간 중증화 예방 차이 거의없다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/301</link>
-            <guid>https://factchecker.or.kr/fc_subjects/301</guid>
-            <pubDate>Mon, 21 Mar 2022 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[https://blog.naver.com/cschoi415/222650067639
-&nbsp;
-60대 이상에서 백신 접종으로 인한 감염예방과 중증화 예방 효과가 없다?
-&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
