@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-03-22T09:13:44.904Z</updated>
+    <updated>2022-03-22T10:16:22.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -10,18 +10,18 @@
         <id>https://factchecker.or.kr/fc_publications/87</id>
         <link href="https://factchecker.or.kr/fc_publications/87"/>
         <updated>2022-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Q. 윤석열 당선인은 역대 당선인 중 가장 빠른 시간 안에 미국 대통령과 통화했다? Yes
+        <content type="html"><![CDATA[Q. 윤석열 당선인은 역대 당선인 중 가장 빠른 시간 안에 미국 대통령과 통화했다? 어느 정도 Yes.
 &nbsp;
 윤석열 당선인과 조 바이든 미국 대통령이 통화한 일자는 2022년 3월 10일 오전 10시경이었습니다.
-검증 결과, 이는 다른 대통령 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
-대부분의 대통령 당선인들은 대선 하루 뒤에 미국 대통령과 전화 통화를 한 것으로 나타났습니다.
-1990년~2022년 사이에 치러졌던 대선 결과를 정리했습니다. (빅카인즈에서 검색 가능한 1990년 이후의 대선을 조사)
+검증 결과, 이는 1990년 이후에 당선된 다른 대통령 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
+1990년 이전 기록은 찾을 수 없었습니다. 때문에 역대 당선인 전부를 통틀어 1등인지 여부는 판가름할 수 없었습니다.
+아래 자료는 1990년~2022년 사이에 치렀던 대선 결과를 정리한 표입니다. (빅카인즈에서 검색 가능한 1990년 이후의 대선을 조사)
 
 &nbsp;
 1. 20대 대선(당선인: 윤석열)
 윤석열 당선인과 조 바이든 미국 대통령은 대선 다음날인 2022년 3월 10일 오전 10시 또는 오전 9시 20분에 통화했습니다.
 - 서울경제 &lt;바이든, 尹 당선 첫날부터 밀착…흔들린 한미동맹 복원 의기투합&gt;, 2022.03.10
-조 바이든 미국 대통령이 미국 동부 시각으로 9일 오후 7시 40분(한국 시간 10일 오전 9시 40분) 윤석열 대통령 ...]]></content>
+조 바이든 미국 대통령이 미국 동부 시각으로...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다?]]></title>
