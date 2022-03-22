@@ -4,17 +4,9 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 00:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3768</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3768</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스데스크] 알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. 한국이 갈등 세계 1위 됐다, 한국이 문화전쟁이 가장 심한 곳이다. 우리 사회의 갈등이 세계]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6396b774072fb0065e1262b5ede98ec06de3d514/80f7527e4d23837bc76f7d1b70544393.jpeg" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[팩트체크K] 화이자 백신 접종하면 난소암에 걸린다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3767</link>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 최근에는 산부인과와 어린이 병원까지 포격하면서 수많은 민간인 사상자가 나왔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac8dba48e07676f241897dd41eac71ee833ce841/82f8ad62af283fb863264326db487b71.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3756</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3756</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. 한국이 갈등 세계 1위 됐다, 한국이 문화전쟁이 가장 심한 곳이다. ## ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--32771d4908ffedf4e22fca538d5ca78864a10f49/653f78cf29376088a9d063cf4f863bc7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
