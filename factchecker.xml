@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-22T08:16:13.689Z</updated>
+    <updated>2022-03-22T09:13:44.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/326</id>
+        <link href="https://factchecker.or.kr/fc_subjects/326"/>
+        <updated>2022-03-22T09:12:40.637Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/326">
+〈제20대 대통령 선거 국민의힘 정책공약집〉 150p 청소년 공약에는 위기 청소년을 보호의 울타리로 감싸겠습니다 항목이 포함돼있습니다. 해당 페이지에서는 학업 중단 청소년의 수가 2015년 4만7070명, 2020년에는 5만2261명으로 증가 추세에 있다고 밝혔습니다.
+학업 중단 청소년 수와 관련해 국민의힘에서 제시한 수치가 맞는지 검증해봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/325</id>
@@ -87,14 +97,6 @@
 그런데 어떤 영상은 과당이 장에서 분해 흡수하는 양이 제한적이라 과일을 공복, 식전이나 식후 한꺼번에 먹는 것보다 식중이나 식후까지 여러번에 걸쳐 조금씩 나누어 음식믈과 함께 먹는 것이 좋다는 영상 정보도 있습니다.
 (https://www.youtube.com/watch?v=3d8VNzkInXg&amp;t=4s)
 저는 후자의 주장처럼 음식과 함께 과일을 같이 조금씩 나눠먹고 있거든요. 근데 아내는 그러면 독을 먹는 거라고 구박을 합니다. 팩트를 체크해주셔서 저의 억울함을 풀어주세요.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유명인 독거실(독방) 수용, 특혜일까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/303</id>
-        <link href="https://factchecker.or.kr/fc_subjects/303"/>
-        <updated>2022-03-10T11:11:19.639Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/303">최근 음주 측정에 불응하고 경찰관을 폭행한 혐의 등으로 구속된 래퍼 장용준씨가 주목을 받고 있습니다. 지난해 10월 중순 구속된 장씨는 현재까지 약 5개월간 서울구치소 독거실(독방)에 수감중입니다. 이 사실이 언론을 통해 밝혀지자, 장제원 국민의힘 의원 아들인 장씨의 독거실 수용이 특혜가 아니냐는 논란이 일었습니다. 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”며 의혹에 강하게 반박했습니다. 정재계 인사와 사회적으로 지탄을 받는 인물이 수용될 때마다 반복되었던 독방(독거실) 특혜 논란, 〈알고보니〉가 알아봤습니다.
 </a>]]></content>
     </entry>
 </feed>

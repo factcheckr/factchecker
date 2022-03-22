@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/326</link>
+            <guid>https://factchecker.or.kr/fc_subjects/326</guid>
+            <pubDate>Tue, 22 Mar 2022 09:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[〈제20대 대통령 선거 국민의힘 정책공약집〉 150p 청소년 공약에는 위기 청소년을 보호의 울타리로 감싸겠습니다 항목이 포함돼있습니다. 해당 페이지에서는 학업 중단 청소년의 수가 2015년 4만7070명, 2020년에는 5만2261명으로 증가 추세에 있다고 밝혔습니다.
+학업 중단 청소년 수와 관련해 국민의힘에서 제시한 수치가 맞는지 검증해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/325</link>
@@ -16,7 +25,7 @@
 박진 의원 바이든 미국 대통령이 윤 당선인의 당선이 확정된 지 4시간여 만에 직접 전화 통화를 한 것은 매우 이례적인 일
 조태용 의원 조 바이든 미국 대통령이 윤 당선인에게 당선 4시간 만인, 그야말로 최단시간 내 전화가 닿은 데에 이어 바로 다음날 기시다 총리, 존슨 총리까지 외국 정상의 연락이 단기간 내에 오고 있다
 두 의원들의 말처럼, 윤석열 당선인은 역대 대통령 당선인 중 가장 빨리 미국 대통령과 통화한 당선인일까요? 역대 대한민국 대통령 당선인과 미국 대통령 사이에 통화가 이루어지기까지 과연 얼마만큼의 시간과 일자가 소요됐는지 조사해봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국 '갈등'이 세계 1위?]]></title>
@@ -88,14 +97,6 @@
 (https://www.youtube.com/watch?v=3d8VNzkInXg&amp;t=4s)
 저는 후자의 주장처럼 음식과 함께 과일을 같이 조금씩 나눠먹고 있거든요. 근데 아내는 그러면 독을 먹는 거라고 구박을 합니다. 팩트를 체크해주셔서 저의 억울함을 풀어주세요.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유명인 독거실(독방) 수용, 특혜일까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/303</link>
-            <guid>https://factchecker.or.kr/fc_subjects/303</guid>
-            <pubDate>Thu, 10 Mar 2022 11:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[최근 음주 측정에 불응하고 경찰관을 폭행한 혐의 등으로 구속된 래퍼 장용준씨가 주목을 받고 있습니다. 지난해 10월 중순 구속된 장씨는 현재까지 약 5개월간 서울구치소 독거실(독방)에 수감중입니다. 이 사실이 언론을 통해 밝혀지자, 장제원 국민의힘 의원 아들인 장씨의 독거실 수용이 특혜가 아니냐는 논란이 일었습니다. 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”며 의혹에 강하게 반박했습니다. 정재계 인사와 사회적으로 지탄을 받는 인물이 수용될 때마다 반복되었던 독방(독거실) 특혜 논란, 〈알고보니〉가 알아봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

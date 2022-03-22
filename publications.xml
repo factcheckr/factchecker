@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-03-22T08:16:13.697Z</updated>
+    <updated>2022-03-22T09:13:44.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/87</id>
+        <link href="https://factchecker.or.kr/fc_publications/87"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Q. 윤석열 당선인은 역대 당선인 중 가장 빠른 시간 안에 미국 대통령과 통화했다? Yes
+&nbsp;
+윤석열 당선인과 조 바이든 미국 대통령이 통화한 일자는 2022년 3월 10일 오전 10시경이었습니다.
+검증 결과, 이는 다른 대통령 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
+대부분의 대통령 당선인들은 대선 하루 뒤에 미국 대통령과 전화 통화를 한 것으로 나타났습니다.
+1990년~2022년 사이에 치러졌던 대선 결과를 정리했습니다. (빅카인즈에서 검색 가능한 1990년 이후의 대선을 조사)
+
+&nbsp;
+1. 20대 대선(당선인: 윤석열)
+윤석열 당선인과 조 바이든 미국 대통령은 대선 다음날인 2022년 3월 10일 오전 10시 또는 오전 9시 20분에 통화했습니다.
+- 서울경제 &lt;바이든, 尹 당선 첫날부터 밀착…흔들린 한미동맹 복원 의기투합&gt;, 2022.03.10
+조 바이든 미국 대통령이 미국 동부 시각으로 9일 오후 7시 40분(한국 시간 10일 오전 9시 40분) 윤석열 대통령 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/85</id>
@@ -101,12 +119,5 @@ https://www.un.org/en/ga/info/meetings/75schedule.shtml
 2. 대기오염 물질과 미세먼지
 &nbsp; 1) 대기오염 물질들
 &nbsp; &nbsp;대기는 천체를 둘러싸고 있는 기체로 이루어진 층을 말하며, 일반적으로 지구를 둘러싸고 있는 공기를 말한다. 지구의 대기는 중력으로 유지되며 상당 부분 지구와 같이 회전한다. 공기는 표준 상태(0℃, 760 mmHg)에서 질소 78.084%, 산소 20.946%, 이산화탄소 0.033%, 아르곤 0.934% 등의 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혀는 부위별로 느끼는 맛이 다르다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/76</id>
-        <link href="https://factchecker.or.kr/fc_publications/76"/>
-        <updated>2021-12-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 미각(맛)미각은 인간이 느끼는 감각중의 하나이다. 인간은 오감을 &nbsp;가지고 있는데 &nbsp;볼 수있는 시각(눈), 들을 수 있는 청각(귀), 냄새를 맡는 후각(코), 부드러움이나 거친정도를 느낄 수 있는 촉각(피부), 그리고 맛을 느낄 수 있는 미각(혀) 등이 있다. &nbsp;그 중 &nbsp;지금 우리가 살펴 볼 내용은 미각(맛)에 관한 것이다. 미각은 동물의 생명 유지와 직결된 감각으로 무엇을 먹고 마실 것인가를 평가하는 능력을 제공한다. 가장 기본적으로는 영양소는 섭취하되 독성 물질은 피하기 위한 것이지만, 나아가 선호하거나 혐오하는 음식을 선택 하는 쪽으로 진화되어 왔다.&nbsp; 미각수용세포는 하나의 자극에 엄격하게 따로 반응하도록 되어있지는 않고 기본 맛을 모두 인식한다. 즉 하나의 미각세포는 단맛, 짠맛, 신맛, 쓴맛 모두 감지할 수 있다. 다만, 혀의 각 부위에서 느끼는 맛의 자극은 다를 수 있는데, 이는 뇌가 혀의 부위에 따라 각각 맛을 느끼는 강도가 다르기 때문이다. &nbsp;미각은 혀 표면의...]]></content>
     </entry>
 </feed>
