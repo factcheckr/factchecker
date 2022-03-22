@@ -4,9 +4,20 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 04:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/325</link>
+            <guid>https://factchecker.or.kr/fc_subjects/325</guid>
+            <pubDate>Tue, 22 Mar 2022 04:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령 선거가 끝난 뒤, 국민의힘 박진 의원과 조태용 의원은 윤석열 당선인과 미국 조 바이든 대통령간의 통화가 이례적으로 빨리 이루어졌다고 평가했습니다.&nbsp;
+박진 의원 바이든 미국 대통령이 윤 당선인의 당선이 확정된 지 4시간여 만에 직접 전화 통화를 한 것은 매우 이례적인 일
+조태용 의원 조 바이든 미국 대통령이 윤 당선인에게 당선 4시간 만인, 그야말로 최단시간 내 전화가 닿은 데에 이어 바로 다음날 기시다 총리, 존슨 총리까지 외국 정상의 연락이 단기간 내에 오고 있다
+두 의원들의 말처럼, 윤석열 당선인은 역대 대통령 당선인 중 가장 빨리 미국 대통령과 통화한 당선인일까요? 역대 대한민국 대통령 당선인과 미국 대통령 사이에 통화가 이루어지기까지 과연 얼마의 시간과 일자가 소요됐는지 조사해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국 '갈등'이 세계 1위?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/323</link>
@@ -85,14 +96,6 @@
             <pubDate>Thu, 10 Mar 2022 11:11:26 GMT</pubDate>
             <content:encoded><![CDATA[최근 음주 측정에 불응하고 경찰관을 폭행한 혐의 등으로 구속된 래퍼 장용준씨가 주목을 받고 있습니다. 지난해 10월 중순 구속된 장씨는 현재까지 약 5개월간 서울구치소 독거실(독방)에 수감중입니다. 이 사실이 언론을 통해 밝혀지자, 장제원 국민의힘 의원 아들인 장씨의 독거실 수용이 특혜가 아니냐는 논란이 일었습니다. 장제원 국민의힘 의원은 페이스북에 “어처구니가 없다”면서 “아들의 문제가 발생한 이후, 저는 어떤 개입을 한 적이 없음을 분명히 밝힌다”며 의혹에 강하게 반박했습니다. 정재계 인사와 사회적으로 지탄을 받는 인물이 수용될 때마다 반복되었던 독방(독거실) 특혜 논란, 〈알고보니〉가 알아봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[플라스틱 쓰레기가 석유로 환원된다는데 사실인가요?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/302</link>
-            <guid>https://factchecker.or.kr/fc_subjects/302</guid>
-            <pubDate>Wed, 09 Mar 2022 02:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp; &nbsp; 플라스틱 쓰레기 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; https://youtube.com/shorts/mOa-JonHukY?feature=share&nbsp; &nbsp;진짜 플라스틱 쓰레기가 석유로 환원 가능한지 궁금하네요.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
