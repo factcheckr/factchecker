@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-03-23T16:20:18.669Z</updated>
+    <updated>2022-03-23T17:15:27.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인, 의료민영화 공약했다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/329</id>
+        <link href="https://factchecker.or.kr/fc_subjects/329"/>
+        <updated>2022-03-23T17:14:30.663Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/329">윤석열 당선인, 의료민영화 공약했다?&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/328</id>
@@ -54,7 +62,7 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태양광 발전 시설이 신안군 인구 유입을 이끌었다?]]></title>
+        <title type="html"><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/316</id>
         <link href="https://factchecker.or.kr/fc_subjects/316"/>
         <updated>2022-03-21T07:12:36.428Z</updated>
@@ -85,14 +93,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/310"/>
         <updated>2022-03-18T03:15:55.250Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/310">3월 4일 경북 울진군에서 시작해 삼척시에 이르기까지 동시다발적으로 확산된 동해안 산불이 9일만인 213시간 만에 진화되었습니다. 이번 산불은 역대 최장기, 역대 최대의 피해를 낸 산불로 기록되었습니다. 누적 6만 9천 명이 불을 끄기 위해 투입되었습니다. 이 가운데는 산림청 소속의 산불재난 특수진화대원들이 있습니다. 야간에 산불이 확산되면 진화를 위한 헬기를 띄우기 어렵고 지형이 험난하면 담당 공무원이 들어가기 어렵습니다. 이런 곳에 특수진화대원이 투입됩니다. 특수진화대원들이 이번 동해안 산불 진화에도 추가근무수당을 받지 못한다는 것이 사실인지 〈알고보니〉에서 알아봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/309</id>
-        <link href="https://factchecker.or.kr/fc_subjects/309"/>
-        <updated>2022-03-21T12:20:30.327Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/309">국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다?
 </a>]]></content>
     </entry>
 </feed>
