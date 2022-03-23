@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 09:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 10:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/328</link>
+            <guid>https://factchecker.or.kr/fc_subjects/328</guid>
+            <pubDate>Wed, 23 Mar 2022 10:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/328">우크라이나가 세계 최대 농산물 생산국이라서 전쟁이 나면 농산물 가격이 큰일 난다는 트윗을 봤는데요 여기 나오는 내용이 사실인가요?&nbsp; 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비중이 낮으면 가격에 큰 영향이 없을 것 같은데 사실인지 궁금하네요&nbsp; https://twitter.com/royikim/status/1492451937245184002&nbsp;&nbsp;
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/326</link>
@@ -90,16 +98,12 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/307</link>
-            <guid>https://factchecker.or.kr/fc_subjects/307</guid>
-            <pubDate>Wed, 16 Mar 2022 11:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/307">유튜브 영상을 살펴보면 과일을 식사 후 두시간, 식전 1-2시간 공복에 배고플 때 먹는 것이 좋다는 영상이 여러 개 있습니다. 특히 식후에 바로 과일을 먹으면 빨리 분해 흡수되는 과딩이 몇 시간에 걸쳐 천천히 분해흡수되는 먼저 먹은 음식물에 가로막혀 문제를 일으킨다는 논리를 전개합니다.
-(예-https://www.youtube.com/watch?v=8QylckRFK84&amp;t=9s)
-그런데 어떤 영상은 과당이 장에서 분해 흡수하는 양이 제한적이라 과일을 공복, 식전이나 식후 한꺼번에 먹는 것보다 식중이나 식후까지 여러번에 걸쳐 조금씩 나누어 음식믈과 함께 먹는 것이 좋다는 영상 정보도 있습니다.
-(https://www.youtube.com/watch?v=3d8VNzkInXg&amp;t=4s)
-저는 후자의 주장처럼 음식과 함께 과일을 같이 조금씩 나눠먹고 있거든요. 근데 아내는 그러면 독을 먹는 거라고 구박을 합니다. 팩트를 체크해주셔서 저의 억울함을 풀어주세요.
-</a>]]></content:encoded>
+            <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/328</link>
+            <guid>https://factchecker.or.kr/fc_subjects/328</guid>
+            <pubDate>Wed, 23 Mar 2022 10:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나가 세계 최대 농산물 생산국이라서 전쟁이 나면 농산물 가격이 큰일 난다는 트윗을 봤는데요 여기 나오는 내용이 사실인가요?&nbsp; 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비중이 낮으면 가격에 큰 영향이 없을 것 같은데 사실인지 궁금하네요&nbsp; https://twitter.com/royikim/status/1492451937245184002&nbsp;&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -179,18 +183,6 @@
             <pubDate>Mon, 21 Mar 2022 12:20:30 GMT</pubDate>
             <content:encoded><![CDATA[국가는 여성 살해 범죄와 관련된 현황을 파악하고 있지 않다?]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과일은 공복에 먹는 것이 좋다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/307</link>
-            <guid>https://factchecker.or.kr/fc_subjects/307</guid>
-            <pubDate>Wed, 16 Mar 2022 11:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 영상을 살펴보면 과일을 식사 후 두시간, 식전 1-2시간 공복에 배고플 때 먹는 것이 좋다는 영상이 여러 개 있습니다. 특히 식후에 바로 과일을 먹으면 빨리 분해 흡수되는 과딩이 몇 시간에 걸쳐 천천히 분해흡수되는 먼저 먹은 음식물에 가로막혀 문제를 일으킨다는 논리를 전개합니다.
-(예-https://www.youtube.com/watch?v=8QylckRFK84&amp;t=9s)
-그런데 어떤 영상은 과당이 장에서 분해 흡수하는 양이 제한적이라 과일을 공복, 식전이나 식후 한꺼번에 먹는 것보다 식중이나 식후까지 여러번에 걸쳐 조금씩 나누어 음식믈과 함께 먹는 것이 좋다는 영상 정보도 있습니다.
-(https://www.youtube.com/watch?v=3d8VNzkInXg&amp;t=4s)
-저는 후자의 주장처럼 음식과 함께 과일을 같이 조금씩 나눠먹고 있거든요. 근데 아내는 그러면 독을 먹는 거라고 구박을 합니다. 팩트를 체크해주셔서 저의 억울함을 풀어주세요.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성일종 의원의 청와대 용산이전에 대해 김병주의원의 말이 전혀 틀리다라고 했습니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -277,7 +269,7 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 09:12:42 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 10:13:50 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -443,6 +435,13 @@ annaija
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e623f18ffeb33416489f4d4e19e3113906890d10/31110ce15862bcf442f4a96a07b4ba4e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/88</link>
+            <guid>https://factchecker.or.kr/fc_publications/88</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 1990년 독일 통일과 미소 협정(러시아가 이번 전쟁의 명분이라는 부분)&nbsp; 1990년 서방과 소련은 독일 통일에 합의했지만, 여전히 동독 지역엔 38만 명의 소련군이 있었고 소련의 광범위한 법적 이해관계가 존재했다. 서방으로선, 독일 통일 이후에도 나토가 위협이 되지 않는다고 소련을 안심시켜야 했다. 1990년 1월31일 한스-디트리히 겐셔 당시 독일 외무장관은 “동부 유럽의 변화와 독일 통일 과정은 결코 소련의 안보 이익을 해치는 방향으로 이뤄지지 않을 것이며, 나토는 동쪽 소련 국경 쪽으로 영토를 확장하는 가능성을 배제해야 한다”고 말했다.&nbsp; 이어 2월9일 제임스 베이커 미 국무장관은 모스크바에서 고르바초프에게 “우리가 나토 일원인 독일에 미군을 배치하더라도, 나토 관할권(jurisdiction)은 동쪽으로 1인치도 확장하지 않겠다” “조지 부시 미 대통령이나 나는 일방적인 이익을 취할 생각이 없다”고 말했다. 고르바초프는 “나토 확대는 수용할 수 없다는 것은 언급할 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/87</link>
             <guid>https://factchecker.or.kr/fc_publications/87</guid>
@@ -547,17 +546,6 @@ https://www.un.org/en/ga/info/meetings/75schedule.shtml
 
 
 질병관리청에 정보공개 청구한 결과, 질병관리청이 국민의 힘 최춘식 의원 측에 답변한 내용은 이스라엘에서 두 번째 규모의 기구인 Maccabi Healthcare Services (MHS), Health Maintenance Organization에서 2021년 8월 24일에 발표한 연구 내용 중 일부임을 확인 할 수 있었다. 해당 인용 부분의 내용은 사실이다. 위는 질병청의 최춘식 의원 측에 답변한 부분이다.(의원실 요구자료 답변 원문 - 사진은 질병청 정보공개 청구 답변으로 부터 받았다.)연구 결과를 살펴보면 2021년 1월과 2월에 백신 접종을 완료한 사람들이 미접종자들 보다 코로나19 감염 위험이 13.06배 높았다는 내용이다. 코로나에 감염되지 않은 백신 접종자들이 돌파 감염에 대해...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/77</link>
-            <guid>https://factchecker.or.kr/fc_publications/77</guid>
-            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 환경오염인구가 증가하여 생활쓰레기에 더하여 산업이 발달하면서 자원의 사용이 증가하게 되고 각종의 폐기물이 발생하게 된다. 특히 각종의 에너지원은 연소하는 과정에서 갖가지 오염물질을 방출하게 되며 업종별로는 원재료의 상품화 과정에서 여러 가지 폐기 오염물질이 발생되는데 지구의 자정작용의 한계를 넘어서면 결국 &nbsp;대기 오염, 토양 오염, 수질 오염 및 독성 화학물질오염으로 구분할 수 있는데 우리 건강에 가장 심각한 영향을 미치는 것은 대기 오염(ambient air pollution)이라고 한다.
-&nbsp;
-2. 대기오염 물질과 미세먼지
-&nbsp; 1) 대기오염 물질들
-&nbsp; &nbsp;대기는 천체를 둘러싸고 있는 기체로 이루어진 층을 말하며, 일반적으로 지구를 둘러싸고 있는 공기를 말한다. 지구의 대기는 중력으로 유지되며 상당 부분 지구와 같이 회전한다. 공기는 표준 상태(0℃, 760 mmHg)에서 질소 78.084%, 산소 20.946%, 이산화탄소 0.033%, 아르곤 0.934% 등의 기...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>

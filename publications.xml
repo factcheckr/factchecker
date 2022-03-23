@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-03-23T09:13:29.130Z</updated>
+    <updated>2022-03-23T10:14:35.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/88</id>
+        <link href="https://factchecker.or.kr/fc_publications/88"/>
+        <updated>2022-03-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 1990년 독일 통일과 미소 협정(러시아가 이번 전쟁의 명분이라는 부분)&nbsp; 1990년 서방과 소련은 독일 통일에 합의했지만, 여전히 동독 지역엔 38만 명의 소련군이 있었고 소련의 광범위한 법적 이해관계가 존재했다. 서방으로선, 독일 통일 이후에도 나토가 위협이 되지 않는다고 소련을 안심시켜야 했다. 1990년 1월31일 한스-디트리히 겐셔 당시 독일 외무장관은 “동부 유럽의 변화와 독일 통일 과정은 결코 소련의 안보 이익을 해치는 방향으로 이뤄지지 않을 것이며, 나토는 동쪽 소련 국경 쪽으로 영토를 확장하는 가능성을 배제해야 한다”고 말했다.&nbsp; 이어 2월9일 제임스 베이커 미 국무장관은 모스크바에서 고르바초프에게 “우리가 나토 일원인 독일에 미군을 배치하더라도, 나토 관할권(jurisdiction)은 동쪽으로 1인치도 확장하지 않겠다” “조지 부시 미 대통령이나 나는 일방적인 이익을 취할 생각이 없다”고 말했다. 고르바초프는 “나토 확대는 수용할 수 없다는 것은 언급할 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/87</id>
@@ -110,16 +117,5 @@ https://www.un.org/en/ga/info/meetings/75schedule.shtml
 
 
 질병관리청에 정보공개 청구한 결과, 질병관리청이 국민의 힘 최춘식 의원 측에 답변한 내용은 이스라엘에서 두 번째 규모의 기구인 Maccabi Healthcare Services (MHS), Health Maintenance Organization에서 2021년 8월 24일에 발표한 연구 내용 중 일부임을 확인 할 수 있었다. 해당 인용 부분의 내용은 사실이다. 위는 질병청의 최춘식 의원 측에 답변한 부분이다.(의원실 요구자료 답변 원문 - 사진은 질병청 정보공개 청구 답변으로 부터 받았다.)연구 결과를 살펴보면 2021년 1월과 2월에 백신 접종을 완료한 사람들이 미접종자들 보다 코로나19 감염 위험이 13.06배 높았다는 내용이다. 코로나에 감염되지 않은 백신 접종자들이 돌파 감염에 대해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세먼지가 치매를 일으킨다는데 정말인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/77</id>
-        <link href="https://factchecker.or.kr/fc_publications/77"/>
-        <updated>2022-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 환경오염인구가 증가하여 생활쓰레기에 더하여 산업이 발달하면서 자원의 사용이 증가하게 되고 각종의 폐기물이 발생하게 된다. 특히 각종의 에너지원은 연소하는 과정에서 갖가지 오염물질을 방출하게 되며 업종별로는 원재료의 상품화 과정에서 여러 가지 폐기 오염물질이 발생되는데 지구의 자정작용의 한계를 넘어서면 결국 &nbsp;대기 오염, 토양 오염, 수질 오염 및 독성 화학물질오염으로 구분할 수 있는데 우리 건강에 가장 심각한 영향을 미치는 것은 대기 오염(ambient air pollution)이라고 한다.
-&nbsp;
-2. 대기오염 물질과 미세먼지
-&nbsp; 1) 대기오염 물질들
-&nbsp; &nbsp;대기는 천체를 둘러싸고 있는 기체로 이루어진 층을 말하며, 일반적으로 지구를 둘러싸고 있는 공기를 말한다. 지구의 대기는 중력으로 유지되며 상당 부분 지구와 같이 회전한다. 공기는 표준 상태(0℃, 760 mmHg)에서 질소 78.084%, 산소 20.946%, 이산화탄소 0.033%, 아르곤 0.934% 등의 기...]]></content>
     </entry>
 </feed>
