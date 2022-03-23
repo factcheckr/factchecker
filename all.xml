@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,7 +277,7 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 00:57:48 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
@@ -451,15 +451,16 @@ annaija
 A. 어느 정도 Yes.
 &nbsp;
 윤석열 당선인과 조 바이든 미국 대통령이 통화한 일자는 2022년 3월 10일 오전 10시경이었습니다.
-검증 결과, 이는 1990년 이후에 당선된 다른 대통령 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
-1990년 이전 기록은 찾을 수 없었습니다. 때문에 역대 당선인 전부를 통틀어 1등인지 여부는 판가름할 수 없었습니다.
-아래 자료는 1990년~2022년 사이에 치렀던 대선 결과를 정리한 표입니다. (빅카인즈에서 검색 가능한 1990년 이후의 대선을 조사)
+검증 결과, 이는 1990년 이후(14대 이후)에 당선된 다른 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
+다만, 13대 대선 이전에는 전화 통화 대신 편지 형태의 서한을 주고 받은 것으로 추정됩니다.
+또한 기사 검색이 불가한 연도도 있기에, 전화 통화를 했을 가능성도 배제할 수 없습니다.
+때문에 역대 당선인 전부를 통틀어 1등인지 여부는 단정지어 판가름할 수 없었습니다.
+아래 자료는 역대 대한민국 대선 결과 및 미국 대통령과의 통화 날짜를 정리한 표(13대 이전은 서한 수신 날짜)입니다.&nbsp;
+&nbsp;
 
 &nbsp;
 1. 20대 대선(당선인: 윤석열)
-윤석열 당선인과 조 바이든 미국 대통령은 대선 다음날인 2022년 3월 10일 오전 10시 또는 오전 9시 20분에 통화했습니다.
-- 서울경제 &lt;바이든, 尹 당선 첫날부터 밀착…흔들린 한미동맹 복원 의기투합&gt;, 2022.03.10
-조 바이든 미국 대통령이 미국 동부 시...]]></content:encoded>
+윤석열 당선인과 조 바이든 미국 대통령은 대선 다음날인 2022년 3월 10일 오전 10시 또는 오전 9시 20분에 통화했습니...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
