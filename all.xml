@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 00:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -277,10 +277,66 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 22 Mar 2022 23:13:27 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 00:57:48 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] 文 정부 '북한의 도발' 표현 한 번도 안 했다？ (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3778</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3778</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]청와대 이전 문제를 놓고 연일 날 선 말들이 오가고...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBandjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e07345a522c83b6c3626f163933e350720bfc87a/6335cbecdc6d5ed825c5d90454d79393.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실확인] 코로나19 완치되면 슈퍼면역 갖는다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3780</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3780</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 누적 확진자가 990만 명에 달하다 보니 지금 글을 읽으시는 분들 중에서도 코로나19를 앓았던...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--07af2382957fc2eb3896ea936b1cb49832c06c1e/35663bef3d49df46a54787fa12dcfe10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 전직 대통령들, 임기 마지막 날 어디에 있었나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3779</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3779</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 윤석열 대통령 당선인이 대통령 집무실을 용산 국방부청사로 옮기는 구상을 밝히면서 청와대를 시민들에게 전면 개방하겠다고 밝히고 있습니다. [윤석열/...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a18235fdd82ef4326be766a3e97a52d9d91c648e/b42b686d49f08c93b9cd5b098eba67e8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 한의사가 코로나19 검사하면 무면허 의료행위? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3777</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3777</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 코로나19 오미크론 변이 확산으로 국내 검사자가 급증하면서 한의원 업계도 신속항원검사(RAT·rapid anti...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanNjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf87f954b28a425f12aea3c429d26ada1c81eda3/71bf29bf7e2f0ec98540a568a20abe9a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[깐팩] "당선자 아닌 당선인이 맞는 표현" 인수위 설명, 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3776</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3776</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령직인수위원회(이하 인수위)에서 윤석열에 대한 호칭을 당선자(者) 대신 당선인(人)으로 고집하면서 논란이 일고 있다. 인수위 관계자는 기자들과 만나 법률적으로도 당선인 표현이 맞다고 주장했다.인수위 관계자의 당선인이 맞다는 주장은 사실일까. 여성경제신문이 팩트체크한 결과, 인수위 주장은 절반의 사실인 것으로 확인됐다.인수위 고위 관계자는 21일 서울 삼청동 기자회견장에서 당선자·당선인 호칭을 두고 헷갈리는 기자분들이 많은데, 이미 언론에서도 많이 쓰는 당선인이라는 표현을 써주길 바란다고 했다. 이후 옆에 있]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1aa26844c19413dea5b9540464a8602a0eba95b3/fdd1cbd11860e681371d9efb8a448387.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 자가검사키트 제대로 하려면 깊게 찔러라? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3775</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3775</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오미크론 대유행으로 자가검사키트 사용이 흔한 풍경이 됐다. 그러나 일부 SNS채널이 ‘검출률 99%’라는 표현을 동원해가며 부정확한 사용법을 확산시키고 있다. 이 채널이 알려주는 사용법을 따라하면 오히려 건강을 해칠 우려가 큰 것으로 보인다. 뉴스톱이 팩트체크했다.◈122만 팔로워 자취생으로 살아남기, 자가검사 7~8cm 깊이로 찔러라페이스북과 유튜브, 카카오톡, 1boon, 다음앱, 자체 애플리케이션 등을 통해 1인 가구에 필요한 정보를 서비스하는 ‘자취생으로 살아남기’ 채널은 지난 15일 다수의 채널을 통해 ‘의사가 알려]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--79513efac46579603f70b9c74d2e535e36c2b2d7/950b49a0859c3ea960c0ab4a6c16be5e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '대통령실 이전' 예비비 사용, 인수위 권한 밖의 일? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3774</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3774</guid>
+            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 20일, 윤석열 대통령 당선인은 대통령직 인수위원회 회견장에서 대통령실 용산 이전 안을 공식화했습니다. 기존 청와대는 임기 시작일 5월 10일에 전 국민에게 개방하고, 취임 전 대통령 집무실을 청와대에서 용산 국방부 청사로 옮기겠다는 계획입니다. 전체 이전 비용으로 총 496억 원의 예비비를 추산했습니다.윤 당선인은 “예비비, 이전 문제 등에 대해 현 정부와 인수인계 업무 하나라고 보고 협조 요청할 생각”이라고 말했습니다. 더불어민주당은 취임 전 대통령실을 옮기는 데 기정예산을 사용하는 것은 대통령직 인수위원회 권한 밖의 일이]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd6a12eaff19d760ee407f13ef498e4386559468/4e430660db3e4b900eb5d39da0476a2f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 화이자 백신 접종하면 난소암에 걸린다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -307,60 +363,20 @@ annaija
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3f06154421861b8e31ca38b8266cf77be6d8eb98/5cc4a15607379e7db956118fb7f212e6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 이재명 지사가 4천700억원 들여 경기도청 이전했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3764</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3764</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 윤석열 대통령 당선인이 대통령 집무실 용산 이전을 공식화한 가운데 이전 비용 규모를 둘러싼 논란이 이어지고 있...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEljIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52bc0bcfff0475a56845ec06e8ecafba6e45e474/91df993c7de5d00d4b2625a359d3691d.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[금융위 “예대금리차 관련 인수위 업무보고, 은행권 폭리 정황 미포함” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3782</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3782</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “예대금리차 관련 인수위 업무보고에 은행권 폭리 정황이라는 내용은 포함되어 있지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c768c695b3362f28ef838b4e39427604ea0881e3/a5c3e4fa8553bd9b54c1439ec5e43191.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트인사이드] 역대 양주시장, 모두 양주시에서 공무원을 지냈을까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3763</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3763</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[검증 대상] 이흥규 전 경기도의원 “역대 양주시장은 모두 양주시 공무원 출신이었다”정치권이 6·1지방선거 모드에 돌입했다. 양주시는 이성호 시장이 오는 24일 건강문제로 퇴임하면서 새로운 얼굴들이 후보군으로 나섰다.이런 가운데 국민의힘 소속 이흥규 전 경기도의원은 지난 16일 출마 기자회견에서 “제1회부터 제7회 지방선거까지 시장은 모두 양주시 공무원 출신이었다”며 “공무원 사고의 틀에서 시장직을 수행해 왔지만, 이웃 도시에 비해 발전이 더딜 수밖에 없었다”고 지적했다.그러면서 “그렇기 때문에 넓은 시야로 세상을 볼 줄 아는 시장]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--330f264dbbe98bc85598b439f31c626d02b2bd17/25ca518fbc254639f39d76e9590f3111.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "꿀벌 없인 인류 멸종" 아인슈타인 발언 맞아? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3762</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3762</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[꽃이 피는 봄이 왔지만 벌통에서 벌이 사라졌다. 인간이 찬사를 보내는 몇 안 되는 곤충인 벌의 위기에 다수의 언론은 앞을 다퉈 벌 실종 사태를 보도했다. 기후변화, 벌 기생충인 응애 등을 원인으로 지목했다. 상당수의 매체들은 “꿀벌이 멸종하면 인류도 4년 안에 사라진다”는 ‘아인슈타인’의 말을 인용했다. 뉴스톱은 아인슈타인이 해당 발언을 한 것이 사실인지 팩트체크했다. ①아인슈타인 인용한 보도들아인슈타인과 꿀벌을 검색창에 입력하면 해당 발언을 인용한 보도들이 다수 검색된다. 중앙일보는 20일자]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a95f41771e8a9acb78e5388e5c61f3656b3ec7ee/894d7e0673969c08bb9b25fea4186104.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]조정식·채이배 "靑이전 예산 불법"…따져보니 거짓말 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3759</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3759</guid>
-            <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청와대 이전에 예비비를 사용하는 게 `불법`이라는 더불어민주당 측의 주장은 거짓인 것으로 확인됐다.윤석열 대통령 당선인이 20일 서울 종로구 한국금융연수원 별관에 마련된 대통령직인수위원회 회견장에서 청와대 대통령 집무실의 용산 국방부 청사 이전 관련 기자회견을 하고 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c082862074c7329215ad6532fdd73a2906aec554/55177dd0353994b8e9d66e6c03af2eaf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 文정부에선 박근혜정부 공공기관장 90% 임기 보장했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3758</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3758</guid>
-            <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 유경민 인턴기자 = 정권교체기 공공기관장 인사가 정국의 쟁점으로 부상하면서 임기가 남은 공공기관장들의 거취 문제에 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0768698a45b4e2a592dc816da8831f803870cfae/01a64b40522eefdcd241f72aacd5c502.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 나치가 우크라이나를 점령했다는 푸틴, 사실은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3757</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3757</guid>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나에 대한 공격이 갈수록 잔혹해지고 있습니다. 최근에는 산부인과와 어린이 병원까지 포격하면서 수많은 민간인 사상자가 나왔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac8dba48e07676f241897dd41eac71ee833ce841/82f8ad62af283fb863264326db487b71.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니] 우리나라 '갈등'이 세계 1위? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3756</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3756</guid>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알고보니 시작합니다. 최근 인터넷 커뮤니티에서 인용이 되면서 논란이 일고 있는 기사 제목들입니다. 한국이 갈등 세계 1위 됐다, 한국이 문화전쟁이 가장 심한 곳이다. ## ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--32771d4908ffedf4e22fca538d5ca78864a10f49/653f78cf29376088a9d063cf4f863bc7.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[공익위원 기피 신청기각, 심판위원회 심의·의결 공정성 저해로 볼 수 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3781</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3781</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “공익위원 기피 신청 기각 결정으로 심판위원회 심의·의결의 공정성이 저해된다고 볼 수 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7146dc284f7c3a3a0df7c2419f0e26fcfdbbd69/b8811bd241116951b4c1402641ecd4e9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[국고채 이자비용 납입 별도예산 편성 검토? 사실과 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -425,22 +441,6 @@ annaija
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “공무직 임금기준은 관계부처, 노동계, 전문가 등과의 충분한 논의를 토대로 추진될 필요가 있다”면서 “공무직 근로자의 합리적인 임금기준 마련을 위해 노·정이 함께 논의를 진행 중”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e623f18ffeb33416489f4d4e19e3113906890d10/31110ce15862bcf442f4a96a07b4ba4e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫폼 운수 사업자 관련 사건, 국회 논의 중인 온플법과는 무관 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3752</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3752</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “현재 조사중인 플랫폼 운수 사업자 관련 사건은 기존 공정거래법 위반 관련 집행 차원에서 진행중인 것으로, 현재 국회에서 논의중인 온라인 플랫폼 중개거래의 공정화에 관한 법률과는 무관하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da46fad70fe1dd2eb2b4e84f500e8b037b507388/e30a3d7a16a8bc161fb8f72ae50a1101.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[물류·IT 서비스 공시 기준 마련…공시제도 개편도 추진 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3747</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3747</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “기업집단 의견을 적극 반영해 물류·IT 서비스 공시 기준을 마련하고, 공시제도 개편도 함께 추진하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc436ee713fd18c17b3787adb01c82f4ba0599a4/600365575d96dbb18fdf84443563d421.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

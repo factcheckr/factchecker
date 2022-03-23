@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 23:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 00:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융위 “예대금리차 관련 인수위 업무보고, 은행권 폭리 정황 미포함”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3782</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3782</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “예대금리차 관련 인수위 업무보고에 은행권 폭리 정황이라는 내용은 포함되어 있지 않다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c768c695b3362f28ef838b4e39427604ea0881e3/a5c3e4fa8553bd9b54c1439ec5e43191.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공익위원 기피 신청기각, 심판위원회 심의·의결 공정성 저해로 볼 수 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3781</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3781</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “공익위원 기피 신청 기각 결정으로 심판위원회 심의·의결의 공정성이 저해된다고 볼 수 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7146dc284f7c3a3a0df7c2419f0e26fcfdbbd69/b8811bd241116951b4c1402641ecd4e9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국고채 이자비용 납입 별도예산 편성 검토? 사실과 달라]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3773</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “공무직 임금기준은 관계부처, 노동계, 전문가 등과의 충분한 논의를 토대로 추진될 필요가 있다”면서 “공무직 근로자의 합리적인 임금기준 마련을 위해 노·정이 함께 논의를 진행 중”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e623f18ffeb33416489f4d4e19e3113906890d10/31110ce15862bcf442f4a96a07b4ba4e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫폼 운수 사업자 관련 사건, 국회 논의 중인 온플법과는 무관]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3752</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3752</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “현재 조사중인 플랫폼 운수 사업자 관련 사건은 기존 공정거래법 위반 관련 집행 차원에서 진행중인 것으로, 현재 국회에서 논의중인 온라인 플랫폼 중개거래의 공정화에 관한 법률과는 무관하다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da46fad70fe1dd2eb2b4e84f500e8b037b507388/e30a3d7a16a8bc161fb8f72ae50a1101.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[물류·IT 서비스 공시 기준 마련…공시제도 개편도 추진]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3747</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3747</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “기업집단 의견을 적극 반영해 물류·IT 서비스 공시 기준을 마련하고, 공시제도 개편도 함께 추진하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEViIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc436ee713fd18c17b3787adb01c82f4ba0599a4/600365575d96dbb18fdf84443563d421.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
