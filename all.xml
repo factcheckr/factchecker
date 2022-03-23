@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,9 +101,9 @@
             <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/328</link>
             <guid>https://factchecker.or.kr/fc_subjects/328</guid>
-            <pubDate>Wed, 23 Mar 2022 10:13:41 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나가 세계 최대 농산물 생산국이라서 전쟁이 나면 농산물 가격이 큰일 난다는 트윗을 봤는데요 여기 나오는 내용이 사실인가요?&nbsp; 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비중이 낮으면 가격에 큰 영향이 없을 것 같은데 사실인지 궁금하네요&nbsp; https://twitter.com/royikim/status/1492451937245184002&nbsp;&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -269,7 +269,7 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 23 Mar 2022 10:13:50 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 annaija
 2022.03.08 13:22:26]]></content:encoded>
