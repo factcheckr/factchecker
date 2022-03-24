@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페·식당 1회용품 규제, 코로나19 이후 한시 유예한 것 재개]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3795</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3795</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “카페·식당 1회용품 규제는 코로나19 이후 한시 유예한 것을 재개하는 것으로 4월 1일 시행에 만전을 기하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3djIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f7c68bc1e1a6b48252af2eb5f16152d5e19120b/3b10e5c4c59b8d58c7192e94109e398a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[탄소세 도입 무기한 보류, 인수위 기재부 업무보고시 첫 공개? 사실과 달라]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3794</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3794</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “탄소가격 부과체계 연구용역은 탄소가격 부과 수단들에 대한 전반적인 제도개편 방안을 검토한 것”으로 “‘탄소세 도입이 무기한 보류되었으며, 인수위 기재부 업무보고 시 첫 공개한다’는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b2d061c9744f1b237dba84f2ad4e308fac3aab9/f171ef4345e2d56d65eebc3514ab63e7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[보훈심사위 상임위원, 공모절차 거쳐 전문성 등 종합 고려해 채용]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3793</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3793</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가보훈처는 “보훈심사위원회 상임위원은 공모 절차를 통해 전문성, 보훈정책 이해도 및 남녀 균형인사 등을 종합적으로 고려해 채용됐다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9fad16a562a4b36b80fb25d562bb57cd5d7fdd19/9f7c2bc48a3aed4d5d65d1b8b9d179c4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[원자재 상승으로 업체부담 가중되지않도록 계약단가 조정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3792</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3792</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조달청은 “원자재 상승에 따라 업체가 부담이 되지 않도록 단가계약 특성에 맞는 계약단가 조정을 적극적으로 반영하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2tjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f4850c9fbcfafc3f4df32f0379c4fa8122f3c200/da8454771075c0416fc55ad1c94c16b9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[산재보험 특고 ‘전속성 폐지’로 더 많은 특고 종사자 보호]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3791</link>
@@ -54,38 +86,6 @@
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 대규모 기업집단 지정과 관련해 “업비트 운영사 ‘두나무’, ‘빗썸’의 지정 여부는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--261a737e3bf5e51fc89f6158a6482cec7cfb7dd8/2ee147b6f1d3f7e7a1df5a81fe6f4f5d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업결합 심사 수수료 제도 도입 결정·추진 중 아니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3770</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3770</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “현재 기업결합 심사 수수료 제도 도입을 결정했거나 추진중에 있지 않다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUFjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8c89b6113550cc9b11dfb34c61b1b4d70fda9d84/c13e274a6efc6cd2ac2792d83ba5fb26.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[재생에너지, 실상은 1000MW 뻥튀기? 사실과 다르다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3769</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3769</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “재생에너지 총량을 발표하면서 실제보다 1000MW 규모를 의도적으로 부풀렸다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e5f2ac52ff01514e7cfe7bac676a66bea170d7d/ae579e2b1f96ea7af338b83f6663bc5a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자신문·공정위원장 오찬 간담회, 사건 관련 대화 전혀 없었다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3761</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3761</guid>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “전자신문과 공정거래위원장의 오찬 간담회에서 호반건설 사건 관련 대화는 전혀 없었다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da87440f273b5724618e867e31ce7bec3b11a2e3/6cbb25245fad9c6d8ca8ea5a24ef9814.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 중고거래 시장, 전자상거래법 개정안 입법예고 전부터 현행법 위반 여부 조사]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3760</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3760</guid>
-            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “온라인 중고거래 시장에 대해서는 전자상거래법 개정안 입법예고 전부터 현행법 위반 여부를 조사해왔다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74da9340d67031fec165c51846aed054d1da1726/7744ec2e89190176f28d887df21e5198.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
