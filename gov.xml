@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산재보험 특고 ‘전속성 폐지’로 더 많은 특고 종사자 보호]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3791</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3791</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “더 많은 특고 및 플랫폼 종사자 산재보험 보호를 위해 ‘전속성 폐지’를 주요 골자로 하는 법 개정안이 국회에 발의되어 있다”면서 “산재보험 특고 ‘전속성 폐지’를 통해 더 많은 특고 종사자가 보호되도록 하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1VjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7091f040336c545abe2bc22cdaf485d705111cad/ec5ae456f852c8762518f229d93e7ba8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[금융위 “예대금리차 관련 인수위 업무보고, 은행권 폭리 정황 미포함”]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3782</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 “온라인 중고거래 시장에 대해서는 전자상거래법 개정안 입법예고 전부터 현행법 위반 여부를 조사해왔다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74da9340d67031fec165c51846aed054d1da1726/7744ec2e89190176f28d887df21e5198.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공무직 합리적 임금기준 마련 위해 노·정 함께 논의 중]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3753</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3753</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “공무직 임금기준은 관계부처, 노동계, 전문가 등과의 충분한 논의를 토대로 추진될 필요가 있다”면서 “공무직 근로자의 합리적인 임금기준 마련을 위해 노·정이 함께 논의를 진행 중”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRiIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e623f18ffeb33416489f4d4e19e3113906890d10/31110ce15862bcf442f4a96a07b4ba4e.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
