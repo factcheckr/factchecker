@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,7 +177,7 @@
             <guid>https://factchecker.or.kr/fc_subjects/316</guid>
             <pubDate>Mon, 21 Mar 2022 07:12:36 GMT</pubDate>
             <content:encoded><![CDATA[올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -506,6 +506,16 @@ A. 어느 정도 Yes.
 https://theme.archives.go.kr/viewer/commo...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/92</link>
+            <guid>https://factchecker.or.kr/fc_publications/92</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부가 공시한 신안군 주민등록 인구 통계에 따르면 &lt;신안군 신 재생에너지 개발 이익 공유등에 관한 조례&gt;가 제정된 2018년부터 2021년까지 신안군 전체 인구는 감소한 것으로 나타났습니다.
+다만 이재명 후보의 제주 유세 발언 맥락을 보면, 신안군에서 태양광 배당금을 지급하기 시작한 시점과 실제 수혜를 받는 지역(읍면 단위)의 인구 증감을 살펴보는게 보다 팩트체크에 적절하다고 유추할 수 있습니다.
+신안군청이 홈페이지에 게시된 보도자료를 보면 태양광 이익공유제 헤택을 받는 지역은 안좌도, 자라도, 지도 이 세 지역이었고, 안좌도와 자라도 지역 주민은 21년 4월 26일, 지도 주민은 21년 11월 29일부터 태양광 배당금을 각각 받은 것으로 나타났습니다.
+따라서 안좌와 자라 지역은 배당금&nbsp; 첫 지급 시기인 2021년 4월부터, 지도 지역은 2021년 11월 이후부터 이재명 후보 발언 직전인 2022년 2월까지 해당 지역 인구 증감을 살펴보면 해당 발언이 팩트인지 아닌지 알...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/85</link>
             <guid>https://factchecker.or.kr/fc_publications/85</guid>
@@ -540,22 +550,6 @@ https://theme.archives.go.kr/viewer/commo...]]></content:encoded>
             <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최춘식 의원이 제시한 통계 자료가 정확한지 질병청-코로나바이러스-19 감염증 발생 현황&nbsp;엑셀 자료를&nbsp;다운로드하여 2021년 2월 26일부터 2022년 1월 29일까지 60대 이상 코로나19 바이러스 누적 확진자를 확인했다. 질병청 발생 현황 엑셀 자료를 근거로&nbsp;해당 기간 동안 60대 이상 총 누적 확진자가 145,997명인 것을 확인할 수 있었다. 최춘식 의원이 제시한 기간의 60대 이상 총&nbsp;누적 확진자 숫자인 144,937명과는 1,060명 차이가 발생했다.
 2021년 2월 26일부터 2022년 1월 29일까지 60대 이상 누적 위중증 환자 수치를 확인하려 했으나 질병청 보도자료에서는 확인 불가능했다. 코로나&nbsp;초기부터&nbsp;질병청에서 발표하는 위중증 환자 관련 수치는 발표일 0시 기준 격리 치료 중인 환자이다. 즉, 매일 발생한 신규 위중증 환자가 아니다. 그러므로 누적 위중증 환자 수치는 확인이 불가능했다. 아래는 질병청에서 발표한 연령별 날짜 기준 치료 중인 위중증 환자 수치...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10~30대, 백신 접종 부작용으로 심근염, 심낭염 두 배 폭증? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/81</link>
-            <guid>https://factchecker.or.kr/fc_publications/81</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1). 심근염, 심낭염은 어떤 원인으로 발생하는 질병인가?
-https://www.kdca.go.kr/gallery.es?mid=a20503020000&amp;bid=0003&amp;act=view&amp;list_no=145190
-
-- 서울대학교 병원 참고http://snuh.org/health/nMedInfo/nView.do?category=DIS&amp;medid=AA000696
-http://www.snuh.org/health/encyclo/view/8/4/11/1.do
-
-서울대학교 병원에 따르면 심근염, 심낭염의 원인은 바이러스성, 면역성 등 류마티즘 관절염까지 다양하다. 건강보험심의평가원과 한국 표준질병사인분류 질병코드에 따라 분류한 내용을 봐도 마찬가지로 심낭염, 심근염이 여러 원인으로 발생한다는 것을 알 수 있다.
-http://opendata.hira.or.kr/op/opc/olap4thDsPList.do?cdTp=A
-https://www.koicd.kr/sch/searchEasy.do
-*심평원...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
