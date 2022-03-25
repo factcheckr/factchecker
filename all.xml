@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 06:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/330</link>
+            <guid>https://factchecker.or.kr/fc_subjects/330</guid>
+            <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/330">
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[윤석열 당선인, 의료민영화 공약했다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/329</link>
@@ -94,14 +102,6 @@
 과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
 &nbsp;
 
-</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/316</link>
-            <guid>https://factchecker.or.kr/fc_subjects/316</guid>
-            <pubDate>Mon, 21 Mar 2022 07:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/316">올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?
 </a>]]></content:encoded>
         </item>
         <item>
@@ -447,6 +447,17 @@
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8faea5838f42edbf0abb75fd61a043b052d46161/606c5958ffcd243846ced725e7ae120e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/97</link>
+            <guid>https://factchecker.or.kr/fc_publications/97</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 대통령직 인수에 관한 법률 제7조, 정부조직법 제26조
+
+
+대통령직 인수 법률을 보면, 인수위가 국방부와 행정부에 명령할 권리는 직접적으로 적시되어 있지 않다. 국방부 이전(이사)을 대통령직 인수에 필요한 사항으로 해석한다면 이야기는 달라질 수 있지만, 인수위 목적은 국정운영의 계속성, 안정성을 도모하는 것이므로 전례 없던 취임전 국방부 이전(이사)을 인수위 업무로 판단하기는 매우 어렵다. 정부조직법에 따라도 국방부와 기타 행정부는 대통령의 통할 하에 있다. 그러므로 인수 위원회가 국방부에 이전하라 마라 언급하는 것 자체가 월권행위이다.&nbsp;2. 대한민국 헌법 제66, 74조
+윤석열 당선자가 자주 언급하는 대한민국 헌법에 따르면 대통령이 국군을 통수하고 행정권은 대통령을 수반으로 하는 정부에 속한다고 나와있다. 대통령이 국군에 명령은 내릴 수 있어도 대통령직 인수위원회와 당선자가 명령 내릴 권한은 헌법 어디에도 나와있지 않다. 윤석열 대통령 당선자 정식 취임이 있기도 전인 지...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 당선인, 의료민영화 공약했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/89</link>
             <guid>https://factchecker.or.kr/fc_publications/89</guid>
@@ -583,17 +594,6 @@ https://theme.archives.go.kr/viewer/commo...]]></content:encoded>
 다만 이재명 후보의 제주 유세 발언 맥락을 보면, 신안군에서 태양광 배당금을 지급하기 시작한 시점과 실제 수혜를 받는 지역(읍면 단위)의 인구 증감을 살펴보는게 보다 팩트체크에 적절하다고 유추할 수 있습니다.
 신안군청이 홈페이지에 게시된 보도자료를 보면 태양광 이익공유제 혜택을 받는 지역은 안좌도, 자라도, 지도 이 세 지역이었고, 안좌도와 자라도 지역 주민은 21년 4월 26일, 지도 주민은 21년 11월 29일부터 태양광 배당금을 각각 받은 것으로 나타났습니다.
 따라서 안좌와 자라 지역은 배당금&nbsp; 첫 지급 시기인 2021년 4월부터, 지도 지역은 2021년 11월 이후부터 이재명 후보 발언 직전인 2022년 2월까지 해당 지역 인구 증감을 살펴보면 해당 발언이 팩트인지 아닌지 알...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/85</link>
-            <guid>https://factchecker.or.kr/fc_publications/85</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1) 전국민에게 재난지원금을 지급한 나라는 한국, 미국, 일본뿐이다?
-안철수 전 후보는 3월 2일 있었던 대선 토론 중 다음과 같은 언급을 했습니다.
-“2020년 OECD 자료를 보면 전국민 재난지원금을 지급한 건 미국과 일본 그리고 대한민국 세 나라뿐이다.”
-안 후보가 이재명 후보의 정책을 비판하며 내세운 주장이었습니다. 이어 안 후보는 “일본이나 미국은 기축통화국”이기 때문에 우리나라와 재정여건이 다르다는 논지를 펼쳤습니다. 전국민에게 재난지원금을 지급하기에 우리 정부의 재정여건이 충분치 않다는 지적이었습니다.
-사실 확인을 위해, 안철수 후보가 참고한 것으로 확인되는 OECD의 자료를 살펴봤습니다. &lt;코로나-19위기 중 생계지원: 사회안전망 내부의 격차 완화(Supporting livelihoods during the COVID-19 crisis: Closing the gap in safety nets)&gt;라는 제목으로, 2020년 5월 20일 OECD홈페이지에 개재된 문서입...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
