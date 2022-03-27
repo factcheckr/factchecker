@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 15:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 16:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/330</guid>
             <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/fc_subjects/330">
-</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인, 의료민영화 공약했다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/329</link>
-            <guid>https://factchecker.or.kr/fc_subjects/329</guid>
-            <pubDate>Wed, 23 Mar 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/329">윤석열 당선인, 의료민영화 공약했다?&nbsp;
 </a>]]></content:encoded>
         </item>
         <item>
@@ -102,6 +94,14 @@
 과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
 &nbsp;
 
+</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/316</link>
+            <guid>https://factchecker.or.kr/fc_subjects/316</guid>
+            <pubDate>Sun, 27 Mar 2022 14:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/316">올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?
 </a>]]></content:encoded>
         </item>
         <item>
