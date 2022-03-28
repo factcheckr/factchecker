@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -201,7 +201,7 @@
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 28 Mar 2022 00:56:02 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2022 03:29:59 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -293,42 +293,36 @@
 그래서 다음부터는 성냥을 사야할까 고민...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로딩 중입니다.
-https://www.ytn.co.kr/_ln/0101_202203262203338739ㅂ (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <title><![CDATA[[팩트체크] 文 정부가 조선족에 공무원 시험 혜택 줬다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3809</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3809</guid>
+            <pubDate>Sun, 27 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 문재인 대통령의 임기가 얼마 남지 않은 가운데 문재인 정부가 공무원 시험에서 다문화 가정에 특...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4441f3b487e1affa437021761cf4288d1950d810/77f6538cff92535ac8b1038f45b012d4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 기재부는 대통령 집무실 이전비용을 인수위에 제출 안했나? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3808</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3808</guid>
+            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(세종=연합뉴스) 박용주 기자 = 재정당국인 기획재정부가 윤석열 대통령 당선인 집무실 이전 비용을 인수위에 제출했는지를 두고 논란이 일고 있다....]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3610c90435e8c9160a6d3c588ec94b2aed5386b9/d83a79d8636be0270eb7f8daa7724e29.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 윤석열 득표율, 조선대·전남대 인근에선 30% 달했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3807</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3807</guid>
+            <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 국민의힘 이준석 대표가 20대 대통령선거에서 목표로 했던 호남 30%를 달성하지는 못했지만...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f71fdf96ebf16b19139302bc7e552c506a29ce99/8bee6464b3dc5f3eda394b42cf5cd8d4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] 민주당도 법무부 장관 수사지휘권 폐지 요구했다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3806</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3806</guid>
             <pubDate>Mon, 28 Mar 2022 00:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="flex items-center justify-between items-center">
-<div class="inline text-sm md:text-xs h-6 md:h-4">
-YTN
-</div>
-<div class="-mt-1">
-</div>
-</div>
-<div class="flex">
-<div class="flex-1 pr-4">
-<div>
-<div class="strong text-gray-400">
-<a target="_blank" href="/fc_archives/press/3806">로딩 중입니다.
-https://www.ytn.co.kr/_ln/0101_202203262203338739ㅂ
-</a></div>
-</div>
-<div class="mt-4 hidden md:block">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%95%EC%B9%98">정치</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%AF%BC%EC%A3%BC%EB%8B%B9">민주당</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%88%98%EC%82%AC%EC%A7%80%ED%9C%98%EA%B6%8C">수사지휘권</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%8F%90%EC%A7%80">폐지</a>
-
-</div>
-</div>
-</div>
-<div class="mt-4 md:hidden">
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%A0%95%EC%B9%98">정치</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EB%AF%BC%EC%A3%BC%EB%8B%B9">민주당</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%EC%88%98%EC%82%AC%EC%A7%80%ED%9C%98%EA%B6%8C">수사지휘권</a>
-<a class="inline-block mr-1 mb-1 px-2 py-1 border-solid border border-gray-300 bg-white rounded-xl text-xs leading-3 text-gray-600 whitespace-no-wrap" href="/search?keyword=%ED%8F%90%EC%A7%80">폐지</a>
-
-</div>]]></content:encoded>
+            <content:encoded><![CDATA[[앵커]이른바 신구 권력 간의 갈등은 청와대 이전 문제뿐...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf3e91147a952e561d879c6a7a88657c91803deb/90c3f1c762ee57f42e84fe41a63ee2b1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[알고보니] 떼었다 붙였다 정부 조직개편‥ 유독 우리만? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -377,30 +371,6 @@ https://www.ytn.co.kr/_ln/0101_202203262203338739ㅂ
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 새로운 광역·기초단체장을 뽑는 6·1 지방선거를 두 달여 남겨 놓은 가운데 기초의원 중대선거구제 개편 문제가 핫...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bac2859d0eda7d23fe5fb7b0a8d820190f98864/bb7db5ae6ebb5222d395ffa3eaa044f9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크 그 후] 왜 김병내 광주 남구청장은 코고리를 받았나? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3797</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3797</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[코골이 방지용 비강확장기로 허가받은 제품을 코로나19에 효과가 있다고 판매한 혐의(의료기기법 위반)으로 1심에서 유죄를 선고받은 회사대표가 기증한 코고리 제품이 광주광역시 남구청에 기증됐다. 지역언론의 보도에 따르면 남구청은 이를 소속 공무원과 노인정에 배부할 예정이라고 한다. 어떻게 이런 일이 가능할까? 뉴스톱이 알아봤다. ◈인터넷매체, 구청장, 코바기 효능 존중인터넷매체인 CNK21은 21일자로 라는 기사를 보도했다. (주)천하종합 한기언 대표가 광주 남구청에 코고리 코비치]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcbad999cc5d5e9000eef2d13e2c73f21dc755e0/096ea2c80782fda7b182d6176ccdab8f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 많이 받아 많이 썼다는 ‘문케어’ 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3796</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3796</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[건강보험은 출산부터 사망에 이르는 생애주기 전반과 직결되는 국민들의 보호막입니다. 그만큼 국민들이 납부하는 보험료를 나라에서 얼마나 잘 모아서, 잘 쓰느냐는 중요한 일입니다. 최근 정부의 건강보험 재정 운영을 두고 논쟁이 벌어졌는데요. 나라에서 유사시를 대비해 비축한 건강보험 재정 적립금이 어떤 정부(박근혜 정부 또는 문재인 정부)의 성과냐를 둘러싸고 의견이 엇갈린 겁니다. 더스쿠프가 사실관계를 확인해봤습니다.지난 2월 25일 국민건강보험공단이 건강보험 재정 현황을 발표했습니다. 건보공단은 2021년 건강보험 재정을 운영한 결과,]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUljIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea202fd8d27ee8c5a23b82f13548c9fb99a72397/5ba99ace12659aa91180a167dc88411d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["여가부 홈페이지 관리에만 180억 쓴다" 주장 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3789</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3789</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 자체 홈피 관리 예산 5억 원 수준… 나머지는 돌봄 플랫폼 등 대국민 서비스 예산]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmdjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4163130a2a1f786bbb0689215e4b01149025adf7/41b8d9d0f3821ea8a2fc1cc2190f2cf2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[고정가격계약 경쟁입찰 의뢰방식 변화로 발전공기업 REC 구매부담 늘거나 재무부담 커지지 않아 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
