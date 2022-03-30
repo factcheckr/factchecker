@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 00:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인수위에 35조원 규모 추경 계획 전달? 기재부 “사실과 달라”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3823</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3823</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “인수위에 35조원 규모의 추경 계획을 전달했다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3edce0b2ab82343850c89111ae77e8b1936574ea/52b81bf6e023f9655ce7d5e7abe49e4c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[섬진강 일대 홍수 피해 주민 1829명에 284억원 지급 결정]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3818</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “탄소가격 부과체계 연구용역은 탄소가격 부과 수단들에 대한 전반적인 제도개편 방안을 검토한 것”으로 “‘탄소세 도입이 무기한 보류되었으며, 인수위 기재부 업무보고 시 첫 공개한다’는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b2d061c9744f1b237dba84f2ad4e308fac3aab9/f171ef4345e2d56d65eebc3514ab63e7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[보훈심사위 상임위원, 공모절차 거쳐 전문성 등 종합 고려해 채용]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3793</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3793</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가보훈처는 “보훈심사위원회 상임위원은 공모 절차를 통해 전문성, 보훈정책 이해도 및 남녀 균형인사 등을 종합적으로 고려해 채용됐다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29jIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9fad16a562a4b36b80fb25d562bb57cd5d7fdd19/9f7c2bc48a3aed4d5d65d1b8b9d179c4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
