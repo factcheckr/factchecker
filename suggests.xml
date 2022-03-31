@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-03-31T08:16:09.967Z</updated>
+    <updated>2022-03-31T09:15:36.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -11,11 +11,11 @@
         <link href="https://factchecker.or.kr/fc_suggests/589"/>
         <updated>2022-03-31T08:15:26.797Z</updated>
         <content type="html"><![CDATA[요즘기름값이
-올라부담스러은데&nbsp;
+올라부담스러운데&nbsp;
 솔깃한 광고 가 있습니다
 시거짹에 꽂기만하면
 설치끝입니다
-일명.뉴파워세이버
+일명(뉴파워세이버)
 이제품이 진짜절감 되는지
 알고싶습니다.&nbsp;
 &nbsp;]]></content>
@@ -70,7 +70,7 @@ https://blog.naver.com/kja1052/222652135381
         <title type="html"><![CDATA[6]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-03-31T08:15:26.755Z</updated>
+        <updated>2022-03-31T09:14:51.153Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content>

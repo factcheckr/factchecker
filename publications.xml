@@ -2,18 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-03-31T08:16:09.961Z</updated>
+    <updated>2022-03-31T09:15:36.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[허경영은 20대 대선 후보자 중에서 본인이 "종합소득세를 가장 많이 냈습니다."라고 주장했는데, 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/98</id>
-        <link href="https://factchecker.or.kr/fc_publications/98"/>
-        <updated>2022-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[제20대 대통령 선거에 출마한 허경영 후보자는 지난 3월 9일 대선까지 총 8번 출마했지만, 그동안 허 후보자의 공약과 주장에 대한 검증은 거대 여당과 야당 후보자에 밀려 제대로 이뤄지지 않았다. 20대 대선을 앞두고 우리 사회는 이재명과 윤석열 후보자의 말을 검증하는데 많은 비중을 뒀을 뿐, 원내외 정당 및 무소속 후보자들의 공약과 주장을 검증하는데 소홀했다.
-선거 출마 이력만 볼 때, 허 후보자는 직업 정치인으로 봐도 무방한 공인이자 정치인이다. 20대 대통령 선거를 앞두고 허 씨를 포함한 14명 후보자들은 2017년 ~ 2021년 소득세•재산세 및 종합부동산세의 납부 체납사항을 중앙선거관리위원회제 제출했다.
-이를 토대로 14명 후보자 본인이 납부한 금액을 비교했다. 그 결과 1위는 1,976,927,000 (19억 7천 6백 9십 2만 7천 원)낸 기호 6번 허경영 후보자였다. 이 수치는 2위를 기록한 기호 4번 안철수 후보자가 1,788,616,000 원(17억 8천 ...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까?]]></title>
         <id>https://factchecker.or.kr/fc_publications/97</id>
@@ -149,5 +140,16 @@ https://theme.archives.go.kr/viewer/commo...]]></content>
 다만 이재명 후보의 제주 유세 발언 맥락을 보면, 신안군에서 태양광 배당금을 지급하기 시작한 시점과 실제 수혜를 받는 지역(읍면 단위)의 인구 증감을 살펴보는게 보다 팩트체크에 적절하다고 유추할 수 있습니다.
 신안군청이 홈페이지에 게시된 보도자료를 보면 태양광 이익공유제 혜택을 받는 지역은 안좌도, 자라도, 지도 이 세 지역이었고, 안좌도와 자라도 지역 주민은 21년 4월 26일, 지도 주민은 21년 11월 29일부터 태양광 배당금을 각각 받은 것으로 나타났습니다.
 따라서 안좌와 자라 지역은 배당금&nbsp; 첫 지급 시기인 2021년 4월부터, 지도 지역은 2021년 11월 이후부터 이재명 후보 발언 직전인 2022년 2월까지 해당 지역 인구 증감을 살펴보면 해당 발언이 팩트인지 아닌지 알...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/85</id>
+        <link href="https://factchecker.or.kr/fc_publications/85"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1) 전국민에게 재난지원금을 지급한 나라는 한국, 미국, 일본뿐이다?
+안철수 전 후보는 3월 2일 있었던 대선 토론 중 다음과 같은 언급을 했습니다.
+“2020년 OECD 자료를 보면 전국민 재난지원금을 지급한 건 미국과 일본 그리고 대한민국 세 나라뿐이다.”
+안 후보가 이재명 후보의 정책을 비판하며 내세운 주장이었습니다. 이어 안 후보는 “일본이나 미국은 기축통화국”이기 때문에 우리나라와 재정여건이 다르다는 논지를 펼쳤습니다. 전국민에게 재난지원금을 지급하기에 우리 정부의 재정여건이 충분치 않다는 지적이었습니다.
+사실 확인을 위해, 안철수 후보가 참고한 것으로 확인되는 OECD의 자료를 살펴봤습니다. &lt;코로나-19위기 중 생계지원: 사회안전망 내부의 격차 완화(Supporting livelihoods during the COVID-19 crisis: Closing the gap in safety nets)&gt;라는 제목으로, 2020년 5월 20일 OECD홈페이지에 개재된 문서입...]]></content>
     </entry>
 </feed>
