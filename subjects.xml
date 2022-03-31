@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 13:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 14:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://factchecker.or.kr/fc_subjects/330</guid>
             <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["윤석열 당선인은 의료 민영화를 이야기한 바 없다"는 원희룡의 말은 사실일까?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/329</link>
+            <guid>https://factchecker.or.kr/fc_subjects/329</guid>
+            <pubDate>Thu, 31 Mar 2022 14:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 당선인은 의료 민영화를 이야기한 바 없다는 원희룡의 말은 사실일까?&nbsp;
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요?]]></title>
@@ -79,7 +88,7 @@
 출처 : 제20대 대통령선거 국민의힘 정책공약집
 &nbsp;
 &nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[청와대부지가 조선총독 관저가 있던 곳이 맞다?]]></title>
@@ -91,14 +100,6 @@
 과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/316</link>
-            <guid>https://factchecker.or.kr/fc_subjects/316</guid>
-            <pubDate>Thu, 31 Mar 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

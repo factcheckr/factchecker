@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 13:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 14:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,16 @@
             <guid>https://factchecker.or.kr/fc_subjects/330</guid>
             <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/fc_subjects/330">
+</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["윤석열 당선인은 의료 민영화를 이야기한 바 없다"는 원희룡의 말은 사실일까? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/329</link>
+            <guid>https://factchecker.or.kr/fc_subjects/329</guid>
+            <pubDate>Thu, 31 Mar 2022 14:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/329">윤석열 당선인은 의료 민영화를 이야기한 바 없다는 원희룡의 말은 사실일까?&nbsp;
+&nbsp;
+
 </a>]]></content:encoded>
         </item>
         <item>
@@ -97,19 +107,20 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/316</link>
-            <guid>https://factchecker.or.kr/fc_subjects/316</guid>
-            <pubDate>Thu, 31 Mar 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/316">올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?
-</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/330</link>
             <guid>https://factchecker.or.kr/fc_subjects/330</guid>
             <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["윤석열 당선인은 의료 민영화를 이야기한 바 없다"는 원희룡의 말은 사실일까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/329</link>
+            <guid>https://factchecker.or.kr/fc_subjects/329</guid>
+            <pubDate>Thu, 31 Mar 2022 14:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 당선인은 의료 민영화를 이야기한 바 없다는 원희룡의 말은 사실일까?&nbsp;
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -176,7 +187,7 @@
 출처 : 제20대 대통령선거 국민의힘 정책공약집
 &nbsp;
 &nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[청와대부지가 조선총독 관저가 있던 곳이 맞다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -188,14 +199,6 @@
 과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/316</link>
-            <guid>https://factchecker.or.kr/fc_subjects/316</guid>
-            <pubDate>Thu, 31 Mar 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[올 3월 7일 이재명 더불어민주당 대통령 후보는 제주 유세에서 태양광과 풍력 발전시설을 확대해 제주도민에게 기본 소득의 일종인 햇빛·바람연금을 지급하겠다는 발언을 했습니다. 그러면서 “신안군수가 신안군에 태양광 발전시설을 만들면서 해당지역 주민들에게 (업체의) 지분을 갖게 조례를 만들어 태양광 발전의 소득 일부를 주민에게 나눠주겠다고 하자 인구가 마구 몰려 유일하게 인구가 늘어나고 있다”는 말을 덧붙였습니다. 신안군 사례로 미루어 보면 햇빛·바람연금은 제주도민이 행복한 미래를 설계하는데 도움이 될 것이라는 이야기입니다. 그렇다면 과연 이재명 후보의 발언처럼, 태양광 발전시설로 신안군 인구가 증가했을까요?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연료절감기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -262,7 +265,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Thu, 31 Mar 2022 13:25:08 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 14:13:10 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -469,6 +472,19 @@ https://blog.naver.com/kja1052/222652135381
 윤석열 당선자가 자주 언급하는 대한민국 헌법에 따르면 대통령이 국군을 통수하고 행정권은 대통령을 수반으로 하는 정부에 속한다고 나와있다. 대통령이 국군에 명령은 내릴 수 있어도 대통령직 인수위원회와 당선자가 명령 내릴 권한은 헌법 어디에도 나와있지 않다. 윤석열 대통령 당선자 정식 취임이 있기도 전인 지...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["윤석열 당선인은 의료 민영화를 이야기한 바 없다"는 원희룡의 말은 사실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/89</link>
+            <guid>https://factchecker.or.kr/fc_publications/89</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 의료 민영화란?&nbsp;
+의료 민영화는 국가 및 공공단체에서 관리하던 의료 기관(병원)과 의료 보험의 관리와 운영을 민간에 개방하는 일이다. 우리나라에서 보통 의료 민영화는 의료보험 및 의료감시체제를 민영화하는 것을 의미한다. 이번 팩트체크에서도 의료 민영화의 정의를 의료보험 및 의료감시체제의 민영화로 이해하고 검증을 진행하고자 한다. 원희룡 기획위원장의 말처럼 윤석열 당선인은 의료 민영화를 공약한 일이 없는 지 확인하겠다.&nbsp;
+2. 공약 여부 팩트체크&nbsp;
+
+
+의료 민영화 여부로 문제가 됐던 공약은 상급종합병원 분원 설치와 지정 노력과 공공정책수가 적용이다. 상급종합병원은 대부분 민간병원이다. 그러므로 해당 공약은 민간병원을 활용해&nbsp; 공공성을 확대하는 데 무게가 실려있다는 점에서 공공병원을 신축하고자 했던 문 정부의 방안과는 해법이 다르다. 또한 공공정책 수가는 필수의료 담당 민간 병원에 경제적 인센티브를 제공하는 것으로 민간병원의 몸집을 키우는 공약이다.&nbsp;
+윤 당선인은 의료 민영화...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/88</link>
             <guid>https://factchecker.or.kr/fc_publications/88</guid>
@@ -592,17 +608,6 @@ https://theme.archives.go.kr/viewer/commo...]]></content:encoded>
 다만 이재명 후보의 제주 유세 발언 맥락을 보면, 신안군에서 태양광 배당금을 지급하기 시작한 시점과 실제 수혜를 받는 지역(읍면 단위)의 인구 증감을 살펴보는게 보다 팩트체크에 적절하다고 유추할 수 있습니다.
 신안군청이 홈페이지에 게시된 보도자료를 보면 태양광 이익공유제 혜택을 받는 지역은 안좌도, 자라도, 지도 이 세 지역이었고, 안좌도와 자라도 지역 주민은 21년 4월 26일, 지도 주민은 21년 11월 29일부터 태양광 배당금을 각각 받은 것으로 나타났습니다.
 따라서 안좌와 자라 지역은 배당금&nbsp; 첫 지급 시기인 2021년 4월부터, 지도 지역은 2021년 11월 이후부터 이재명 후보 발언 직전인 2022년 2월까지 해당 지역 인구 증감을 살펴보면 해당 발언이 팩트인지 아닌지 알...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국민 재난지원금을 지급한 나라, 한·미·일 세 나라뿐이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/85</link>
-            <guid>https://factchecker.or.kr/fc_publications/85</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1) 전국민에게 재난지원금을 지급한 나라는 한국, 미국, 일본뿐이다?
-안철수 전 후보는 3월 2일 있었던 대선 토론 중 다음과 같은 언급을 했습니다.
-“2020년 OECD 자료를 보면 전국민 재난지원금을 지급한 건 미국과 일본 그리고 대한민국 세 나라뿐이다.”
-안 후보가 이재명 후보의 정책을 비판하며 내세운 주장이었습니다. 이어 안 후보는 “일본이나 미국은 기축통화국”이기 때문에 우리나라와 재정여건이 다르다는 논지를 펼쳤습니다. 전국민에게 재난지원금을 지급하기에 우리 정부의 재정여건이 충분치 않다는 지적이었습니다.
-사실 확인을 위해, 안철수 후보가 참고한 것으로 확인되는 OECD의 자료를 살펴봤습니다. &lt;코로나-19위기 중 생계지원: 사회안전망 내부의 격차 완화(Supporting livelihoods during the COVID-19 crisis: Closing the gap in safety nets)&gt;라는 제목으로, 2020년 5월 20일 OECD홈페이지에 개재된 문서입...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
