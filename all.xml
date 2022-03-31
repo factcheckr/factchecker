@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,21 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[연료절감기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/589</link>
+            <guid>https://factchecker.or.kr/fc_suggests/589</guid>
+            <pubDate>Thu, 31 Mar 2022 08:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[요즘기름값이
+올라부담스러은데&nbsp;
+솔깃한 광고 가 있습니다
+시거짹에 꽂기만하면
+설치끝입니다
+일명.뉴파워세이버
+이제품이 진짜절감 되는지
+알고싶습니다.&nbsp;
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[무거운 짐을 들면 진짜 키가 줄어들까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/588</link>
             <guid>https://factchecker.or.kr/fc_suggests/588</guid>
@@ -262,7 +277,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Thu, 31 Mar 2022 07:14:17 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 08:15:26 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -297,16 +312,6 @@ https://blog.naver.com/kja1052/222652135381
 
 &nbsp;
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문대통령과 윤당선인의 오찬결렬이유 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/578</link>
-            <guid>https://factchecker.or.kr/fc_suggests/578</guid>
-            <pubDate>Thu, 24 Mar 2022 02:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[아래 내용으로 문대통령측에서 윤당선인과의 오찬 조건을 걸어서 윤당선인이 오찬을 거절하여
-만남이 결렬되었다고 보수 유튜버들이 얘기를 하고 있습니다. 이에 대한 팩트체크를 부탁드립니다.&nbsp;
-&nbsp;
-오찬 결렬이유&nbsp;:&nbsp;문측에서 아래 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] 불붙은 풍수지리 논란…'명당'이란 무엇인가 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
