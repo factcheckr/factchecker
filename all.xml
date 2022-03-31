@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,25 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[무거운 짐을 들면 진짜 키가 줄어들까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/588</link>
+            <guid>https://factchecker.or.kr/fc_suggests/588</guid>
+            <pubDate>Thu, 31 Mar 2022 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[https://mobile.hidoc.co.kr/healthqna/view/C0000401401
+빨리해주시면 감사하겠습니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[남자꼬시는법 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/587</link>
+            <guid>https://factchecker.or.kr/fc_suggests/587</guid>
+            <pubDate>Thu, 31 Mar 2022 07:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[진짜로 이렇게 하면 남자를 꼬실 수 있는지 궁금해서요
+&nbsp;
+1. 다가가서 이야기하기
+2. 사소한거라도 같이 이야기하기
+3. 주말에 시간되면 만나자고하기]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이렇게 하면 남자를 꼬실 수 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/586</link>
             <guid>https://factchecker.or.kr/fc_suggests/586</guid>
@@ -243,7 +262,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Thu, 31 Mar 2022 05:12:06 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 07:14:17 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -288,21 +307,6 @@ https://blog.naver.com/kja1052/222652135381
 만남이 결렬되었다고 보수 유튜버들이 얘기를 하고 있습니다. 이에 대한 팩트체크를 부탁드립니다.&nbsp;
 &nbsp;
 오찬 결렬이유&nbsp;:&nbsp;문측에서 아래 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배우 공유가 박정희 대통령을 존경한다고 말한 이후 작품을 못한 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/577</link>
-            <guid>https://factchecker.or.kr/fc_suggests/577</guid>
-            <pubDate>Thu, 24 Mar 2022 02:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[트위터를 보는데 배우 공유씨가 박정희 대통령을 존경한다고 공개 석상에서 발언한 이후 작품을 5년 동안 못했다는 글이 있더라고요. 사실인가요? https://twitter.com/hannam1729/status/150643...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성일종 의원의 청와대 용산이전에 대해 김병주의원의 말이 전혀 틀리다라고 했습니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/574</link>
-            <guid>https://factchecker.or.kr/fc_suggests/574</guid>
-            <pubDate>Mon, 21 Mar 2022 07:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[[시선집중] 성일종 與, 국민께 거짓말하면 혼란만.. 안보 공백? 비용? 전혀 문제없다 (daum.net)
-더불어민주당 군출신 김병주의원의 말을 전면부인하는 말을 했습니다. 팩트체크넷에서 재조명 부탁드립니다.&lt;성일종 국민...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] 불붙은 풍수지리 논란…'명당'이란 무엇인가 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
