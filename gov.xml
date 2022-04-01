@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 01:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법과 원칙에 따라 중대재해처벌법 적용 여부 판단]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3839</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3839</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “법과 원칙에 따라 중대재해처벌법 적용 여부를 판단하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3abcfd14b133644abfb0dd0a28d2def9c9204eb1/1d1f16c831bdd582b7ff7e5ce20d1673.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인수위에 35조원 규모 추경 계획 전달? 기재부 “사실과 달라”]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3823</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 “카페·식당 1회용품 규제는 코로나19 이후 한시 유예한 것을 재개하는 것으로 4월 1일 시행에 만전을 기하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3djIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f7c68bc1e1a6b48252af2eb5f16152d5e19120b/3b10e5c4c59b8d58c7192e94109e398a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소세 도입 무기한 보류, 인수위 기재부 업무보고시 첫 공개? 사실과 달라]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3794</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3794</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “탄소가격 부과체계 연구용역은 탄소가격 부과 수단들에 대한 전반적인 제도개편 방안을 검토한 것”으로 “‘탄소세 도입이 무기한 보류되었으며, 인수위 기재부 업무보고 시 첫 공개한다’는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b2d061c9744f1b237dba84f2ad4e308fac3aab9/f171ef4345e2d56d65eebc3514ab63e7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
