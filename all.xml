@@ -4,9 +4,20 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/335</link>
+            <guid>https://factchecker.or.kr/fc_subjects/335</guid>
+            <pubDate>Fri, 01 Apr 2022 08:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/335">
+
+&nbsp;
+&nbsp;
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/330</link>
@@ -95,16 +106,13 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[청와대부지가 조선총독 관저가 있던 곳이 맞다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/318</link>
-            <guid>https://factchecker.or.kr/fc_subjects/318</guid>
-            <pubDate>Thu, 24 Mar 2022 02:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/318">이준석 국민의힘 대표가 3월 17일 페이스북에 올린 글에 보면
-애초에 청와대 부지는 조선총독 관저가 있던 곳입니다.  라고 발언하는 글이 나옵니다.
-과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
-&nbsp;
-
-</a>]]></content:encoded>
+            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/335</link>
+            <guid>https://factchecker.or.kr/fc_subjects/335</guid>
+            <pubDate>Fri, 01 Apr 2022 08:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -190,17 +198,6 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[청와대부지가 조선총독 관저가 있던 곳이 맞다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/318</link>
-            <guid>https://factchecker.or.kr/fc_subjects/318</guid>
-            <pubDate>Thu, 24 Mar 2022 02:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[이준석 국민의힘 대표가 3월 17일 페이스북에 올린 글에 보면
-애초에 청와대 부지는 조선총독 관저가 있던 곳입니다.  라고 발언하는 글이 나옵니다.
-과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[연료절감기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/589</link>
             <guid>https://factchecker.or.kr/fc_suggests/589</guid>
@@ -265,7 +262,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Fri, 01 Apr 2022 07:15:23 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 08:16:58 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -462,6 +459,20 @@ https://blog.naver.com/kja1052/222652135381
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3djIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f7c68bc1e1a6b48252af2eb5f16152d5e19120b/3b10e5c4c59b8d58c7192e94109e398a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/100</link>
+            <guid>https://factchecker.or.kr/fc_publications/100</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 환경부의 미세 먼지 저감을 위한 사용 연한 지난 경유 차량 폐기 지침은 사실인가?&nbsp;
+- 사실이다. 경찰청 경비국 담당자와 전화 통화로 확인했다. 환경부의 미세먼지 종합 관리 계획으로 살수차 18대, 가스차 12대를 폐기했다고 했다. 불법 집회·시위에 소극적으로 대응해온 현 정부 기조에 맞춰 살수차, 가스차 폐기를 한것이 아님을 강조했다.
+** 환경부 미세먼지 관리 종합 계획(48, 53p) - 경찰청발 경유차, 살수차 관련 직접적인 자료를 찾지 못했다. 다만, 환경부의 해당 자료는 경찰청의 입장을 뒷받침하는 자료라 생각해 첨부했다.http://www.me.go.kr/home/web/policy_data/read.do?menuId=10262&amp;seq=7399
+&nbsp;
+
+&nbsp;
+2. 위해성 경찰 장비의 사용 기준 규정에 경찰의 살수차와 가스차가 사용 가능한 경찰 장비로 명시되어 있는가? 살수차는 소요 사태로 공공의 안녕질서에 위험이 초래되는 경우 사용할 수 있는 것이 사실인가?
+- 둘 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/97</link>
             <guid>https://factchecker.or.kr/fc_publications/97</guid>
@@ -599,16 +610,6 @@ A. 통화 기록이 확인되는 한에서 Yes.
 경복궁 뒤쪽의 경무대 총독관저가 대한민국 정부가 수립되면서 대통령관저로 사용되었고, 1993년 철거되었다고 기록되어있습니다. &nbsp;현 청와대부지에 있었던 총독관저는 경무대 총독관저임을 알 수 있습니다.&nbsp;
 2) 경무대총독관저의 도면확인
 https://theme.archives.go.kr/viewer/commo...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[태양광 배당금 지급 이후 신안군 인구가 증가했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/92</link>
-            <guid>https://factchecker.or.kr/fc_publications/92</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부가 공시한 신안군 주민등록 인구 통계에 따르면 &lt;신안군 신 재생에너지 개발 이익 공유등에 관한 조례&gt;가 제정된 2018년부터 2021년까지 신안군 전체 인구는 감소한 것으로 나타났습니다.
-다만 이재명 후보의 제주 유세 발언 맥락을 보면, 신안군에서 태양광 배당금을 지급하기 시작한 시점과 실제 수혜를 받는 지역(읍면 단위)의 인구 증감을 살펴보는게 보다 팩트체크에 적절하다고 유추할 수 있습니다.
-신안군청이 홈페이지에 게시된 보도자료를 보면 태양광 이익공유제 혜택을 받는 지역은 안좌도, 자라도, 지도 이 세 지역이었고, 안좌도와 자라도 지역 주민은 21년 4월 26일, 지도 주민은 21년 11월 29일부터 태양광 배당금을 각각 받은 것으로 나타났습니다.
-따라서 안좌와 자라 지역은 배당금&nbsp; 첫 지급 시기인 2021년 4월부터, 지도 지역은 2021년 11월 이후부터 이재명 후보 발언 직전인 2022년 2월까지 해당 지역 인구 증감을 살펴보면 해당 발언이 팩트인지 아닌지 알...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>

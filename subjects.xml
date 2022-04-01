@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/335</link>
+            <guid>https://factchecker.or.kr/fc_subjects/335</guid>
+            <pubDate>Fri, 01 Apr 2022 08:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/330</link>
@@ -89,17 +98,6 @@
 &nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대부지가 조선총독 관저가 있던 곳이 맞다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/318</link>
-            <guid>https://factchecker.or.kr/fc_subjects/318</guid>
-            <pubDate>Thu, 24 Mar 2022 02:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[이준석 국민의힘 대표가 3월 17일 페이스북에 올린 글에 보면
-애초에 청와대 부지는 조선총독 관저가 있던 곳입니다.  라고 발언하는 글이 나옵니다.
-과연 청와대 부지가 조선총독 관저가 있는 곳인지 검증을 해보려고 합니다.&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
