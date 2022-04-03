@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 16:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 17:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알고보니] 전경련 "집무실 경제효과 12조 원", 어떻게 나왔나]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3843</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3843</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 발표되고 있습니다. 그중 가장 많은 관심을 받은 것은 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--af56f8eba39d505113aabbc11298cf22373bab17/c5c2df2a8e4653bc53964f898d2c6982.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[깐팩] 대학로 소극장업 무너지는 이유···임대료 vs 인건비]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3842</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3842</guid>
+            <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[소극장으로 유명한 서울 혜화동 대학로. 대학로 상권이 크게 악화됐단 볼맨 목소리가 나온다. 소극장 업주 등은 임대료가 올라 영업이 어려워졌고 그로인해 상권이 침체됐다는 분석이다. 부동산 소유주 측은 임대료는 오르 적도 없고 상권 침체도 사실이 아니라고 주장한다. 여성경제신문이 양 측 주장을 팩트체크해봤다.먼저 소극장 공연계에선 임대료 상승을 침체 원인으로 본다. 김민섭 전 예술공간 혜화·세실극장 대표는 여성경제신문과 인터뷰에서 “대학로로 소극장 작품이 몰리고 폐막일을 두지 않는 오픈런 공연이 많아지면서 소극장 임대료 수준도 꾸준히]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77098568c628feea64c4bc695297a87e4c2a608f/15c7c16c13a37aa0cb24ee5f4b4a3432.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] 우루과이, 대통령 관저 개방으로 GDP 증가？]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3841</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3841</guid>
+            <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]전국경제인연합회가 대통령 집무실을 이전하면 5조 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c018a33e99de1bfbfca6851be4959a64619d7fcd/81d20668acacb394f1d0be166b7e9492.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA["1회용품 규제, 코로나 감염 우려" 안철수 주장 '거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3840</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3840</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 규제 유예 요구에 환경단체 반박... 다회용품 감염 가능성 낮아]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e005f8c320110a85332ffa1f6ea44f992015383b/f6197df9ac9c702cd88c80755d985543.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[尹 정부 청년도약계좌 때문에 청년희망적금 폐지된다? [FACT IN 뉴스]]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3838</link>
@@ -54,38 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[일요신문] 이준석 국민의힘 당대표가 전국장애인차별철폐연대(전장연)의 지하철 시위를 두고 “수백만 승객이 특정단체의 인질이 되어서는 안 된다”고 비판한 데 이어 장애인도 비장애인처럼 시간 지나면 탑승을 제한해야 한다는 취지의 주장을 해 파장이 커지고 있다. ‘공정’과 ‘상식’을 비전으로 내세운 차기 정부의 여당 대표가 추구하는 ‘공정’에 시민들의 비판이 이...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea298fbe18b8fae834d1df39cc663142cff5432f/44f57947c93a087a29172c48474dfd63.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 장애인 콜택시 타려고 2시간 기다리는 경우 많다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3832</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3832</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 장애인 단체가 이동권을 보장해 달라는 요구를 강하게 하는 가운데 시각장애인인 국민의힘 김예지 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVlkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--425b6b0bf0fa7389f8cbaed70b995dad3d59fe95/21ac6d0907e5c8007624b23c454d4fc3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 인수위 "청계천 복원 사업도 80%가 반대했다" 주장 확인해보니]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3831</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3831</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 당선인의 대통령 집무실 용산 이전 계획과 관련해 반대 목소리가 커지자 인수위 측에서 ‘2003년 서울시의 청계천 복원사업도 반대 여론이 80%였다’는 주장이 나왔습니다. 청계천 복원사업 당시 여론조사결과를 확인해봤습니다. 윤한홍 인수위 청와대 이전 태스크포스(TF) 팀장은 26일 JTBC와의 인터뷰에서 “용산 이전에 부정적 여론 많은데요”라는 기자의 질문에 “청계천 사업도 오픈하기 전까지 반대 여론이 70~80%였거든요.”라고 답했습니다.이에 앞서 김용현 TF부팀장도 24일 경향신문과의 인터뷰에서 “청계천을 처음 개발]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVVkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0fc4ec47b4ee39b8431f5feb44f3624c54b07c3c/126c0e7667740e255f198ae170c5735b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 서울지하철 94% 엘리베이터 있고, 나머지는 설치가 어렵다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3830</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3830</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스포스트=최고은 기자] 국민의힘 이준석 대표가 장애인 이동권 보장을 요구하며 출근길 지하철 시위를 하고 있는 전국장애인차별철폐연대(전장연)에 대해 연일 날 선 비판을 하고 있다. 이 대표는 지난 26일 페이스북을 통해 “이동권 관련해서 전장연의 요구사항들이 받아들여지지 않는 것도 아닌 상황에서 지하철 엘리베이터 설치율이 100%가 아니라는 이유로 계속 서울시민 불특정 다수를 볼모 삼는 방식은 지속되기 어렵다”며 “지금 엘리베이터 설치가 지연되는 역들은 말 그대로 역사 구조상 엘리베이터 설치 동선이 안 나오는 역들이 대부분”이라고]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8819a5fd83ad0c109ee2709251439272ac9cea30/801cc0a7fcce8fa8b7ab8de46b9979a5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 양파껍질, 음식물쓰레기로 버리면 안 된다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3829</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3829</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 지난 24일 음식물 쓰레기 분리배출 표준안을 연내 시행하기로 했다고 밝혔다. 자치구별로 제각각인 분리배출 기준을 통일해 시민들의 혼선과 불편을 해소하겠다는 목표를 내걸었다. 우리집 살림 담당으로서 그동안 음식물 쓰레기 처리에 고심해 온 분이라면 눈여겨 볼만한 소식이다. 그런데 조금 이상하다. 양파껍질은 음식물쓰레기로 버리면 안 된다고 한다. 뉴스톱이 팩트체크했다.◈서울시 음식물쓰레기 분리배출 표준안서울시는 24일 ‘음식물쓰레기 분리배출 표준안’을 발표했다. 지금까지 자치구별로 달리 실시해 온 음식물쓰레기 분리배출에 대한 통]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1kIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef7bf30481e4285e95eedca2b5e5f5c48811f545/df9e29499f5e061e7a8f8e3a794d440a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
