@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 02:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 03:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령 집무실 이전하면 경제적 이득 최대 '12조 원'이다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/338</link>
+            <guid>https://factchecker.or.kr/fc_subjects/338</guid>
+            <pubDate>Mon, 04 Apr 2022 03:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 공개되고 있습니다. 그중에서 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서가 많은 주목을 받았습니다. 경제 효과가 수천억 원대라는 다른 보고서와 달리, 경제 효과가 수조 원에 이른다는 내용이었기 때문입니다. 보고서에서는 청와대 개방으로 인해 우리나라의 관광수입이 1.8조 원이 늘어난다고 말했습니다. 나아가 새로운 대통령 집무실에서 정부와 국민과의 소통이 증가했을 때 제도적 신뢰도가 증가해 GDP가 최대 12조 원까지 증가할 것이라고 분석했습니다. 〈알고보니〉에서는 보고서가 무엇을 근거로 이런 경제 효과가 있다고 결론 내렸는지 확인해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/335</link>
@@ -85,19 +93,6 @@
             <pubDate>Tue, 22 Mar 2022 00:51:45 GMT</pubDate>
             <content:encoded><![CDATA[최근 온라인 커뮤니티 등에서 우리나라가 세계 갈등 1위로 공인을 받았다는 주장이 제기됐습니다.전 세계인을 대상으로 한 조사에서 우리나라가 가장 많은 갈등을 겪고 있는 나라로 선정되었다는 것입니다. 해당 주장은 지난해 6월 영국 킹스컬리지가 여론조사기관인 입소스에 의뢰해 발간한 보고서를 근거로 내세우고 있습니다. 우리나라가 세계에서 갈등 1위 국가로 선정되었는지, 보고서는 이에 대해 어떤 분석을 내놓았는지, 한국이 갈등 1위 국가라는 주장을 뒷받침할만한 다른 연구 보고서는 있는지 &lt;알고보니&gt;에서 확인해봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 장애인 지원 정부 예산은 GDP 대비 0.6%로 OECD 평균 1.9%의 1/3 수준이다.]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/320</link>
-            <guid>https://factchecker.or.kr/fc_subjects/320</guid>
-            <pubDate>Mon, 21 Mar 2022 09:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 장애인 지원 정부 예산은 GDP 대비 0.6%로 OECD 평균 1.9%의 1/3 수준이다?
-&nbsp;
-
-출처 : 제20대 대통령선거 국민의힘 정책공약집
-&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
