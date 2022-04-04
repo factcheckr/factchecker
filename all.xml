@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 10:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[의류나 포장지를 통해 코로나에 감염? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/591</link>
+            <guid>https://factchecker.or.kr/fc_suggests/591</guid>
+            <pubDate>Mon, 04 Apr 2022 11:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[중국에서 한국의류가 수난을 받고 있네요. WHO에서 인정하지 않는 코로나 감염 경로. 팩트체크해 주세요.
+https://n.news.naver.com/article/052/0001721542
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연료절감기 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/589</link>
             <guid>https://factchecker.or.kr/fc_suggests/589</guid>
@@ -257,7 +266,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 04 Apr 2022 10:15:20 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 11:12:52 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -277,21 +286,6 @@ https://blog.naver.com/kja1052/222652135381
             <pubDate>Sun, 27 Mar 2022 00:55:35 GMT</pubDate>
             <content:encoded><![CDATA[코로나만성두통
 병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중랑경철서 경장승진에 모두 여자만? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/580</link>
-            <guid>https://factchecker.or.kr/fc_suggests/580</guid>
-            <pubDate>Sat, 26 Mar 2022 13:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[블라인드에 게재된 내용인데
-&nbsp;
-이번 서울 중랑경찰서 인사에서 경장승진에 여경만 되고 남자는 0명이라는 내용입니다.
-&nbsp;
-팩트체크 부탁드립니다.
-&nbsp;
-
-&nbsp;
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 집무실 이전하면 최대 '12조 원' 이득? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

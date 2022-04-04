@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-04T10:16:05.821Z</updated>
+    <updated>2022-04-04T11:13:40.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[의류나 포장지를 통해 코로나에 감염?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/591</id>
+        <link href="https://factchecker.or.kr/fc_suggests/591"/>
+        <updated>2022-04-04T11:12:52.832Z</updated>
+        <content type="html"><![CDATA[중국에서 한국의류가 수난을 받고 있네요. WHO에서 인정하지 않는 코로나 감염 경로. 팩트체크해 주세요.
+https://n.news.naver.com/article/052/0001721542
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연료절감기]]></title>
         <id>https://factchecker.or.kr/fc_suggests/589</id>
@@ -68,10 +77,10 @@ https://blog.naver.com/kja1052/222652135381
 전염성이 강하고 생명에 치명적일수도 있는...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-04-04T10:15:20.949Z</updated>
+        <updated>2022-04-04T11:12:52.786Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content>
@@ -91,20 +100,5 @@ https://blog.naver.com/kja1052/222652135381
         <updated>2022-03-27T00:55:35.611Z</updated>
         <content type="html"><![CDATA[코로나만성두통
 병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중랑경철서 경장승진에 모두 여자만?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/580</id>
-        <link href="https://factchecker.or.kr/fc_suggests/580"/>
-        <updated>2022-03-26T13:18:00.071Z</updated>
-        <content type="html"><![CDATA[블라인드에 게재된 내용인데
-&nbsp;
-이번 서울 중랑경찰서 인사에서 경장승진에 여경만 되고 남자는 0명이라는 내용입니다.
-&nbsp;
-팩트체크 부탁드립니다.
-&nbsp;
-
-&nbsp;
-&nbsp;]]></content>
     </entry>
 </feed>
