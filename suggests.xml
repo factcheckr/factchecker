@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-06T10:16:48.982Z</updated>
+    <updated>2022-04-06T11:12:29.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인 콜택시 대기 시간]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/592</id>
+        <link href="https://factchecker.or.kr/fc_suggests/592"/>
+        <updated>2022-04-06T11:11:46.230Z</updated>
+        <content type="html"><![CDATA[휠체어를 타는 장애인을 위한 콜택시를 소개하는 기사에 대해 검증 요청드립니다. http://yna.kr/AKR20220331051400502]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의류나 포장지를 통해 코로나에 감염?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/591</id>
@@ -77,10 +84,10 @@ https://blog.naver.com/kja1052/222652135381
 전염성이 강하고 생명에 치명적일수도 있는...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-04-06T10:16:04.927Z</updated>
+        <updated>2022-04-06T11:11:46.178Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content>
@@ -90,14 +97,6 @@ https://blog.naver.com/kja1052/222652135381
         <id>https://factchecker.or.kr/fc_suggests/582</id>
         <link href="https://factchecker.or.kr/fc_suggests/582"/>
         <updated>2022-03-27T00:55:35.605Z</updated>
-        <content type="html"><![CDATA[코로나만성두통
-병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만성두통도 코로나증상ㅈ으로 분류해서 검사가필요 한지?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/581</id>
-        <link href="https://factchecker.or.kr/fc_suggests/581"/>
-        <updated>2022-03-27T00:55:35.611Z</updated>
         <content type="html"><![CDATA[코로나만성두통
 병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content>
     </entry>
