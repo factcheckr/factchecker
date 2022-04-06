@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 00:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,7 +271,7 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 23:14:58 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 00:57:43 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
@@ -291,6 +291,14 @@ https://blog.naver.com/kja1052/222652135381
             <pubDate>Sun, 27 Mar 2022 00:55:35 GMT</pubDate>
             <content:encoded><![CDATA[코로나만성두통
 병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 잘못된 사실, 맥락 삭제… 이수정 교수의 위험한 주장 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3851</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3851</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“여성인권 불평등하지 않아” 근거로 ‘성불평등지수’청소년 출생률·모성 사망률 낮은 영향 커 “성평등 독립부처는 세계 10개국뿐” 틀린 주장도194개국 중 160개국, ‘성평등 위한 독립부처’ 운용‘독립부처 형태 증가-위원회는 감소’가 세계 추세]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee6958448df5de3f2ff19898862a864796014a05/83d7e52954651f92c9a8f4b14c0adddc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 인수위 "당초 팍스로비드 국내 반입 시기 미확정"? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -365,12 +373,12 @@ https://blog.naver.com/kja1052/222652135381
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e005f8c320110a85332ffa1f6ea44f992015383b/f6197df9ac9c702cd88c80755d985543.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[尹 정부 청년도약계좌 때문에 청년희망적금 폐지된다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3838</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3838</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“청년도약계좌 나오면 청년희망적금 없어지나요?” 최근 윤석열 대통령 당선인의 공약인 ’청년도약계좌’에 관심이 쏠리면서 최근 청년들 사이에서는 기존의 ‘청년희망적금’이 사라지는 것 아니냐는 우려가 나온다. 지난 4일까지 약 290만명이 가입을 마친 청년희망적금은 정부의 저축장려...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e0c439e2e14bf22301c917bac8b16fc27a3681d/9c94b70e9a7fb40c5e90bb27814770d4.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[공정위 “미고발 사유서 작성 등 정책 방향 결정 안돼” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3852</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3852</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “미고발 사유서 작성 및 온라인 플랫폼 시장에서의 불공정거래 규제 및 소비자권익 보호, 특수관계인 범위 조정에 대해서는 정책방향이 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c85bbfcaa84264f97886baa20b2ac24d602afaf3/df623907201994f39752cdc895a69016.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[법과 원칙에 따라 중대재해처벌법 적용 여부 판단 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -443,14 +451,6 @@ https://blog.naver.com/kja1052/222652135381
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “우리나라의 노동조합법 및 병역법은 올해 4월 발효될 ILO 핵심협약과 상충하지 않는다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac9b491d1939b5a7acce585248ff2fb19aa4eef/48a8164d7a5858ca22c195ac445ba954.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페·식당 1회용품 규제, 코로나19 이후 한시 유예한 것 재개 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3795</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3795</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “카페·식당 1회용품 규제는 코로나19 이후 한시 유예한 것을 재개하는 것으로 4월 1일 시행에 만전을 기하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3djIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f7c68bc1e1a6b48252af2eb5f16152d5e19120b/3b10e5c4c59b8d58c7192e94109e398a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추가 계약 및 재고 백신 물량 8000만명 분 해외 무상지원? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

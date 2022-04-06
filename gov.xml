@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 00:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공정위 “미고발 사유서 작성 등 정책 방향 결정 안돼”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3852</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3852</guid>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “미고발 사유서 작성 및 온라인 플랫폼 시장에서의 불공정거래 규제 및 소비자권익 보호, 특수관계인 범위 조정에 대해서는 정책방향이 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c85bbfcaa84264f97886baa20b2ac24d602afaf3/df623907201994f39752cdc895a69016.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[법과 원칙에 따라 중대재해처벌법 적용 여부 판단]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3839</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “우리나라의 노동조합법 및 병역법은 올해 4월 발효될 ILO 핵심협약과 상충하지 않는다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac9b491d1939b5a7acce585248ff2fb19aa4eef/48a8164d7a5858ca22c195ac445ba954.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페·식당 1회용품 규제, 코로나19 이후 한시 유예한 것 재개]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3795</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3795</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “카페·식당 1회용품 규제는 코로나19 이후 한시 유예한 것을 재개하는 것으로 4월 1일 시행에 만전을 기하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3djIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f7c68bc1e1a6b48252af2eb5f16152d5e19120b/3b10e5c4c59b8d58c7192e94109e398a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

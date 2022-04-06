@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 00:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 잘못된 사실, 맥락 삭제… 이수정 교수의 위험한 주장]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3851</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3851</guid>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“여성인권 불평등하지 않아” 근거로 ‘성불평등지수’청소년 출생률·모성 사망률 낮은 영향 커 “성평등 독립부처는 세계 10개국뿐” 틀린 주장도194개국 중 160개국, ‘성평등 위한 독립부처’ 운용‘독립부처 형태 증가-위원회는 감소’가 세계 추세]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee6958448df5de3f2ff19898862a864796014a05/83d7e52954651f92c9a8f4b14c0adddc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 인수위 "당초 팍스로비드 국내 반입 시기 미확정"?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3850</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 규제 유예 요구에 환경단체 반박... 다회용품 감염 가능성 낮아]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e005f8c320110a85332ffa1f6ea44f992015383b/f6197df9ac9c702cd88c80755d985543.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 정부 청년도약계좌 때문에 청년희망적금 폐지된다? [FACT IN 뉴스]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3838</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3838</guid>
-            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“청년도약계좌 나오면 청년희망적금 없어지나요?” 최근 윤석열 대통령 당선인의 공약인 ’청년도약계좌’에 관심이 쏠리면서 최근 청년들 사이에서는 기존의 ‘청년희망적금’이 사라지는 것 아니냐는 우려가 나온다. 지난 4일까지 약 290만명이 가입을 마친 청년희망적금은 정부의 저축장려...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e0c439e2e14bf22301c917bac8b16fc27a3681d/9c94b70e9a7fb40c5e90bb27814770d4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
