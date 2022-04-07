@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 10:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[여성이 남성보다 노안을 더욱 빨리 느낀다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/595</link>
+            <guid>https://factchecker.or.kr/fc_suggests/595</guid>
+            <pubDate>Thu, 07 Apr 2022 11:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[비슷한 연령이라도 여성이 남성보다 돋보기를 일찍 필요로 하는 경향이 있다. 여성은 남성보다 스마트폰이나 책 같은 대상을 눈에 더 가까이 두고 보는 습관이 있어 노안에 따른 불편을 더 많이 느끼는 편이라고 하는데요.
+여성이...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사람이 잠을 안자면 진짜 미치나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/594</link>
             <guid>https://factchecker.or.kr/fc_suggests/594</guid>
@@ -278,18 +286,10 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 10:13:18 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2022 11:12:56 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[만성두통도 코로나증상ㅈ으로 분류해서 검사가필요 한지? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/582</link>
-            <guid>https://factchecker.or.kr/fc_suggests/582</guid>
-            <pubDate>Sun, 27 Mar 2022 00:55:35 GMT</pubDate>
-            <content:encoded><![CDATA[코로나만성두통
-병원진료시 만성두통을코로나증ㅈ상으로 분류하여검사결과지가있어야 진료를볼수있는지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 텔레그래프는 과연 탱크의 종언을 말했을까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
