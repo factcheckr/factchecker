@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 00:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,10 +286,34 @@ https://blog.naver.com/kja1052/222652135381
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 23:12:59 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 00:55:33 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 예지정비아이티공간이영규
 2022.03.27 14:08:08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3869</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3869</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 이번에 무혐의 결정을 받은 한동훈 검사장, 또 이른바 고발사주 의혹에 함께 연루된 손준성 검사의 공통점, 바로 수사기관이 아이폰을 압수하고도 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE1kIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a7506de0271b9b89312c570e7640e79ba511bb5/fbb07f3618a201ca549b7ee2ba6db00f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 일본이 외국인 입국 완화 대상에서 한국을 제외했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3868</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3868</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 전 세계 국가들이 코로나19 팬데믹(세계적 대유행) 여파로 걸어 잠근 빗장을 속속 풀고 있는 가운데 일본도 외...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdElkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cdacc28c84ffd623f7d7af62c55229c8ffc2336/ba3f317bdf7c76efd0f8d2030892ef4f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA["국가부채 2200조, GDP 역전" 언론의 '반복된 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3867</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3867</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 재무제표상 부채를 국가부채로 섞어서 보도... 한두번도 아니고 매번 왜이러나]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d50b88599ca19314df55d4f5268279ebcc943689/b7f9deafc96eecf6901d816d1c956aa0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 텔레그래프는 과연 탱크의 종언을 말했을까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -348,27 +372,44 @@ https://blog.naver.com/kja1052/222652135381
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c6250cdcd65050ad0caef70a814e10dcd88a308/a35145f1213cee6ede91fc66e422a370.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[■ 6.1지방선거, 팩트체크-01 : ‘평택지원특별법’은 원유철 국회의원이 발의했다? - 평택시사신문 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3853</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3853</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[은 오는 6월 1일 실시하는 제8회 전국동시지방선거 기간에 정당 또는 후보자 간 사실 관계를 다투는 논쟁에 대해 다양한 근거 자료...]]></content:encoded>
+            <title><![CDATA[금융위 “뮤직카우 처리방향, 결정된 바 없어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3874</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3874</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “뮤직카우 처리방향에 대해서는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--771e3c5745bec3766cd6fd4a317599be91a3b0c1/25c56bba78bb9cb3a2ad9ffafa8e13c6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 잘못된 사실, 맥락 삭제… 이수정 교수의 위험한 주장 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3851</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3851</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“여성인권 불평등하지 않아” 근거로 ‘성불평등지수’청소년 출생률·모성 사망률 낮은 영향 커 “성평등 독립부처는 세계 10개국뿐” 틀린 주장도194개국 중 160개국, ‘성평등 위한 독립부처’ 운용‘독립부처 형태 증가-위원회는 감소’가 세계 추세]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee6958448df5de3f2ff19898862a864796014a05/83d7e52954651f92c9a8f4b14c0adddc.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[신재생에너지 금융지원예산 대폭 삭감 작업 착수? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3873</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3873</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “그간 무분별하게 추진해온 신재생 사업의 구조조정을 위해 신재생에너지 금융지원 예산의 대폭 삭감작업에 착수했다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec2bcf36d12ee67fa8313bad21e6a4601e719b58/294379474a752df1e87430aa2e1ea3ef.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 인수위 "당초 팍스로비드 국내 반입 시기 미확정"? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3850</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3850</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령직 인수위원회(코로나 특위)는 지난달 31일 보도자료를 내 “당초에는 (팍스로비드의) 국내 반입 시기가 확정되지 않았으나, 안철수 위원장과 질병관리청과 질병청, 화이자사 협의를 거쳐 22만2000명분을 조기에 도입하게 됐다”라고 밝혔습니다. 정부는 먹는 치료제 팍스로비드의 국내 반입 시기를 확정한 적이 없을까요? 이 확인했습니다. ■ 1월 13일 팍스로비드 국내 첫 도입지난 1월 13일 중앙재난안전대책본부는 팍스로비드 76만2천명분, 몰누피라비르 24만2천명분을 계약 물량으로 도입했다고 밝혔습니다. 2만1천명]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--83e91b2322e5d5f0e618657090ebf72bc10c6218/fb6ce4c54d9d639cb8db9b861c58c401.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[국가첨단전략산업법, 기술 범위 한정 안해…기술 지정은 법 시행 후 진행 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3872</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3872</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “국가첨단전략산업법은 기술의 범위를 한정하고 있지 않으며, 구체적인 기술 지정은 법 시행 후 진행할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980a5b3393a194c9d92e665e53cc831b1ad7c827/24da9653790a3fcc8c0b00f59478d184.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정위 “특수관계인 범위 축소 등 정책 방향 결정 안돼” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3871</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3871</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “특수관계인 범위 축소, 외국인 동일인 지정 근거 마련, 사익편취 가능한 모든 대상에 자료제출 요구 등과 관련한 정책 방향에 대해서는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6b9041daf0663b2719ef163e5c5f5de3edf5913/295fc9d1d6f652f954f03fd5a1b49636.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[전자상거래 표준약관 개정, 온플법 입법과 무관…작년초부터 연구용역 실시 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3870</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3870</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “개인정보보호 관련 전자상거래 표준약관 개정은 온플법 입법과 무관하게 작년 초부터 연구용역 등을 실시해 추진해오고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--975ec470b7d801ac505f1489e079b3248b405464/06fb4ccd163868c160261c791b87dcd2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[법제처 “교육공무원 인사기록 및 인사사무처리 규칙, 사전심사 진행 중” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -409,46 +450,6 @@ https://blog.naver.com/kja1052/222652135381
             <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 “교통약자 이동편의 증진 예산은 지속 확대되고 있다”며 “교통약자 이동권 예산과 관련, 올해 예산은 전년 대비 50% 증액됐다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6c7194619d92f4a1ef95002713325f20f2c493/6ffae20b90bb09283a124eb7c647bace.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용부 “차기 정부 국정과제 관련 내용 현재 확정 안돼” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3861</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3861</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “차기 정부 국정과제와 관련한 내용은 현재 확정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6d3d417d84f89a0964e0a4c3e199ce4c3d63d26d/a7f0f6811d9eb1cc2ce700636341149b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위 “미고발 사유서 작성 등 정책 방향 결정 안돼” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3852</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3852</guid>
-            <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “미고발 사유서 작성 및 온라인 플랫폼 시장에서의 불공정거래 규제 및 소비자권익 보호, 특수관계인 범위 조정에 대해서는 정책방향이 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c85bbfcaa84264f97886baa20b2ac24d602afaf3/df623907201994f39752cdc895a69016.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[법과 원칙에 따라 중대재해처벌법 적용 여부 판단 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3839</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3839</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “법과 원칙에 따라 중대재해처벌법 적용 여부를 판단하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3abcfd14b133644abfb0dd0a28d2def9c9204eb1/1d1f16c831bdd582b7ff7e5ce20d1673.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인수위에 35조원 규모 추경 계획 전달? 기재부 “사실과 달라” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3823</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3823</guid>
-            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “인수위에 35조원 규모의 추경 계획을 전달했다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3edce0b2ab82343850c89111ae77e8b1936574ea/52b81bf6e023f9655ce7d5e7abe49e4c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬진강 일대 홍수 피해 주민 1829명에 284억원 지급 결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3818</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3818</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부 중앙환경분쟁조정위원회는 “섬진강 남원·임실·순창 홍수 피해 주민 1879명 중 1829명에게 284억원 지급을 결정했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2tkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53acf0702c07ed270dfd0653d5e8d76ad1e58e35/9a16b7ad8e644486929726d11e0e45f9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추가 계약 및 재고 백신 물량 8000만명 분 해외 무상지원? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
