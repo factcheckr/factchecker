@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-08T22:14:43.129Z</updated>
+    <updated>2022-04-08T23:13:32.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 1인 가구 모니터링 사업, 특정 계층에만 집중됐다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/602</id>
+        <link href="https://factchecker.or.kr/fc_suggests/602"/>
+        <updated>2022-04-08T23:12:45.831Z</updated>
+        <content type="html"><![CDATA[http://news.tvchosun.com/site/data/html_dir/2022/04/04/2022040490177.html
+&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 경제 지표, 소득만 빼고 다 늘었다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/601</id>
+        <link href="https://factchecker.or.kr/fc_suggests/601"/>
+        <updated>2022-04-08T23:12:45.833Z</updated>
+        <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=001&amp;oid=449&amp;aid=0000224939]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 요요현상이 심장질환과 당뇨병 위험을 높일 수 있다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/600</id>
@@ -70,32 +85,5 @@ https://youtu.be/PAG7hJ9J-zQ]]></content>
         <content type="html"><![CDATA[중국에서 한국의류가 수난을 받고 있네요. WHO에서 인정하지 않는 코로나 감염 경로. 팩트체크해 주세요.
 https://n.news.naver.com/article/052/0001721542
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연료절감기]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/589</id>
-        <link href="https://factchecker.or.kr/fc_suggests/589"/>
-        <updated>2022-03-31T08:15:26.797Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/05H08YvbgYA
-요즘기름값이
-올라부담스러운데&nbsp;
-솔깃한 광고 가 있습니다
-시거짹에 꽂기만하면
-설치끝입니다
-일명(뉴파워세이버)
-이제품이 진짜절감 되는지
-알고싶습니다,
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남자꼬시는법]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/587</id>
-        <link href="https://factchecker.or.kr/fc_suggests/587"/>
-        <updated>2022-03-31T07:14:17.880Z</updated>
-        <content type="html"><![CDATA[진짜로 이렇게 하면 남자를 꼬실 수 있는지 궁금해서요
-&nbsp;
-1. 다가가서 이야기하기
-2. 사소한거라도 같이 이야기하기
-3. 주말에 시간되면 만나자고하기]]></content>
     </entry>
 </feed>
