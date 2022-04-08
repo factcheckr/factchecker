@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-08T00:56:18.812Z</updated>
+    <updated>2022-04-08T02:40:56.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인 이동권, 장애인만을 위한 것이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/343</id>
+        <link href="https://factchecker.or.kr/fc_subjects/343"/>
+        <updated>2022-04-08T02:39:53.019Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/343">전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 논란이 촉발됐습니다. 장애인 이동권 보장을 위한 정부의 대책 마련을 촉구하기 위한 시위였지만, 시위의 불법성, 해당 장애인 단체의 정파성, 나아가 장애인 단체 요구 사항의 정당성 등을 둘러싸고 논란이 확대되고 있습니다. 정치적인 논란으로 번지면서, 그동안 사회적 합의에 다다른 것으로 보였던 ‘장애인 이동권’에 대해서도 노골적인 비판의 목소리가 제기되고 있습니다. 저상버스, 지하철 승강기 설치 요구가 소수 장애인을 위한 집단 이기주의라는 비난들이 나오는 것입니다. &lt;알고보니&gt;에서는 이러한 장애인 이동을 지원하는 시설이 장애인만을 위한 특혜로 바라보는 시각이 합리적인지 관련 자료를 토대로 분석해봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추가 계약 및 재고 백신 물량 8000만명 분 해외 무상지원?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/339</id>
@@ -92,14 +100,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/324"/>
         <updated>2022-03-24T02:22:50.380Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/324">
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 '갈등'이 세계 1위?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/323</id>
-        <link href="https://factchecker.or.kr/fc_subjects/323"/>
-        <updated>2022-03-22T00:51:36.701Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/323">최근 온라인 커뮤니티 등에서 우리나라가 세계 갈등 1위로 공인을 받았다는 주장이 제기됐습니다.전 세계인을 대상으로 한 조사에서 우리나라가 가장 많은 갈등을 겪고 있는 나라로 선정되었다는 것입니다. 해당 주장은 지난해 6월 영국 킹스컬리지가 여론조사기관인 입소스에 의뢰해 발간한 보고서를 근거로 내세우고 있습니다. 우리나라가 세계에서 갈등 1위 국가로 선정되었는지, 보고서는 이에 대해 어떤 분석을 내놓았는지, 한국이 갈등 1위 국가라는 주장을 뒷받침할만한 다른 연구 보고서는 있는지 &lt;알고보니&gt;에서 확인해봤습니다.
 </a>]]></content>
     </entry>
 </feed>
