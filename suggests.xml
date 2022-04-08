@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-08T06:17:42.870Z</updated>
+    <updated>2022-04-08T07:15:24.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마스크에 간편하게 부착하는 산소패치는 마스크 내에 산소 농도를 30-40% 이상 증가시키는가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/597</id>
+        <link href="https://factchecker.or.kr/fc_suggests/597"/>
+        <updated>2022-04-08T07:14:42.453Z</updated>
+        <content type="html"><![CDATA[검증대상 출처 :
+1.기사
+https://www.itbiznews.com/news/articleView.html?idxno=65879
+
+2. 제품 사이트
+https://o2power.kr/index/#%EC%98%A4%E...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비건 화장품은 피부에 더 좋고 순한가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/596</id>
+        <link href="https://factchecker.or.kr/fc_suggests/596"/>
+        <updated>2022-04-08T07:14:42.453Z</updated>
+        <content type="html"><![CDATA[검증대상비건 화장품은 피부에 더 좋고 순한가?
+비건 화장품이란 동물실험을 거치지 않고, 동물성 완료 대신 자연 유래 친환경 성분만을 사용하는 화장품을 말합니다. 비건 제품은 어떤 동물의 성분도 포함하지 않으며 동물성 제...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성이 남성보다 노안을 더욱 빨리 느낀다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/595</id>
@@ -82,22 +102,5 @@ https://blog.naver.com/kja1052/222652135381
 등 다수
 &nbsp;
 노바백스에 리피드 나노 파티클이라 불리는 물질이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환불되는지 ᆢ]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/584</id>
-        <link href="https://factchecker.or.kr/fc_suggests/584"/>
-        <updated>2022-03-28T07:13:02.823Z</updated>
-        <content type="html"><![CDATA[여행사 통해서 국내 섬여행패키지(울릉도 2박3일&nbsp; 등)구매한뒤 승선전날 코로나19&nbsp; 양성판정 받으면 미리 지불한 여행요금(크루즈요금과 숙박비 등)을 100% 환불받을 수 있나요?
-전염성이 강하고 생명에 치명적일수도 있는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://factchecker.or.kr/fc_suggests</id>
-        <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-04-08T06:16:56.933Z</updated>
-        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
-예지정비아이티공간이영규
-2022.03.27 14:08:08]]></content>
     </entry>
 </feed>
