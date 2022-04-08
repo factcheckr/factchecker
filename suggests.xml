@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-08T11:13:22.111Z</updated>
+    <updated>2022-04-08T12:23:51.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어트 요요현상이 심장질환과 당뇨병 위험을 높일 수 있다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/600</id>
+        <link href="https://factchecker.or.kr/fc_suggests/600"/>
+        <updated>2022-04-08T12:23:06.313Z</updated>
+        <content type="html"><![CDATA[다이어트 요요, 이것 위험 높아져 (연구) - 코메디닷컴 (kormedi.com)
+현대사회에서 다이어트는 필수적이고 조금만 방심하면 요요가 와 원래 상태로 돌아간다.&nbsp;
+위에 내용은 쥐실험을 통해서 살이 빠졌다가 다시 찌는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 비용]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/599</id>
+        <link href="https://factchecker.or.kr/fc_suggests/599"/>
+        <updated>2022-04-08T12:23:06.320Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+코로나19 응급실 치료비, 아직도 환자에게 전가 (kbs.co.kr)
+코로나19 양성이 판정이 나오면 나라에서 부담해야 합니다.
+하지만 위에 기사 내용을 보면 나라에서 코로나19 관련 비용을 지원하는 것이 아닌 대학병...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 전용 주차 공간이 현재 적절한 역할을 하고 있는가 ?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/598</id>
@@ -78,24 +97,5 @@ https://n.news.naver.com/article/052/0001721542
 1. 다가가서 이야기하기
 2. 사소한거라도 같이 이야기하기
 3. 주말에 시간되면 만나자고하기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노바백스 백신은 광우병과 알츠하이머 병을 유발한다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/585</id>
-        <link href="https://factchecker.or.kr/fc_suggests/585"/>
-        <updated>2022-03-29T09:12:55.305Z</updated>
-        <content type="html"><![CDATA[https://blog.naver.com/dosol21c/222645433472
-https://blog.naver.com/kja1052/222652135381
-등 다수
-&nbsp;
-노바백스에 리피드 나노 파티클이라 불리는 물질이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환불되는지 ᆢ]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/584</id>
-        <link href="https://factchecker.or.kr/fc_suggests/584"/>
-        <updated>2022-04-08T09:13:41.443Z</updated>
-        <content type="html"><![CDATA[여행사 통해서 국내 섬여행패키지(울릉도 2박3일&nbsp; 등)구매한뒤 승선전날 코로나19&nbsp; 양성판정 받으면 미리 지불한 여행요금(크루즈요금과 숙박비 등)을 100% 환불받을 수 있나요?
-전염성이 강하고 생명에 치명적일수도 있는...]]></content>
     </entry>
 </feed>
