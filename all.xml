@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,24 +197,11 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마스크에 간편하게 부착하는 산소패치는 마스크 내에 산소 농도를 30-40% 이상 증가시키는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/597</link>
-            <guid>https://factchecker.or.kr/fc_suggests/597</guid>
-            <pubDate>Fri, 08 Apr 2022 07:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[검증대상 출처 :
-1.기사
-https://www.itbiznews.com/news/articleView.html?idxno=65879
-
-2. 제품 사이트
-https://o2power.kr/index/#%EC%98%A4%E...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비건 화장품은 피부에 더 좋고 순한가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/596</link>
-            <guid>https://factchecker.or.kr/fc_suggests/596</guid>
-            <pubDate>Fri, 08 Apr 2022 07:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[검증대상비건 화장품은 피부에 더 좋고 순한가?
-비건 화장품이란 동물실험을 거치지 않고, 동물성 완료 대신 자연 유래 친환경 성분만을 사용하는 화장품을 말합니다. 비건 제품은 어떤 동물의 성분도 포함하지 않으며 동물성 제...]]></content:encoded>
+            <title><![CDATA[장애인 전용 주차 공간이 현재 적절한 역할을 하고 있는가 ? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/598</link>
+            <guid>https://factchecker.or.kr/fc_suggests/598</guid>
+            <pubDate>Fri, 08 Apr 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[요즘도 장애인 전용 주차공간에 대하여 구설수가 많은 가운데 실질적으로 집 앞에 있는 장애인 주차 공간만 봐서도 언제나 텅텅 비어있는 모습을 볼수가 있는데 정말 장애인 전용 주차 공간이 현재 장애인 운전자 분들에게 도움이 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여성이 남성보다 노안을 더욱 빨리 느낀다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -293,6 +280,14 @@ https://blog.naver.com/kja1052/222652135381
 등 다수
 &nbsp;
 노바백스에 리피드 나노 파티클이라 불리는 물질이 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환불되는지 ᆢ (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/584</link>
+            <guid>https://factchecker.or.kr/fc_suggests/584</guid>
+            <pubDate>Fri, 08 Apr 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[여행사 통해서 국내 섬여행패키지(울릉도 2박3일&nbsp; 등)구매한뒤 승선전날 코로나19&nbsp; 양성판정 받으면 미리 지불한 여행요금(크루즈요금과 숙박비 등)을 100% 환불받을 수 있나요?
+전염성이 강하고 생명에 치명적일수도 있는...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
