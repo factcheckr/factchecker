@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 07:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[1. 서울시 2030 청년 인구 감소가 전체 서울시 인구 감소보다 훨씬 크다? 2. 지난해 서울 전출인구 절반이 청년이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/603</link>
+            <guid>https://factchecker.or.kr/fc_suggests/603</guid>
+            <pubDate>Sat, 09 Apr 2022 07:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.instagram.com/p/CcCz501BNBw/?igshid=YmMyMTA2M2Y=
+https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울 1인 가구 모니터링 사업, 특정 계층에만 집중됐다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/602</link>
             <guid>https://factchecker.or.kr/fc_suggests/602</guid>
@@ -267,15 +275,6 @@ https://youtu.be/PAG7hJ9J-zQ]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/592</guid>
             <pubDate>Wed, 06 Apr 2022 11:11:46 GMT</pubDate>
             <content:encoded><![CDATA[휠체어를 타는 장애인을 위한 콜택시를 소개하는 기사에 대해 검증 요청드립니다. http://yna.kr/AKR20220331051400502]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[의류나 포장지를 통해 코로나에 감염? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/591</link>
-            <guid>https://factchecker.or.kr/fc_suggests/591</guid>
-            <pubDate>Mon, 04 Apr 2022 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 한국의류가 수난을 받고 있네요. WHO에서 인정하지 않는 코로나 감염 경로. 팩트체크해 주세요.
-https://n.news.naver.com/article/052/0001721542
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
