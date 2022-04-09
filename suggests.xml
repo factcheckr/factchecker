@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-09T13:20:03.447Z</updated>
+    <updated>2022-04-09T14:13:21.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미교육청 고교필수과목에 한국사 지정]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/606</id>
+        <link href="https://factchecker.or.kr/fc_suggests/606"/>
+        <updated>2022-04-09T14:12:39.765Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/iX8pE42wyqk]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당뇨, 고혈압, 만성호흡기질환 등 기저질환자는 더 심하게 코로나 후유증을 앓을 가능성이 높다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/605</id>
@@ -77,13 +84,5 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
         <updated>2022-04-07T11:12:56.699Z</updated>
         <content type="html"><![CDATA[비슷한 연령이라도 여성이 남성보다 돋보기를 일찍 필요로 하는 경향이 있다. 여성은 남성보다 스마트폰이나 책 같은 대상을 눈에 더 가까이 두고 보는 습관이 있어 노안에 따른 불편을 더 많이 느끼는 편이라고 하는데요.
 여성이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람이 잠을 안자면 진짜 미치나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/594</id>
-        <link href="https://factchecker.or.kr/fc_suggests/594"/>
-        <updated>2022-04-07T05:11:58.582Z</updated>
-        <content type="html"><![CDATA[이 영상이 사실인가요?
-https://youtu.be/PAG7hJ9J-zQ]]></content>
     </entry>
 </feed>
