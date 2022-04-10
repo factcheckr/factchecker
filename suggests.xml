@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-10T00:56:53.084Z</updated>
+    <updated>2022-04-10T02:30:25.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -37,12 +37,13 @@
 https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 1인 가구 모니터링 사업, 특정 계층에만 집중됐다?]]></title>
+        <title type="html"><![CDATA[그동안 청년 중 약자에 해당하는 계층을 위한 정책이 없었다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/602</id>
         <link href="https://factchecker.or.kr/fc_suggests/602"/>
         <updated>2022-04-08T23:12:45.831Z</updated>
-        <content type="html"><![CDATA[http://news.tvchosun.com/site/data/html_dir/2022/04/04/2022040490177.html
-&nbsp;]]></content>
+        <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=100&amp;oid=014&amp;aid=0004815764
+&nbsp;
+장예찬 청년소통TF&nbsp;단장은 이날 오후 서울 종로구 통의동 인...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 경제 지표, 소득만 빼고 다 늘었다?]]></title>
