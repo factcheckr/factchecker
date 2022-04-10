@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 16:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] '깜깜이' 특수활동비 40% 줄었다, 사실은?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3876</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3876</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령의 부인 김정숙 여사의 의상 비용을 둘러싼 논란이 불거졌습니다. 시민단체 한국납세자연맹은 김 여사의 옷값을 비롯한 의전 비용이 국가 예산인 특수활동비, 특활비에서 지출됐을 거라는 의구심을 제기했고, 지난 2019년 특활비 사용 내역을 공개하라며 소송을 냈습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b903f45cae5a302de8eba0913c0ca8f215c27bd/97797c8d52b613ce99d8ff8751da62b9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 장애인 이동권, 장애인만을 위한 것일까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3875</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3875</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 논란으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--33eabc4e3eefe5fc1d0afa2b1f1b2b6cec94ae69/57de03aca313203adecb74b1083bb3e9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3869</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 수도 키이우 근처에서 참혹하게 숨진 민간인들 시신 수백 구가 수습됐습니다. 러시아군이 점령했던 부차라는 지역입니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f977d563e6c59ab0284dc82b3614a1a920905eb6/386f4398f020710384bcacc3c123e794.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 한국이 수출한 의류 때문에 중국에서 코로나 감염? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3855</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3855</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 중국에서 코로나19가 확산하는 가운데 현지 언론은 한국에서 수입한 의류를 감염원 중 하나로 보...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--18de68b2604595b4542487fa925d56407bf561ef/2f1cb39f84365572215bcc7ef80e739a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 소득주도성장은 의미 있는 성과를 거뒀다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3854</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3854</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박수현 청와대 국민소통수석이 지난 20일 페이스북을 통해 소득주도성장이 의미 있는 성과를 거뒀다고 주장했습니다. 박 수석은 소득주도성장이 왜 실패했다고 낙인을 찍느냐라며 코로나 시대에도 의미 있는 성과를 거두고 있으며 앞으로]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c6250cdcd65050ad0caef70a814e10dcd88a308/a35145f1213cee6ede91fc66e422a370.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 16:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,22 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
 여성이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] '깜깜이' 특수활동비 40% 줄었다, 사실은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3876</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3876</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령의 부인 김정숙 여사의 의상 비용을 둘러싼 논란이 불거졌습니다. 시민단체 한국납세자연맹은 김 여사의 옷값을 비롯한 의전 비용이 국가 예산인 특수활동비, 특활비에서 지출됐을 거라는 의구심을 제기했고, 지난 2019년 특활비 사용 내역을 공개하라며 소송을 냈습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b903f45cae5a302de8eba0913c0ca8f215c27bd/97797c8d52b613ce99d8ff8751da62b9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 장애인 이동권, 장애인만을 위한 것일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3875</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3875</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전국장애인차별철폐연대의 출근길 시위로 장애인 이동권에 대한 관심이 촉발됐습니다. 그리고 관심은 논란으로 번졌습니다. 출근길 시민의 불편을 초래하는 시위 방식부터, 특정 장애인 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--33eabc4e3eefe5fc1d0afa2b1f1b2b6cec94ae69/57de03aca313203adecb74b1083bb3e9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[알고보니] 아이폰 잠금, 정말 못 푸나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3869</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3869</guid>
@@ -342,20 +358,28 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f977d563e6c59ab0284dc82b3614a1a920905eb6/386f4398f020710384bcacc3c123e794.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 한국이 수출한 의류 때문에 중국에서 코로나 감염? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3855</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3855</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 중국에서 코로나19가 확산하는 가운데 현지 언론은 한국에서 수입한 의류를 감염원 중 하나로 보...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--18de68b2604595b4542487fa925d56407bf561ef/2f1cb39f84365572215bcc7ef80e739a.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[대전·세종 경제자유구역 지정, 해당 지자체 신청시 기존 절차 따라 검토 진행 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3879</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3879</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “대전·세종 경제자유구역 지정은 해당 지자체에서 신청시 기존 절차에 따라 검토를 진행하게 된다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--396b04093d8c37140106b6617d20c073976312c6/0728ddea15b05f009c3f58d1d87dc3f4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 소득주도성장은 의미 있는 성과를 거뒀다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3854</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3854</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박수현 청와대 국민소통수석이 지난 20일 페이스북을 통해 소득주도성장이 의미 있는 성과를 거뒀다고 주장했습니다. 박 수석은 소득주도성장이 왜 실패했다고 낙인을 찍느냐라며 코로나 시대에도 의미 있는 성과를 거두고 있으며 앞으로]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c6250cdcd65050ad0caef70a814e10dcd88a308/a35145f1213cee6ede91fc66e422a370.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[작업중지 해제, 사업주 신청 시 재발방지 대책 여부 등 검토 후 결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3878</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3878</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “작업중지 해제는 사업주 신청 시 사고 재발방지 대책 마련 여부 등을 검토해 결정하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b89d0ef80eed8727a95e1e6333922f431510108f/21767333fc186060da09cf478b13da1c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라에 3년간 10억 달러 EDCF 지원 검토? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3877</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3877</guid>
+            <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “우크라이나에 ‘3년간 10억 달러’ 규모의 대외경제협력기금(EDCF) 지원이 검토되고 있다는 보도내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9kIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd6a6de2eb8253671710dd04e0ef5e50a2dcc112/4cf4dd0e243dd17edb28e56b80ab86cf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[금융위 “뮤직카우 처리방향, 결정된 바 없어” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -412,30 +436,6 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “2021년 하반기 ICT업종 등을 대상으로 정기 근로감독 실시 후 법령에 따라 후속조치를 했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--24645c03e379e07456829505b33e747316902465/bfa8c8327b0ebd40027188869da9f165.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[근로시간 제도개선 방안 논의 중…세부내용 미결정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3864</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3864</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “근로시간 제도개선 방안이 논의되고 있으나 세부적인 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8662a60dbd579a28ede92977e8a03c6f664d473c/05db8b731e1e29b42313c7a1c5c8597f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PC방·편의점 1회용품 사용 규제, 새롭게 추가된 것 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3863</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3863</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “PC방·편의점에 대한 식품접객업소 내 1회용품 사용규제는 새롭게 추가된 것이 아니다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3e09c9b45591722cfe45ac0e300a033ed879ace/73337dc02715ed090fcda533b020c0f7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국토부 “교통약자 이동편의 증진 예산 지속 확대 중” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3862</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3862</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 “교통약자 이동편의 증진 예산은 지속 확대되고 있다”며 “교통약자 이동권 예산과 관련, 올해 예산은 전년 대비 50% 증액됐다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6c7194619d92f4a1ef95002713325f20f2c493/6ffae20b90bb09283a124eb7c647bace.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[추가 계약 및 재고 백신 물량 8000만명 분 해외 무상지원? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
