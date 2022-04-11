@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,6 +45,17 @@
             <content:encoded><![CDATA[&nbsp;
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[20대 대선 후보자 허경영, "제 지지율은 29%"라는 주장, 사실일까?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/332</link>
+            <guid>https://factchecker.or.kr/fc_subjects/332</guid>
+            <pubDate>Mon, 11 Apr 2022 06:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[검증대상
+
+2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
+허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까?]]></title>
@@ -91,13 +102,6 @@
 조태용 의원 조 바이든 미국 대통령이 윤 당선인에게 당선 4시간 만인, 그야말로 최단시간 내 전화가 닿은 데에 이어 바로 다음날 기시다 총리, 존슨 총리까지 외국 정상의 연락이 단기간 내에 오고 있다
 두 의원들의 말처럼, 윤석열 당선인은 역대 대통령 당선인 중 가장 빨리 미국 대통령과 통화한 당선인일까요? 역대 대한민국 대통령 당선인과 미국 대통령 사이에 통화가 이루어지기까지 과연 얼마만큼의 시간과 일자가 소요됐는지 조사해봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령직 인수위는 청와대 이전 권한과 예비비 신청에 대한 권한 가지나?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/324</link>
-            <guid>https://factchecker.or.kr/fc_subjects/324</guid>
-            <pubDate>Thu, 24 Mar 2022 02:22:58 GMT</pubDate>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

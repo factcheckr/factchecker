@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-11T05:12:49.915Z</updated>
+    <updated>2022-04-11T06:17:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -44,6 +44,19 @@
 
 &nbsp;
 &nbsp;
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20대 대선 후보자 허경영, "제 지지율은 29%"라는 주장, 사실일까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/332</id>
+        <link href="https://factchecker.or.kr/fc_subjects/332"/>
+        <updated>2022-04-11T06:16:14.314Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/332">
+검증대상
+
+2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
+허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?
+
 </a>]]></content>
     </entry>
     <entry>
@@ -92,14 +105,6 @@
 박진 의원 바이든 미국 대통령이 윤 당선인의 당선이 확정된 지 4시간여 만에 직접 전화 통화를 한 것은 매우 이례적인 일
 조태용 의원 조 바이든 미국 대통령이 윤 당선인에게 당선 4시간 만인, 그야말로 최단시간 내 전화가 닿은 데에 이어 바로 다음날 기시다 총리, 존슨 총리까지 외국 정상의 연락이 단기간 내에 오고 있다
 두 의원들의 말처럼, 윤석열 당선인은 역대 대통령 당선인 중 가장 빨리 미국 대통령과 통화한 당선인일까요? 역대 대한민국 대통령 당선인과 미국 대통령 사이에 통화가 이루어지기까지 과연 얼마만큼의 시간과 일자가 소요됐는지 조사해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령직 인수위는 청와대 이전 권한과 예비비 신청에 대한 권한 가지나?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/324</id>
-        <link href="https://factchecker.or.kr/fc_subjects/324"/>
-        <updated>2022-03-24T02:22:50.380Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/324">
 </a>]]></content>
     </entry>
 </feed>
