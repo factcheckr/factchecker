@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-11T10:16:04.054Z</updated>
+    <updated>2022-04-11T11:13:05.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경제 엉망, 나라 빚더미?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/607</id>
+        <link href="https://factchecker.or.kr/fc_suggests/607"/>
+        <updated>2022-04-11T11:12:22.547Z</updated>
+        <content type="html"><![CDATA[http://news.kmib.co.kr/article/view.asp?arcid=0016963336&amp;code=61111111&amp;sid1=pol
+&nbsp;
+안철수 인수위원장이 경제는 엉망이고 나라는 빚더미이며 이는 현 정부로부터 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미교육청 고교필수과목에 한국사 지정]]></title>
         <id>https://factchecker.or.kr/fc_suggests/606</id>
@@ -77,13 +86,5 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
         <link href="https://factchecker.or.kr/fc_suggests/598"/>
         <updated>2022-04-08T09:13:41.429Z</updated>
         <content type="html"><![CDATA[요즘도 장애인 전용 주차공간에 대하여 구설수가 많은 가운데 실질적으로 집 앞에 있는 장애인 주차 공간만 봐서도 언제나 텅텅 비어있는 모습을 볼수가 있는데 정말 장애인 전용 주차 공간이 현재 장애인 운전자 분들에게 도움이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성이 남성보다 노안을 더욱 빨리 느낀다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/595</id>
-        <link href="https://factchecker.or.kr/fc_suggests/595"/>
-        <updated>2022-04-07T11:12:56.699Z</updated>
-        <content type="html"><![CDATA[비슷한 연령이라도 여성이 남성보다 돋보기를 일찍 필요로 하는 경향이 있다. 여성은 남성보다 스마트폰이나 책 같은 대상을 눈에 더 가까이 두고 보는 습관이 있어 노안에 따른 불편을 더 많이 느끼는 편이라고 하는데요.
-여성이...]]></content>
     </entry>
 </feed>
