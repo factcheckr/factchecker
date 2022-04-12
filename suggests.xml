@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T09:14:33.383Z</updated>
+    <updated>2022-04-12T10:17:39.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 병역특례법, 초기 도입 목적은 국위선양이 목적이었다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/614</id>
+        <link href="https://factchecker.or.kr/fc_suggests/614"/>
+        <updated>2022-04-12T10:15:56.544Z</updated>
+        <content type="html"><![CDATA[병역특례법과 관련해 그 대상 범위를 넓혀야 한다는 입장과, 줄여야 한다고 보는 입장이 나뉘고 있습니다. 특히나 반대 측은 병역특례법 초기 도입 목적은 국위선양이었으나, 현시대에 체육 또는 예술활동이 국위선양에 얼마나 큰 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수면유도음악은 정말 수면에 큰 도움이 될까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/613</id>
+        <link href="https://factchecker.or.kr/fc_suggests/613"/>
+        <updated>2022-04-12T10:15:56.544Z</updated>
+        <content type="html"><![CDATA[https://kenee.tistory.com/m/128
+잠이 안올때 수면 유도음악을 찾고는 한다. 정말 수면 유도음악을 들으면 수면에 큰 도움이 될까? 오히려 작은 소리들이 신경쓰여서 잠이 안오거나 하지는 않을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수사권과 기소권을 모두 가진 국가는 대한민국이 유일한가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/612</id>
@@ -70,21 +85,5 @@
         <updated>2022-04-09T10:14:13.829Z</updated>
         <content type="html"><![CDATA[https://www.fnnews.com/news/202204091625225289
 코로나19 누적 감염자가 점점 많아지고 있고, 그에 따라 후유증을 겪는 사람들이 점점 많아지고 있으며 많은 사람들이 다양한 코로나 후유증...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세플라스틱이 자폐 스펙트럼 장애를 유발한다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/604</id>
-        <link href="https://factchecker.or.kr/fc_suggests/604"/>
-        <updated>2022-04-09T10:14:13.837Z</updated>
-        <content type="html"><![CDATA[https://www.ytn.co.kr/_ln/0105_202202180218464203
-위 기사에 따르면, 미세플라스틱을 먹은 실험 쥐가 자폐 행동을 보였다고 밝혔습니다. 위 실험은 쥐를 대상으로 한 것이고, 미세플라스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1. 서울시 2030 청년 인구 감소가 전체 서울시 인구 감소보다 훨씬 크다? 2. 지난해 서울 전출인구 절반이 청년이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/603</id>
-        <link href="https://factchecker.or.kr/fc_suggests/603"/>
-        <updated>2022-04-09T07:13:30.125Z</updated>
-        <content type="html"><![CDATA[https://www.instagram.com/p/CcCz501BNBw/?igshid=YmMyMTA2M2Y=
-https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></content>
     </entry>
 </feed>
