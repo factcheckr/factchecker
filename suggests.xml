@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T05:12:43.707Z</updated>
+    <updated>2022-04-12T06:18:39.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차별금지법은 성전환 수술을 하지 않은 자의 임의 성별 선택 금지를 불평등으로 간주한다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/610</id>
+        <link href="https://factchecker.or.kr/fc_suggests/610"/>
+        <updated>2022-04-12T06:16:54.785Z</updated>
+        <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=103&amp;oid=005&amp;aid=0001515636
+&nbsp;
+‘차별금지법제정반대국민행동 전국지부’ 가 3월 30일 서울 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계단오르기 운동은 정말 좋기만 할까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/609</id>
@@ -74,14 +83,5 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
         <link href="https://factchecker.or.kr/fc_suggests/601"/>
         <updated>2022-04-08T23:12:45.833Z</updated>
         <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=001&amp;oid=449&amp;aid=0000224939]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트 요요현상이 심장질환과 당뇨병 위험을 높일 수 있다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/600</id>
-        <link href="https://factchecker.or.kr/fc_suggests/600"/>
-        <updated>2022-04-08T12:23:06.313Z</updated>
-        <content type="html"><![CDATA[다이어트 요요, 이것 위험 높아져 (연구) - 코메디닷컴 (kormedi.com)
-현대사회에서 다이어트는 필수적이고 조금만 방심하면 요요가 와 원래 상태로 돌아간다.&nbsp;
-위에 내용은 쥐실험을 통해서 살이 빠졌다가 다시 찌는...]]></content>
     </entry>
 </feed>
