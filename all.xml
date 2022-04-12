@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[계단오르기 운동은 정말 좋기만 할까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/609</link>
+            <guid>https://factchecker.or.kr/fc_suggests/609</guid>
+            <pubDate>Tue, 12 Apr 2022 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[https://health.chosun.com/site/data/html_dir/2021/03/16/2021031600824.html]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[찬물 샤워는 정말 좋은걸까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/608</link>
             <guid>https://factchecker.or.kr/fc_suggests/608</guid>
@@ -276,16 +283,6 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
             <content:encoded><![CDATA[다이어트 요요, 이것 위험 높아져 (연구) - 코메디닷컴 (kormedi.com)
 현대사회에서 다이어트는 필수적이고 조금만 방심하면 요요가 와 원래 상태로 돌아간다.&nbsp;
 위에 내용은 쥐실험을 통해서 살이 빠졌다가 다시 찌는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 비용 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/599</link>
-            <guid>https://factchecker.or.kr/fc_suggests/599</guid>
-            <pubDate>Fri, 08 Apr 2022 12:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-코로나19 응급실 치료비, 아직도 환자에게 전가 (kbs.co.kr)
-코로나19 양성이 판정이 나오면 나라에서 부담해야 합니다.
-하지만 위에 기사 내용을 보면 나라에서 코로나19 관련 비용을 지원하는 것이 아닌 대학병...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["8억에 판 목동 아파트 26억 됐다" 원희룡 배우자 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
