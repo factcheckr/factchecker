@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T13:28:21.136Z</updated>
+    <updated>2022-04-12T14:14:14.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김정주 회장이 우울증으로 자살한 것이 진실인가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/615</id>
+        <link href="https://factchecker.or.kr/fc_suggests/615"/>
+        <updated>2022-04-12T14:13:30.199Z</updated>
+        <content type="html"><![CDATA[넥슨의 김정주 회장이 정말 우울증으로 인해 사망한 것인지 알고싶습니다.
+&nbsp;
+https://youtu.be/j7PcqV00iqw]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역특례법, 초기 도입 목적은 국위선양이 목적이었다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/614</id>
@@ -77,13 +86,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/606"/>
         <updated>2022-04-09T14:12:39.765Z</updated>
         <content type="html"><![CDATA[https://youtu.be/iX8pE42wyqk]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당뇨, 고혈압, 만성호흡기질환 등 기저질환자는 더 심하게 코로나 후유증을 앓을 가능성이 높다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/605</id>
-        <link href="https://factchecker.or.kr/fc_suggests/605"/>
-        <updated>2022-04-09T10:14:13.829Z</updated>
-        <content type="html"><![CDATA[https://www.fnnews.com/news/202204091625225289
-코로나19 누적 감염자가 점점 많아지고 있고, 그에 따라 후유증을 겪는 사람들이 점점 많아지고 있으며 많은 사람들이 다양한 코로나 후유증...]]></content>
     </entry>
 </feed>
