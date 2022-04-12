@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T15:14:55.836Z</updated>
+    <updated>2022-04-12T16:16:37.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기침 소리로 정말 코로나 진단이 가능한가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/618</id>
+        <link href="https://factchecker.or.kr/fc_suggests/618"/>
+        <updated>2022-04-12T16:15:55.076Z</updated>
+        <content type="html"><![CDATA[기침 소리로 코로나 진단? 화이자 1234억 투자한 신기술 깜짝 | 중앙일보 (joongang.co.kr)
+&nbsp;
+이 기사에서 쓰인 것처럼 정말로 기침소리로 코로나와 폐렴등의 호흡기 질환의 구분이 가능한지 궁금합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상향등 난폭운전은 처벌이 가능한가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/617</id>
@@ -79,12 +88,5 @@ https://youtu.be/j7PcqV00iqw]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/609"/>
         <updated>2022-04-12T05:12:01.441Z</updated>
         <content type="html"><![CDATA[https://health.chosun.com/site/data/html_dir/2021/03/16/2021031600824.html]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬물 샤워는 정말 좋은걸까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/608</id>
-        <link href="https://factchecker.or.kr/fc_suggests/608"/>
-        <updated>2022-04-12T02:39:33.958Z</updated>
-        <content type="html"><![CDATA[https://health.chosun.com/site/data/html_dir/2021/04/28/2021042800925.html]]></content>
     </entry>
 </feed>
