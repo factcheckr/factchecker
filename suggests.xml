@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T08:17:49.278Z</updated>
+    <updated>2022-04-12T09:14:33.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수사권과 기소권을 모두 가진 국가는 대한민국이 유일한가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/612</id>
+        <link href="https://factchecker.or.kr/fc_suggests/612"/>
+        <updated>2022-04-12T09:13:51.295Z</updated>
+        <content type="html"><![CDATA[검찰 수사권/기소권 분리를 놓고 양 측 의견이 첨예하게 대립하는 가운데, 검경의 수사권 분리를 놓고 각 입장마다 다른 이야기를 하는 상황입니다.
+&nbsp;
+김오수 검찰총장
+
+발언: 검찰수사를 제도적으로 금지하는 것은 선진...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥먹고 바로 양치하는 행동이 정말 위험한가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/611</id>
+        <link href="https://factchecker.or.kr/fc_suggests/611"/>
+        <updated>2022-04-12T09:13:51.316Z</updated>
+        <content type="html"><![CDATA[https://m.health.chosun.com/svc/news_view.html?contid=2014062002666
+많은 글에서 밥먹고 바로 양치하는 것에 대하여 금하고 있습니다.하지만 불가피하게 밥먹고 바로 양치...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차별금지법은 성전환 수술을 하지 않은 자의 임의 성별 선택 금지를 불평등으로 간주한다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/610</id>
@@ -67,21 +86,5 @@
         <updated>2022-04-09T07:13:30.125Z</updated>
         <content type="html"><![CDATA[https://www.instagram.com/p/CcCz501BNBw/?igshid=YmMyMTA2M2Y=
 https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그동안 청년 중 약자에 해당하는 계층을 위한 정책이 없었다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/602</id>
-        <link href="https://factchecker.or.kr/fc_suggests/602"/>
-        <updated>2022-04-08T23:12:45.831Z</updated>
-        <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=100&amp;oid=014&amp;aid=0004815764
-&nbsp;
-장예찬 청년소통TF&nbsp;단장은 이날 오후 서울 종로구 통의동 인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 경제 지표, 소득만 빼고 다 늘었다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/601</id>
-        <link href="https://factchecker.or.kr/fc_suggests/601"/>
-        <updated>2022-04-08T23:12:45.833Z</updated>
-        <content type="html"><![CDATA[https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=001&amp;oid=449&amp;aid=0000224939]]></content>
     </entry>
 </feed>
