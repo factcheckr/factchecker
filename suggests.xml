@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T00:55:07.627Z</updated>
+    <updated>2022-04-12T02:41:18.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[찬물 샤워는 정말 좋은걸까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/608</id>
+        <link href="https://factchecker.or.kr/fc_suggests/608"/>
+        <updated>2022-04-12T02:39:33.958Z</updated>
+        <content type="html"><![CDATA[https://health.chosun.com/site/data/html_dir/2021/04/28/2021042800925.html]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제 엉망, 나라 빚더미?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/607</id>
@@ -79,12 +86,5 @@ https://news.naver.com/main/read.naver?mode=LPOD&amp;mid=sec&amp;oid=...]]></con
 코로나19 응급실 치료비, 아직도 환자에게 전가 (kbs.co.kr)
 코로나19 양성이 판정이 나오면 나라에서 부담해야 합니다.
 하지만 위에 기사 내용을 보면 나라에서 코로나19 관련 비용을 지원하는 것이 아닌 대학병...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애인 전용 주차 공간이 현재 적절한 역할을 하고 있는가 ?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/598</id>
-        <link href="https://factchecker.or.kr/fc_suggests/598"/>
-        <updated>2022-04-08T09:13:41.429Z</updated>
-        <content type="html"><![CDATA[요즘도 장애인 전용 주차공간에 대하여 구설수가 많은 가운데 실질적으로 집 앞에 있는 장애인 주차 공간만 봐서도 언제나 텅텅 비어있는 모습을 볼수가 있는데 정말 장애인 전용 주차 공간이 현재 장애인 운전자 분들에게 도움이 ...]]></content>
     </entry>
 </feed>
