@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 12:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 13:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[야채 속 기생충이 실존하는가?/자일리톨 껌은 정말 충치예방 효과가 있는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/635</link>
+            <guid>https://factchecker.or.kr/fc_suggests/635</guid>
+            <pubDate>Wed, 13 Apr 2022 13:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[1. 야채 속 기생충이 실존하는가? 그렇다면 암 발병에 실제로 영향을 미치는가?
+해당 영상 속 유튜버는 현미경으로 야채 표면을 확대 해 찍으면서 야채 표면에 움직이는 것을 기생충이라고 말합니다. 그 기생충이 바로 암 발...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[알레르기 있으면 코로나 걸릴 가능성 낮다/탄 음식을 먹으면 암에 걸린다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/634</link>
             <guid>https://factchecker.or.kr/fc_suggests/634</guid>
@@ -288,13 +296,6 @@ https://n.news.naver.com/article/014/0001937950
             <content:encoded><![CDATA[탄산을 마시고 바로 양치하면 안 되는 것인가?&nbsp;
 탄산음료를 워낙 좋아하는데 치아가 걱정돼서 마시고 바로 양치하는 편인데 이 행동이 치아에 더 큰 피해를 진짜로 주는 것인지 궁금하고 확인하고 싶어서 선정했습니다.&nbsp;
 http...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게르마늄 팔찌는 정말 효과가 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/622</link>
-            <guid>https://factchecker.or.kr/fc_suggests/622</guid>
-            <pubDate>Wed, 13 Apr 2022 02:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[건강팔찌로 유명한 게르마늄 팔찌는 정말 효과가 있나요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드러나는 민간인 학살 증거… 푸틴 ‘전범재판’ 가능할까 [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
