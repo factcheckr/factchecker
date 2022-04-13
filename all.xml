@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 02:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[게르마늄 팔찌는 정말 효과가 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/622</link>
+            <guid>https://factchecker.or.kr/fc_suggests/622</guid>
+            <pubDate>Wed, 13 Apr 2022 02:47:11 GMT</pubDate>
+            <content:encoded><![CDATA[건강팔찌로 유명한 게르마늄 팔찌는 정말 효과가 있나요?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[살빠지는 주파수는 진짜일까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/621</link>
             <guid>https://factchecker.or.kr/fc_suggests/621</guid>
@@ -257,7 +264,7 @@ https://youtu...]]></content:encoded>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 13 Apr 2022 01:00:39 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 02:47:11 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 연서흠
 2022.04.12 22:54:31]]></content:encoded>
@@ -276,17 +283,6 @@ https://youtu...]]></content:encoded>
             <pubDate>Tue, 12 Apr 2022 10:15:56 GMT</pubDate>
             <content:encoded><![CDATA[https://kenee.tistory.com/m/128
 잠이 안올때 수면 유도음악을 찾고는 한다. 정말 수면 유도음악을 들으면 수면에 큰 도움이 될까? 오히려 작은 소리들이 신경쓰여서 잠이 안오거나 하지는 않을까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수사권과 기소권을 모두 가진 국가는 대한민국이 유일한가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/612</link>
-            <guid>https://factchecker.or.kr/fc_suggests/612</guid>
-            <pubDate>Tue, 12 Apr 2022 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 수사권/기소권 분리를 놓고 양 측 의견이 첨예하게 대립하는 가운데, 검경의 수사권 분리를 놓고 각 입장마다 다른 이야기를 하는 상황입니다.
-&nbsp;
-김오수 검찰총장
-
-발언: 검찰수사를 제도적으로 금지하는 것은 선진...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드러나는 민간인 학살 증거… 푸틴 ‘전범재판’ 가능할까 [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
