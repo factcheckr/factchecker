@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-13T10:15:06.965Z</updated>
+    <updated>2022-04-13T11:12:10.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[알레르기 있으면 코로나 걸릴 가능성 낮다/탄 음식을 먹으면 암에 걸린다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/634</id>
+        <link href="https://factchecker.or.kr/fc_suggests/634"/>
+        <updated>2022-04-13T11:11:28.612Z</updated>
+        <content type="html"><![CDATA[1.알레르기 있으면 코로나 걸릴 가능성 낮다
+영국 흉부 학회 공식 저널 Thorax에 따르면 일부 알레르기 질환이 있는 사람은 코로나 19에 걸릴 가능성이 낮다는 연구 보고서가 게재 됐다.
+http://m.whosaeng...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비염 치료에 정말로 프로폴리스 아연 비타민C가 좋나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/633</id>
+        <link href="https://factchecker.or.kr/fc_suggests/633"/>
+        <updated>2022-04-13T11:11:28.612Z</updated>
+        <content type="html"><![CDATA[https://www.instagram.com/p/CbZM776B80g/
+&nbsp;
+비염을 속에서부터 나으려면 프로폴리스, 아연영양제, 비타민C가 좋다는 글이
+제 인스타그램 탐색 카테고리에 많이 뜨고 있습니다.
+이것이 정말 사실...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈원전 폐기 안하면 앞으로 30년간 전기료 매년 4%씩 인상된다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/631</id>
+        <link href="https://factchecker.or.kr/fc_suggests/631"/>
+        <updated>2022-04-13T11:11:28.613Z</updated>
+        <content type="html"><![CDATA[대통령 당선인 인수위가 문재인 정부의 탈원전 정책을 전면 비판하고 있습니다. 이와 관련해 언론보도가 쏟아지고 있는데 그중 일부 내용은 아래와 같습니다.
+1. 탈원전 정책으로 인해 건설 중단된 신한울 원전 3,4호기와 2...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS의 병역특례, 진정한 국위선양일까? 병역의무에 대한 위화감 조성일까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/629</id>
@@ -67,28 +95,5 @@ http...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/622"/>
         <updated>2022-04-13T02:47:11.762Z</updated>
         <content type="html"><![CDATA[건강팔찌로 유명한 게르마늄 팔찌는 정말 효과가 있나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살빠지는 주파수는 진짜일까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/621</id>
-        <link href="https://factchecker.or.kr/fc_suggests/621"/>
-        <updated>2022-04-13T01:00:39.619Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/tKuDxHgwn98
-영상 속 댓글에선 음악을 듣고 살이 빠졌다는 이야기가 많은데 이게 맞는 말인지 궁금합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사마귀를 세럼 하나로 없앨 수 있다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/620</id>
-        <link href="https://factchecker.or.kr/fc_suggests/620"/>
-        <updated>2022-04-12T19:11:04.327Z</updated>
-        <content type="html"><![CDATA[피부과에 가서 더 많은 비용을 지불하고 제거해야 하는 사마귀를 기초 제품으로 영상처럼 깨끗하게 제거할 수 있는지, 실제로 가능한 일인지 궁금합니다.&nbsp; 개인적으로는 허위 및 과장 광고가 의심됩니다.
-https://youtu...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다 새우가 인간의 입속을 스케일링 해준다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/619</id>
-        <link href="https://factchecker.or.kr/fc_suggests/619"/>
-        <updated>2022-04-12T19:11:04.339Z</updated>
-        <content type="html"><![CDATA[인사이트라는 곳에서는 과장이나 허위 광고가 많이 올라오는데 저번 수업을 통해 (재난 발생 당시 바다 생물들의 육지 출현) 사진이 조작된 것임을 알 수 있었습니다.&nbsp; 바다새우가 인간의 입속 스케일링을 해주는 사진도 사실인지...]]></content>
     </entry>
 </feed>
