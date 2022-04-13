@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 01:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상호·순환출자 발생 13개 상장계열사만 국내 주식 소수점 거래 제한]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3896</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3896</guid>
+            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 “상호출자제한기업집단 소속 증권회사 중 상호·순환출자가 발생하는 13개 상장계열사만 국내 주식 소수점 거래가 제한된다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--02bfe7eec520c9db245ae1e8a7374d80534cad72/6ef39846590af5da7b2efa27624906a8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[기재부, 인수위에 수정 경제 전망치 보고한 바 없어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3885</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 “국가첨단전략산업법은 기술의 범위를 한정하고 있지 않으며, 구체적인 기술 지정은 법 시행 후 진행할 계획”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--980a5b3393a194c9d92e665e53cc831b1ad7c827/24da9653790a3fcc8c0b00f59478d184.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위 “특수관계인 범위 축소 등 정책 방향 결정 안돼”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3871</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3871</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “특수관계인 범위 축소, 외국인 동일인 지정 근거 마련, 사익편취 가능한 모든 대상에 자료제출 요구 등과 관련한 정책 방향에 대해서는 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6b9041daf0663b2719ef163e5c5f5de3edf5913/295fc9d1d6f652f954f03fd5a1b49636.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

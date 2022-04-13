@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-12T23:13:42.963Z</updated>
+    <updated>2022-04-13T01:02:24.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[살빠지는 주파수는 진짜일까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/621</id>
+        <link href="https://factchecker.or.kr/fc_suggests/621"/>
+        <updated>2022-04-13T01:00:39.619Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/tKuDxHgwn98
+영상 속 댓글에선 음악을 듣고 살이 빠졌다는 이야기가 많은데 이게 맞는 말인지 궁금합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사마귀를 세럼 하나로 없앨 수 있다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/620</id>
@@ -46,13 +54,13 @@ https://youtu...]]></content>
 - 뉴스&nbsp;&nbsp;https://imnews.imbc.com/replay/2022/nw1400/article/6357509_35722.ht...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정주 회장이 우울증으로 자살한 것이 진실인가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/615</id>
-        <link href="https://factchecker.or.kr/fc_suggests/615"/>
-        <updated>2022-04-12T14:13:30.199Z</updated>
-        <content type="html"><![CDATA[넥슨의 김정주 회장이 정말 우울증으로 인해 사망한 것인지 알고싶습니다.
-&nbsp;
-https://youtu.be/j7PcqV00iqw]]></content>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://factchecker.or.kr/fc_suggests</id>
+        <link href="https://factchecker.or.kr/fc_suggests"/>
+        <updated>2022-04-13T01:00:39.576Z</updated>
+        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
+연서흠
+2022.04.12 22:54:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 병역특례법, 초기 도입 목적은 국위선양이 목적이었다?]]></title>
@@ -79,13 +87,5 @@ https://youtu.be/j7PcqV00iqw]]></content>
 김오수 검찰총장
 
 발언: 검찰수사를 제도적으로 금지하는 것은 선진...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥먹고 바로 양치하는 행동이 정말 위험한가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/611</id>
-        <link href="https://factchecker.or.kr/fc_suggests/611"/>
-        <updated>2022-04-12T09:13:51.316Z</updated>
-        <content type="html"><![CDATA[https://m.health.chosun.com/svc/news_view.html?contid=2014062002666
-많은 글에서 밥먹고 바로 양치하는 것에 대하여 금하고 있습니다.하지만 불가피하게 밥먹고 바로 양치...]]></content>
     </entry>
 </feed>
