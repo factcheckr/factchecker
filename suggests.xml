@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-13T08:17:23.533Z</updated>
+    <updated>2022-04-13T09:15:56.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS의 병역특례, 진정한 국위선양일까? 병역의무에 대한 위화감 조성일까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/629</id>
+        <link href="https://factchecker.or.kr/fc_suggests/629"/>
+        <updated>2022-04-13T09:14:13.812Z</updated>
+        <content type="html"><![CDATA[http://www.mediatoday.co.kr/news/articleView.html?idxno=303467
+&nbsp;
+BTS의 병역특례가 뜨거운 감자로 부상하고 있습니다.
+&nbsp;
+예전에도 연예인과 스포츠 스타에 대한 병역특례의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크릴오일이 심장병 예방에 효과가 있나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/628</id>
+        <link href="https://factchecker.or.kr/fc_suggests/628"/>
+        <updated>2022-04-13T09:14:13.815Z</updated>
+        <content type="html"><![CDATA[https://n.news.naver.com/article/018/0005131832
+http://www.mhns.co.kr/news/articleView.html?idxno=386445
+크릴오일이 심장병 및 성인병 예방...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세안 후 찬물로 마무리 하면 피부 건강에 좋을까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/627</id>
@@ -70,22 +90,5 @@ https://youtu...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/619"/>
         <updated>2022-04-12T19:11:04.339Z</updated>
         <content type="html"><![CDATA[인사이트라는 곳에서는 과장이나 허위 광고가 많이 올라오는데 저번 수업을 통해 (재난 발생 당시 바다 생물들의 육지 출현) 사진이 조작된 것임을 알 수 있었습니다.&nbsp; 바다새우가 인간의 입속 스케일링을 해주는 사진도 사실인지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기침 소리로 정말 코로나 진단이 가능한가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/618</id>
-        <link href="https://factchecker.or.kr/fc_suggests/618"/>
-        <updated>2022-04-12T16:15:55.076Z</updated>
-        <content type="html"><![CDATA[기침 소리로 코로나 진단? 화이자 1234억 투자한 신기술 깜짝 | 중앙일보 (joongang.co.kr)
-&nbsp;
-이 기사에서 쓰인 것처럼 정말로 기침소리로 코로나와 폐렴등의 호흡기 질환의 구분이 가능한지 궁금합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상향등 난폭운전은 처벌이 가능한가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/617</id>
-        <link href="https://factchecker.or.kr/fc_suggests/617"/>
-        <updated>2022-04-12T15:14:09.404Z</updated>
-        <content type="html"><![CDATA[https://news.sbs.co.kr/news/endPage.do?news_id=N1004595368
-운전 중 상향등을 켜는 행위는 난폭운전으로 처벌을 하지 않는다는 내용을 보았는데, 경우에 따라 다른 것으로 보입니다...]]></content>
     </entry>
 </feed>
