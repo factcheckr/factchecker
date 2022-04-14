@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-14T01:03:10.821Z</updated>
+    <updated>2022-04-14T03:02:40.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정말로 전자담배의 액상은 안전하지 않는가.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/655</id>
+        <link href="https://factchecker.or.kr/fc_suggests/655"/>
+        <updated>2022-04-14T03:01:58.979Z</updated>
+        <content type="html"><![CDATA[＂액상형 전자담배 성분 실험자료 정보공개 승소…정부 정책 개편해야＂ (mdtoday.co.kr)
+&nbsp;
+비타민E아세테이트가 극미량이지만 검출이 되었다고 말하지만 정말로 이정도의 양이 인간의 몸에 안전하지 않는건지 궁금해서 올...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바퀴벌레가 소행성 충돌에서도 살아남은 게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/654</id>
+        <link href="https://factchecker.or.kr/fc_suggests/654"/>
+        <updated>2022-04-14T03:01:58.980Z</updated>
+        <content type="html"><![CDATA[https://www.thedailypost.kr/news/articleView.html?idxno=86756
+생명력이 좋다고 알려진 바퀴벌레가 소행성 충돌 때도 생존하였다고 하는데 사실인지 궁금하고, 왜 생존력이 좋은지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI 검사는 타당도와 신뢰도가 부족한가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/653</id>
+        <link href="https://factchecker.or.kr/fc_suggests/653"/>
+        <updated>2022-04-14T03:01:58.981Z</updated>
+        <content type="html"><![CDATA[http://www.opinionnews.co.kr/news/articleView.html?idxno=65630&nbsp;
+많은 사람이 관심을 가지고 자신의 mbti를 인지하는 추세인데 단순한 온라인 검사로도 타당한 결과를 얻을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로콜라, 당뇨와 상관 없을까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/652</id>
+        <link href="https://factchecker.or.kr/fc_suggests/652"/>
+        <updated>2022-04-14T03:01:58.982Z</updated>
+        <content type="html"><![CDATA[제로콜라 당뇨와 상관있을까? 최근 새로 바뀐 .. : 네이버블로그 (naver.com)
+&nbsp;
+제로콜라는 진짜로 당뇨와 상관이 있는지 궁금합니다.
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북대 의대 편입, 다수가 명문대, 해외대 출신이다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/651</id>
@@ -51,35 +86,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/646"/>
         <updated>2022-04-13T15:14:37.442Z</updated>
         <content type="html"><![CDATA[성일종 국민의힘 의원은 지난 11일 라디오에서&nbsp;방탄소년단 병역 특례의 필요성을 언급하며&nbsp;“빌보드에서 1주 우승을 하면 1조6000억원의 경제유발 효과가 있다고 말했다. 성 의원은&nbsp;BTS가 현재까지 17주를 우승했다며&nbsp;약 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 치료비 폭탄, 감염병 2급 전환 되면 지원금도 사라진다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/645</id>
-        <link href="https://factchecker.or.kr/fc_suggests/645"/>
-        <updated>2022-04-13T15:14:37.442Z</updated>
-        <content type="html"><![CDATA[코로나 치료는 정부의 전액부담으로 알려져있지만, 이 영상에 따르면 격리해제 기간 전까지만 해당되며 이후 코로나 후유증으로 인한 치료 비용 부담은 모두 환자에게 가게된다고 말합니다. 또한, 감염병 등급이 2급으로 전환되면 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알레르기 비염 환자는 코로나 덜 걸린다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/644</id>
-        <link href="https://factchecker.or.kr/fc_suggests/644"/>
-        <updated>2022-04-13T14:13:42.617Z</updated>
-        <content type="html"><![CDATA[영국 흉부 학회 공식 저널 ‘Thorax’에 따르면 비염, 아토피 습진 등 알레르기 질환이 있는 사람은 코로나19에 걸릴 가능성이 낮다는 연구 결과가 나왔다. 알레르기 환자는&nbsp;그렇지 않은 사람들보다 코로나 바이러스를 폐로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크가 호감도를 더 높이나?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/643</id>
-        <link href="https://factchecker.or.kr/fc_suggests/643"/>
-        <updated>2022-04-13T14:13:42.618Z</updated>
-        <content type="html"><![CDATA[마기꾼 근거 있었다…마스크 쓴 이성에게 호감도↑ 英연구 (mbn.co.kr)
-마기꾼 근거 있었다…마스크 쓴 이성에게 호감도↑ 英연구
-코로나19 장기화로 마스크를 착용하게 되면서 마기꾼(마스크+사기꾼)이라는 신조어가 등장했...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무환수 어항에서 물고기를 키우면 그 물고기는 건강하게 자라거나 번식하지 못한다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/642</id>
-        <link href="https://factchecker.or.kr/fc_suggests/642"/>
-        <updated>2022-04-13T14:13:42.618Z</updated>
-        <content type="html"><![CDATA[물생활 커뮤니티에서 물을 갈아주지 않는 어항에서 물고기를 키우면 물고기가 잘 살지 못하고 버티기만 한다는 주장이 있는가 하면 무환수 어항에서도 잘 살 수 있다는 주장이 있습니다. 이에 대한 팩트체크를 요청합니다.]]></content>
     </entry>
 </feed>
