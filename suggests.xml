@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-14T05:14:15.241Z</updated>
+    <updated>2022-04-14T06:18:43.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여성할당제, 정말 성평등을 위해 반드시 필요한 정책일까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/663</id>
+        <link href="https://factchecker.or.kr/fc_suggests/663"/>
+        <updated>2022-04-14T06:17:59.584Z</updated>
+        <content type="html"><![CDATA[http://news.tf.co.kr/read/ptoday/1931165.htm
+현재 우리나라에서는 성평등을 목적으로 국내 일반 기업의 임원이나 경찰과 같은 공무원 등 여러 직업군에서 여성할당제를 적용하고있습니다
+특히나 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임 중독, 질병으로 보는게 과연 맞는 시각일까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/662</id>
+        <link href="https://factchecker.or.kr/fc_suggests/662"/>
+        <updated>2022-04-14T06:17:59.584Z</updated>
+        <content type="html"><![CDATA[http://www.monews.co.kr/news/articleView.html?idxno=202797
+현재 게임 중독을 질병으로 봐야할지 그저 편견으로 봐야할지 다양한 사람들의 의견이 속출하고 있는 추세이다.
+그런데 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 영상이 사실인가요 ??]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/661</id>
+        <link href="https://factchecker.or.kr/fc_suggests/661"/>
+        <updated>2022-04-14T06:17:59.584Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/ngS8BTtx7qc]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바나나에 검정 반점이 생기면 더 맛있울 까요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/660</id>
+        <link href="https://factchecker.or.kr/fc_suggests/660"/>
+        <updated>2022-04-14T06:17:59.584Z</updated>
+        <content type="html"><![CDATA[https://m.nownews.seoul.co.kr/news/newsView.php?cp=nownews&amp;id=20190730601006&nbsp;
+이 기사를 보고 팩트 체크 영상을 만들건데 정말로 갈색으로 변하면 맛있너요?&nbsp;&nbsp;
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 범죄율이 실제로 높을까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/659</id>
@@ -56,40 +90,5 @@ https://youtu.be/oGNxLmjaKz4
         <updated>2022-04-14T03:01:58.980Z</updated>
         <content type="html"><![CDATA[https://www.thedailypost.kr/news/articleView.html?idxno=86756
 생명력이 좋다고 알려진 바퀴벌레가 소행성 충돌 때도 생존하였다고 하는데 사실인지 궁금하고, 왜 생존력이 좋은지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBTI 검사는 타당도와 신뢰도가 부족한가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/653</id>
-        <link href="https://factchecker.or.kr/fc_suggests/653"/>
-        <updated>2022-04-14T03:01:58.981Z</updated>
-        <content type="html"><![CDATA[http://www.opinionnews.co.kr/news/articleView.html?idxno=65630&nbsp;
-많은 사람이 관심을 가지고 자신의 mbti를 인지하는 추세인데 단순한 온라인 검사로도 타당한 결과를 얻을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로콜라, 당뇨와 상관 없을까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/652</id>
-        <link href="https://factchecker.or.kr/fc_suggests/652"/>
-        <updated>2022-04-14T03:01:58.982Z</updated>
-        <content type="html"><![CDATA[제로콜라 당뇨와 상관있을까? 최근 새로 바뀐 .. : 네이버블로그 (naver.com)
-&nbsp;
-제로콜라는 진짜로 당뇨와 상관이 있는지 궁금합니다.
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북대 의대 편입, 다수가 명문대, 해외대 출신이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/651</id>
-        <link href="https://factchecker.or.kr/fc_suggests/651"/>
-        <updated>2022-04-14T01:02:29.007Z</updated>
-        <content type="html"><![CDATA[https://n.news.naver.com/article/032/0003140399?cds=news_edit
-윤석열 정부 첫 보건복지부 장관으로 지명된 정호영 내정자가 경북대 의대 교수와 경북대병원장으로 재직하던 시절...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 파오차이가 김치의 표준이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/650</id>
-        <link href="https://factchecker.or.kr/fc_suggests/650"/>
-        <updated>2022-04-14T01:02:29.011Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/pyaZAs4rqc8
-최근까지도 중국은 김치는 파오차이에서 파생된 것이라는 주장을 펼치고 있는 상태입니다.
-이에 구체적인 근거와 함께 직접 팩트체크 해 보고자 합니다.]]></content>
     </entry>
 </feed>
