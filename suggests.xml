@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-13T23:15:13.326Z</updated>
+    <updated>2022-04-14T01:03:10.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경북대 의대 편입, 다수가 명문대, 해외대 출신이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/651</id>
+        <link href="https://factchecker.or.kr/fc_suggests/651"/>
+        <updated>2022-04-14T01:02:29.007Z</updated>
+        <content type="html"><![CDATA[https://n.news.naver.com/article/032/0003140399?cds=news_edit
+윤석열 정부 첫 보건복지부 장관으로 지명된 정호영 내정자가 경북대 의대 교수와 경북대병원장으로 재직하던 시절...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국의 파오차이가 김치의 표준이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/650</id>
+        <link href="https://factchecker.or.kr/fc_suggests/650"/>
+        <updated>2022-04-14T01:02:29.011Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/pyaZAs4rqc8
+최근까지도 중국은 김치는 파오차이에서 파생된 것이라는 주장을 펼치고 있는 상태입니다.
+이에 구체적인 근거와 함께 직접 팩트체크 해 보고자 합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얇은 kf94 마스크]]></title>
         <id>https://factchecker.or.kr/fc_suggests/649</id>
@@ -64,21 +81,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/642"/>
         <updated>2022-04-13T14:13:42.618Z</updated>
         <content type="html"><![CDATA[물생활 커뮤니티에서 물을 갈아주지 않는 어항에서 물고기를 키우면 물고기가 잘 살지 못하고 버티기만 한다는 주장이 있는가 하면 무환수 어항에서도 잘 살 수 있다는 주장이 있습니다. 이에 대한 팩트체크를 요청합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/641</id>
-        <link href="https://factchecker.or.kr/fc_suggests/641"/>
-        <updated>2022-04-13T14:13:42.619Z</updated>
-        <content type="html"><![CDATA[[뷰파인더 너머] (61) 맨발 걷기, 어싱(earthing) 살기 위해 걷습니다 (journalist.or.kr)
-가끔 흘려듣긴 했지만 그곳 마사토 산책로에서 적잖이 놀랐습니다. 신발이 없어도 발걸음이 가벼웠습니다. 얼...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식사 후 바로 양치하는 것은 치아에 안 좋은 행동일까?/다이어트 제품은 정말 체중감량에 도움을 줄까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/640</id>
-        <link href="https://factchecker.or.kr/fc_suggests/640"/>
-        <updated>2022-04-13T14:13:42.621Z</updated>
-        <content type="html"><![CDATA[1. 식사 후 바로 양치하는 것은 치아에 안 좋은 행동일까?
-조사한 기사에 따르면 탄산음료를 마셨다면 30분쯤 지난 뒤 양치질을 해야 좋다고 하며, 더불어 전문가들은 산이 강한 음식을 먹은 다음 물로 한 번 헹궈준 후 3...]]></content>
     </entry>
 </feed>
