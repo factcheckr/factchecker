@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 14:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,20 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[마스크를 썼는데 왜 코로나에 걸리는 이유: 헐거움 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/667</link>
+            <guid>https://factchecker.or.kr/fc_suggests/667</guid>
+            <pubDate>Thu, 14 Apr 2022 15:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.donga.com/news/article/all/20220414/112881702/2]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤 당성인의 국방부루 집무실 이전 진짜 하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/666</link>
+            <guid>https://factchecker.or.kr/fc_suggests/666</guid>
+            <pubDate>Thu, 14 Apr 2022 15:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[https://newsis.com/view/?id=NISI20220408_0018679676]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나 3차 접종 꼭 맞아야하나? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/665</link>
             <guid>https://factchecker.or.kr/fc_suggests/665</guid>
@@ -268,24 +282,6 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <content:encoded><![CDATA[https://www.google.com/amp/s/www.joongang.co.kr/amparticle/25022115
 한국의 암담한 미래 앞날이라는 제목으로 불안감을 조성하는 기사.&nbsp;
 그리고 입맛대로 해석한 기사. 과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헤어 클리닉이 머리카락에 실제 좋은 영향을 미치는가 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/657</link>
-            <guid>https://factchecker.or.kr/fc_suggests/657</guid>
-            <pubDate>Thu, 14 Apr 2022 04:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[미용실에서 요구하는 헤어 클리닉이 실제로 머리카락에 좋은 영향을 미치는지, 일시적인 현상인 것은 아닌지 궁금합니다.
-https://youtu.be/oGNxLmjaKz4
-&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 보조제는 정말로 체중감량에 효과가 있을까 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/656</link>
-            <guid>https://factchecker.or.kr/fc_suggests/656</guid>
-            <pubDate>Thu, 14 Apr 2022 04:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 진짜 효과 있는 다이어트? 이 글만 필독하세요 : 네이버 포스트 (naver.com)
-&nbsp;
-어디에서나 흔하게 볼 수 있는 다이어트 보조제의 광고를 보고, 과학적으로 효과가 있는 것인지 궁금합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실확인] ″대통령 집무실도 관저″...대통령 집무실 앞에서 시위 못한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
