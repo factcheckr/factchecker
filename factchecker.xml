@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-14T06:18:43.527Z</updated>
+    <updated>2022-04-14T07:14:20.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 비밀번호 잠금 해제 강제할 수 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/354</id>
+        <link href="https://factchecker.or.kr/fc_subjects/354"/>
+        <updated>2022-04-14T07:13:19.455Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/354">채널A 기자의 강요미수 사건 개입 의혹을 받은 한동훈 검사장에 대해 검찰이 지난 7일 무혐의 처분을 결정했습니다. 수사 과정에서 한동훈 검사장은 본인이 소지하던 아이폰의 잠금 장치를 풀어주지 않았습니다. 한 검사장의 아이폰은 공수처가 수사 중인 ‘고발사주’ 의혹 사건에서도 중요한 증거물입니다. 서울지방검찰청은 보도자료를 통해 피의자의 휴대전화에 대한 포렌식을 시도했지만 휴대전화 잠금 해제 시도가 더는 실효성이 없다고 판단했다고 밝혔습니다. 수사기관에 정식으로 압수된 증거물이라고 해도 잠금장치를 해제를 강제할 수 없는 것인지, 이러한 수사기관 비협조가 어떤 법에 의해서 보호를 받는지 &lt;알고보니&gt;가 확인해봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 이동권, 장애인만을 위한 것이다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/343</id>
@@ -94,17 +102,6 @@
         <updated>2022-03-22T09:12:40.637Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/326">
 〈제20대 대통령 선거 국민의힘 정책공약집〉 150쪽 청소년 공약에는 위기 청소년을 보호의 울타리로 감싸겠습니다 항목이 포함돼있습니다. 해당 공약에서는 학업 중단 청소년의 수가 2015년 4만7070명, 2020년에는 5만2261명이라고 밝혔습니다. 학업 중단 청소년의 수를 증가 추세로 파악한 것입니다. 국민의힘에서 제시한 수치가 맞는지 검증해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/325</id>
-        <link href="https://factchecker.or.kr/fc_subjects/325"/>
-        <updated>2022-03-22T05:11:45.821Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/325">제20대 대통령 선거가 끝난 뒤, 국민의힘 박진 의원과 조태용 의원은 윤석열 당선인과 미국 조 바이든 대통령간의 통화가 이례적으로 빨리 이루어졌다고 평가했습니다.&nbsp;
-박진 의원 바이든 미국 대통령이 윤 당선인의 당선이 확정된 지 4시간여 만에 직접 전화 통화를 한 것은 매우 이례적인 일
-조태용 의원 조 바이든 미국 대통령이 윤 당선인에게 당선 4시간 만인, 그야말로 최단시간 내 전화가 닿은 데에 이어 바로 다음날 기시다 총리, 존슨 총리까지 외국 정상의 연락이 단기간 내에 오고 있다
-두 의원들의 말처럼, 윤석열 당선인은 역대 대통령 당선인 중 가장 빨리 미국 대통령과 통화한 당선인일까요? 역대 대한민국 대통령 당선인과 미국 대통령 사이에 통화가 이루어지기까지 과연 얼마만큼의 시간과 일자가 소요됐는지 조사해봤습니다.
 </a>]]></content>
     </entry>
 </feed>
