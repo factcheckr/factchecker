@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-14T12:25:40.955Z</updated>
+    <updated>2022-04-14T13:29:15.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 3차 접종 꼭 맞아야하나?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/665</id>
+        <link href="https://factchecker.or.kr/fc_suggests/665"/>
+        <updated>2022-04-14T13:27:31.344Z</updated>
+        <content type="html"><![CDATA[변종 바이러스들이 나오고 있다지만 3차 백신을 맞고 난뒤 건강했던 사람이 의문사 하는 일들이 일어나고 있습니다. 과연 꼭 맞아야한가요?
+&nbsp;
+https://www.kdca.go.kr/gallery.es?mid=a205030...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 공약 여가부 폐지가 아니라 이름만 바꾼다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/664</id>
+        <link href="https://factchecker.or.kr/fc_suggests/664"/>
+        <updated>2022-04-14T13:27:31.355Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령 당선인의 여가부 폐지하겠다는 공약을 내세웠는데 지금은 미래가족부라는 이름으로 다시만든 다고합니다. 이것은 공약달성이 맞는지 팩트 체크 해주세요
+&nbsp;
+&nbsp;
+https://news.jtbc.joins.com/art...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성할당제, 정말 성평등을 위해 반드시 필요한 정책일까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/663</id>
@@ -73,22 +92,5 @@ https://youtu.be/oGNxLmjaKz4
         <content type="html"><![CDATA[2022년 진짜 효과 있는 다이어트? 이 글만 필독하세요 : 네이버 포스트 (naver.com)
 &nbsp;
 어디에서나 흔하게 볼 수 있는 다이어트 보조제의 광고를 보고, 과학적으로 효과가 있는 것인지 궁금합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말로 전자담배의 액상은 안전하지 않는가.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/655</id>
-        <link href="https://factchecker.or.kr/fc_suggests/655"/>
-        <updated>2022-04-14T03:01:58.979Z</updated>
-        <content type="html"><![CDATA[＂액상형 전자담배 성분 실험자료 정보공개 승소…정부 정책 개편해야＂ (mdtoday.co.kr)
-&nbsp;
-비타민E아세테이트가 극미량이지만 검출이 되었다고 말하지만 정말로 이정도의 양이 인간의 몸에 안전하지 않는건지 궁금해서 올...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바퀴벌레가 소행성 충돌에서도 살아남은 게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/654</id>
-        <link href="https://factchecker.or.kr/fc_suggests/654"/>
-        <updated>2022-04-14T03:01:58.980Z</updated>
-        <content type="html"><![CDATA[https://www.thedailypost.kr/news/articleView.html?idxno=86756
-생명력이 좋다고 알려진 바퀴벌레가 소행성 충돌 때도 생존하였다고 하는데 사실인지 궁금하고, 왜 생존력이 좋은지...]]></content>
     </entry>
 </feed>

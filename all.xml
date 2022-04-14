@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 13:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,25 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[코로나 3차 접종 꼭 맞아야하나? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/665</link>
+            <guid>https://factchecker.or.kr/fc_suggests/665</guid>
+            <pubDate>Thu, 14 Apr 2022 13:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[변종 바이러스들이 나오고 있다지만 3차 백신을 맞고 난뒤 건강했던 사람이 의문사 하는 일들이 일어나고 있습니다. 과연 꼭 맞아야한가요?
+&nbsp;
+https://www.kdca.go.kr/gallery.es?mid=a205030...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 공약 여가부 폐지가 아니라 이름만 바꾼다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/664</link>
+            <guid>https://factchecker.or.kr/fc_suggests/664</guid>
+            <pubDate>Thu, 14 Apr 2022 13:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인의 여가부 폐지하겠다는 공약을 내세웠는데 지금은 미래가족부라는 이름으로 다시만든 다고합니다. 이것은 공약달성이 맞는지 팩트 체크 해주세요
+&nbsp;
+&nbsp;
+https://news.jtbc.joins.com/art...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[여성할당제, 정말 성평등을 위해 반드시 필요한 정책일까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/663</link>
             <guid>https://factchecker.or.kr/fc_suggests/663</guid>
@@ -267,23 +286,6 @@ https://youtu.be/oGNxLmjaKz4
             <content:encoded><![CDATA[2022년 진짜 효과 있는 다이어트? 이 글만 필독하세요 : 네이버 포스트 (naver.com)
 &nbsp;
 어디에서나 흔하게 볼 수 있는 다이어트 보조제의 광고를 보고, 과학적으로 효과가 있는 것인지 궁금합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정말로 전자담배의 액상은 안전하지 않는가. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/655</link>
-            <guid>https://factchecker.or.kr/fc_suggests/655</guid>
-            <pubDate>Thu, 14 Apr 2022 03:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[＂액상형 전자담배 성분 실험자료 정보공개 승소…정부 정책 개편해야＂ (mdtoday.co.kr)
-&nbsp;
-비타민E아세테이트가 극미량이지만 검출이 되었다고 말하지만 정말로 이정도의 양이 인간의 몸에 안전하지 않는건지 궁금해서 올...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바퀴벌레가 소행성 충돌에서도 살아남은 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/654</link>
-            <guid>https://factchecker.or.kr/fc_suggests/654</guid>
-            <pubDate>Thu, 14 Apr 2022 03:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.thedailypost.kr/news/articleView.html?idxno=86756
-생명력이 좋다고 알려진 바퀴벌레가 소행성 충돌 때도 생존하였다고 하는데 사실인지 궁금하고, 왜 생존력이 좋은지...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실확인] ″대통령 집무실도 관저″...대통령 집무실 앞에서 시위 못한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
