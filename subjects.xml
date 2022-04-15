@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 00:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Thu, 14 Apr 2022 07:13:27 GMT</pubDate>
             <content:encoded><![CDATA[채널A 기자의 강요미수 사건 개입 의혹을 받은 한동훈 검사장에 대해 검찰이 지난 7일 무혐의 처분을 결정했습니다. 수사 과정에서 한동훈 검사장은 본인이 소지하던 아이폰의 잠금 장치를 풀어주지 않았습니다. 한 검사장의 아이폰은 공수처가 수사 중인 ‘고발사주’ 의혹 사건에서도 중요한 증거물입니다. 서울지방검찰청은 보도자료를 통해 피의자의 휴대전화에 대한 포렌식을 시도했지만 휴대전화 잠금 해제 시도가 더는 실효성이 없다고 판단했다고 밝혔습니다. 수사기관에 정식으로 압수된 증거물이라고 해도 잠금장치를 해제를 강제할 수 없는 것인지, 이러한 수사기관 비협조가 어떤 법에 의해서 보호를 받는지 &lt;알고보니&gt;가 확인해봤습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시 2030 청년 인구 감소가 전체 서울시 인구 감소보다 훨씬 크며, 지난해 서울 전출인구 절반이 청년이다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/353</link>
+            <guid>https://factchecker.or.kr/fc_subjects/353</guid>
+            <pubDate>Fri, 15 Apr 2022 03:01:07 GMT</pubDate>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[장애인 이동권, 장애인만을 위한 것이다?]]></title>
@@ -91,14 +98,6 @@
 해당 문장처럼, 직업계고 졸업생의 취업률은 2017년 이후로 급격히 감소했을까요? 통계의 출처를 직접 확인해봤습니다.
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[학업 중단 청소년의 수가 증가 추세에 있다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/326</link>
-            <guid>https://factchecker.or.kr/fc_subjects/326</guid>
-            <pubDate>Tue, 22 Mar 2022 09:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[〈제20대 대통령 선거 국민의힘 정책공약집〉 150쪽 청소년 공약에는 위기 청소년을 보호의 울타리로 감싸겠습니다 항목이 포함돼있습니다. 해당 공약에서는 학업 중단 청소년의 수가 2015년 4만7070명, 2020년에는 5만2261명이라고 밝혔습니다. 학업 중단 청소년의 수를 증가 추세로 파악한 것입니다. 국민의힘에서 제시한 수치가 맞는지 검증해봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
