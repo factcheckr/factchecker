@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,14 @@
             <guid>https://factchecker.or.kr/fc_subjects/353</guid>
             <pubDate>Fri, 15 Apr 2022 03:01:07 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[탄소중립 위원회, 2030년까지 탄소 40% 절감 목표 제시 외에 계획 없나?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/352</link>
+            <guid>https://factchecker.or.kr/fc_subjects/352</guid>
+            <pubDate>Fri, 15 Apr 2022 08:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2050 탄소중립을 위해 탄소중립 위원회는 다양한 주체들의 참여 및 구체적인 추진계획 없이 온실가스 감축 목표만 내놓았는지?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[장애인 이동권, 장애인만을 위한 것이다?]]></title>
@@ -86,18 +94,6 @@
             <pubDate>Wed, 23 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나가 세계 최대 농산물 생산국이라서 전쟁이 나면 농산물 가격이 큰일 난다는 트윗을 봤는데요 여기 나오는 내용이 사실인가요?&nbsp; 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비중이 낮으면 가격에 큰 영향이 없을 것 같은데 사실인지 궁금하네요&nbsp; https://twitter.com/royikim/status/1492451937245184002&nbsp;&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[직업계고 졸업생의 취업률이 문재인 정부 들어 급격히 하락했다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/327</link>
-            <guid>https://factchecker.or.kr/fc_subjects/327</guid>
-            <pubDate>Thu, 24 Mar 2022 10:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 제20대 대통령 선거 정책공약집에는 직업계고(특성화고, 마이스터고) 졸업생의 취업률이 문재인 정부 들어 급격히 하락이라는 문장이 포함됐습니다. 2017년 50.6%에서 2020년 27.7%로 감소했다는 통계 결과도 함께 적혀있습니다.
-
-- 국민의힘 정책공약집 227p
-해당 문장처럼, 직업계고 졸업생의 취업률은 2017년 이후로 급격히 감소했을까요? 통계의 출처를 직접 확인해봤습니다.
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

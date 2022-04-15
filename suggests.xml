@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-15T07:14:03.159Z</updated>
+    <updated>2022-04-15T08:16:58.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인은 진로분야는 한정되어 있을까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/668</id>
+        <link href="https://factchecker.or.kr/fc_suggests/668"/>
+        <updated>2022-04-15T08:16:16.789Z</updated>
+        <content type="html"><![CDATA[육체적이나 정신적으로 장애를 가지고 있는 사람은 진로분야가 한정되어있을까요?&nbsp;
+&nbsp;
+만약 한정되어 있다면 각 장애마다 어떤 진로분야에서 한정되어있고 또 왜 한정되어있는지 알려주세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크를 썼는데 왜 코로나에 걸리는 이유: 헐거움]]></title>
         <id>https://factchecker.or.kr/fc_suggests/667</id>
@@ -79,14 +88,5 @@ https://news.jtbc.joins.com/art...]]></content>
         <updated>2022-04-14T04:15:20.702Z</updated>
         <content type="html"><![CDATA[https://www.google.com/amp/s/www.joongang.co.kr/amparticle/21430012
 외국인 범죄율이 높다는 언론의 편향적 시각과 편견을 만들어내는 언론을 비판하고, 실제를 알아보고자 한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 잠재 성장력과 미래 분석에 대한 기사들을 팩트 체크 해보고 싶습니다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/658</id>
-        <link href="https://factchecker.or.kr/fc_suggests/658"/>
-        <updated>2022-04-14T04:15:20.704Z</updated>
-        <content type="html"><![CDATA[https://www.google.com/amp/s/www.joongang.co.kr/amparticle/25022115
-한국의 암담한 미래 앞날이라는 제목으로 불안감을 조성하는 기사.&nbsp;
-그리고 입맛대로 해석한 기사. 과...]]></content>
     </entry>
 </feed>
