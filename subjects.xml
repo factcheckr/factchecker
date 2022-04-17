@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/357</link>
+            <guid>https://factchecker.or.kr/fc_subjects/357</guid>
+            <pubDate>Sun, 17 Apr 2022 16:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;
+실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 &lt;찐(眞)여성주권행동&gt;의 발언]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 비밀번호 잠금 해제 강제할 수 없다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/354</link>
@@ -86,14 +95,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/330</guid>
             <pubDate>Fri, 25 Mar 2022 05:13:09 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/328</link>
-            <guid>https://factchecker.or.kr/fc_subjects/328</guid>
-            <pubDate>Wed, 23 Mar 2022 10:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나가 세계 최대 농산물 생산국이라서 전쟁이 나면 농산물 가격이 큰일 난다는 트윗을 봤는데요 여기 나오는 내용이 사실인가요?&nbsp; 사진에 나온 내용이 사실이라고 하더라도 우리나라가 우크라이나산 농산물을 수입하지 않거나 비중이 낮으면 가격에 큰 영향이 없을 것 같은데 사실인지 궁금하네요&nbsp; https://twitter.com/royikim/status/1492451937245184002&nbsp;&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
