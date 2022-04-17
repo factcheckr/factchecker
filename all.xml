@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 16:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,10 +107,10 @@
             <title><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/357</link>
             <guid>https://factchecker.or.kr/fc_subjects/357</guid>
-            <pubDate>Sun, 17 Apr 2022 16:17:05 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 16:16:58 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;
 실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 &lt;찐(眞)여성주권행동&gt;의 발언]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아이폰 비밀번호 잠금 해제 강제할 수 없다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -437,6 +437,17 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--771e3c5745bec3766cd6fd4a317599be91a3b0c1/25c56bba78bb9cb3a2ad9ffafa8e13c6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/107</link>
+            <guid>https://factchecker.or.kr/fc_publications/107</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1)
+Hasenbush, A., Flores, A.R. &amp; Herman, J.L. (2019). Gender Identity Nondiscrimination Laws in Public Accommodations: a Review of Evidence Regarding Safety and Privacy in Public Restrooms, Locker Rooms, and Changing Rooms. Sex Res Soc Policy 16, 70–83. https://doi.org/10.1007/s13178-018-0335-z
+메사추세츠주에서 트랜스젠더가 자신의 성별에 따라 화장실을 갈 수 있도록 하는 법안이 통과되기 이전과 이후의 범죄율 차이가 유의미하게 나타나지 않았다는 통계를 밝힌 연구 자료이다. 더불어, 이미 70% 이상을 성중립 화장실로 유치하고 있는 스웨덴에서도 유의미한 범죄율 차이가 나타나지 않았다.&nbsp;
+2)
+Bovens, L., &amp; Marcoci, A. (2020). ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울시 2030 청년 인구 감소가 전체 서울시 인구 감소보다 훨씬 크며, 지난해 서울 전출인구 절반이 청년이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/105</link>
             <guid>https://factchecker.or.kr/fc_publications/105</guid>
@@ -551,27 +562,6 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
 ▲ 교육부 2021 교육통계 분석자료집, 연도별·학년별 학업중단율
 교육부 통계에 따르면
 2016년은 초...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인, 역대 당선인 중 가장 빨리 미국 대통령과 통화했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/87</link>
-            <guid>https://factchecker.or.kr/fc_publications/87</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Q. 윤석열 당선인은 역대 당선인 중 가장 빠른 시간 안에 미국 대통령과 통화했다?
-A. 통화 기록이 확인되는 한에서 Yes.
-&nbsp;
-윤석열 당선인과 조 바이든 미국 대통령이 통화한 일자는 2022년 3월 10일 오전 10시경이었습니다.
-검증 결과, 이는 1990년 이후(14대 이후)에 당선된 다른 당선인들과 비교했을 때 가장 빠른 시간이었습니다.
-통화 기록이 확인되는 범위 내에서, 윤 당선인은 가장 빠른 시간 안에 통화한 당선인이었습니다.
-&nbsp;
-다만, 13대 대선 이전에는 전화 통화 대신 편지 형태의 서한을 주고 받은 것으로 추정됩니다.
-또한 기사 검색이 불가한 연도도 있기에, 전화 통화를 했을 가능성도 아예 배제할 수는 없습니다.
-때문에 역대 당선인 전부를 통틀어 1등인지 여부는 단정지어 판가름하기엔 무리가 있을 것으로 보입니다.
-&nbsp;
-▼ 아래 자료는 역대 대한민국 대선 결과 및 미국 대통령과의 통화 날짜를 정리한 표(13대 이전은 서한 수신 날짜)입니다.&nbsp;
-
-&nbsp;
-1. 20대 대선...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
