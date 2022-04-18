@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 09:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 10:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촉법소년 강력범죄, 점점 증가하고 있나? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/360</link>
+            <guid>https://factchecker.or.kr/fc_subjects/360</guid>
+            <pubDate>Mon, 18 Apr 2022 10:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/360">문제는 강도, 폭행, 성폭력 등 촉법소년들의 강력범죄가 해마다 증가하고 있다는 김병욱 국민의힘 의원 발언&nbsp;
+</a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/358</link>
@@ -52,6 +60,14 @@
 </a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/347</link>
+            <guid>https://factchecker.or.kr/fc_subjects/347</guid>
+            <pubDate>Mon, 18 Apr 2022 10:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/347">“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” 2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언
+</a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[장애인 이동권, 장애인만을 위한 것이다? (팩트체크넷)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/343</link>
             <guid>https://factchecker.or.kr/fc_subjects/343</guid>
@@ -82,28 +98,12 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/335</link>
-            <guid>https://factchecker.or.kr/fc_subjects/335</guid>
-            <pubDate>Fri, 01 Apr 2022 08:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/335">
-
-&nbsp;
-&nbsp;
-</a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[20대 대선 후보자 허경영, "제 지지율은 29%"라는 주장, 사실일까? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/332</link>
-            <guid>https://factchecker.or.kr/fc_subjects/332</guid>
-            <pubDate>Mon, 11 Apr 2022 06:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/332">
-검증대상
-
-2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
-허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?
-
-</a>]]></content:encoded>
+            <title><![CDATA[촉법소년 강력범죄, 점점 증가하고 있나? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/360</link>
+            <guid>https://factchecker.or.kr/fc_subjects/360</guid>
+            <pubDate>Mon, 18 Apr 2022 10:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[문제는 강도, 폭행, 성폭력 등 촉법소년들의 강력범죄가 해마다 증가하고 있다는 김병욱 국민의힘 의원 발언&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -148,6 +148,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/347</link>
+            <guid>https://factchecker.or.kr/fc_subjects/347</guid>
+            <pubDate>Mon, 18 Apr 2022 10:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” 2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[장애인 이동권, 장애인만을 위한 것이다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/343</link>
             <guid>https://factchecker.or.kr/fc_subjects/343</guid>
@@ -175,26 +183,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/338</guid>
             <pubDate>Mon, 04 Apr 2022 03:34:32 GMT</pubDate>
             <content:encoded><![CDATA[대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 공개되고 있습니다. 그중에서 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서가 많은 주목을 받았습니다. 경제 효과가 수천억 원대라는 다른 보고서와 달리, 경제 효과가 수조 원에 이른다는 내용이었기 때문입니다. 보고서에서는 청와대 개방으로 인해 우리나라의 관광수입이 1.8조 원이 늘어난다고 말했습니다. 나아가 새로운 대통령 집무실에서 정부와 국민과의 소통이 증가했을 때 제도적 신뢰도가 증가해 GDP가 최대 12조 원까지 증가할 것이라고 분석했습니다. 〈알고보니〉에서는 보고서가 무엇을 근거로 이런 경제 효과가 있다고 결론 내렸는지 확인해봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/335</link>
-            <guid>https://factchecker.or.kr/fc_subjects/335</guid>
-            <pubDate>Fri, 01 Apr 2022 08:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 대선 후보자 허경영, "제 지지율은 29%"라는 주장, 사실일까? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/332</link>
-            <guid>https://factchecker.or.kr/fc_subjects/332</guid>
-            <pubDate>Mon, 11 Apr 2022 06:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[검증대상
-
-2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
-허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -441,16 +429,26 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--771e3c5745bec3766cd6fd4a317599be91a3b0c1/25c56bba78bb9cb3a2ad9ffafa8e13c6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[촉법소년 강력범죄, 점점 증가하고 있나? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/110</link>
+            <guid>https://factchecker.or.kr/fc_publications/110</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 촉법소년 강력범죄 해마다 증가하고 있나?&nbsp;
+강력범죄는 어떤 범죄를 포함할까요. 대검찰청이 규정한 5대 강력범죄는 폭력, 흉악(살인, 강도 및 특정범죄가중처벌등에관한법률상에 규정된 강도, 보복범죄, 특수강도 등), 성폭력, 약취.유인, 방화.실화입니다.&nbsp;
+반면, 언론 등에선 흔히 살인, 강도, 절도, 폭력, 성범죄(강간, 추행)를 5대 강력범죄로 칭합니다. 대검찰청과 다르게 약취. 유인 대신 절도 범죄를 포함하고 있습니다. 이 기준으로 볼 때, 경찰청의 최근 5년간 촉법소년 소년부 송치 현황 자료에 따르면 살인, 강도, 절도, 폭력, 성범죄(강간, 추행), 즉 강력범죄를 저지른 촉법소년은 2017년 6천286명에서 2018년 6천14명으로 소폭 하락했으나, 이후 2019년 7천81명, 2020년 7천535명, 2021년 8천474명으로 해마다 증가하고 있습니다.&nbsp;
+하지만, 대검찰청이 규정한 5대 강력범죄를 기준으로, 절도 범죄를 제외하고 분석해보면 2017년 1,750명, ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/108</link>
             <guid>https://factchecker.or.kr/fc_publications/108</guid>
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
+            <content:encoded><![CDATA[1. 2010년 구미시설관리공단 직권면직 당한 뇌병변장애인 팀장 복직명령
 1-1. 국가인권위원회의 보도자료(2010년 4월 29일)
 국가인권위원회(위원장 현병철)는 2008. 4. 11. 「장애인차별금지 및 권리구제 등에 관한 법률」(이하 “장애인차별금지법”) 시행 후 처음으로, 법무부가 장애인차별 시정명령권을 발동하여 구미시시설관리공단 이사장에게 진정인 손모씨를 복직시킬 것과, 장애인차별 관련 인권교육을 받도록 하는 시정명령을 결정한 것에 대해 크게 환영합니다.
 국가인권위원회는 이번 시정 명령이 장애인차별금지법의 실효성을 높이고 우리 국민의 기본권을 한 단계 향상시킴과 동시에 국제 사회의 보편적 인권기준에 더욱 가까이 다가서는 것으로, 우리나라 인권의 의미 있는 진전이라고 평가합니다.
 국가인권위원회는 법무부가 향후 시정명령 결정 과정에서 장애인차별금지법의 실효적 이행과 우리 위원회의 권고 취지 등이 충분히 반영될 수 있도록 노력해 줄 것을 기대합니다.
-한편, 국가인권위원회 장애인차별시정위원회는 2009. 8. 18. 구미시설관리공단이 진정인의 ...]]></content:encoded>
+한편, 국가인권위원회 장...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
@@ -486,6 +484,21 @@ Bovens, L., &amp; Marcoci, A. (2020). ...]]></content:encoded>
             <content:encoded><![CDATA[1) NDC 40% 목표 제시는 사실인가? - 사실이다.2015년 파리협정에서 지구 평균온도 상승을 1.5℃까지 억제하기 위해 각 당사국들에게 장기 저탄소 발전전략(LEDS)을 2020년까지 수립하도록 권고했다. 2020년 10월 28일 국회에서 문 대통령은 탄소중립을 처음 공식화했고 12월에는 장기 저탄소 발전전략(LEDS)을 유엔에 제출했다.2021년 5월에는 2050탄소중립위원회가 신설되었고, 2021년 10월에는 2030년까지 2018년 대비 온실가스 배출량을 40%까지 감축한다는 목표(NDC)를 세우고 12월에 UN에 제출했다. 이는 2050 탄소중립 선언에 대한 후속 조치이고 탄소중립 녹색성장 기본법 취지와 국제 동향을 고려해 목표를 설정한 것이다.&nbsp;
 *Nationally Determined Contribution는 당사국이 스스로 발표하는 국가 온실가스 감축 목표다.NDC는 2015년 6월 최초로 수립되었고 지금까지 부분적인 수정과 목표 상향이 이뤄졌다.
 (*BAU...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/109</link>
+            <guid>https://factchecker.or.kr/fc_publications/109</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1.팩트체크 대상 발언
+
+
+2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석은 장애인 이동권 시위에 대해 “문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다”라고 발언했습니다.&nbsp;
+&nbsp;
+2.해당 발언의 중대성과 확산성
+
+(위 사진은 장애인 이동권 시위와 관련한 일다, 한겨레, 노컷뉴스, 이데일리 기사 댓글 중 일부임)
+해당 발언 이후 장애인 이동권 시위 관련 뉴스 기사에는 (장애 단체가) 문재인 정부 때는 가만히 있다가 윤석열 정부 때부터 자신들의 요구를 드러낸다는 근거 없는 발언들과 이를 토대로 한 혐오 표현이 난무했습니다. 이러한 댓글들은 시간이 지날수록 높은 호응을 받으며 확산되고 있었고, 혐오 표현에 대한 수위도 높아지는 경향을 보였습니다. (4월 초에서 중반으로 갈수록 댓글에 대한 공감수가 높아지는 경향) 이에 해당 발언을 소수자를 향한 편견과 혐오, 잘못된 지식을 퍼트리는 혐오발언으로 규정하고...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[추가 계약 및 재고 백신 물량 8000만명 분 해외 무상지원? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
@@ -534,31 +547,6 @@ Bovens, L., &amp; Marcoci, A. (2020). ...]]></content:encoded>
 
 대통령직 인수 법률을 보면, 인수위가 국방부와 행정부에 명령할 권리는 직접적으로 적시되어 있지 않다. 국방부 이전(이사)을 대통령직 인수에 필요한 사항으로 해석한다면 이야기는 달라질 수 있지만, 인수위 목적은 국정운영의 계속성, 안정성을 도모하는 것이므로 전례 없던 취임전 국방부 이전(이사)을 인수위 업무로 판단하기는 매우 어렵다. 정부조직법에 따라도 국방부와 기타 행정부는 대통령의 통할 하에 있다. 그러므로 인수 위원회가 국방부에 이전하라 마라 언급하는 것 자체가 월권행위이다.&nbsp;2. 대한민국 헌법 제66, 74조
 윤석열 당선자가 자주 언급하는 대한민국 헌법에 따르면 대통령이 국군을 통수하고 행정권은 대통령을 수반으로 하는 정부에 속한다고 나와있다. 대통령이 국군에 명령은 내릴 수 있어도 대통령직 인수위원회와 당선자가 명령 내릴 권한은 헌법 어디에도 나와있지 않다. 윤석열 대통령 당선자 정식 취임이 있기도 전인 지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁으로 농산물 가격이 오르나요? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/88</link>
-            <guid>https://factchecker.or.kr/fc_publications/88</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 1990년 독일 통일과 미소 협정(러시아가 이번 전쟁의 명분이라는 부분)&nbsp; 1990년 서방과 소련은 독일 통일에 합의했지만, 여전히 동독 지역엔 38만 명의 소련군이 있었고 소련의 광범위한 법적 이해관계가 존재했다. 서방으로선, 독일 통일 이후에도 나토가 위협이 되지 않는다고 소련을 안심시켜야 했다. 1990년 1월31일 한스-디트리히 겐셔 당시 독일 외무장관은 “동부 유럽의 변화와 독일 통일 과정은 결코 소련의 안보 이익을 해치는 방향으로 이뤄지지 않을 것이며, 나토는 동쪽 소련 국경 쪽으로 영토를 확장하는 가능성을 배제해야 한다”고 말했다.&nbsp; 이어 2월9일 제임스 베이커 미 국무장관은 모스크바에서 고르바초프에게 “우리가 나토 일원인 독일에 미군을 배치하더라도, 나토 관할권(jurisdiction)은 동쪽으로 1인치도 확장하지 않겠다” “조지 부시 미 대통령이나 나는 일방적인 이익을 취할 생각이 없다”고 말했다. 고르바초프는 “나토 확대는 수용할 수 없다는 것은 언급할 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[직업계고 졸업생의 취업률이 문재인 정부 들어 급격히 하락했다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/93</link>
-            <guid>https://factchecker.or.kr/fc_publications/93</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1) 취업률 계산 기준
-‘직업계고(특성화고, 마이스터고) 졸업생의 취업률이 문재인 정부 들어 급격히 하락했다.’ 
-국민의힘 제20대 대통령 선거 정책공약집에 적힌 내용입니다. 정책공약집에서 근거로 제시한 ‘2017년 50.6%에서 2020년 27.7%로 감소’라는 수치는 교육부 홈페이지에서 찾을 수 있었습니다.
-
-위 사진은 교육부의 ‘2017년 직업계고 졸업자 취업통계 조사결과 발표’입니다. 교육부 발표에 따르면 2017년 직업계고 졸업자 취업률은 국민의힘 정책공약집에 적힌 수치와 같은 50.6%입니다.
-&nbsp;
-
-다음은 2020년 통계입니다. 교육부의 ‘2020년 직업계고 졸업자 취업통계’에 따르면 직업계고 졸업자의 취업률은 50.7%입니다. 두 통계를 단순히 비교해보면 취업률이 2017년 50.6%에서 2020년 50.7%로 상승한 것인데요.
-&nbsp;
-
-같은 자료에서, 교육부는 ‘취업자’의 비율을 27.7%로 제시했습니다.
-27.7%는 앞의 수치와 달리&nbsp;‘{취업자(24,938명) / ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>

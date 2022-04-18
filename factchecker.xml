@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-18T09:14:01.225Z</updated>
+    <updated>2022-04-18T10:15:41.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[촉법소년 강력범죄, 점점 증가하고 있나?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/360</id>
+        <link href="https://factchecker.or.kr/fc_subjects/360"/>
+        <updated>2022-04-18T10:14:39.664Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/360">문제는 강도, 폭행, 성폭력 등 촉법소년들의 강력범죄가 해마다 증가하고 있다는 김병욱 국민의힘 의원 발언&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/358</id>
@@ -50,6 +58,14 @@
 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/347</id>
+        <link href="https://factchecker.or.kr/fc_subjects/347"/>
+        <updated>2022-04-18T10:14:39.679Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/347">“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” 2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[장애인 이동권, 장애인만을 위한 것이다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/343</id>
         <link href="https://factchecker.or.kr/fc_subjects/343"/>
@@ -77,30 +93,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/338"/>
         <updated>2022-04-04T04:15:13.631Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/338">대통령 집무실 이전의 경제 효과에 대한 보고서들이 잇따라 공개되고 있습니다. 그중에서 전국경제인연합 산하의 한국경제연구원에서 지난 3월 30일 발표한 보고서가 많은 주목을 받았습니다. 경제 효과가 수천억 원대라는 다른 보고서와 달리, 경제 효과가 수조 원에 이른다는 내용이었기 때문입니다. 보고서에서는 청와대 개방으로 인해 우리나라의 관광수입이 1.8조 원이 늘어난다고 말했습니다. 나아가 새로운 대통령 집무실에서 정부와 국민과의 소통이 증가했을 때 제도적 신뢰도가 증가해 GDP가 최대 12조 원까지 증가할 것이라고 분석했습니다. 〈알고보니〉에서는 보고서가 무엇을 근거로 이런 경제 효과가 있다고 결론 내렸는지 확인해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경부 정책으로 인한 경찰 살수차, 가스차 폐기로 불법시위 및 소요사태를 경찰관들이 몸으로 막아야 한다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/335</id>
-        <link href="https://factchecker.or.kr/fc_subjects/335"/>
-        <updated>2022-04-01T08:16:44.267Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/335">
-
-&nbsp;
-&nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대선 후보자 허경영, "제 지지율은 29%"라는 주장, 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/332</id>
-        <link href="https://factchecker.or.kr/fc_subjects/332"/>
-        <updated>2022-04-11T06:16:14.314Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/332">
-검증대상
-
-2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
-허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?
-
 </a>]]></content>
     </entry>
 </feed>
