@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-18T05:14:28.720Z</updated>
+    <updated>2022-04-18T06:18:28.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/358</id>
+        <link href="https://factchecker.or.kr/fc_subjects/358"/>
+        <updated>2022-04-18T06:16:29.327Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/358">&nbsp;명숙 ‘인권운동네트워크 바람’ 상임활동가는 “장애인차별금지법은 시정권고만 있는 인권위법과 달리 시정명령권이 있지만, 시정명령권은 거의 발동되지 않아 존재 의미가 없는 지경”이라며 “인권위에도 시정권고가 아닌 시정명령권이 주어지면 장애인 인권침해 사건에 관한 시정명령들이 더 활발히 이뤄질 수 있을 것”이라고 말했다.&nbsp;
+&nbsp;
+&nbsp;현행 장애인차별금지법 43조는 “장애인 차별행위로 인권위의 권고를 받은 자가 정당한 사유 없이 권고를 이행하지 않는 경우, 법무부 장관이 피해자의 신청이나 직권으로 차별행위를 한 자에게 시정명령을 할 수 있다”고 규정한다. 하지만 2008년 장애인차별금지법 시행 이후 지금까지 내려진 시정명령은 6건에 불과했다. 이마저도 지난해 12월7일 법무부가 ‘피해의 심각성 및 공익의 중대성’을 삭제한 장애인차별금지법이 시행된 뒤, iMBC·SBS 콘텐츠허브·부산MBC·KNN에 장애인 접근성이 보장될 수 있도록 누리집을 개선할 것을 명령하는 등 4건의 시정명령을 내리면서다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/357</id>
@@ -91,14 +101,6 @@
 2022년 3월 9일 대통령 선거를 앞두고, 허경영 대선 후보자는 “여론 조사에서 제 지지율이 29%로 나왔다.라고 주장했다. 이를 검증한다.
 허 후보자는 지난 2월 28일 KBS &lt;2022 대통령 선거 후보 방송연설&gt;에서 이렇게 언급는데 실제로 사실일까?&nbsp; 허 씨가 본인의 지지율이 29%라고 말한 근거가 있으며, 그 내용을 신뢰할 수 있을까?
 
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령직 인수위원회는 국방부에 이전(이사) 요청할 수 있을까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/330</id>
-        <link href="https://factchecker.or.kr/fc_subjects/330"/>
-        <updated>2022-03-25T06:16:00.169Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/330">
 </a>]]></content>
     </entry>
 </feed>
