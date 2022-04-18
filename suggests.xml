@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-18T12:25:32.296Z</updated>
+    <updated>2022-04-18T13:25:58.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -12,7 +12,8 @@
         <updated>2022-04-15T08:16:16.789Z</updated>
         <content type="html"><![CDATA[육체적이나 정신적으로 장애를 가지고 있는 사람은 진로분야가 한정되어있을까요?&nbsp;
 &nbsp;
-만약 한정되어 있다면 각 장애마다 어떤 진로분야에서 한정되어있고 또 왜 한정되어있는지 알려주세요.]]></content>
+만약 한정되어 있다면 각 장애마다 어떤 진로분야에서 한정되어있고 또 왜 한정되어있는지 알려주세요.
+아래 링크와 같이 학교에 입학조차도 거부...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마스크를 썼는데 왜 코로나에 걸리는 이유: 헐거움]]></title>
