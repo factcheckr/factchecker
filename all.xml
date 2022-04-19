@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/670</link>
+            <guid>https://factchecker.or.kr/fc_suggests/670</guid>
+            <pubDate>Tue, 19 Apr 2022 04:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.hankookilbo.com/News/Read/A2022020817340000680
+해당 기사에서 채용할 때 MBTI를 반영하게되면 법적으로 문제가 될수 있다는 주장을 확인할 수 있습니다.
+이처럼 M...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[장애인은 진로분야는 한정되어 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/668</link>
             <guid>https://factchecker.or.kr/fc_suggests/668</guid>
@@ -265,14 +274,6 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <content:encoded><![CDATA[https://m.nownews.seoul.co.kr/news/newsView.php?cp=nownews&amp;id=20190730601006&nbsp;
 이 기사를 보고 팩트 체크 영상을 만들건데 정말로 갈색으로 변하면 맛있너요?&nbsp;&nbsp;
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외국인 범죄율이 실제로 높을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/659</link>
-            <guid>https://factchecker.or.kr/fc_suggests/659</guid>
-            <pubDate>Thu, 14 Apr 2022 04:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.google.com/amp/s/www.joongang.co.kr/amparticle/21430012
-외국인 범죄율이 높다는 언론의 편향적 시각과 편견을 만들어내는 언론을 비판하고, 실제를 알아보고자 한다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[韓 쿼드 가입, 한·미만 원하면 ‘일사천리’? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
