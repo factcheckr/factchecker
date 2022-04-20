@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -186,6 +186,14 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[체육계 미투운동 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/674</link>
+            <guid>https://factchecker.or.kr/fc_suggests/674</guid>
+            <pubDate>Wed, 20 Apr 2022 06:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[최근 몇 년간 체육계에서는 성폭력 미투 운동이 확산되면서 체육계 전반의 성추행, 성폭력 파문이 일고 있다.&nbsp;
+문체부에서는 2019년 성폭력 근절 대책을 발표했지만 그 대책 조차 지난 10여년 전과 달라진 것이 없다.&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/670</link>
             <guid>https://factchecker.or.kr/fc_suggests/670</guid>
@@ -261,15 +269,6 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/661</guid>
             <pubDate>Thu, 14 Apr 2022 06:17:59 GMT</pubDate>
             <content:encoded><![CDATA[https://youtu.be/ngS8BTtx7qc]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바나나에 검정 반점이 생기면 더 맛있울 까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/660</link>
-            <guid>https://factchecker.or.kr/fc_suggests/660</guid>
-            <pubDate>Thu, 14 Apr 2022 06:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[https://m.nownews.seoul.co.kr/news/newsView.php?cp=nownews&amp;id=20190730601006&nbsp;
-이 기사를 보고 팩트 체크 영상을 만들건데 정말로 갈색으로 변하면 맛있너요?&nbsp;&nbsp;
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<최윤재의 팩트 체크>검증 주제:축산업은 사양산업이다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

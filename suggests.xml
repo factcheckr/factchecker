@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-20T05:32:13.624Z</updated>
+    <updated>2022-04-20T06:18:21.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[체육계 미투운동]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/674</id>
+        <link href="https://factchecker.or.kr/fc_suggests/674"/>
+        <updated>2022-04-20T06:16:37.345Z</updated>
+        <content type="html"><![CDATA[최근 몇 년간 체육계에서는 성폭력 미투 운동이 확산되면서 체육계 전반의 성추행, 성폭력 파문이 일고 있다.&nbsp;
+문체부에서는 2019년 성폭력 근절 대책을 발표했지만 그 대책 조차 지난 10여년 전과 달라진 것이 없다.&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/670</id>
@@ -81,14 +89,5 @@ https://news.jtbc.joins.com/art...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/661"/>
         <updated>2022-04-14T06:17:59.584Z</updated>
         <content type="html"><![CDATA[https://youtu.be/ngS8BTtx7qc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바나나에 검정 반점이 생기면 더 맛있울 까요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/660</id>
-        <link href="https://factchecker.or.kr/fc_suggests/660"/>
-        <updated>2022-04-14T06:17:59.584Z</updated>
-        <content type="html"><![CDATA[https://m.nownews.seoul.co.kr/news/newsView.php?cp=nownews&amp;id=20190730601006&nbsp;
-이 기사를 보고 팩트 체크 영상을 만들건데 정말로 갈색으로 변하면 맛있너요?&nbsp;&nbsp;
-&nbsp;]]></content>
     </entry>
 </feed>
