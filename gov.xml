@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 01:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실외용·실내용 무선국 관련 통계자료, 발표·제공한 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3934</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3934</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 “실외용, 실내용 무선국 관련 통계자료를 발표하거나 제공한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--702821e635a036120467dea470bb5e722647f4dc/6c333fae387ec0441de240bfb25c0818.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인력 급증 공공기관 구조조정 우선 시행? 사실과 다르다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3928</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “인수위원회에 수정 경제 전망치에 대해 보고한 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ecc533493c9ad3bdd59a62138e0e081cd5dc47f/ed2a570fa0c178f601cf004e70c8bff7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기재부 “이사·상속 등 일시적 2주택자에 1주택 稅혜택 검토”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3884</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3884</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “이사, 상속 등 부득이한 사유로 인한 일시적 2주택자에 대해 1세대 1주택자 혜택을 동일하게 부여하는 방안을 적극 검토하겠다”고 밝혔습니다. 기재부는 11일 이라는 보도자료를 통해 이같이 설명했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95ac99b79e9475b7a30b369cb5341f7e1ce86729/4cb3406970fcd8d69541d2d4f40d3d4a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
