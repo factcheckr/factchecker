@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-04-21T13:28:35.633Z</updated>
+    <updated>2022-04-21T14:14:21.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전국장애인차별철폐연대(전장연)의 시위는 위법행위다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/118</id>
+        <link href="https://factchecker.or.kr/fc_publications/118"/>
+        <updated>2022-04-21T00:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 이동권은 주로 국토교통부에서 다룬다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/112</id>
@@ -101,18 +107,5 @@ Hasenbush, A., Flores, A.R. &amp; Herman, J.L. (2019). Gender Identity Nondiscri
         <content type="html"><![CDATA[1) NDC 40% 목표 제시는 사실인가? - 사실이다.2015년 파리협정에서 지구 평균온도 상승을 1.5℃까지 억제하기 위해 각 당사국들에게 장기 저탄소 발전전략(LEDS)을 2020년까지 수립하도록 권고했다. 2020년 10월 28일 국회에서 문 대통령은 탄소중립을 처음 공식화했고 12월에는 장기 저탄소 발전전략(LEDS)을 유엔에 제출했다.2021년 5월에는 2050탄소중립위원회가 신설되었고, 2021년 10월에는 2030년까지 2018년 대비 온실가스 배출량을 40%까지 감축한다는 목표(NDC)를 세우고 12월에 UN에 제출했다. 이는 2050 탄소중립 선언에 대한 후속 조치이고 탄소중립 녹색성장 기본법 취지와 국제 동향을 고려해 목표를 설정한 것이다.&nbsp;
 *Nationally Determined Contribution는 당사국이 스스로 발표하는 국가 온실가스 감축 목표다.NDC는 2015년 6월 최초로 수립되었고 지금까지 부분적인 수정과 목표 상향이 이뤄졌다.
 (*BAU...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈시설은 발달장애인 의견 무시한 강압적 불통의 정책?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/116</id>
-        <link href="https://factchecker.or.kr/fc_publications/116"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 장애인권리보장 및 탈시설 지원 관련 법률안 공청회(22.04.07)에서 나온 ‘장애인 탈시설 지원 등에 관한 법률안과 장애인 복지법’ 찬반 입장
-찬성/김신애(전국장애인부모연대 중복장애특별위원회 위원장)
-(1) 지금 시설 안에 있는 많은 장애인 분들은 사실 지역에 있는 재가 장애인들보다 월등하게 개인의 신체의 자유를 제한당하고 있고 그들이 인간으로서 누려야 될 기본적인 권리를 사실 못 찾고 있다.&nbsp;
-(2) 탈시설법에 대해 부모들이 갖는 불안감은 엄청날 거라고 본다. 이런 기회를 더불어 소수에 있는 장애인의 인권이 분명히 보장되어야 하고 당사자성을 띤 법률이라서 분명히 이루어져야 한다.&nbsp;
-반대/김현아(장애인거주시설이용자부모회 대표)
-(1) 탈시설 지원법과 장애인복지법 개정안의 실상은 장애인 자립을 지원한다는 명목으로 장애 정도가 심하여&nbsp; &nbsp;자립하기 곤란한 장애인이 국가로부터 보호받을 수 있는 권리를 박탈하는 것이다.
-(2) 무연고 발달장애인 집단 강제 퇴소라는 끔찍한 인권범죄...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-21T13:28:35.627Z</updated>
+    <updated>2022-04-21T14:14:21.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전국장애인차별철폐연대(전장연)의 시위는 위법행위다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/371</id>
+        <link href="https://factchecker.or.kr/fc_subjects/371"/>
+        <updated>2022-04-21T14:13:20.013Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/371">전국청년연합 바로서다 4월 5일자 성명문, 이준석 대표 주간조선 인터뷰, 다수의 언론보도
+&nbsp;
+1) 전국청년연합 바로서다 성명문
+전국청년연합 ‘바로서다’는 최근 화제가 되고 있는 전국장애인차별철폐연대(전장연)의 불법시위와 이에 따른 출근길 지하철 교통마비 사태를 지켜보며, ‘장애인 인권 vs. 시민 교통권’이라는 피상적 대립구도 내면의 보다 본질적이고 실제적인 문제의식을 조명하고자 한다. (중략) 전장연의 금번 지하철 출근길 교통방해 불법시위는 표면상 ‘이동권 투쟁’이라는 기존 명분을 내걸었지만 사실 서울시 지하철역 92.3%(1~8호선 275개역 중 254개역에 1역사 1동선 확보)에는 이미 휠체어 진입을 위한 승강기가 설치되었다. (중략)&nbsp;사실 전장연이 진행한 시위는 명백한 불법 시위의 형태이다. 논란이 된 이후 3월 30일부터 삭발 시위의 형태로 변경하긴 했으나, 지난해 12월부터 서울 지하철 출입문에 휠체어를 넣어 출입문을 닫히지 못하게 하는 출근길 지하철 타기 시위를 약...
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 이동권은 주로 국토교통부에서 다룬다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/368</id>
@@ -82,15 +93,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/353"/>
         <updated>2022-04-15T03:01:00.368Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/353">
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 위원회, 2030년까지 탄소 40% 절감 목표 제시 외에 계획 없나?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/352</id>
-        <link href="https://factchecker.or.kr/fc_subjects/352"/>
-        <updated>2022-04-15T08:16:02.261Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/352">2050 탄소중립을 위해 탄소중립 위원회는 다양한 주체들의 참여 및 구체적인 추진계획 없이 온실가스 감축 목표만 내놓았는지?
-
 </a>]]></content>
     </entry>
 </feed>
