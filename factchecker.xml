@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-21T08:19:14.449Z</updated>
+    <updated>2022-04-21T09:14:57.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -37,6 +37,16 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/359"/>
         <updated>2022-04-20T08:18:23.797Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/359">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/358</id>
+        <link href="https://factchecker.or.kr/fc_subjects/358"/>
+        <updated>2022-04-21T09:13:54.444Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/358">2022년 4월 8일 열린 장애인차별금지법 개정 방안 토론회에서 현재 장애인차별금지법에 명시된 법무부의 시정명령권이 유명무실하다는 발언이 나왔습니다.
+인권운동네트워크 바람의 명숙 상임활동가는 “장애인차별금지법은 시정권고만 있는 인권위법과 달리 시정명령권이 있지만, 시정명령권은 거의 발동되지 않아 존재 의미가 없는 지경”이라며 “인권위에도 시정권고가 아닌 시정명령권이 주어지면 장애인 인권침해 사건에 관한 시정명령들이 더 활발히 이뤄질 수 있을 것”이라고 말했습니다.
+해당 발언과 더불어 한겨레 기사는 2008년 장애인차별금지법 시행 이후 법무부가 장애인 차별 조처 개선을 강제한 시정명령이 6건에 불과한 것으로 나타났다.고 밝혔습니다.
 </a>]]></content>
     </entry>
     <entry>
@@ -81,14 +91,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <updated>2022-04-15T08:16:02.261Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/352">2050 탄소중립을 위해 탄소중립 위원회는 다양한 주체들의 참여 및 구체적인 추진계획 없이 온실가스 감축 목표만 내놓았는지?
 
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/347</id>
-        <link href="https://factchecker.or.kr/fc_subjects/347"/>
-        <updated>2022-04-21T03:22:57.597Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/347">“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” -2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언.
 </a>]]></content>
     </entry>
 </feed>
