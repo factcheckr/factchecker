@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 01:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,30 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <content:encoded><![CDATA[https://youtu.be/ngS8BTtx7qc]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 실수령액 외 아무것도 안 받았다더니…김앤장 고문 때 차량 받아 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3938</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3938</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한덕수 후보자에 대해서는 과거 처가가 가지고 있던 서울 장교동 땅을 둘러싼 의혹이 나오고 있습니다. 한 부동산 업체가 이 땅을 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1mIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08321ffe5adc86a2b85669f1813a48e282c9ebfd/8753df7e92c131295c1e33c13adfac39.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다?(종합) | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3937</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3937</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 더불어민주당의 검수완박(검찰 수사권 완전 박탈) 법안 강행처리 움직임을 놓고 정치권의 긴장이 고조되는 가운...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaElmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e2d0362352700529aa13e1f024676be2756e615/d8132dda9c0977d9a72dabc600fcda59.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] “보험료 낼 사람 줄어서…” 이 명제 국민연금 고갈 근거 맞나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3936</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3936</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“결국 ○○○은 많이 걷고 적게 줘야 한다는 것 아니겠느냐.” 이 말의 화자話者는 윤석열 대통령 당선인입니다. 윤 당선인의 발언 속 ○○○은 국민연금입니다. 저출산 · 고령화로 보험료를 낼 사람은 적고, 연금을 받을 사람은 많아질 거란 전망에 윤 당선인이 나름의 해법을 제시한 겁니다. 보험료를 낼 사람이 줄어드니, 이젠 더 많이 걷자는 거죠. 그렇다면 인구 감소→보험료 납부자 감소→보험료 수입 감소란 시나리오는 사실일까요?지난 20대 대통령선거의 화두 중 하나는 국민연금이었습니다. ‘국민연금 재정이 고갈돼 미래 세대는 연금을 못 받]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c1b063a030a8104c6d1163d53d763aec344b4c2/033cb87b00a68f7d5225530ed7f3a74e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[<최윤재의 팩트 체크>검증 주제:축산업은 사양산업이다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3933</link>
             <guid>https://factchecker.or.kr/fc_archives/press/3933</guid>
@@ -316,28 +340,36 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--012cacdedfae2cd481d2bbea9123e25e3013e04b/e6235bbac575bff4b74019636d2e8d2f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] 3고사실 면접위원 점수는 대부분 동일? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3921</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3921</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정호영 후보자의 선배까지 나서서 편입학 과정에 문제가 없다고 감싸고 있습니다. 딸이 한 고사실의 평가위원 3명 모두에게 만점..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1502d87bab891a224e5fb1e82e36d6bf03ce4e4c/9096fe35d7a75b9ff46c2b699cafae7b.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[복무규정 위반사항 확인 위해 출입내역 활용…개인정보 보호법 위반 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3942</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3942</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 “출장비 부당 수령 등 복무규정 위반 사항을 확인하기 위해 출입 내역을 활용했고, 개인정보 보호법에 위반되지 않는다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--455318f7782da90b138e50180b1cec5cf47cf83f/21966bf26e1acf0cfc55f7a94b9c7702.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] "외국인 참정권 보장은 불공정" 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3920</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3920</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이코리아] 6월 지방선거에서 경기도지사 출마를 선언한 김은혜 국민의힘 의원이 외국인 참정권 문제를 수면 위로 끌어올렸다. 김 의원은 지난 14일 페이스북에 “외국인 지방선거 투표권 문제, 국가 간 공정의 관점에서 개선이 필요하다”는 글을 게시했다. 김 의원은 “다가오는 지방선거에서 12만명이 넘는 외국인, 특히 10만명에 달하는 중국인이 투표권을 가진다”며 “우리 국민은 단 1명도 중국에서 투표하지 못하는데, 10만명에 달하는 중국인이 우리나라 투표권을 가지는 것은 불공정하다”고 주장했다.김 의원은 이어 “상호주의 원칙은 주권국가]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b576c36ba36beec573c5ce63db310db9e74bd074/6aa8980825981b95840da38084a25f9e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[ILO 핵심협약 발효로 단체행동권 제한 없어지는 것 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3941</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3941</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “ILO핵심협약 발효로 단체행동권의 제한이 없어지는 것은 아니며, 지금도 사용자의 방어권이 인정되고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--321e11758b208f74fd196ef1518e548eba3b1786/88952c817acd5f946162254b0eb09742.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[노컷체크]인수위가 쓴 탈원전 청구서, 어디까지 사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3919</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3919</guid>
-            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전기요금 동결로 한전 적자 심화는 사실]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0llIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9afc7f7bd5810717c0be27075ba77177fed012e/d63530fc9e94f6c32faa4e8fbd076a6d.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[기관투자자에 대한 IPO 공모주 한도 부여 등 사실과 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3940</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3940</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융위원회는 “기관투자자에 대한 IPO 공모주 한도 부여 등은 전혀 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f5f08ca6f16eb2998cbf41d4dac3d8981ef787bb/3bc3cad2b326c45a860c88e00ac8f2e5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산 미군기지 내 종합체육시설·소프트볼 경기장, 다이옥신 기준치 이내 검출 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3939</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3939</guid>
+            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “용산 미군기지 내 ‘종합체육시설’ 및 ‘소프트볼 경기장’의 경우, 다이옥신이 기준치 이내로 검출됐다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8e6d6a3d145706091013863bf43b8cad0aa21c19/938316e1e40da4bfd2a24250f367a73b.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[실외용·실내용 무선국 관련 통계자료, 발표·제공한 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -386,38 +418,6 @@ https://news.jtbc.joins.com/art...]]></content:encoded>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 “부적합 요소수의 유통방지를 위해 제조·수입사에 대한 점검을 확대할 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUVlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da79fb7dd6bd69cc6fed35d33dfbdb22136ddf46/8ee950cf8a01755cbac7e73ab227fd99.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 플랫폼 시장 불공정거래 규제 등 정책방향 결정 안돼 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3903</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3903</guid>
-            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “온라인 플랫폼 시장에서의 불공정거래 규제 및 소비자권익 보호에 대해서는 정책방향이 결정되지 않았다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1llIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c037784916ef715d5e69e7c0c8220d285afaf986/cae5b728de9954407c02051e62176777.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[적립금운용위원회, 퇴직급여 수급권 보장강화 위한 제도 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3902</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3902</guid>
-            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “적립금운용위원회는 확정급여형 퇴직연금 가입 근로자의 퇴직급여 수급권 보장을 강화하기 위한 제도”라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8724f07dfc5d86df89ff903ee0c57e2d602afb9/383d5009bf54a500ab79813c6baf019d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[상호·순환출자 발생 13개 상장계열사만 국내 주식 소수점 거래 제한 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3896</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3896</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “상호출자제한기업집단 소속 증권회사 중 상호·순환출자가 발생하는 13개 상장계열사만 국내 주식 소수점 거래가 제한된다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--02bfe7eec520c9db245ae1e8a7374d80534cad72/6ef39846590af5da7b2efa27624906a8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기재부, 인수위에 수정 경제 전망치 보고한 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3885</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3885</guid>
-            <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “인수위원회에 수정 경제 전망치에 대해 보고한 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ecc533493c9ad3bdd59a62138e0e081cd5dc47f/ed2a570fa0c178f601cf004e70c8bff7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[장애인 이동권은 주로 국토교통부에서 다룬다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
