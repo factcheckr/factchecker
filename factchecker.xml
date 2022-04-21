@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-21T01:05:06.441Z</updated>
+    <updated>2022-04-21T03:23:59.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -83,11 +83,11 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울산 동구, 아프간 난민 수용으로 집값 떨어진다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/346</id>
-        <link href="https://factchecker.or.kr/fc_subjects/346"/>
-        <updated>2022-04-19T13:32:41.663Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/346">2월 아프간 특별기여자의 정착이 울산 동구 집값에 영향을 미칠까?
+        <title type="html"><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/347</id>
+        <link href="https://factchecker.or.kr/fc_subjects/347"/>
+        <updated>2022-04-21T03:22:57.597Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/347">“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” -2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언.
 </a>]]></content>
     </entry>
 </feed>

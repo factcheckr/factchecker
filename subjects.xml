@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,11 +82,11 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[울산 동구, 아프간 난민 수용으로 집값 떨어진다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/346</link>
-            <guid>https://factchecker.or.kr/fc_subjects/346</guid>
-            <pubDate>Tue, 19 Apr 2022 13:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[2월 아프간 특별기여자의 정착이 울산 동구 집값에 영향을 미칠까?]]></content:encoded>
+            <title><![CDATA[장애인 단체, 문재인 정부 때는 시위하지 않고 윤석열에게만 이동권을 요구하고 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/347</link>
+            <guid>https://factchecker.or.kr/fc_subjects/347</guid>
+            <pubDate>Thu, 21 Apr 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[“(장애인 단체는) 문재인 정부와 박원순 시장이 있을 때는 말하지 않던 것들을 지난 대선을 기점으로 윤석열 당선에게 요구하고 있다” -2022년 3월 28일 국회 최고위원회의에서 국민의 힘 대표 이준석의 발언.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
