@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-04-21T04:39:06.346Z</updated>
+    <updated>2022-04-21T05:33:56.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어떤 바나나가 가장 맛있을까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/676</id>
+        <link href="https://factchecker.or.kr/fc_suggests/676"/>
+        <updated>2022-04-21T05:33:14.080Z</updated>
+        <content type="html"><![CDATA[https://m.nownews.seoul.co.kr/news/newsView.php?cp=nownews&amp;id=20190730601006
+확인해주십시오]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나로 진짜 학교 폭력이 줄었을까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/675</id>
+        <link href="https://factchecker.or.kr/fc_suggests/675"/>
+        <updated>2022-04-21T05:33:14.082Z</updated>
+        <content type="html"><![CDATA[https://n.news.naver.com/article/421/0005986989]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체육계 미투운동]]></title>
         <id>https://factchecker.or.kr/fc_suggests/674</id>
@@ -73,21 +88,5 @@ https://news.jtbc.joins.com/art...]]></content>
         <content type="html"><![CDATA[http://news.tf.co.kr/read/ptoday/1931165.htm
 현재 우리나라에서는 성평등을 목적으로 국내 일반 기업의 임원이나 경찰과 같은 공무원 등 여러 직업군에서 여성할당제를 적용하고있습니다
 특히나 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 중독, 질병으로 보는게 과연 맞는 시각일까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/662</id>
-        <link href="https://factchecker.or.kr/fc_suggests/662"/>
-        <updated>2022-04-14T06:17:59.584Z</updated>
-        <content type="html"><![CDATA[http://www.monews.co.kr/news/articleView.html?idxno=202797
-현재 게임 중독을 질병으로 봐야할지 그저 편견으로 봐야할지 다양한 사람들의 의견이 속출하고 있는 추세이다.
-그런데 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 영상이 사실인가요 ??]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/661</id>
-        <link href="https://factchecker.or.kr/fc_suggests/661"/>
-        <updated>2022-04-14T06:17:59.584Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/ngS8BTtx7qc]]></content>
     </entry>
 </feed>

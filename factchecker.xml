@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-21T04:39:06.354Z</updated>
+    <updated>2022-04-21T05:33:57.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -44,8 +44,9 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <id>https://factchecker.or.kr/fc_subjects/357</id>
         <link href="https://factchecker.or.kr/fc_subjects/357"/>
         <updated>2022-04-17T16:16:58.059Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/357">&nbsp;
-실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 &lt;찐(眞)여성주권행동&gt;의 발언
+        <content type="html"><![CDATA[<a href="/fc_subjects/357">지난 3월 16일, 성공회대학교에 모두의 화장실이 설치되었습니다. 성별, 장애유무, 나이 등에 상관없이 사용할 수 있는 화장실을 만들겠다는 취지입니다.
+일각에서는 성중립 화장실이 성범죄의 가능성을 높이는 것이 아니냐는 목소리가 나왔습니다. &lt;찐(眞)여성주권행동&gt;은 지난 3월 18일, 실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 내용의 성명문을 냈습니다.
+그런데, 실제로 성중립화장실 정책을 우리나라보다 앞서 설치한 국가들의 성중립 화장실 내에서 성폭력이 빈번하게 발생했을까요?
 </a>]]></content>
     </entry>
     <entry>
