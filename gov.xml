@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 01:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국산업인력공단 감사, 전년도 세무사 시험 논란과 무관한 종합감사]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/3948</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/3948</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “이번 한국산업인력공단 감사는 전년도 세무사 시험 논란과 무관한 종합감사”라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a69734c8891fcfcdc73e0a3465ff148bd93e7a77/a7fb97a718555c6b8244b8e2c5911ea9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[복무규정 위반사항 확인 위해 출입내역 활용…개인정보 보호법 위반 아냐]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3942</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “공공기관 인력 구조조정을 위한 사전준비작업으로 인력 운용 현황을 조사했다는 보도는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUllIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--760449e8e8b51f1808b775f3194fd13affc4eec5/df10d803b905ca68a9aa3dd11d818d91.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경부, 부적합 요소수 유통방지 위해  제조·수입사 점검 확대]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3924</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3924</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “부적합 요소수의 유통방지를 위해 제조·수입사에 대한 점검을 확대할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUVlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da79fb7dd6bd69cc6fed35d33dfbdb22136ddf46/8ee950cf8a01755cbac7e73ab227fd99.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
