@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-25T08:19:49.524Z</updated>
+    <updated>2022-04-25T09:14:27.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 주택 소유자는 기초생활수급자가 될 수 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/372</id>
+        <link href="https://factchecker.or.kr/fc_subjects/372"/>
+        <updated>2022-04-25T09:13:31.062Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/372">서울 종로구 창신동의 한 오래된 주택에서 병과 가난에 시달리던 80대 어머니와 50대 아들이 숨진 지 약 한 달 만에 발견됐습니다. 아들이 숨지자 돌봐줄 사람이 없어진 어머니도 이어서 세상을 떠난 것으로 보이는데요. 8개월이나 전기와 수도 요금을 내지 못할 정도로 빈곤한 삶을 살았던 이들 모자의 한 달 수입은 연금과 수당 등 50만 원가량에 불과했습니다. 그러나 모자는 보건복지부가 선정한 소득 조건에 미치지 못한다는 이유로 ‘기초생활보장’ 제도의 혜택을 받지 못했습니다. 커뮤니티 등 온라인에서 누리꾼들은 해당 사건을 놓고 ‘다 쓰러져 가는 집에 산다는 것 자체가 가난하다는 방증 아니냐’, ‘서울에서 집 갖고 있단 이유로 복지사각지대로 밀린 사례’라며 국내 복지 시스템의 허점을 꼬집었습니다. 그러면, 정말 대도시 주택 소유자는 기초생활수급자가 될 수 없는 것일까요? 정부에서 요구하는 가난의 조건은 무엇인지 &lt;알고보니&gt;가 확인해봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국장애인차별철폐연대(전장연)의 시위는 위법행위다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/371</id>
@@ -85,14 +93,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/354"/>
         <updated>2022-04-14T07:13:19.455Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/354">채널A 기자의 강요미수 사건 개입 의혹을 받은 한동훈 검사장에 대해 검찰이 지난 7일 무혐의 처분을 결정했습니다. 수사 과정에서 한동훈 검사장은 본인이 소지하던 아이폰의 잠금 장치를 풀어주지 않았습니다. 한 검사장의 아이폰은 공수처가 수사 중인 ‘고발사주’ 의혹 사건에서도 중요한 증거물입니다. 서울지방검찰청은 보도자료를 통해 피의자의 휴대전화에 대한 포렌식을 시도했지만 휴대전화 잠금 해제 시도가 더는 실효성이 없다고 판단했다고 밝혔습니다. 수사기관에 정식으로 압수된 증거물이라고 해도 잠금장치를 해제를 강제할 수 없는 것인지, 이러한 수사기관 비협조가 어떤 법에 의해서 보호를 받는지 &lt;알고보니&gt;가 확인해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 2030 청년 인구 감소가 전체 서울시 인구 감소보다 훨씬 크며, 지난해 서울 전출인구 절반이 청년이다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/353</id>
-        <link href="https://factchecker.or.kr/fc_subjects/353"/>
-        <updated>2022-04-15T03:01:00.368Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/353">
 </a>]]></content>
     </entry>
 </feed>
