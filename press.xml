@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실확인] 밤마다 '택시 대란'인데…서울 택시는 남아돈다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/3977</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/3977</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[【 앵커멘트 】 거리두기가 끝난 뒤 모임이 부쩍 늘다 보니 매일 밤마다 서울시내는 대란 수준의 택시 잡기 전쟁이 벌어지고 있죠. 택시가 너무 부족한 것 같다는 생각도 드는데, 택시가 너무 많다는 말도 있습니다. 어떤]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmtmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a5b566481175ebb5c8a15d312b98dec7bf592ce9/407d75fa0f2f9717167d888bf7b3d290.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 코로나19 2급 감염병 되면 치료비 폭등한다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/3970</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 서울보다 경기도 신차등록비용 낮아, 100여만 원 절약 추정... 얌체족 있었지만 대부분 법인 차량]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fb9cc2714fb0a3c3a64acf5378b5698ee8fe19dc/d746deba2595278f9492e6b4ca94e271.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] “수령자 너무 많아서…” 국민연금 고갈의 덫]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/3962</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/3962</guid>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[손님이 줄면 가게의 매출도 줄어듭니다. 관람객이 줄면 영화관의 수입도 감소하죠. 당연한 이치이지만 국민연금은 이런 상식에서 벗어나 있습니다. 정부 전망에 따르면 보험료를 납부하는 사람이 줄어도, 국민연금공단의 보험료 수입은 되레 늘어서입니다. 국민연금 고갈의 원인으로 인구의 감소를 꼽았던 기존 논리를 뒤집는 결과입니다. 그럼 국민연금의 곳간을 텅 비게 하는 진짜 원인은 무엇일까요? 국민연금 진실과 거짓, 세번째 편입니다.지난해 유럽의 5대 축구 리그에서 20억 유로(약 2조7369억원)가 증발했습니다. 코로나19 팬데믹으로 각 리그]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2tmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2decb3c60bb938367c26728906c8b8cb8ad6d149/ebfc876c56f2eb4fbc1b0677856286da.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
