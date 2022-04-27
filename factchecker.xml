@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-27T07:13:39.144Z</updated>
+    <updated>2022-04-27T08:17:07.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밤마다 ‘택시 대란’인데…서울 택시는 과잉 공급이다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/374</id>
+        <link href="https://factchecker.or.kr/fc_subjects/374"/>
+        <updated>2022-04-27T08:16:05.079Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/374">거리두기가 끝난 뒤 매일 밤 서울에선 택시를 잡기 어려운 이른바 ‘택시 대란’이 벌어지고 있습니다. 그렇지만 서울에 운행 중인 택시가 결코 부족하지 않고, 오히려 서울보다 규모가 큰 뉴욕보다 택시가 더 많다는 말도 있습니다. 실제로 서울에 택시 공급이 과잉인지 확인해봤습니다.&nbsp;&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부 초기 내각 후보자 사외이사 경력 7명, 역대 최다 인원이다]]></title>
         <id>https://factchecker.or.kr/fc_subjects/373</id>
@@ -84,15 +92,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <content type="html"><![CDATA[<a href="/fc_subjects/357">지난 3월 16일, 성공회대학교에 모두의 화장실이 설치되었습니다. 성별, 장애유무, 나이 등에 상관없이 사용할 수 있는 화장실을 만들겠다는 취지입니다.
 일각에서는 성중립 화장실이 성범죄의 가능성을 높이는 것이 아니냐는 목소리가 나왔습니다. &lt;찐(眞)여성주권행동&gt;은 지난 3월 18일, 실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 내용의 성명문을 냈습니다.
 그런데, 실제로 성중립화장실 정책을 우리나라보다 앞서 설치한 국가들의 성중립 화장실 내에서 성폭력이 빈번하게 발생했을까요?
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 캘리포니아주 팜스프링스, 20만 달러 예산으로 트랜스젠더 주민에게 매달 900달러 지원한다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/356</id>
-        <link href="https://factchecker.or.kr/fc_subjects/356"/>
-        <updated>2022-04-20T08:18:23.801Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/356">지난 6일, 미국 캘리포니아주의 팜스프링스 시에서 트랜스젠더와 논바이너리(이분법적 성 구분에서 벗어난 정체성을 가진 사람) 주민 20명에게 매달 최대 900달러 기본소득을 18개월동안 지원하는 프로그램이 만장일치로 의결되었다는 보도가 잇따랐습니다. 이 기본소득 프로그램을 위해 20만 달러를 시의회가 배정했으며, 주 정부에도 자금 지원을 신청할 예정이라는 내용입니다.
-첨부한 해당 보도는 특히 제목에 논란이라는 단어를 사용하며, 익명의 시의원을 빌려 비판적인 의견을 기사 말미에 덧붙이기도 했습니다. 정말 이 20만 달러가 정말 트랜스젠더와 논바이너리 주민에게 기본소득을 18개월동안 보장해주는 데 사용되는 걸까요?&nbsp;
 </a>]]></content>
     </entry>
 </feed>
