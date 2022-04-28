@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,6 +185,13 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스 인공지능 루머 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/677</link>
+            <guid>https://factchecker.or.kr/fc_suggests/677</guid>
+            <pubDate>Thu, 28 Apr 2022 05:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 인공지능을 통해 만들어졌다는 계기가 있다던데 전반적인 넷플릭스 스토리를 인공지능이 계획한다는건데 그게 루머가 사실인가요?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어떤 바나나가 가장 맛있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/676</link>
             <guid>https://factchecker.or.kr/fc_suggests/676</guid>
@@ -197,7 +204,9 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <link>https://factchecker.or.kr/fc_suggests/675</link>
             <guid>https://factchecker.or.kr/fc_suggests/675</guid>
             <pubDate>Thu, 21 Apr 2022 05:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/article/421/0005986989]]></content:encoded>
+            <content:encoded><![CDATA[코로나로 학교폭력 응답자가 줄었다고 나왔는데 진짜 줄었을까?
+https://n.news.naver.com/article/421/0005986989
+https://news.v.daum.net/v/202203241131319...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[체육계 미투운동 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -258,15 +267,6 @@ https://www.kdca.go.kr/gallery.es?mid=a205030...]]></content:encoded>
 &nbsp;
 &nbsp;
 https://news.jtbc.joins.com/art...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여성할당제, 정말 성평등을 위해 반드시 필요한 정책일까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/663</link>
-            <guid>https://factchecker.or.kr/fc_suggests/663</guid>
-            <pubDate>Thu, 14 Apr 2022 06:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[http://news.tf.co.kr/read/ptoday/1931165.htm
-현재 우리나라에서는 성평등을 목적으로 국내 일반 기업의 임원이나 경찰과 같은 공무원 등 여러 직업군에서 여성할당제를 적용하고있습니다
-특히나 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 논란의 '호텔 만찬'…대관료만 500만 원 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
