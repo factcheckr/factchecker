@@ -2,17 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-04-29T00:59:52.235Z</updated>
+    <updated>2022-04-29T03:06:54.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[민식이법 시행이후 되레 스쿨존 사고가 늘어났다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/376</id>
-        <link href="https://factchecker.or.kr/fc_subjects/376"/>
-        <updated>2022-04-28T16:20:44.709Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/376">민식이법 시행이후 스쿨존 사고 및 보행자 사망수가 늘어났다?&nbsp;
-</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[밤마다 ‘택시 대란’인데…서울 택시는 과잉 공급이다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/374</id>
@@ -90,6 +82,16 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <content type="html"><![CDATA[<a href="/fc_subjects/358">2022년 4월 8일 열린 장애인차별금지법 개정 방안 토론회에서 현재 장애인차별금지법에 명시된 법무부의 시정명령권이 유명무실하다는 발언이 나왔습니다.
 인권운동네트워크 바람의 명숙 상임활동가는 “장애인차별금지법은 시정권고만 있는 인권위법과 달리 시정명령권이 있지만, 시정명령권은 거의 발동되지 않아 존재 의미가 없는 지경”이라며 “인권위에도 시정권고가 아닌 시정명령권이 주어지면 장애인 인권침해 사건에 관한 시정명령들이 더 활발히 이뤄질 수 있을 것”이라고 말했습니다.
 해당 발언과 더불어 한겨레 기사는 2008년 장애인차별금지법 시행 이후 법무부가 장애인 차별 조처 개선을 강제한 시정명령이 6건에 불과한 것으로 나타났다.고 밝혔습니다.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/357</id>
+        <link href="https://factchecker.or.kr/fc_subjects/357"/>
+        <updated>2022-04-29T03:05:48.689Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/357">지난 3월 16일, 성공회대학교에 모두의 화장실이 설치되었습니다. 성별, 장애유무, 나이 등에 상관없이 사용할 수 있는 화장실을 만들겠다는 취지입니다.
+일각에서는 성중립 화장실이 성범죄의 가능성을 높이는 것이 아니냐는 목소리가 나왔습니다. &lt;찐(眞)여성주권행동&gt;은 지난 3월 18일, 실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 내용의 성명문을 냈습니다.
+그런데, 실제로 성중립화장실 정책을 우리나라보다 앞서 설치한 국가들의 성중립 화장실 내에서 성폭력이 빈번하게 발생했을까요?
 </a>]]></content>
     </entry>
 </feed>
