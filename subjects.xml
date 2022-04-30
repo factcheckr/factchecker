@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/378</link>
+            <guid>https://factchecker.or.kr/fc_subjects/378</guid>
+            <pubDate>Sat, 30 Apr 2022 10:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[가끔 흘려듣긴 했지만 그곳 마사토 산책로에서 적잖이 놀랐습니다. 신발이 없어도 발걸음이 가벼웠습니다. 얼굴마다 화색이 하얀 벚꽃 같았습니다. 얼마나 맨발로 걸었으면 중년의 발등이 목덜미보다 더 까매졌습니다. 아프지 않냐 했더니 말문이 술술 터졌습니다. 불면증에 시달리다 꿀잠을 잔다는 분, 무지외반증 통증과 발톱 무좀까지 싹 나았다는 분. 척추측만증으로 고생하다 맨발로 걷고부턴 날아갈 것 같다는 분…. 중년 여성들의 맨발 걷기 예찬은 끝이 없었습니다. 한 분은 맨발 걷기가 587일째, 또 한 분은 1252일째, 그 옆에 분은 무려 1617일째. 밥은 굶어도 맨발 걷기는 거를 수 없다니 그 맛이 더 궁금해집니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[밤마다 ‘택시 대란’인데…서울 택시는 과잉 공급이다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/374</link>
@@ -84,16 +92,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
 인권운동네트워크 바람의 명숙 상임활동가는 “장애인차별금지법은 시정권고만 있는 인권위법과 달리 시정명령권이 있지만, 시정명령권은 거의 발동되지 않아 존재 의미가 없는 지경”이라며 “인권위에도 시정권고가 아닌 시정명령권이 주어지면 장애인 인권침해 사건에 관한 시정명령들이 더 활발히 이뤄질 수 있을 것”이라고 말했습니다.
 해당 발언과 더불어 한겨레 기사는 2008년 장애인차별금지법 시행 이후 법무부가 장애인 차별 조처 개선을 강제한 시정명령이 6건에 불과한 것으로 나타났다.고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성중립 화장실에서 성폭력 문제가 빈번하게 발생할까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/357</link>
-            <guid>https://factchecker.or.kr/fc_subjects/357</guid>
-            <pubDate>Fri, 29 Apr 2022 03:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 16일, 성공회대학교에 모두의 화장실이 설치되었습니다. 성별, 장애유무, 나이 등에 상관없이 사용할 수 있는 화장실을 만들겠다는 취지입니다.
-일각에서는 성중립 화장실이 성범죄의 가능성을 높이는 것이 아니냐는 목소리가 나왔습니다. &lt;찐(眞)여성주권행동&gt;은 지난 3월 18일, 실제로 성중립화장실(모두를 위한 화장실) 정책을 우리나라보다 앞서 설치한 국가들은 빈번하게 발생하는 성중립화장실 내 성폭력 문제로 인해 이를 폐쇄하라는 여성들과 학부모들의 요구가 끊이지 않고 있다는 내용의 성명문을 냈습니다.
-그런데, 실제로 성중립화장실 정책을 우리나라보다 앞서 설치한 국가들의 성중립 화장실 내에서 성폭력이 빈번하게 발생했을까요?]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
