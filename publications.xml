@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-04-30T10:14:16.731Z</updated>
+    <updated>2022-04-30T11:11:57.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/120</id>
+        <link href="https://factchecker.or.kr/fc_publications/120"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 우리 몸에서 발의 역할은 ?&nbsp;&nbsp;
+&nbsp; 
+&nbsp; 대부분의 사람들은 발에 무관심하거나 발을 무시하는 경향이 있다. ‘발길질 당하다’ ‘발에 차인다’처럼 발에 관한 말 중에는 부정적인 의미가 더 많다. 발을 이렇게 홀대해도 되는 걸까. 일찍이 레오나르도 다빈치는 사람의 발을 가리켜 ‘인간 공학 상 최대의 걸작이자 최고의 예술품’이라고 말했다. 그 이유는 발의 구조와 기능만 봐도 알 수 있다. 인체는 약 206개의 뼈로 구성돼 있는데 그중 발에만 양쪽 합쳐 52개의 뼈가 있다. 몸 전체 뼈의 4분의 1을 차지한다. 이뿐만 아니라 발에는 몸에서 가장 굵고 강한 근육이 발달해 있다. 또 우리 몸 중에서 인대가 가장 많이 밀집되어 있는 곳이기도 하다. 한쪽 발은 뼈 26개, 관절 33개, 근육 64개, 인대 56개로 이뤄져 있다. 근육은 발의 움직임 전반에 걸쳐 작용하며 인대는 격렬한 긴장과 비틀림을 견딘다. 또 발 관절들을 결합시켜 주고 외부 충격으로부터 보호하고 각 관절의 기능을 유지시...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국장애인차별철폐연대(전장연)의 시위는 위법행위다?]]></title>
         <id>https://factchecker.or.kr/fc_publications/118</id>
@@ -98,14 +107,5 @@ Hasenbush, A., Flores, A.R. &amp; Herman, J.L. (2019). Gender Identity Nondiscri
 
 2. 서울시와 전국의 2030세대 인구 현황
 전국의 2030세대 인구는 2010년 15,237,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 위원회, 2030년까지 탄소 40% 절감 목표 제시 외에 계획 없나?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/106</id>
-        <link href="https://factchecker.or.kr/fc_publications/106"/>
-        <updated>2022-04-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1) NDC 40% 목표 제시는 사실인가? - 사실이다.2015년 파리협정에서 지구 평균온도 상승을 1.5℃까지 억제하기 위해 각 당사국들에게 장기 저탄소 발전전략(LEDS)을 2020년까지 수립하도록 권고했다. 2020년 10월 28일 국회에서 문 대통령은 탄소중립을 처음 공식화했고 12월에는 장기 저탄소 발전전략(LEDS)을 유엔에 제출했다.2021년 5월에는 2050탄소중립위원회가 신설되었고, 2021년 10월에는 2030년까지 2018년 대비 온실가스 배출량을 40%까지 감축한다는 목표(NDC)를 세우고 12월에 UN에 제출했다. 이는 2050 탄소중립 선언에 대한 후속 조치이고 탄소중립 녹색성장 기본법 취지와 국제 동향을 고려해 목표를 설정한 것이다.&nbsp;
-*Nationally Determined Contribution는 당사국이 스스로 발표하는 국가 온실가스 감축 목표다.NDC는 2015년 6월 최초로 수립되었고 지금까지 부분적인 수정과 목표 상향이 이뤄졌다.
-(*BAU...]]></content>
     </entry>
 </feed>
