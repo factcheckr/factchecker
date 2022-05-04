@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 01:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 03:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2017년부터 생리대안전검증위 운영 중…최근 자체검증단 꾸린 것 아냐]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4004</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4004</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[식품의약품안전처는 “지난 2017년부터 외부전문가로 구성된 생리대안전검증위원회를 현재까지 운영해 오고 있다”면서 “생리대 건강영향조사 결과를 재검증하기 위해 최근에 자체검증단을 꾸린 것은 아니다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--feb678d4d4dffa5752fc45dda64013a52643f539/4687184c3a4115f441eaa2a42382ea2d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[온라인 플랫폼 시장 불공정거래 규제 등 정책방향 결정 안돼]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/3995</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부와 기획재정부는 “‘표준건축비를 6년만에 인상하기로 결정하고 인상폭을 조율하고 있다는 보도’는 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29mIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d7b709575e65003145c3fb8e7c46ea9cd04a17e/5f7532a8936a5e2eb84c8f4b82dd4374.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[저신용 소상공인·자영업자 금융지원 사업, 지방선거 일정과 전혀 무관]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/3954</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/3954</guid>
-            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 “‘저신용 소상공인·자영업자 금융지원 사업’은 통상적인 정부 공모사업 일정과 절차에 따라 진행되는 사업으로 지방선거 일정과는 전혀 관련이 없다”며 “지원 대상 자치단체도 지방선거 이후에 선정될 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbklmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e5ac4f0c60a8ddd28633d4c378cbd736779fb5a/5c9558a81ce1e1cc53a7b59dea880597.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
