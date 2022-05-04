@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-05-04T08:20:26.546Z</updated>
+    <updated>2022-05-04T09:15:05.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동물학대, 인간 향한 강력 범죄로 이어진다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/379</id>
+        <link href="https://factchecker.or.kr/fc_subjects/379"/>
+        <updated>2022-05-04T09:14:06.568Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/379">지난달 경기도 동탄과 제주도에서 잇따라 잔혹한 동물학대 및 살해 사건이 일어나면서 사회적 공분을 샀습니다.&nbsp;SNS에서 동물학대 영상을 올리고 학대 방법을 공유하는 대화방까지 발견돼서 경찰이 수사에 나섰는데요. 하지만 동물학대범이 매년 늘고 있는데도 불구하고 법원의 처벌은 여전히 미비하다는 지적도 나옵니다.&nbsp;
+동물학대범들의 처벌 수위를 강화해야 한다는 주장 중에는 동물학대가 결국 사람을 상대로 한 범죄로 연결된다는 의견도 있었는데요. 지난달 벌어진 동탄 동물학대 사건의 범인을 강력 처벌을 요구하는 국민청원에는 “동물 죽이는 사람의 다음 타겟은 어린 아이 또는 본인보다 약한 사람일 것”이라는 걱정어린 호소가 나옵니다. 실제 동물학대 범죄가 사람을 상대로 한 강력범죄로 이어질 수 있는 것인지, 해외는 어떻게 동물학대범을 바라보고 있는지, 해외 연구 및 국내외 실제 범죄사건 사례들을 토대로 &lt;알고보니&gt;가 따져봤습니다.&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/378</id>
@@ -80,16 +89,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/359"/>
         <updated>2022-04-20T08:18:23.797Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/359">
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2008년 장애인차별금지법 시행 이후 지금까지 법무부가 시정명령을 내린 횟수는 6건 뿐이다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/358</id>
-        <link href="https://factchecker.or.kr/fc_subjects/358"/>
-        <updated>2022-04-21T09:13:54.444Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/358">2022년 4월 8일 열린 장애인차별금지법 개정 방안 토론회에서 현재 장애인차별금지법에 명시된 법무부의 시정명령권이 유명무실하다는 발언이 나왔습니다.
-인권운동네트워크 바람의 명숙 상임활동가는 “장애인차별금지법은 시정권고만 있는 인권위법과 달리 시정명령권이 있지만, 시정명령권은 거의 발동되지 않아 존재 의미가 없는 지경”이라며 “인권위에도 시정권고가 아닌 시정명령권이 주어지면 장애인 인권침해 사건에 관한 시정명령들이 더 활발히 이뤄질 수 있을 것”이라고 말했습니다.
-해당 발언과 더불어 한겨레 기사는 2008년 장애인차별금지법 시행 이후 법무부가 장애인 차별 조처 개선을 강제한 시정명령이 6건에 불과한 것으로 나타났다.고 밝혔습니다.
 </a>]]></content>
     </entry>
 </feed>
