@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/fc_archives/press</id>
-    <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
-    <updated>2022-05-06T15:16:53.361Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 May 2022 16:20:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박병석에게 “앙증맞은 몸”이라고 한 배현진, 의원직 제명 대상? [FACT IN 뉴스]]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4014</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4014</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[더불어민주당이 4일 ‘검수완박’(검찰 수사권 완전 박탈) 입법 과정에서 박병석 국회의장을 향해 “앙증맞은 몸”이라고 발언한 국민의힘 배현진 의원을 국회 윤리특별위원회에 제소했다.  진성준, 고민정, 박찬대, 조오섭 등 민주당 의원 20명은 이날 “배 의원이 박병석 국회의장의 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamNnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--19236fa39ab76d6f9abfad51e75ca782fe14e2cf/c1a13f9bf4cb196582ea44cfb81870ff.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '국회 앞 농성장, 취임식 전까지 철거'? 규정 따져보니]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4013</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4013</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이런 가운데, 대통령 취임식도 닷새 앞으로 다가왔습니다. 그런데, 국회에서 허가를 받고 해오던 농성장에 대해서 취임식 전날까지 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcdb7db4f5e597cb651c0090ebebe2d675deefba/8658cfb97409a9754b04c57f854af111.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA["노키즈존 리스트 공유하면 영업 방해" 주장은 '거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4012</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4012</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 노키즈존 표시 의무 없어 이용자 혼란... 전문가 영업방해 주장은 자기 모순]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d230616d5ed6f1f76ee570e29df497da0d82a23a/30e17223b41099a17644b116e3a0f237.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 회색 코뿔소 앞 국민연금 보험료율 갑론을박]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4011</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4011</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘회색 코뿔소’는 다가오는 모습이 뻔히 보이기 때문에 미리 막을 수 있는 위험을 상징합니다. 오는 5월 10일 취임하는 윤석열 대통령 당선인의 앞에도 회색 코뿔소가 나타났습니다. 바로 연금개혁입니다. 국민연금 재정이 고갈될 것이란 위기감이 고조되면서 이를 막기 위해 보험료율을 올려야 한다는 목소리가 높아지고 있는 겁니다. 역대 정부의 난제로 꼽혀온 보험료율 인상, 과연 필요할까요?윤석열 대통령 당선인이 국민연금을 대수술할 것으로 보입니다. 그 배경에는 국민연금을 향한 MZ세대의 불신이 있습니다. 미디어를 통해 “국민연금 재정이 고갈]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--731235e7d350cc2bb0f6b906274357efdd6acc8f/0f5f1395a2942376d31af905c02c42f0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알고보니] 여가부 폐지 압도적? 여론조사 따져보니‥]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4010</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4010</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 110대 국정과제에서 여성가족부 폐지가 제외된 것이 주목받고 있습니다. 여성가족부 폐지는 대선 기간 윤석열 당선인의 대표적인 한줄 공약이었기 때문입니다. 비교...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1nIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e30b16808740a7f540aed8c77f68ec8cb0372d1/fca273fe2309bf8cfea59e65ee4f7261.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 3차 접종하고 확진된 사람도 ‘4차 접종’ 해야 한다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4009</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4009</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 백신 4차 접종자가 240만 명을 넘었습니다(2022.05.04. 0시 기준 2,440,981명). 4차 접종은 지난...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8dc29f1889d8280e857e78aacf9f9ef1409eed2/0ddb19a7f3415f1b954c86f9474c55c3.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]전세계 확산하는 어린이 급성간염 원인이 코로나19 백신?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4008</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4008</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[영국을 중심으로 전 세계 원인 불명의 아동 급성 간염이 확산하고 있다. 환자 중 다수가아데노바이러스(사진)에도 감염된 것으로 확인되며 아데노바이러스를 사용한 코로나19 백신이 원인이 아니냐는 루머가 돌았다. 위키미디...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28adb2cf6f862912cf2e1103c640742ccc568bed/7dd666645cdc3b37dfc384356e7da7a3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크K] 중·대선거구 늘었는데 “군소 정당에 불리”…사실은?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4007</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4007</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커] 경상남도의회가 최근 시·군의원 선거구를 획정했습니다. 3·4인 선거구가 늘어나 군소정당에 유리...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a0444f9c8cd0160477bb2cdee2d4f11b00464f7/8f1363bffd6314f1dd1259ab2fe67b8e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 코로나 방역 덕분에 잔병치레 줄었다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4006</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4006</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 정부의 코로나19 일상회복지원위원회 공동위원장을 맡은 최재천 이화여대 석좌교수가 4일 MBC 라디오에 출연해 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaThnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--461e5bc7ffcf00f10c30e603192ae8f5dedd32a8/1db2296cdeeafa5d9416a64ad5d45079.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈&팩트(185)] 노키즈존, 법적으로 문제없다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4005</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4005</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시사위크=권정두 기자 ‘100주년’을 맞아 더욱 특별한 어린이날이 하루 앞으로 다가왔다. 올해는 지난 2년간 코로나19에 빼앗겼던 일상이 크게 회복됐다는 점에서 그 어느 때보다 활기찬 어린이날이 될 것으로 보인다.한편으론, 코로나19 사태로 한동안 수면 아래로 내려갔던 ‘노키즈존’ 논란도 일상 회복과 함께 점차 재점화될 전망이다. 어린이의 출입 또는 이용을 제한하는 노키즈존은 다른 사람의 피해 및 안전사고를 예방하는 차원에서 필요하다는 입장과 어린이 및 부모에 대한 명백한 차별이라는 입장이 팽팽히 맞서왔다.그렇다면, 우리 주변에서]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb76de3a5718d4a7f196e1f597911e50565303be/71b5e4d485daff6cf0560ed042bab2bf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
