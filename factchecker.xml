@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-05-06T00:55:51.614Z</updated>
+    <updated>2022-05-06T02:43:31.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사회복무요원 제도는 ILO 강제노동금지협약에 위반될까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/380</id>
+        <link href="https://factchecker.or.kr/fc_subjects/380"/>
+        <updated>2022-05-06T02:42:34.365Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/380">사회복무요원 제도는 국제노동기구 ILO의 강제노동금지협약에 위반될까?
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물학대, 인간 향한 강력 범죄로 이어진다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/379</id>
@@ -81,14 +89,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/360"/>
         <updated>2022-04-18T10:14:39.664Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/360">문제는 강도, 폭행, 성폭력 등 촉법소년들의 강력범죄가 해마다 증가하고 있다는 김병욱 국민의힘 의원 발언&nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 5년 동안, 장애인 정책 아무것도 없었다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/359</id>
-        <link href="https://factchecker.or.kr/fc_subjects/359"/>
-        <updated>2022-04-20T08:18:23.797Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/359">
 </a>]]></content>
     </entry>
 </feed>

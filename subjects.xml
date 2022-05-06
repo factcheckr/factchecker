@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 00:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 02:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사회복무요원 제도는 ILO 강제노동금지협약에 위반될까?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/380</link>
+            <guid>https://factchecker.or.kr/fc_subjects/380</guid>
+            <pubDate>Fri, 06 May 2022 02:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[사회복무요원 제도는 국제노동기구 ILO의 강제노동금지협약에 위반될까?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[동물학대, 인간 향한 강력 범죄로 이어진다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/379</link>
@@ -84,13 +92,6 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <pubDate>Mon, 18 Apr 2022 10:14:47 GMT</pubDate>
             <content:encoded><![CDATA[문제는 강도, 폭행, 성폭력 등 촉법소년들의 강력범죄가 해마다 증가하고 있다는 김병욱 국민의힘 의원 발언&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부 5년 동안, 장애인 정책 아무것도 없었다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/359</link>
-            <guid>https://factchecker.or.kr/fc_subjects/359</guid>
-            <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
