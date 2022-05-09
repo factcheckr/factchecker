@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 16:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,6 +180,17 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 집무실 이전에 김건희 씨 개입에 대한 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/678</link>
+            <guid>https://factchecker.or.kr/fc_suggests/678</guid>
+            <pubDate>Mon, 09 May 2022 17:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[https://m.hani.co.kr/arti/politics/politics_general/1041885.html?_fr=gg
+&nbsp;
+한겨레 신문은
+여러가지 근거를 들어&nbsp;
+윤석열 대통령 집무실, 관저 이전에 김건희 씨가 개...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 인공지능 루머 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/677</link>
             <guid>https://factchecker.or.kr/fc_suggests/677</guid>
@@ -252,16 +263,6 @@ https://news.v.daum.net/v/202203241131319...]]></content:encoded>
             <content:encoded><![CDATA[변종 바이러스들이 나오고 있다지만 3차 백신을 맞고 난뒤 건강했던 사람이 의문사 하는 일들이 일어나고 있습니다. 과연 꼭 맞아야한가요?
 &nbsp;
 https://www.kdca.go.kr/gallery.es?mid=a205030...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 공약 여가부 폐지가 아니라 이름만 바꾼다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/664</link>
-            <guid>https://factchecker.or.kr/fc_suggests/664</guid>
-            <pubDate>Fri, 06 May 2022 15:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 당선인의 여가부 폐지하겠다는 공약을 내세웠는데 지금은 미래가족부라는 이름으로 다시만든 다고합니다. 이것은 공약달성이 맞는지 팩트 체크 해주세요
-&nbsp;
-&nbsp;
-https://news.jtbc.joins.com/art...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] “국민연금 덜 받으면…” 미봉책의 반복 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
