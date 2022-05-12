@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -180,6 +180,15 @@ https://health.chosun.com/site/data/html_dir/2010/06/11/2010061101732.html&nbsp;
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[《[예방백신]이 아닌, [인구감축용 독살주사] 인 - [코로나 19 백신]의 [독살효과]가 본격화되어 나타나고 있다 !! (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/679</link>
+            <guid>https://factchecker.or.kr/fc_suggests/679</guid>
+            <pubDate>Thu, 12 May 2022 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[카톡으로 퍼지는 내용같은데 팩트체크 가능할까요? URL은 없고 내용을 복사해서 올립니다.
+&nbsp;
+《[예방백신]이 아닌, [인구감축용 독살주사] 인 - [코로나 19 백신]의 [독살효과]가 본격화되어 나타나고 있다 !!⛔️⛔️...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 집무실 이전에 김건희 씨 개입에 대한 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/678</link>
             <guid>https://factchecker.or.kr/fc_suggests/678</guid>
@@ -254,15 +263,6 @@ https://news.v.daum.net/v/202203241131319...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/666</guid>
             <pubDate>Fri, 06 May 2022 15:15:09 GMT</pubDate>
             <content:encoded><![CDATA[https://newsis.com/view/?id=NISI20220408_0018679676]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 3차 접종 꼭 맞아야하나? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/665</link>
-            <guid>https://factchecker.or.kr/fc_suggests/665</guid>
-            <pubDate>Fri, 06 May 2022 15:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[변종 바이러스들이 나오고 있다지만 3차 백신을 맞고 난뒤 건강했던 사람이 의문사 하는 일들이 일어나고 있습니다. 과연 꼭 맞아야한가요?
-&nbsp;
-https://www.kdca.go.kr/gallery.es?mid=a205030...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["정권 바뀌자 야동사이트 https 차단 해제"…尹대통령 조치?[팩트체크] - 머니투데이 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
