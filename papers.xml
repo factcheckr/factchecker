@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-05-12T23:16:15.957Z</updated>
+    <updated>2022-05-24T01:52:34.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 4호]]></title>
+        <id>https://factchecker.or.kr/papers/438</id>
+        <link href="https://factchecker.or.kr/papers/438"/>
+        <updated>2022-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 4호
+1. 여는글시민 협업 팩트체크의 의미
+2. 글로벌 팩트체크Newtral Educación: 비판적 사고와 미디어 리터러시 교육[팩트체크 플랫폼 소개] 북아일랜드 팩트체크...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스톱] 한국 에너지전환 팩트체크]]></title>
         <id>https://factchecker.or.kr/papers/397</id>
@@ -115,21 +124,5 @@
 1. 인사말팩트체크 동향리포트 1호를 발행하며
 2. 허위정보 예방과 팩트체크 활성화 캠페인을 위한 요청
 3. 글로벌 팩트체크팩트체크 자동화는 어떻게 작동하는가?우리에게...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련서적] 팩트체크의 정석]]></title>
-        <id>https://factchecker.or.kr/papers/275</id>
-        <link href="https://factchecker.or.kr/papers/275"/>
-        <updated>2021-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[- 출간일 : 2020년 6월 25일
-- 저자 : SBS 박세용 기자
-&nbsp;
-
-책소개
-
-
-
-&nbsp;
-사회적 쟁점을 집요하게 탐색해 온팩트체크 담당 기자의 취재 노하우이 책은 SBS [8뉴스]의 팩트체크 코너 ‘...]]></content>
     </entry>
 </feed>
