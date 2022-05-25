@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 01:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민취업지원제도 고도화 이행방안 검토 중]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4105</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4105</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “국민취업지원제도 고도화를 위한 이행방안은 현재 검토 중으로, 아직 아무것도 결정된 바가 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0FoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63c474c1afb837ca486509e90b38f4ce4dc77d78/57d7bf2ae84b3997b857b40351cdefc0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[재활용분담금, 생산자 등 포함 공동운영위서 매년 논의·결정]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4099</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “2회 추가경정예산안 지출 구조조정 7조원은 올해 불용 예상되는 집행지연 사업 등으로 검토해 국민과 기업에 가는 피해가 없도록 했다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e7dc733b6ca97cb95a6a7d59e4c63b2783310c2/c9e4edca3592be20a16f31d22588b6fc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 주재 산업혁신 전략회의 개최시점 등 아직 결정 안돼]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4076</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4076</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “대통령 주재 산업혁신 전략회의 개최시점, 회의체 구성, 사무국 운영 여부 등은 아직 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--20edc12ba641cc57a15ffc2ed4aea2f53beadb72/26e0a6b80d371b40e57bcf9faa1e6c74.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
