@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-05-25T11:13:27.679Z</updated>
+    <updated>2022-05-25T12:27:31.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 술]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/688</id>
+        <link href="https://factchecker.or.kr/fc_suggests/688"/>
+        <updated>2022-05-25T12:26:42.862Z</updated>
+        <content type="html"><![CDATA[http://www.goodmorningcc.com/news/articleView.html?idxno=270209&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해수장관 "CPTPP 가입해도 日후쿠시마 수산물 수입 안돼"]]></title>
         <id>https://factchecker.or.kr/fc_suggests/687</id>
@@ -80,16 +87,5 @@
         <content type="html"><![CDATA[카톡으로 퍼지는 내용같은데 팩트체크 가능할까요? URL은 없고 내용을 복사해서 올립니다.
 &nbsp;
 《[예방백신]이 아닌, [인구감축용 독살주사] 인 - [코로나 19 백신]의 [독살효과]가 본격화되어 나타나고 있다 !!⛔️⛔️...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 집무실 이전에 김건희 씨 개입에 대한 팩트체크]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/678</id>
-        <link href="https://factchecker.or.kr/fc_suggests/678"/>
-        <updated>2022-05-09T17:21:52.850Z</updated>
-        <content type="html"><![CDATA[https://m.hani.co.kr/arti/politics/politics_general/1041885.html?_fr=gg
-&nbsp;
-한겨레 신문은
-여러가지 근거를 들어&nbsp;
-윤석열 대통령 집무실, 관저 이전에 김건희 씨가 개...]]></content>
     </entry>
 </feed>
