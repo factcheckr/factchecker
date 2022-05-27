@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-05-27T03:19:12.431Z</updated>
+    <updated>2022-05-27T04:29:43.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -20,9 +20,9 @@
         <id>https://factchecker.or.kr/fc_subjects/398</id>
         <link href="https://factchecker.or.kr/fc_subjects/398"/>
         <updated>2022-05-27T03:18:04.585Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/398">https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
-해당 기사에서 채용할 때 MBTI를 반영하게되면 법적으로 문제가 될수 있다는 주장을 확인할 수 있습니다.
+        <content type="html"><![CDATA[<a href="/fc_subjects/398">해당 기사에서 채용할 때 MBTI를 반영하게되면 법적으로 문제가 될수 있다는 주장을 확인할 수 있습니다.
 이처럼 MBTI를 채용에 반영하게 될 때 정말 법에 저촉되는 문제일지 팩트체크가 필요해보입니다!
+https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
 </a>]]></content>
     </entry>
     <entry>
