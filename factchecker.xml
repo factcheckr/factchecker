@@ -2,19 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-05-27T05:19:22.544Z</updated>
+    <updated>2022-05-27T06:18:51.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[“게임중독 질병 취급시, 일자리 3만개·총생산 5조원 날린다”과연 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/399</id>
-        <link href="https://factchecker.or.kr/fc_subjects/399"/>
-        <updated>2022-05-27T03:18:04.584Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/399">1.&nbsp;&nbsp;스위스 제네바에서 열린 제72차 세계보건기구 총회
-2.&nbsp; 게임이용 장애 질병 분류의 경제적 손실 분석’ 연구자료
-3.&nbsp; 2021년 한국콘덴츠진흥원 게임백서
-</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/398</id>
@@ -89,6 +79,14 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/373"/>
         <updated>2022-05-06T15:13:51.181Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/373">윤석열 정부 초기 내각 후보자 사외이사 경력 7명, 역대 최다 인원이다라는 언론사 자체 문제 제기
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 주택 소유자는 기초생활수급자가 될 수 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/372</id>
+        <link href="https://factchecker.or.kr/fc_subjects/372"/>
+        <updated>2022-05-27T06:17:46.760Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/372">서울 종로구 창신동의 한 오래된 주택에서 병과 가난에 시달리던 80대 어머니와 50대 아들이 숨진 지 약 한 달 만에 발견됐습니다. 아들이 숨지자 돌봐줄 사람이 없어진 어머니도 이어서 세상을 떠난 것으로 보이는데요. 8개월이나 전기와 수도 요금을 내지 못할 정도로 빈곤한 삶을 살았던 이들 모자의 한 달 수입은 연금과 수당 등 50만 원가량에 불과했습니다. 그러나 모자는 보건복지부가 선정한 소득 조건에 미치지 못한다는 이유로 ‘기초생활보장’ 제도의 혜택을 받지 못했습니다. 커뮤니티 등 온라인에서 누리꾼들은 해당 사건을 놓고 ‘다 쓰러져 가는 집에 산다는 것 자체가 가난하다는 방증 아니냐’, ‘서울에서 집 갖고 있단 이유로 복지사각지대로 밀린 사례’라며 국내 복지 시스템의 허점을 꼬집었습니다. 그러면, 정말 대도시 주택 소유자는 기초생활수급자가 될 수 없는 것일까요? 정부에서 요구하는 가난의 조건은 무엇인지 &lt;알고보니&gt;가 확인해봤습니다.
 </a>]]></content>
     </entry>
 </feed>
