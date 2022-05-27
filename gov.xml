@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 06:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고용형태별근로실태조사 결과 가감없이 공표…인위적 통계조작 아냐]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4123</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4123</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “지난 25일 발표한 고용형태별근로실태조사 결과는 가감없이 그대로 공표했으며, 인위적으로 통계를 조작한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1oIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2420be133da9b233c2dbcac9c934b7e06a8cbfe6/c828472b0b43cee0d75d982dfbd6e54b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[국민취업지원제도 고도화 이행방안 검토 중]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4105</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공정거래위원회는 “공시제도 개선에 대한 구체적인 방안을 결정한 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd4f23de173f9721a38c7b3f70ae8a654caab738/3f402ec64cb8d1570688be4aa3ed6f56.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[지출 구조조정 7조, 불용 예상 사업 등으로 검토…국민·기업 피해 없게]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4077</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4077</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “2회 추가경정예산안 지출 구조조정 7조원은 올해 불용 예상되는 집행지연 사업 등으로 검토해 국민과 기업에 가는 피해가 없도록 했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e7dc733b6ca97cb95a6a7d59e4c63b2783310c2/c9e4edca3592be20a16f31d22588b6fc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
