@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-05-30T10:15:05.588Z</updated>
+    <updated>2022-05-30T11:13:37.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“거리두기 해제 후 버려지는 동물들이 늘었다?”]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/691</id>
+        <link href="https://factchecker.or.kr/fc_suggests/691"/>
+        <updated>2022-05-30T11:12:54.046Z</updated>
+        <content type="html"><![CDATA[검증대상
+사회적 거리 두기로 집에 있는 시간이 늘어 쓸쓸한 마음에 반려동물을 구매했다가 제한이 풀리자 밖으로 나가 놀게 되니 반려동물을 유기한다는 논란이 일고 있습니다. 또한 요즘 러시아 우크라이나 전쟁으로 곡물 등 동물...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심정지상태란 어떤 상태인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/690</id>
@@ -81,14 +89,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/681"/>
         <updated>2022-05-29T17:17:51.102Z</updated>
         <content type="html"><![CDATA[15일 업계 등에 따르면 파리바게뜨 제빵기사의 초임은 월 310만원이다. 다른 베이커리 프랜차이즈 브랜드 제빵기사들보다 17% 높은 수으로 전해졌다. 교육부가 운영하는 웹사이트 커리어넷에 따르면 제과제빵사 월 평균 급여는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전의 전기 적자, 국민때문인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/680</id>
-        <link href="https://factchecker.or.kr/fc_suggests/680"/>
-        <updated>2022-05-29T17:17:51.103Z</updated>
-        <content type="html"><![CDATA[https://imnews.imbc.com/replay/2022/nwtoday/article/6368535_35752.html
-&nbsp;
-기사 내용을 보면 한전의 전기 적자가 전기 생산 원자재 값들이 오르는데 비하여 전기 요금이...]]></content>
     </entry>
 </feed>

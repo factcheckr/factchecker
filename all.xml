@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,14 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“거리두기 해제 후 버려지는 동물들이 늘었다?” (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/691</link>
+            <guid>https://factchecker.or.kr/fc_suggests/691</guid>
+            <pubDate>Mon, 30 May 2022 11:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[검증대상
+사회적 거리 두기로 집에 있는 시간이 늘어 쓸쓸한 마음에 반려동물을 구매했다가 제한이 풀리자 밖으로 나가 놀게 되니 반려동물을 유기한다는 논란이 일고 있습니다. 또한 요즘 러시아 우크라이나 전쟁으로 곡물 등 동물...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[심정지상태란 어떤 상태인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/690</link>
             <guid>https://factchecker.or.kr/fc_suggests/690</guid>
@@ -279,15 +287,6 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <guid>https://factchecker.or.kr/fc_suggests/681</guid>
             <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[15일 업계 등에 따르면 파리바게뜨 제빵기사의 초임은 월 310만원이다. 다른 베이커리 프랜차이즈 브랜드 제빵기사들보다 17% 높은 수으로 전해졌다. 교육부가 운영하는 웹사이트 커리어넷에 따르면 제과제빵사 월 평균 급여는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한전의 전기 적자, 국민때문인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/680</link>
-            <guid>https://factchecker.or.kr/fc_suggests/680</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[https://imnews.imbc.com/replay/2022/nwtoday/article/6368535_35752.html
-&nbsp;
-기사 내용을 보면 한전의 전기 적자가 전기 생산 원자재 값들이 오르는데 비하여 전기 요금이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[깐팩] 장제원 "법무부 인사검증, 인수위 때 논란 없었다"… 사실은 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
