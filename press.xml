@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[깐팩] 장제원 "법무부 인사검증, 인수위 때 논란 없었다"… 사실은]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4124</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4124</guid>
+            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 민정수석실을 없애고 법무부 산하 인사정보관리단을 신설해 인사 검증 업무를 담당하도록 하자 여야 공방이 거세다. 장제원 국민의힘 의원은 이 문제는 이미 인수위 시절에 결정된 사안이다. 당시엔 논란이 없었는데, 왜 이제 와서 논란이 될까라며 정부 옹호에 나섰다.윤 대통령의 최측근으로, 당선인 비서실장을 지낸 장 의원이 25일 페이스북에 올린 해당 주장은 사실일까. 여성경제신문이 팩트체크한 결과, 사실이 아닌 것으로 확인됐다.우선 인수위 때 발표됐던 내용과 최근 발표된 내용은 구체적인 면에서 다르다. 앞서 김은혜 당]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlloIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74e9b6f08159caeb5f848f3e404b51f5594145a9/c634a8c7122175212d7ff4be0907c1c6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 비닐봉지에 담긴 뜨거운 국물은 위험하다]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4120</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령의 후보 시절 공약이던 `대입 정시 확대`가 새 정부 국정과제에서 빠졌다. 눈치를 보던 대학들이 다시 수시 학생부종합전형(학종) 비율을 늘리거나, 학생부교과전형에서 주관적 정성평가를 확대할 것이라는 우려가 나온다.  애초]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--309d623a98e0eb58dbe4ee364583ef06ff1c986c/2ebda0368a66bc8f3fd150eac8e69346.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 정은경, 퇴임하며 “백신 접종 위해 국민 속였다” 고백?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4113</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4113</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 17일 퇴임한 정은경 전 질병관리청장은 2020년 1월 국내 첫 코로나19 환자가 발생한 이후 2년 4개월 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fba23e285ae061a3a60feabdbf1a026dbded8eb8/8218209988beec05654ddc6f50bd4711.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
