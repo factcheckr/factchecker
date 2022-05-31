@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 20:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 21:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,15 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[일본의 독도관련 주장에 관해서 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/693</link>
+            <guid>https://factchecker.or.kr/fc_suggests/693</guid>
+            <pubDate>Tue, 31 May 2022 21:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[어제 뉴스를 보니까 일본에서 독도영유권을 주장했다고하는데,
+미국으로부터 안보리 상임이사국 제의도 받고있는 상황에서 우리나라에서 독도에 해양관찰선 띄워서 활동하니까 독도영유권을 주장했다는 것이 사실입니까?
+우리나라에서 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령 가온 6인 식비 50% 할인해서 450만원 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/692</link>
             <guid>https://factchecker.or.kr/fc_suggests/692</guid>
@@ -280,14 +289,6 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[카톡을 통해 퍼지고 있는 내용을 욕설을 빼고 정리하여 팩트체크 요청합니다.
 지난해 행안부가 공개한, 2022년 문재인 대통령을 위해서 개정된 예우금액은 상상을 초월한다. 매월 1,400만원의 연금을 받고 예우보조금이 2억...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전 세계적으로 원전을 80년, 100년씩 사용하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/682</link>
-            <guid>https://factchecker.or.kr/fc_suggests/682</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[박형준 부산시장이 대부분의 세계 원전을 80년, 100년 쓴다고 주장했는데요. 이게 진짜 사실인가요?
-원전 수명을 20~30년 정도로 계산해서 짓는 걸로 알고 있었는데 제가 알던 내용과 너무 큰 차이가 있어서 이런 사례가...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[머스크 "한국 인구 붕괴, 2112년에 300만명" 사실일까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
