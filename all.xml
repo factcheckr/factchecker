@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 15:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 16:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -221,14 +221,6 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
 1. 윤석열 대통령 일행의 식사 대금이 맞는지?2. 윤석열 대통령 일행의 식사 대금이 맞다면 일행은 총 몇 명인지?3. 할인 여부 (할인율...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“거리두기 해제 후 버려지는 동물들이 늘었다?” (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/691</link>
-            <guid>https://factchecker.or.kr/fc_suggests/691</guid>
-            <pubDate>Mon, 30 May 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[검증대상
-사회적 거리 두기로 집에 있는 시간이 늘어 쓸쓸한 마음에 반려동물을 구매했다가 제한이 풀리자 밖으로 나가 놀게 되니 반려동물을 유기한다는 논란이 일고 있습니다. 또한 요즘 러시아 우크라이나 전쟁으로 곡물 등 동물...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[심정지상태란 어떤 상태인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/690</link>
             <guid>https://factchecker.or.kr/fc_suggests/690</guid>
@@ -289,6 +281,14 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[카톡을 통해 퍼지고 있는 내용을 욕설을 빼고 정리하여 팩트체크 요청합니다.
 지난해 행안부가 공개한, 2022년 문재인 대통령을 위해서 개정된 예우금액은 상상을 초월한다. 매월 1,400만원의 연금을 받고 예우보조금이 2억...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 세계적으로 원전을 80년, 100년씩 사용하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/682</link>
+            <guid>https://factchecker.or.kr/fc_suggests/682</guid>
+            <pubDate>Wed, 01 Jun 2022 16:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[박형준 부산시장이 대부분의 세계 원전을 80년, 100년 쓴다고 주장했는데요. 이게 진짜 사실인가요?
+원전 수명을 20~30년 정도로 계산해서 짓는 걸로 알고 있었는데 제가 알던 내용과 너무 큰 차이가 있어서 이런 사례가...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(188)] 거주자 우선주차구역, 무단 주차 시 견인은 합법? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

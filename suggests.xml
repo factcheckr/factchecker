@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-01T15:16:23.075Z</updated>
+    <updated>2022-06-01T16:21:41.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -21,14 +21,6 @@
         <updated>2022-05-31T03:20:11.656Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 가온 6인 식비 50% 할인해서 450만원의 팩트체크를 제안합니다.
 1. 윤석열 대통령 일행의 식사 대금이 맞는지?2. 윤석열 대통령 일행의 식사 대금이 맞다면 일행은 총 몇 명인지?3. 할인 여부 (할인율...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“거리두기 해제 후 버려지는 동물들이 늘었다?”]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/691</id>
-        <link href="https://factchecker.or.kr/fc_suggests/691"/>
-        <updated>2022-05-30T11:12:54.046Z</updated>
-        <content type="html"><![CDATA[검증대상
-사회적 거리 두기로 집에 있는 시간이 늘어 쓸쓸한 마음에 반려동물을 구매했다가 제한이 풀리자 밖으로 나가 놀게 되니 반려동물을 유기한다는 논란이 일고 있습니다. 또한 요즘 러시아 우크라이나 전쟁으로 곡물 등 동물...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심정지상태란 어떤 상태인가요?]]></title>
@@ -91,5 +83,13 @@
         <updated>2022-05-29T17:17:51.092Z</updated>
         <content type="html"><![CDATA[카톡을 통해 퍼지고 있는 내용을 욕설을 빼고 정리하여 팩트체크 요청합니다.
 지난해 행안부가 공개한, 2022년 문재인 대통령을 위해서 개정된 예우금액은 상상을 초월한다. 매월 1,400만원의 연금을 받고 예우보조금이 2억...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계적으로 원전을 80년, 100년씩 사용하나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/682</id>
+        <link href="https://factchecker.or.kr/fc_suggests/682"/>
+        <updated>2022-06-01T16:20:49.172Z</updated>
+        <content type="html"><![CDATA[박형준 부산시장이 대부분의 세계 원전을 80년, 100년 쓴다고 주장했는데요. 이게 진짜 사실인가요?
+원전 수명을 20~30년 정도로 계산해서 짓는 걸로 알고 있었는데 제가 알던 내용과 너무 큰 차이가 있어서 이런 사례가...]]></content>
     </entry>
 </feed>
