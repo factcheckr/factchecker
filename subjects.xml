@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 03:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,18 @@
             <content:encoded><![CDATA[해당 기사에서 채용할 때 MBTI를 반영하게되면 법적으로 문제가 될수 있다는 주장을 확인할 수 있습니다.
 이처럼 MBTI를 채용에 반영하게 될 때 정말 법에 저촉되는 문제일지 팩트체크가 필요해보입니다!
 https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 내각, 역대 내각 중 특정 대학·성별·연령·지역에 가장 편향돼있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/393</link>
+            <guid>https://factchecker.or.kr/fc_subjects/393</guid>
+            <pubDate>Thu, 02 Jun 2022 04:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6.1 지방선거에 출마한 송영길 서울시장 후보는
+연합뉴스와의 5월 12일 인터뷰 중
+윤석열 정부의 내각이 너무 편향돼 있다. 호남 출신이 1명에 불과해 지역에 대한 배려도, 여성에 대한 배려도 없다. 학교에 대한 배려도 없어 연세대 출신은 한 명도 없다며 이렇게 특정 대학, 성, 연령대, 지역에 집중된 것은 처음이다. 거기에 검사 출신이 많아 대검 부속실이라고 말할 정도라고 발언했고,
+5월 21일 뉴시스 인터뷰에서는
+특정 나이, 60대 나이에 특정 지역의 특정 학교 출신, 특정 성별인 남성 위주로 완벽하게 끼리끼리 내각으로 만든 이 내각으로 어떻게 고물가, 고유가, 고환율, 고이자로 경제에 어려움을 겪고 있는데 나라를 끌고 갈지 안타깝다고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -96,14 +108,6 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;]]></content:enc
             <pubDate>Fri, 06 May 2022 16:18:11 GMT</pubDate>
             <content:encoded><![CDATA[가끔 흘려듣긴 했지만 그곳 마사토 산책로에서 적잖이 놀랐습니다. 신발이 없어도 발걸음이 가벼웠습니다. 얼굴마다 화색이 하얀 벚꽃 같았습니다. 얼마나 맨발로 걸었으면 중년의 발등이 목덜미보다 더 까매졌습니다. 아프지 않냐 했더니 말문이 술술 터졌습니다. 불면증에 시달리다 꿀잠을 잔다는 분, 무지외반증 통증과 발톱 무좀까지 싹 나았다는 분. 척추측만증으로 고생하다 맨발로 걷고부턴 날아갈 것 같다는 분…. 중년 여성들의 맨발 걷기 예찬은 끝이 없었습니다. 한 분은 맨발 걷기가 587일째, 또 한 분은 1252일째, 그 옆에 분은 무려 1617일째. 밥은 굶어도 맨발 걷기는 거를 수 없다니 그 맛이 더 궁금해집니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[밤마다 ‘택시 대란’인데…서울 택시는 과잉 공급이다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/374</link>
-            <guid>https://factchecker.or.kr/fc_subjects/374</guid>
-            <pubDate>Fri, 06 May 2022 16:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[거리두기가 끝난 뒤 매일 밤 서울에선 택시를 잡기 어려운 이른바 ‘택시 대란’이 벌어지고 있습니다. 그렇지만 서울에 운행 중인 택시가 결코 부족하지 않고, 오히려 서울보다 규모가 큰 뉴욕보다 택시가 더 많다는 말도 있습니다. 실제로 서울에 택시 공급이 과잉인지 확인해봤습니다.&nbsp;&nbsp;]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
