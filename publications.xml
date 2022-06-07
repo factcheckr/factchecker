@@ -2,22 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-06-07T00:55:29.417Z</updated>
+    <updated>2022-06-07T02:56:29.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[락스 독성이 적고 발암성이 없어  인체에 해롭지 않다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/130</id>
-        <link href="https://factchecker.or.kr/fc_publications/130"/>
-        <updated>2022-06-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-1.락스란 무엇인가
-락스는 살균소독 용 물질로 강한 살균력과 표백효과를 지니며&nbsp; 살균력이 강하고&nbsp; 가격이 저렴해서&nbsp; &nbsp;가장 많이 사용되고있는 살균 표백용 제품이라고 볼 수 있다
-랏라고 불리게된 배경은 미국의 클로락스(Clorox)社가 &nbsp;차아염소산나트륨 수용액을 클로락스라는 상품명으로 판매를 했는데&nbsp; &nbsp;락스라는 이름으로 불리게 되면서 일반명사처럼 쓰이게 되었고
-미국의&nbsp; 클로락스와 한국의 유한양행이 합작투자해서 만든 유한크로락스 회사제품인 유한락스가&nbsp; 우리나라 락스의 시발점이 되어 락스가 살균 표백제의 대명사격인 보통명사로 사용되고있음&nbsp;
-&nbsp;2.락스 의 주성분
-락스의 주성분은 차아염소산나트륨Sodium hypochlorite (NaClO)을 물에 녹인 수용액으로 우리가 일반적으로 사용하는 제품은 4~5% 수용액이며&nbsp;생활환경안전정보시스템 의 유한락스 후레쉬&nbsp;&nbsp;주요 함유성분 에 따르면&nbsp; 락스의 주성분이 차아염소산나트륨임을 확인 할 수있다 https://ecolife.me.go.kr/...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[법사위원장 팩트체크② ‘합의문 전제조건이 지켜지지 않았다?’]]></title>
         <id>https://factchecker.or.kr/fc_publications/127</id>
@@ -109,5 +96,13 @@ https://www.catc...]]></content>
 법률 제7382호 「교통약자의이동편의증진법」 (약칭: 교통약자법, 2005년 1월 27일 제정, 2006년 1월 28일 시행)에서 처음으로 이동권이 명시되었으며 건설교통부(현 국토교통부)의 의무를 밝히고 있습니다.&nbsp;
 
 제1조(목적) 이 법은 교통약자가 안전하고 편리하게 이동할 수 있도록 교통수단ㆍ여객시설 및 도로에 이동편의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄산음료를 마시고 바로 양치하면 안 되는 것인가?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/111</id>
+        <link href="https://factchecker.or.kr/fc_publications/111"/>
+        <updated>2022-04-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 뼈&nbsp;&nbsp; 치아는 뼈이고 뼈는 비교적 단단하고 가벼운 합성 물질이며, 수산화인회석이라고 하는 인산칼슘으로 대부분 이루어진 화합물이다. 이는 비교적 높은 압축강도를 가지고 있지만 낮은 인장강도를 가진다. 뼈는 기본적으로 깨지기 쉬우나 자체 유기성분(주로 콜라겐) 때문에 눈에 띌 정도의 탄력성을 가진다. 뼈는 내부적으로 망사 구조이며, 밀도는 위치마다 다양하며 신체를 지탱하는 역할을 하는 단단한 조직을 말하며 우리 몸은 206개의 뼈로 구성되어 있다.&nbsp; 뼈는 우리 몸의 구조를 지지하고 내부 장기를 보호하며 근육수축 시 지렛대 역할을 하여 운동을 도와주는 역할을 한다.
+&nbsp; 뼈를 이루는 세포는 뼈 조상세포, 뼈모세포, 뼈세포, 뼈파괴세포, 뼈표면세포가 있고, 우리 몸의 뼈는 긴뼈, 짧은뼈, 납작뼈, 불규칙뼈, 종자뼈로 분류할 수 있다.&nbsp;&nbsp; 긴뼈 : 뼈의 일반적인 형태로 관형구조로 중앙에 골수가 존재함.&nbsp;&nbsp; 짧은뼈 : 긴뼈와 유사한 구조이나 골수공간은 없음&nbsp;&nbsp; 납작뼈 : 두개의 치밀뼈...]]></content>
     </entry>
 </feed>

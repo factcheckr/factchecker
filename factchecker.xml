@@ -2,18 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-06-07T00:55:29.411Z</updated>
+    <updated>2022-06-07T02:56:29.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[락스 독성이 적고 발암성이 없어  인체에 해롭지 않다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/404</id>
-        <link href="https://factchecker.or.kr/fc_subjects/404"/>
-        <updated>2022-06-06T15:13:31.639Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/404">&nbsp;
-유한락스는 독성이 미약하며 발암성이 없는 물질입니다.
-</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[법사위원장 팩트체크② ‘합의문 전제조건이 지켜지지 않았다?’]]></title>
         <id>https://factchecker.or.kr/fc_subjects/401</id>
@@ -106,6 +97,14 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
         <updated>2022-05-30T15:15:39.849Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/379">지난달 경기도 동탄과 제주도에서 잇따라 잔혹한 동물학대 및 살해 사건이 일어나면서 사회적 공분을 샀습니다.&nbsp;SNS에서 동물학대 영상을 올리고 학대 방법을 공유하는 대화방까지 발견돼서 경찰이 수사에 나섰는데요. 하지만 동물학대범이 매년 늘고 있는데도 불구하고 법원의 처벌은 여전히 미비하다는 지적도 나옵니다.&nbsp;
 동물학대범들의 처벌 수위를 강화해야 한다는 주장 중에는 동물학대가 결국 사람을 상대로 한 범죄로 연결된다는 의견도 있었는데요. 지난달 벌어진 동탄 동물학대 사건의 범인을 강력 처벌을 요구하는 국민청원에는 “동물 죽이는 사람의 다음 타겟은 어린 아이 또는 본인보다 약한 사람일 것”이라는 걱정어린 호소가 나옵니다. 실제 동물학대 범죄가 사람을 상대로 한 강력범죄로 이어질 수 있는 것인지, 해외는 어떻게 동물학대범을 바라보고 있는지, 해외 연구 및 국내외 실제 범죄사건 사례들을 토대로 &lt;알고보니&gt;가 따져봤습니다.&nbsp;
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/378</id>
+        <link href="https://factchecker.or.kr/fc_subjects/378"/>
+        <updated>2022-06-07T02:54:21.396Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/378">가끔 흘려듣긴 했지만 그곳 마사토 산책로에서 적잖이 놀랐습니다. 신발이 없어도 발걸음이 가벼웠습니다. 얼굴마다 화색이 하얀 벚꽃 같았습니다. 얼마나 맨발로 걸었으면 중년의 발등이 목덜미보다 더 까매졌습니다. 아프지 않냐 했더니 말문이 술술 터졌습니다. 불면증에 시달리다 꿀잠을 잔다는 분, 무지외반증 통증과 발톱 무좀까지 싹 나았다는 분. 척추측만증으로 고생하다 맨발로 걷고부턴 날아갈 것 같다는 분…. 중년 여성들의 맨발 걷기 예찬은 끝이 없었습니다. 한 분은 맨발 걷기가 587일째, 또 한 분은 1252일째, 그 옆에 분은 무려 1617일째. 밥은 굶어도 맨발 걷기는 거를 수 없다니 그 맛이 더 궁금해집니다.
 </a>]]></content>
     </entry>
 </feed>
