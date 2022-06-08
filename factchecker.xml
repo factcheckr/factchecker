@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-06-08T04:30:41.900Z</updated>
+    <updated>2022-06-08T05:14:38.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -34,16 +34,6 @@
 
 과연 박홍근 원내대표의 주장은 타당할까요?
 </ytn라디오></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“게임중독 질병 취급시, 일자리 3만개·총생산 5조원 날린다”과연 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/399</id>
-        <link href="https://factchecker.or.kr/fc_subjects/399"/>
-        <updated>2022-06-07T09:17:28.557Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/399">1.&nbsp;&nbsp;스위스 제네바에서 열린 제72차 세계보건기구 총회
-2.&nbsp; 게임이용 장애 질병 분류의 경제적 손실 분석’ 연구자료
-3.&nbsp; 2021년 한국콘덴츠진흥원 게임백서
-</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까?]]></title>
@@ -116,6 +106,14 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/385"/>
         <updated>2022-05-30T15:15:39.846Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/385">
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회복무요원 제도는 ILO 강제노동금지협약에 위반될까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/380</id>
+        <link href="https://factchecker.or.kr/fc_subjects/380"/>
+        <updated>2022-06-08T05:12:37.197Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/380">사회복무요원 제도는 국제노동기구 ILO의 강제노동금지협약에 위반될까?
 </a>]]></content>
     </entry>
 </feed>
