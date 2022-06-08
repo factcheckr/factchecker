@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 01:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 03:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동반성장위 “중기 적합업종 권고 관련 이행명령 등은 할 수 없어”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4154</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4154</guid>
+            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동반성장위원회는 “중소기업 적합업종 권고 시 권고사항에 대해 이행점검을 추진하며 조사 및 의견청취 등 기초·현장 조사를 통해 미이행 사실을 확인한 후 관련 대기업에 시정요청을 할 수 있다”며 “시정요청에도 조치가 이뤄지지 않는 경우 동반성장지수 감점 및 언론에 공표하는 등 조치를 취할 수 있으나 벌칙을 부과하는 등의 이행명령, 강제이행은 추진할 수 없다”고]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2tpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae79c78e45d03e4b38aa392b2bf33cfdcb41bbe5/cb9e7851681380d3b6243b8e68e2959a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[새만금 태양광 부지, pH 현장 조사 지속 추진 중]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4139</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 “재활용분담금은 생산자 등이 포함된 공동운영위원회에서 재활용 단계별 소요비용 등을 종합적으로 고려해 매년 논의·결정되는 것”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakloIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--845ae6a87e3fa2be4b12cd6f2a18133cd3304271/f2a0bd670fdecff71659db8768ec4bcb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위 “개방형직위 임용시 편법으로 채용절차 바꾼 사실 없어”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4098</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4098</guid>
-            <pubDate>Mon, 23 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공정거래위원회는 “개방형직위 임용시 편법으로 채용절차를 바꾼 사실이 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8460d947b1b99b2434a1537565dc4784b46dd8d4/63d42f5fbed8850d03345dd065b394f1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
