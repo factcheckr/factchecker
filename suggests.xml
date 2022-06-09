@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-09T07:14:39.894Z</updated>
+    <updated>2022-06-09T08:18:59.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프 정부보다 바이든 정부에서 미국 내 코로나19 사망자가 더 많나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/696</id>
+        <link href="https://factchecker.or.kr/fc_suggests/696"/>
+        <updated>2022-06-09T08:18:17.071Z</updated>
+        <content type="html"><![CDATA[뉴욕포스트라는 외신을 인용한 기사인데요. 이 기사를 보니까 뉴욕포스트 기사를 인용하면서 트럼프 정부보다 바이든 정부에서 코로나19로 사망한 미국 국민이 더 많다는 주장을 그대로 전달하더라고요. 이거 진짜 사실인가요?
+그리...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1일 영양제 40알 복용?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/695</id>
@@ -85,13 +93,5 @@ https:...]]></content>
         <content type="html"><![CDATA[윤석열 대통령이 외국 정상 등과의 만남에서 고개 숙여 인사하는 모습에 대한 비판이 많습니다.&nbsp;
 문재인 전 대통령은 대통령 시절 더 대등한 태도로 인사를 했다는 것인데요.&nbsp;
 한국 대통령이 외국 정상과의 만남에서 당당한 태도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레오나르도 다빈치 국립과학기술박물관, 한국인 VIP 대접한다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/684</id>
-        <link href="https://factchecker.or.kr/fc_suggests/684"/>
-        <updated>2022-05-29T17:17:51.091Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/nxitYWKzM-s
-이탈리아 밀라노 레오나르도 다빈치 국립과학기술박물관에서 한국인 관람객이 잘못 게시된 전시물의 문제를 알려준 이후 한국인들이 이 박물관에서 VIP 대접을 받고 있다는 내용...]]></content>
     </entry>
 </feed>
