@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-06-09T01:02:19.699Z</updated>
+    <updated>2022-06-09T03:21:03.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -34,16 +34,6 @@
 
 과연 박홍근 원내대표의 주장은 타당할까요?
 </ytn라디오></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBTI를 채용에 반영하면 법에 저촉될까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/398</id>
-        <link href="https://factchecker.or.kr/fc_subjects/398"/>
-        <updated>2022-05-30T15:15:39.843Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/398">해당 기사에서 채용할 때 MBTI를 반영하게되면 법적으로 문제가 될수 있다는 주장을 확인할 수 있습니다.
-이처럼 MBTI를 채용에 반영하게 될 때 정말 법에 저촉되는 문제일지 팩트체크가 필요해보입니다!
-https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
-</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대구광역시는 낙후된 상태인가?]]></title>
@@ -114,6 +104,15 @@ https://www.hankookilbo.com/News/Read/A2022020817340000680&nbsp;
         <link href="https://factchecker.or.kr/fc_subjects/380"/>
         <updated>2022-06-08T05:12:37.197Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/380">사회복무요원 제도는 국제노동기구 ILO의 강제노동금지협약에 위반될까?
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물학대, 인간 향한 강력 범죄로 이어진다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/379</id>
+        <link href="https://factchecker.or.kr/fc_subjects/379"/>
+        <updated>2022-06-09T03:20:05.998Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/379">지난달 경기도 동탄과 제주도에서 잇따라 잔혹한 동물학대 및 살해 사건이 일어나면서 사회적 공분을 샀습니다.&nbsp;SNS에서 동물학대 영상을 올리고 학대 방법을 공유하는 대화방까지 발견돼서 경찰이 수사에 나섰는데요. 하지만 동물학대범이 매년 늘고 있는데도 불구하고 법원의 처벌은 여전히 미비하다는 지적도 나옵니다.&nbsp;
+동물학대범들의 처벌 수위를 강화해야 한다는 주장 중에는 동물학대가 결국 사람을 상대로 한 범죄로 연결된다는 의견도 있었는데요. 지난달 벌어진 동탄 동물학대 사건의 범인을 강력 처벌을 요구하는 국민청원에는 “동물 죽이는 사람의 다음 타겟은 어린 아이 또는 본인보다 약한 사람일 것”이라는 걱정어린 호소가 나옵니다. 실제 동물학대 범죄가 사람을 상대로 한 강력범죄로 이어질 수 있는 것인지, 해외는 어떻게 동물학대범을 바라보고 있는지, 해외 연구 및 국내외 실제 범죄사건 사례들을 토대로 &lt;알고보니&gt;가 따져봤습니다.&nbsp;
 </a>]]></content>
     </entry>
 </feed>
