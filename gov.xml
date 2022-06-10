@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산공원 시범개방 이용시간, 관람객 편의 등 종합 고려해 계획]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4165</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4165</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “용산공원 시범개방 행사는 과거 부산시민공원(캠프 하야리아) 임시개방 사례, 1일 개방시간(10시간)과 입장 회차(5회), 편의시설 수용량, 공원 평균 이용실태 등을 종합적으로 고려해 1회 평균 이용시간을 2시간으로 계획했다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc86913225edea27a80212ff663a120536643faf/7b7d42823f1439c1762adc4379c9851f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[“고용부 장관, 새 정부 고용노동정책 등 알리기 위해 ILO 총회 참석”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4164</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4164</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “새 정부의 고용노동정책과 노동가치 존중 의지를 알리기 위해 장관이 제110차 ILO 총회에 참석했다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd305b640af79f009327955d225a063ef7f44879/677c9336deb8b0df6acda77ae1b103f8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[종부세 산정때 일시적 2주택 등 주택 수 제외방안, 구체내용 결정 안돼]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4160</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “일시적인 국고자금 부족에 대응하기 위해 재정증권 발행 및 한국은행 일시차입을 활용하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77d5c7d2f026ac7c1c4c3d4573f197e4e4847602/00c8b20d713f6f6e3fe279bc42c4d289.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[에너지기본법 제정 작업 착수? 산업부 “사실과 달라”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4125</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4125</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “정부가 탈원전 정책을 뒤집기 위한 에너지 기본법 제정 작업에 착수했다는 것은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmNoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2390f12145906a6e807880ef5a81a8d24f35a215/bfe6622d7034eaf44f876ca4775b9abc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용형태별근로실태조사 결과 가감없이 공표…인위적 통계조작 아냐]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4123</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4123</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “지난 25일 발표한 고용형태별근로실태조사 결과는 가감없이 그대로 공표했으며, 인위적으로 통계를 조작한 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1oIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2420be133da9b233c2dbcac9c934b7e06a8cbfe6/c828472b0b43cee0d75d982dfbd6e54b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
