@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-11T09:12:49.788Z</updated>
+    <updated>2022-06-11T10:13:54.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발부담금]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/697</id>
+        <link href="https://factchecker.or.kr/fc_suggests/697"/>
+        <updated>2022-06-11T10:13:13.255Z</updated>
+        <content type="html"><![CDATA[181m2의 김포땅(과수원)을 2020년 3월에 153,500,000원에 구입하고 동년 10월말에 준공이 났읍니다.
+최근 김포시에서 개발분담금이 약 1.100만원 나왔읍니다.
+개시시점(개발허가시점) 2019년 5월부로...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 정부보다 바이든 정부에서 미국 내 코로나19 사망자가 더 많나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/696</id>
@@ -84,14 +93,5 @@ https:...]]></content>
 저도 지난 22일에 카톡으로 받았구요.
 팩트체크 원합니다.
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 대통령은 외국 정상과 고개 숙여 인사한 일이 없다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/685</id>
-        <link href="https://factchecker.or.kr/fc_suggests/685"/>
-        <updated>2022-05-29T17:17:51.077Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 외국 정상 등과의 만남에서 고개 숙여 인사하는 모습에 대한 비판이 많습니다.&nbsp;
-문재인 전 대통령은 대통령 시절 더 대등한 태도로 인사를 했다는 것인데요.&nbsp;
-한국 대통령이 외국 정상과의 만남에서 당당한 태도...]]></content>
     </entry>
 </feed>

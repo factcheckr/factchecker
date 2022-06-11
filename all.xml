@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 10:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[개발부담금 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/697</link>
+            <guid>https://factchecker.or.kr/fc_suggests/697</guid>
+            <pubDate>Sat, 11 Jun 2022 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[181m2의 김포땅(과수원)을 2020년 3월에 153,500,000원에 구입하고 동년 10월말에 준공이 났읍니다.
+최근 김포시에서 개발분담금이 약 1.100만원 나왔읍니다.
+개시시점(개발허가시점) 2019년 5월부로...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트럼프 정부보다 바이든 정부에서 미국 내 코로나19 사망자가 더 많나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/696</link>
             <guid>https://factchecker.or.kr/fc_suggests/696</guid>
@@ -303,15 +312,6 @@ https:...]]></content:encoded>
 저도 지난 22일에 카톡으로 받았구요.
 팩트체크 원합니다.
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문재인 대통령은 외국 정상과 고개 숙여 인사한 일이 없다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/685</link>
-            <guid>https://factchecker.or.kr/fc_suggests/685</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 외국 정상 등과의 만남에서 고개 숙여 인사하는 모습에 대한 비판이 많습니다.&nbsp;
-문재인 전 대통령은 대통령 시절 더 대등한 태도로 인사를 했다는 것인데요.&nbsp;
-한국 대통령이 외국 정상과의 만남에서 당당한 태도...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "모든 정권 1년 차 특별사면 해왔다" 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
