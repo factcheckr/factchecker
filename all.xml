@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 12:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[군인 병사 1일군번 진급 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/698</link>
+            <guid>https://factchecker.or.kr/fc_suggests/698</guid>
+            <pubDate>Sun, 12 Jun 2022 13:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[매월 1일에 입대한 병사는 전 달에 입대한 사람과 같이 진급하는지 궁금합니다
+ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁금합니다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[개발부담금 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/697</link>
             <guid>https://factchecker.or.kr/fc_suggests/697</guid>
@@ -301,17 +309,6 @@ https:...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/687</guid>
             <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[https://n.news.naver.com/mnews/article/001/0013204394?rc=N&amp;ntype=RANKING&nbsp;조승환 해양수산부 장관은&nbsp;25일 정부가 가입을 추진 중인 포괄적·점진적 환태평양경제동반자협...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정은경 질본부장의 이임사라고 떠도는 캡쳐본의 진실은 무엇입니까 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/686</link>
-            <guid>https://factchecker.or.kr/fc_suggests/686</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[https://story.kakao.com/_iMePy0/eLLhfKe5d3A
-이걸 계속&nbsp; 나이드신 분들이 자녀분들에게 퍼다나르고 있습니다.
-저도 지난 22일에 카톡으로 받았구요.
-팩트체크 원합니다.
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "모든 정권 1년 차 특별사면 해왔다" 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
