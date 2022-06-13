@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울대학교 종합감사 처분 부당? 사실 아니다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4168</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4168</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부는 “서울대학교가 2명의 교원에 대해 징계요구를 하지 않아 통보받은 범죄사실 7건의 징계시효가 도과 되어 서울대총장에게 그 책임을 물어 경징계 처분을 요구 한 것”이라며 “서울대학교 종합감사 처분이 부당하다는 주장은 사실이 아니다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e21a39397e9c2745381ba080f6c983db217fd1f/f039cbb6a2832c9cbb0ba7da1ec191bd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[용산공원 시범개방 이용시간, 관람객 편의 등 종합 고려해 계획]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4165</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “근로감독관의 공정한 사건처리와 함께 국민 관점에서의 응대에도 노력하겠다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dfd3eab3126b9afcf90fc27175310cefcc72b494/3cd398dc000a6da8a511fcfff33a57d5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[일시적 국고자금 부족 대응 위해 재정증권 발행 ·한국은행 일시차입 활용]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4126</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4126</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “일시적인 국고자금 부족에 대응하기 위해 재정증권 발행 및 한국은행 일시차입을 활용하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77d5c7d2f026ac7c1c4c3d4573f197e4e4847602/00c8b20d713f6f6e3fe279bc42c4d289.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

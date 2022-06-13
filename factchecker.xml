@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-06-13T01:05:58.197Z</updated>
+    <updated>2022-06-13T03:28:50.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부는 민변 출신들이 (정부 요직을) 도배했다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/406</id>
+        <link href="https://factchecker.or.kr/fc_subjects/406"/>
+        <updated>2022-06-13T03:27:52.054Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/406">새 정부의 주요 직책에 검사와 검찰 수사관, 즉 검찰 출신 인사가 지나치게 많다는 비판이 제기되고 있습니다. 새 정부 부처 차관급 이상과 대통령실 비서관급 이상 인사 중 15명이 검찰 출신입니다. 이 가운데 4선 국회의원 출신인 권영세 통일부 장관과 국회의원과 제주특별자치도지사를 지낸 원희룡 국토교통부 장관의 경우 검사보다 국회의원 이력이 주목받기 때문에 이들을 제외하면, 총 13명의 검찰 출신 인물이 정부 요직에 배치됐는데요. 지난 6월 9일 집무실 출근길에서 윤석열 대통령은 “검찰 편중 인사가 반복되고 있다”는 기자의 질문에 “과거에는 민변 출신이 (인사를) 도배하지 않았습니까.”라고 대답했습니다. 여기서 민변은 ‘민주사회를 위한 변호사 모임’을 말합니다. 윤 대통령의 발언은 사실일까요. 〈알고보니〉에서는 문재인 정부 집권기에 민변 출신 인사들이 얼마나 많았는지, 또한 전 정부의 민변과 현 정부의 검찰 출신 인사가 맡은 직책과 역할의 유사점과 차이점을 분석했습니다.&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPC 그룹의 파리바게뜨 사회적 합의 이행 사실일까?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/405</id>
@@ -104,14 +112,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/385"/>
         <updated>2022-05-30T15:15:39.846Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/385">
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회복무요원 제도는 ILO 강제노동금지협약에 위반될까?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/380</id>
-        <link href="https://factchecker.or.kr/fc_subjects/380"/>
-        <updated>2022-06-08T05:12:37.197Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/380">사회복무요원 제도는 국제노동기구 ILO의 강제노동금지협약에 위반될까?
 </a>]]></content>
     </entry>
 </feed>
