@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-14T15:14:17.881Z</updated>
+    <updated>2022-06-14T16:19:43.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 용산 공원 미군 기지 내 정화작업은 이루어지지 않고 있나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/700</id>
+        <link href="https://factchecker.or.kr/fc_suggests/700"/>
+        <updated>2022-06-14T16:18:52.268Z</updated>
+        <content type="html"><![CDATA[https://www.yonhapnewstv.co.kr/news/MYH20220614017300641?input=1825m
+&nbsp;
+이 기사 내용에 따르면 용산 공원 내 오염 물질의 검출량이 기준치를 뛰어넘을 정도로 많이 검출...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ㆍ]]></title>
         <id>https://factchecker.or.kr/fc_suggests/699</id>
@@ -83,12 +92,5 @@ https:...]]></content>
 기관삽관하여 제거하는 기간,
 그리고 휴우증이 궁금합니다.
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령 술]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/688</id>
-        <link href="https://factchecker.or.kr/fc_suggests/688"/>
-        <updated>2022-05-29T17:17:51.077Z</updated>
-        <content type="html"><![CDATA[http://www.goodmorningcc.com/news/articleView.html?idxno=270209&nbsp;]]></content>
     </entry>
 </feed>
