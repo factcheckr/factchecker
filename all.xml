@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 01:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 03:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ㆍ (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/699</link>
+            <guid>https://factchecker.or.kr/fc_suggests/699</guid>
+            <pubDate>Tue, 14 Jun 2022 03:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[ㆍ]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[군인 병사 1일군번 진급 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/698</link>
             <guid>https://factchecker.or.kr/fc_suggests/698</guid>
@@ -302,13 +309,6 @@ https:...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/688</guid>
             <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[http://www.goodmorningcc.com/news/articleView.html?idxno=270209&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해수장관 "CPTPP 가입해도 日후쿠시마 수산물 수입 안돼" (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/687</link>
-            <guid>https://factchecker.or.kr/fc_suggests/687</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/mnews/article/001/0013204394?rc=N&amp;ntype=RANKING&nbsp;조승환 해양수산부 장관은&nbsp;25일 정부가 가입을 추진 중인 포괄적·점진적 환태평양경제동반자협...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한동훈 “검찰총장 공백기 후보추천위 구성엔 상당 기간 있었다”는데 [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

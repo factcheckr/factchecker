@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-14T01:15:41.387Z</updated>
+    <updated>2022-06-14T03:48:13.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ㆍ]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/699</id>
+        <link href="https://factchecker.or.kr/fc_suggests/699"/>
+        <updated>2022-06-14T03:47:31.324Z</updated>
+        <content type="html"><![CDATA[ㆍ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군인 병사 1일군번 진급]]></title>
         <id>https://factchecker.or.kr/fc_suggests/698</id>
@@ -83,12 +90,5 @@ https:...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/688"/>
         <updated>2022-05-29T17:17:51.077Z</updated>
         <content type="html"><![CDATA[http://www.goodmorningcc.com/news/articleView.html?idxno=270209&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해수장관 "CPTPP 가입해도 日후쿠시마 수산물 수입 안돼"]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/687</id>
-        <link href="https://factchecker.or.kr/fc_suggests/687"/>
-        <updated>2022-05-29T17:17:51.077Z</updated>
-        <content type="html"><![CDATA[https://n.news.naver.com/mnews/article/001/0013204394?rc=N&amp;ntype=RANKING&nbsp;조승환 해양수산부 장관은&nbsp;25일 정부가 가입을 추진 중인 포괄적·점진적 환태평양경제동반자협...]]></content>
     </entry>
 </feed>
