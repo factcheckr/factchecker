@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[동양인은 유전자부터 행복하지 않게 설계 됐다는 주장이 사실인가요???? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/701</link>
+            <guid>https://factchecker.or.kr/fc_suggests/701</guid>
+            <pubDate>Wed, 15 Jun 2022 03:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티를 보니까 동양인이 식습관 관리가 중요하다면서 유전자부터 행복하지 않게 설계됐다고 얘기하더라고요.
+근데 이게 진짜 사실인가요????
+인종마다 유전자의 차이가 있을 것 같긴 한데요. 행복함이라는 건 주관적인 영역인데...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[왜 용산 공원 미군 기지 내 정화작업은 이루어지지 않고 있나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/700</link>
             <guid>https://factchecker.or.kr/fc_suggests/700</guid>
@@ -299,18 +308,6 @@ https:...]]></content:encoded>
             <pubDate>Tue, 31 May 2022 03:20:11 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 가온 6인 식비 50% 할인해서 450만원의 팩트체크를 제안합니다.
 1. 윤석열 대통령 일행의 식사 대금이 맞는지?2. 윤석열 대통령 일행의 식사 대금이 맞다면 일행은 총 몇 명인지?3. 할인 여부 (할인율...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[심정지상태란 어떤 상태인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/690</link>
-            <guid>https://factchecker.or.kr/fc_suggests/690</guid>
-            <pubDate>Sun, 29 May 2022 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[심정지상태에서~
-심정지상태에서 119로 병원으로
-이송하여 응급조치하는 순서와 방법과
-기관삽관하여 제거하는 기간,
-그리고 휴우증이 궁금합니다.
-&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

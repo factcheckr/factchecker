@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-15T01:06:18.062Z</updated>
+    <updated>2022-06-15T03:31:47.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동양인은 유전자부터 행복하지 않게 설계 됐다는 주장이 사실인가요????]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/701</id>
+        <link href="https://factchecker.or.kr/fc_suggests/701"/>
+        <updated>2022-06-15T03:30:59.718Z</updated>
+        <content type="html"><![CDATA[커뮤니티를 보니까 동양인이 식습관 관리가 중요하다면서 유전자부터 행복하지 않게 설계됐다고 얘기하더라고요.
+근데 이게 진짜 사실인가요????
+인종마다 유전자의 차이가 있을 것 같긴 한데요. 행복함이라는 건 주관적인 영역인데...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 용산 공원 미군 기지 내 정화작업은 이루어지지 않고 있나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/700</id>
@@ -80,17 +89,5 @@ https:...]]></content>
         <updated>2022-05-31T03:20:11.656Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 가온 6인 식비 50% 할인해서 450만원의 팩트체크를 제안합니다.
 1. 윤석열 대통령 일행의 식사 대금이 맞는지?2. 윤석열 대통령 일행의 식사 대금이 맞다면 일행은 총 몇 명인지?3. 할인 여부 (할인율...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심정지상태란 어떤 상태인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/690</id>
-        <link href="https://factchecker.or.kr/fc_suggests/690"/>
-        <updated>2022-05-29T17:17:51.075Z</updated>
-        <content type="html"><![CDATA[심정지상태에서~
-심정지상태에서 119로 병원으로
-이송하여 응급조치하는 순서와 방법과
-기관삽관하여 제거하는 기간,
-그리고 휴우증이 궁금합니다.
-&nbsp;]]></content>
     </entry>
 </feed>
