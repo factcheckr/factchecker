@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 01:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[격리의무 해제 여부 관계부처 협의 중]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4181</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4181</guid>
+            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부 등 관계부처는 “격리의무 해제 여부에 대해서는 관계부처 협의 중”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea8ba9e37019401bab106340341c351da120f215/c6f243934c390a3c357299f32f0ecb97.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[서울대학교 종합감사 처분 부당? 사실 아니다]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4168</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조달청은 “철근 3차 입찰에서 건설향 기준가격 인상분 이상으로 예정가격을 높였다는 보도는 사실이 아니다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--528b3894d64674cc67058cdb77b96cf752d0dd61/7bae6163639e2e08d3c571cbf23d3b0a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용부 “근로감독관 공정한 사건처리·국민 관점 응대 노력”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4134</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4134</guid>
-            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “근로감독관의 공정한 사건처리와 함께 국민 관점에서의 응대에도 노력하겠다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dfd3eab3126b9afcf90fc27175310cefcc72b494/3cd398dc000a6da8a511fcfff33a57d5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
