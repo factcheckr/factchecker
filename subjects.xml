@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['욕설 시위' 막는 집시법 개정안, 표현의 자유 침해 소지 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/408</link>
+            <guid>https://factchecker.or.kr/fc_subjects/408</guid>
+            <pubDate>Thu, 16 Jun 2022 06:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 전 대통령의 양산 사저 앞 보수단체들의 고성과 욕설 시위로 논란이 계속되는 가운데, 윤석열 대통령의 서초동 자택 앞에서도 지난 14일 처음으로 집회가 열렸습니다. 집회 주최 측은 양산에서 시위가 끝날 때까지 서초동 시위를 이어가겠다고 밝혔습니다. 전현직 대통령의 사저 앞에서 사상 초유의 ‘집회 대결’이 펼쳐지고 있는 셈입니다. 양산 시위에 대한 비판이 높아지자, 관련법을 바꿔서라도 제한해야 하는 거 아니냐는 주장이 힘을 얻고 있습니다. 이에 따라 더불어민주당 의원들은 한 달 새 집회 및 시위에 관한 법률(이하 집시법) 개정안 4개를 발의했습니다. 개정안에는 전직 대통령 사저 앞 집회를 금지하고. 정치적 의견 등으로 증오를 조장하는 행위와 1인 시위까지 집시법 규제를 받도록 하는 내용이 들어있습니다. &lt;알고보니&gt;에서는 현행 집시법의 주요 내용을 살펴보고, 최근 발의된 집시법 개정안이 표현의 자유 침해등 위헌 소지가 있는지 따져봤습니다. 나아가 주요 선진국들의 집회 규정 및...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[문재인 정부는 민변 출신들이 (정부 요직을) 도배했다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/406</link>
@@ -107,13 +115,6 @@
             <pubDate>Tue, 24 May 2022 01:50:37 GMT</pubDate>
             <content:encoded><![CDATA[우리나라에서 동물학대 처벌 수위가 낮다는 동물보호단체의 지적이 계속돼 오고 있습니다. 일반 국민 가운데서도 동물학대범에 대한 처벌을 강화해야 한다고 목소리를 높이는 사람들이 적지 않습니다. 대통령직인수위원회가 국민을 대상으로 정책 제안을 받았는데, 우수 제안 5개 중 동물학대 처벌법을 강화해주세요가 가장 많은 선호도를 기록했습니다. 우리나라의 동물학대 처벌 수위가 낮은지, 확인해봤습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 업무에는 출퇴근 개념 자체가 없다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/385</link>
-            <guid>https://factchecker.or.kr/fc_subjects/385</guid>
-            <pubDate>Tue, 24 May 2022 01:50:37 GMT</pubDate>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
