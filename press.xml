@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 00:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노컷체크]'로또 1등 50명' 조작 음모론, 사실일까]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4191</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4191</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[로또 1등, 한주만에 2명→50명 역대급 당첨]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--682a7e275c2b0b74b072a6d98e44afac9ac718b3/f521651b35596b85ea5bc61fdb548c2b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 하루 42만원 꼴 '의원 세비'…반납 가능할까]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4190</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4190</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회가 임기 하반기 상임위원장 배분 문제를 놓고 여야가 싸우면서 개점휴업 상태를 이어가고 있습니다. 지난달 30일 0시를 기해서 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9eaaa145d5933b9ccaaeec105b0f3a9e0007a79b/8e8522eb547d875ab3c204ce9d7e8192.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 취임 한 달 만에 지지율이 하락한 대통령은 없었다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4189</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4189</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 취임 한 달이 지난 윤석열 대통령의 국정 수행에 대한 긍정 평가가 50%를 밑도는 것으로 조사되면서 이른바 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c5d602e3227f545bbaf97529196d1ffa29cb10b/1285e327e24f80bc2f99938db3f93c1d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 내각과 문재인 초대 내각 구성, 이렇게 달랐다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4188</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4188</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 윤 정부, 서울대·검찰 출신 편중... 남성 중심 내각 비판에 여성 후보 2명 지명]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cfb17eb00255ada4b3a53a300b0fd0e83dec8d1b/4eb7af8197569e38c9486f9c2eb63fa7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '택시 혼성 합승' 카니발은 되고 쏘나타는 안 된다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4187</link>
@@ -54,38 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[평소 택시를 자주 이용하는 분들이라면 한번쯤 대형승합차 형태의 택시를 타본 경험이 있을 겁니다. 일반 중형택시와 달리 대형택시는 탄력요금제가 적용되기 때문에 수요 · 공급 상황에 따라 택시 요금이 평소보다 더 낮아지거나 높아집니다. 최근에는 일반 중형택시에도 이같은 탄력요금제를 적용하자는 얘기가 나오고 있죠. 심야 택시 대란을 해소하기 위해서인데, 과연 효율적인 전략일까요?# 수요 · 공급의 원리 = 골프공, 제주도행 비행기표, 좋아하는 아이돌 가수의 레어 포카(포토카드), 자동차에 넣을 기름. 이 상품들에는 한가지 공통점이 있습니]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76c609aa21f5652241120a5ad6ec5cddaa0fdc00/e7d8e6110f1a4d8b152ed6a553d5a969.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 권성동 의원도 2015년 '행정입법 통제 강화'에 찬성했다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4180</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4180</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 행정입법에 대한 국회 통제를 강화하는 내용의 법률 개정안을 더불어민주당이 여당의 반대에도 발의...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVlpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea030ab1ffd1dcf10c8ef3bab72caad1ff01096d/29f96e34700320d32372f3add06459ee.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니] 욕설·고성 시위‥집시법 강화가 답?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4179</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4179</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 앞서 보신 것처럼, 지금 전현직 대통령의 사저 앞에서 사상 초유의 집회 대결이 펼쳐지고 있습니다. 이런 게 가능한 이유는 헌법이 보장하는 표현의...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff15f17b86a0a004348e5a8161cf20dfc209b91d/666108ea10702f3a6b511bb0fc6ca21a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] “권성동 ‘국회 패싱 방지법’ 박근혜 땐 찬성, 지금은 반대?”]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4178</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4178</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2015년도에 이것과 거의 유사한 유승민 국회법 개정 파동 그때, 권성동 의원께서는 이 법 찬성하셨고 또 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3dbf87d1bd5d03b3457f26fb913bb5920eebd37c/89d5c130e2f79d9808e2949227007058.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '편중 인사 논란' 윤석열 정부, 文 정부와 비교하면?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4177</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4177</guid>
-            <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 인사를 두고 서오남 편중 논란이 일었습니다. 여기에 검사 출신이 너무 많다, 최근에는 기획재정부 출신도 만만치 않다는 지적도 나왔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1pIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0862f49654a92cb1ca02d7c22a2bef7c675ad926/79bcd646e82c6c24b1581afce389c5ac.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
