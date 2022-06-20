@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <title><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/407</link>
             <guid>https://factchecker.or.kr/fc_subjects/407</guid>
-            <pubDate>Mon, 20 Jun 2022 07:13:10 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2022 07:13:01 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -469,6 +469,13 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--81ce768d667885262f3bcfa7992e053b7387ef42/7a014966e3ffb84bd59ab1c202615075.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/133</link>
+            <guid>https://factchecker.or.kr/fc_publications/133</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1. 북한 방사포전방에 배치된 170mm 자주포와 240mm 방사포는 수도권 지역에 대한 기습적인 대량 집중 공격이 가능하다. 최근 사거리 연장과 정밀 유도가 가능한 300mm 방사포와 대구경방사포를 개발해 한반도 전역을 타격할 수 있는 방사포 위주로 화력을 보강하고 있다. 북한은 5500여 문의 방사포를 보유하고 있다.&nbsp;2. 사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않았을까?- 대체로 사실.해당 명제의 사실 여부를 확인하기 위해 과거 방사포 발사 기록 비교를 했다. 아래는 2020년 국방백서에 나오는 북한 미사일 시험발사 현황이다.아래는 2022년 북한의 방사포 발사 날짜이다. 자체 조사 결과 2021년에는 방사포로 명명된 발사체를 찾을 수 없었다.국방백서와 언론 보도를 인용해 최근 북한의 방사포 발사 일지를 재구성해 봤다.공개 여부에 나오는 언론에 공개된 시간은 합동참모본부, 국방부 보도자료 및 공식 홈페이지 등에서 확인이 어려웠다. 언론...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SPC 그룹의 파리바게뜨 사회적 합의 이행 사실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/132</link>
             <guid>https://factchecker.or.kr/fc_publications/132</guid>
@@ -554,14 +561,6 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
 법률 제7382호 「교통약자의이동편의증진법」 (약칭: 교통약자법, 2005년 1월 27일 제정, 2006년 1월 28일 시행)에서 처음으로 이동권이 명시되었으며 건설교통부(현 국토교통부)의 의무를 밝히고 있습니다.&nbsp;
 
 제1조(목적) 이 법은 교통약자가 안전하고 편리하게 이동할 수 있도록 교통수단ㆍ여객시설 및 도로에 이동편의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[탄산음료를 마시고 바로 양치하면 안 되는 것인가? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/111</link>
-            <guid>https://factchecker.or.kr/fc_publications/111</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1. 뼈&nbsp;&nbsp; 치아는 뼈이고 뼈는 비교적 단단하고 가벼운 합성 물질이며, 수산화인회석이라고 하는 인산칼슘으로 대부분 이루어진 화합물이다. 이는 비교적 높은 압축강도를 가지고 있지만 낮은 인장강도를 가진다. 뼈는 기본적으로 깨지기 쉬우나 자체 유기성분(주로 콜라겐) 때문에 눈에 띌 정도의 탄력성을 가진다. 뼈는 내부적으로 망사 구조이며, 밀도는 위치마다 다양하며 신체를 지탱하는 역할을 하는 단단한 조직을 말하며 우리 몸은 206개의 뼈로 구성되어 있다.&nbsp; 뼈는 우리 몸의 구조를 지지하고 내부 장기를 보호하며 근육수축 시 지렛대 역할을 하여 운동을 도와주는 역할을 한다.
-&nbsp; 뼈를 이루는 세포는 뼈 조상세포, 뼈모세포, 뼈세포, 뼈파괴세포, 뼈표면세포가 있고, 우리 몸의 뼈는 긴뼈, 짧은뼈, 납작뼈, 불규칙뼈, 종자뼈로 분류할 수 있다.&nbsp;&nbsp; 긴뼈 : 뼈의 일반적인 형태로 관형구조로 중앙에 골수가 존재함.&nbsp;&nbsp; 짧은뼈 : 긴뼈와 유사한 구조이나 골수공간은 없음&nbsp;&nbsp; 납작뼈 : 두개의 치밀뼈...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
