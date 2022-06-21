@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플랫폼 정책, 범부처 합동으로 추진 예정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4207</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4207</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 “플랫폼 정책은 범부처 합동으로 추진할 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a6395fe9748132d4bf4983e1e1680ed8acfab7f/9c69092f7cfe082a24cac032726fe92e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[편의점 1회용컵 수거센터 포함 여부, 참여 매장에 한해 검토 예정]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4195</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “종부세 산정 시 일시적 2주택, 상속주택 등을 주택 수에서 제외하는 방안의 구체적 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b2b7fbf71abc2db3a872e76d22881d841aa4a51d/6cbe886a30401119abd32767f4e0ee91.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 복귀 기업 세제지원 요건 완화 등 구체내용 결정된 바 없어]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4159</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4159</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “국내 복귀 기업에 대한 세제지원 요건 완화 등의 구체적 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--81ce768d667885262f3bcfa7992e053b7387ef42/7a014966e3ffb84bd59ab1c202615075.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
