@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-21T07:12:25.104Z</updated>
+    <updated>2022-06-21T08:27:39.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[음식물 흔적이 있어도 재활용이 가능한가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/705</id>
+        <link href="https://factchecker.or.kr/fc_suggests/705"/>
+        <updated>2022-06-21T08:26:50.636Z</updated>
+        <content type="html"><![CDATA[요즘 아파트 엘리베이터 인포메이션 화면에 배달의 민족 광고와 같이 음식물 흔적이 남아있는 플라스틱의 재활용 방법이 안내로 나오는데요.
+배달음식을 먹고 나서 용기를 설거지하면 흰색 용기에 음식물 흔적이 남아있어도 재활용이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[횡령 사건 이후 오스템 임플란트 호재?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/704</id>
@@ -80,13 +88,5 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
         <updated>2022-06-09T08:18:17.071Z</updated>
         <content type="html"><![CDATA[뉴욕포스트라는 외신을 인용한 기사인데요. 이 기사를 보니까 뉴욕포스트 기사를 인용하면서 트럼프 정부보다 바이든 정부에서 코로나19로 사망한 미국 국민이 더 많다는 주장을 그대로 전달하더라고요. 이거 진짜 사실인가요?
 그리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1일 영양제 40알 복용?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/695</id>
-        <link href="https://factchecker.or.kr/fc_suggests/695"/>
-        <updated>2022-06-07T03:49:37.213Z</updated>
-        <content type="html"><![CDATA[[사장님 귀는 당나귀 귀] 여에스더 뉴 보스 합류...서울대 의학박사+연매출 천억 CEO - 스타연예 - KBS연예
-의학박사이자 건강기능식품 회사 대표인 여에스더씨가 방송에 나와 자신은 영양제를 하루에 30알씩, 요즘엔 ...]]></content>
     </entry>
 </feed>

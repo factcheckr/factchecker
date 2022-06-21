@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[음식물 흔적이 있어도 재활용이 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/705</link>
+            <guid>https://factchecker.or.kr/fc_suggests/705</guid>
+            <pubDate>Tue, 21 Jun 2022 08:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 아파트 엘리베이터 인포메이션 화면에 배달의 민족 광고와 같이 음식물 흔적이 남아있는 플라스틱의 재활용 방법이 안내로 나오는데요.
+배달음식을 먹고 나서 용기를 설거지하면 흰색 용기에 음식물 흔적이 남아있어도 재활용이 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[횡령 사건 이후 오스템 임플란트 호재? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/704</link>
             <guid>https://factchecker.or.kr/fc_suggests/704</guid>
@@ -299,14 +307,6 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
             <pubDate>Thu, 09 Jun 2022 08:18:17 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕포스트라는 외신을 인용한 기사인데요. 이 기사를 보니까 뉴욕포스트 기사를 인용하면서 트럼프 정부보다 바이든 정부에서 코로나19로 사망한 미국 국민이 더 많다는 주장을 그대로 전달하더라고요. 이거 진짜 사실인가요?
 그리...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1일 영양제 40알 복용? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/695</link>
-            <guid>https://factchecker.or.kr/fc_suggests/695</guid>
-            <pubDate>Tue, 07 Jun 2022 03:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[[사장님 귀는 당나귀 귀] 여에스더 뉴 보스 합류...서울대 의학박사+연매출 천억 CEO - 스타연예 - KBS연예
-의학박사이자 건강기능식품 회사 대표인 여에스더씨가 방송에 나와 자신은 영양제를 하루에 30알씩, 요즘엔 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
