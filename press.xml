@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전화콜 되고 앱 안 되고 … 대리운전 논란과 기계적 결정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4208</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4208</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 마침내 대리운전 산업이 ‘중소기업 적합업종’으로 지정됐습니다. 이로써 대리운전 시장에 신규 대기업이 진출하는 일이 사실상 불가능해졌습니다. 결과만 두고 보면 기존 대리운전 업계가 환영할 만합니다. 하지만 업계에선 이번 결론이 ‘반쪽짜리 심의’에 불과하다면서 불만을 내비칩니다. 또다른 한편에선 대리운전 산업의 중기적합업종 지정을 반대하는 목소리도 흘러나옵니다. 대리운전 중기적합업종 논란, 첫번째 편입니다. 안도의 한숨을 내쉬어야 할까요, 위험을 알리는 경고음을 울려야 할까요. 최근 ‘뜨거운 이슈’로 떠오른 대리운전 시장을]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcd3e49fcaf5f62128e23fa6e20350f0f6edf983/7188827da645688f0a59ef75643a9eec.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4206</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 18 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 2017년 여름휴가 하루 연기하고 NSC 주재... 휴가 도중 발사한 사례도 포함]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--174fa299c2669cdffadc28cc6f8b6110a2c25099/0c3daedf10af97f6c033ee96ea6695fd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓']]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4197</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4197</guid>
-            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 인과관계 증명 어렵고 공공임대주택, 만족도·긍정적 영향 조사 결과 존재]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1943e75a18e1b14934cc99d63655bcb43efdb316/71de62a27a4632efbbfd031506196dc0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

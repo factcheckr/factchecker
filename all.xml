@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,6 +309,14 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
 그리...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전화콜 되고 앱 안 되고 … 대리운전 논란과 기계적 결정 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4208</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4208</guid>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 마침내 대리운전 산업이 ‘중소기업 적합업종’으로 지정됐습니다. 이로써 대리운전 시장에 신규 대기업이 진출하는 일이 사실상 불가능해졌습니다. 결과만 두고 보면 기존 대리운전 업계가 환영할 만합니다. 하지만 업계에선 이번 결론이 ‘반쪽짜리 심의’에 불과하다면서 불만을 내비칩니다. 또다른 한편에선 대리운전 산업의 중기적합업종 지정을 반대하는 목소리도 흘러나옵니다. 대리운전 중기적합업종 논란, 첫번째 편입니다. 안도의 한숨을 내쉬어야 할까요, 위험을 알리는 경고음을 울려야 할까요. 최근 ‘뜨거운 이슈’로 떠오른 대리운전 시장을]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcd3e49fcaf5f62128e23fa6e20350f0f6edf983/7188827da645688f0a59ef75643a9eec.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 서해 공무원 피살 당시 '월북'은 큰 쟁점 아니었다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4206</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4206</guid>
@@ -381,12 +389,28 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--174fa299c2669cdffadc28cc6f8b6110a2c25099/0c3daedf10af97f6c033ee96ea6695fd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA["임대주택서 정신질환자 나온다" 성일종 주장 '대체로 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4197</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4197</guid>
-            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 인과관계 증명 어렵고 공공임대주택, 만족도·긍정적 영향 조사 결과 존재]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1943e75a18e1b14934cc99d63655bcb43efdb316/71de62a27a4632efbbfd031506196dc0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[기재부, 객관적·중립적으로 예타제도 운영 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4211</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4211</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “객관적·중립적으로 예타제도를 운영하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--667bd6feec7bd0a607420ada0c7cec69f57ae770/a4b00139457ae4597e22fcf588d39a21.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[53조 초과세수 미리 파악할 수 있었다? 전혀 사실과 달라 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4210</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4210</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “53조원의 초과세수를 미리 파악할 수 있었다는 것은 전혀 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae3d0b021b2938efbb29e468d2be56be56ed575d/1d8331568523289d1ca10b6abcc42bc5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기부, 민간연구개발협의체 참여기업 선정에 관여한 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4209</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4209</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 “민간연구개발협의체 참여기업의 구성은 한국산업기술진흥협회가 주관해 독립적으로 추진한 것으로, 해당 협의체 참여기업 선정에 관여한 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--efef4f66cbb0ca9ca801f7f229f7b901b67806d3/3421c049514e6be23f217320f15eb2c2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[플랫폼 정책, 범부처 합동으로 추진 예정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -443,30 +467,6 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 “서울대학교가 2명의 교원에 대해 징계요구를 하지 않아 통보받은 범죄사실 7건의 징계시효가 도과 되어 서울대총장에게 그 책임을 물어 경징계 처분을 요구 한 것”이라며 “서울대학교 종합감사 처분이 부당하다는 주장은 사실이 아니다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e21a39397e9c2745381ba080f6c983db217fd1f/f039cbb6a2832c9cbb0ba7da1ec191bd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산공원 시범개방 이용시간, 관람객 편의 등 종합 고려해 계획 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4165</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4165</guid>
-            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “용산공원 시범개방 행사는 과거 부산시민공원(캠프 하야리아) 임시개방 사례, 1일 개방시간(10시간)과 입장 회차(5회), 편의시설 수용량, 공원 평균 이용실태 등을 종합적으로 고려해 1회 평균 이용시간을 2시간으로 계획했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc86913225edea27a80212ff663a120536643faf/7b7d42823f1439c1762adc4379c9851f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“고용부 장관, 새 정부 고용노동정책 등 알리기 위해 ILO 총회 참석” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4164</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4164</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “새 정부의 고용노동정책과 노동가치 존중 의지를 알리기 위해 장관이 제110차 ILO 총회에 참석했다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd305b640af79f009327955d225a063ef7f44879/677c9336deb8b0df6acda77ae1b103f8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[종부세 산정때 일시적 2주택 등 주택 수 제외방안, 구체내용 결정 안돼 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4160</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4160</guid>
-            <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “종부세 산정 시 일시적 2주택, 상속주택 등을 주택 수에서 제외하는 방안의 구체적 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b2b7fbf71abc2db3a872e76d22881d841aa4a51d/6cbe886a30401119abd32767f4e0ee91.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
