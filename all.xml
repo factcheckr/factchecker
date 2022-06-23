@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국 연구진이 외계 문명의 신호를 확인했다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/706</link>
+            <guid>https://factchecker.or.kr/fc_suggests/706</guid>
+            <pubDate>Thu, 23 Jun 2022 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[기사를 보니까 중국 베이징 사범대 천문학과 연구진이 외계 신호를 확인했다고 합니다.
+그런데 이 기사 출처가 중국 언론을 인용한 뉴욕포스트라는 외신입니다. 그리고 기사 내용을 보니까 전파 혼선일 가능성도 있다고 하는데요.
+...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[음식물 흔적이 있어도 재활용이 가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/705</link>
             <guid>https://factchecker.or.kr/fc_suggests/705</guid>
@@ -299,14 +308,6 @@ ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁
             <content:encoded><![CDATA[181m2의 김포땅(과수원)을 2020년 3월에 153,500,000원에 구입하고 동년 10월말에 준공이 났읍니다.
 최근 김포시에서 개발분담금이 약 1.100만원 나왔읍니다.
 개시시점(개발허가시점) 2019년 5월부로...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 정부보다 바이든 정부에서 미국 내 코로나19 사망자가 더 많나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/696</link>
-            <guid>https://factchecker.or.kr/fc_suggests/696</guid>
-            <pubDate>Thu, 09 Jun 2022 08:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕포스트라는 외신을 인용한 기사인데요. 이 기사를 보니까 뉴욕포스트 기사를 인용하면서 트럼프 정부보다 바이든 정부에서 코로나19로 사망한 미국 국민이 더 많다는 주장을 그대로 전달하더라고요. 이거 진짜 사실인가요?
-그리...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] 한국인 콩쿠르 입상자는 얼마나 되나요 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
