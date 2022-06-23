@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통합고용 세액공제 구체 내용 결정된 바 없어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4218</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4218</guid>
+            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “통합고용 세액공제의 공제규모 등 구체적 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca2fdf044cd2b81627ad6687f9ced472bd5bd12d/97bdef66d7e91727fa9953733200361d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[기재부, 객관적·중립적으로 예타제도 운영 중]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4211</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부 등 관계부처는 “격리의무 해제 여부에 대해서는 관계부처 협의 중”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea8ba9e37019401bab106340341c351da120f215/c6f243934c390a3c357299f32f0ecb97.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울대학교 종합감사 처분 부당? 사실 아니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4168</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4168</guid>
-            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부는 “서울대학교가 2명의 교원에 대해 징계요구를 하지 않아 통보받은 범죄사실 7건의 징계시효가 도과 되어 서울대총장에게 그 책임을 물어 경징계 처분을 요구 한 것”이라며 “서울대학교 종합감사 처분이 부당하다는 주장은 사실이 아니다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e21a39397e9c2745381ba080f6c983db217fd1f/f039cbb6a2832c9cbb0ba7da1ec191bd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

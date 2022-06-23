@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 한국인 콩쿠르 입상자는 얼마나 되나요]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4217</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4217</guid>
+            <pubDate>Thu, 23 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 반 클라이번 콩쿠르에서 우승을 거머쥔 임윤찬 피아니스트에 대한 주목도가 유독 큽니다. 18살이라는 어린 나이, 순수 국내파라는 개인적 스토리 때문만은 아닐 겁니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11d7d3cf57e3a0da3c0dc3ecde1f37834031632f/6ffb443c858f618f08d9e7cb0d3ccb84.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[알고보니] '20대에 주거 사다리'‥가능한가?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4216</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020년 9월 일어난 ‘서해 공무원 피살 사건’을 놓고 여야 간 진실공방이 거셉니다. 여당인 국민의힘은 당시...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--db81f9f81a49613baf2a11e6e7f618ea9b0174b8/c112e43da47e833374bb37dfe13a46ca.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하태경 “해경 ‘서해 공무원 피살 사건’ 조류 방향 말 바꿔”… 사실일까 [FACT IN 뉴스]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4203</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4203</guid>
-            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서해 피격 공무원 피살 사건 당시 조류의 방향은 북쪽이었다? 국민의힘 하태경 의원은 지난 17일 CBS 라디오 김현정의 뉴스쇼에 출연해 이같이 주장했다. 조류의 방향은 그동안 북한군에 의해 피격된 공무원 이모(당시 47세)씨가 월북했을 것으로 보는 주요 근거 중 하나였다. 앞...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3b0a9a0ee8f0ce0a26a3867c07dcd95ee2c42678/4bec6952a647cff61be12eebc54d9c63.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
