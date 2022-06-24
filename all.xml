@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,16 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[스페인이 영국 관광객들 때문에 해변 노상방뇨 법안을 개정하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/707</link>
+            <guid>https://factchecker.or.kr/fc_suggests/707</guid>
+            <pubDate>Fri, 24 Jun 2022 10:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 종식되면 여행 갈 곳을 찾다보니까 이런 기사를 봤네요.
+영국 여행객들 때문에 스페인에서 법안을 개정한다던데요.
+읽어보니까 영국 여행객 때문은 아닌 것 같은데 기사를 되게 모호하게 썼더라고요.
+그리고 스페인에서...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[중국 연구진이 외계 문명의 신호를 확인했다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/706</link>
             <guid>https://factchecker.or.kr/fc_suggests/706</guid>
@@ -299,15 +309,6 @@
             <pubDate>Sun, 12 Jun 2022 13:19:58 GMT</pubDate>
             <content:encoded><![CDATA[매월 1일에 입대한 병사는 전 달에 입대한 사람과 같이 진급하는지 궁금합니다
 ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁금합니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개발부담금 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/697</link>
-            <guid>https://factchecker.or.kr/fc_suggests/697</guid>
-            <pubDate>Sat, 11 Jun 2022 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[181m2의 김포땅(과수원)을 2020년 3월에 153,500,000원에 구입하고 동년 10월말에 준공이 났읍니다.
-최근 김포시에서 개발분담금이 약 1.100만원 나왔읍니다.
-개시시점(개발허가시점) 2019년 5월부로...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "일하자"며 '월 3회 회의'…국회는 잘 지켰나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
