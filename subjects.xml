@@ -4,9 +4,18 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람에게 상해 입힌 개, 계속 기를 수 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/410</link>
+            <guid>https://factchecker.or.kr/fc_subjects/410</guid>
+            <pubDate>Mon, 27 Jun 2022 08:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[이웃집에서 키우는 풍산개 5마리에게 7살 아이가 물려 다쳤다는 내용이 최근 국회 국민동의청원 게시판에 올라왔습니다. (https://petitions.assembly.go.kr/status/onGoing/DD5203BA860E21A3E054B49691C1987F)
+아이가 크게 다쳤는데도, 이웃집에서는 계속 개를 기르려 한다면서 피해자 부모는 분통을 터뜨렸습니다. 청원인은 풍산개가 맹견에 속하지 않는다는 이유만으로. 심지어 사람을 물어 뜯어놓았어도. 개는 견주의 보호를 받을 수 있습니다라고 말했습니다. 사람을 다치게 했더라도 개 주인은 계속 개를 기를 수 있는지 확인 해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['욕설 시위' 막는 집시법 개정안, 표현의 자유 침해 소지 있다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/408</link>
@@ -105,15 +114,6 @@
 5월 21일 뉴시스 인터뷰에서는
 특정 나이, 60대 나이에 특정 지역의 특정 학교 출신, 특정 성별인 남성 위주로 완벽하게 끼리끼리 내각으로 만든 이 내각으로 어떻게 고물가, 고유가, 고환율, 고이자로 경제에 어려움을 겪고 있는데 나라를 끌고 갈지 안타깝다고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['여가부 폐지' 여론조사, 찬성 압도적으로 높다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/389</link>
-            <guid>https://factchecker.or.kr/fc_subjects/389</guid>
-            <pubDate>Tue, 24 May 2022 01:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[대통령직인수위원회(인수위)가 지난 3일 ‘윤석열 정부 110대 국정과제’를 발표했습니다. 대선 기간 동안 윤석열 당선인의 대표 ‘한 줄 공약’이었던 ‘여성가족부 폐지’가 국정과제에 포함되지 않자, 일각에선 ‘공약 파기’ 논란이 일었습니다. 인수위는 이틀 뒤인 지난 6일, ‘여가부 폐지’를 골자로 하는 정부조직법 일부개정법률안을 추가로 발의해 논란 수습에 나섰습니다. 개정안은 행정각부에서 여성가족부를 폐지하는 내용을 담고 있습니다. 기존 여가부에서 실시해왔던 여성 관련 정책은 일부 이관되거나 상당수가 삭제될 것으로 보입니다.
-그동안 인수위 측이 여가부 폐지 주장의 근거로 내세운 건, 바로 폐지에 찬성하는 국민적 여론이 높다는 겁니다. 실제 여론조사를 인용한 언론보도들을 보면 ‘여가부 폐지 찬성 여론이 과반이 넘는다’는 식의 기사를 찾아볼 수 있습니다. 하지만 다른 여론조사를 소개한 기사에선 ‘여가부를 존치해야한다’는 응답이 훨씬 높은 것으로 나오기도 합니다. 왜 이런 차이가 나오...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
