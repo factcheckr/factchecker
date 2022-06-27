@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-27T01:10:25.175Z</updated>
+    <updated>2022-06-27T03:47:21.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 비과세연금]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/711</id>
+        <link href="https://factchecker.or.kr/fc_suggests/711"/>
+        <updated>2022-06-27T03:46:35.089Z</updated>
+        <content type="html"><![CDATA[https://youtu.be/umWuyQYfFaI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전력 공급예비율 연중 최저, 올해만의 일인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/710</id>
+        <link href="https://factchecker.or.kr/fc_suggests/710"/>
+        <updated>2022-06-27T03:46:35.102Z</updated>
+        <content type="html"><![CDATA[전력 공급예비율 연중 최저치… 올 여름 블랙아웃 되나 - 머니S (mt.co.kr)
+&nbsp;
+이른 무더위로 전력 예비율이 연중 최저치를 기록하고 있다는 보도들이 쏟아지고 있습니다. 6~8월에 전력 예비율이 낮아지는 건 자연스러...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최저임금 1만원으로 인상하면 일자리 16만 5천개 감소]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/709</id>
+        <link href="https://factchecker.or.kr/fc_suggests/709"/>
+        <updated>2022-06-27T03:46:35.103Z</updated>
+        <content type="html"><![CDATA[https://www.yna.co.kr/view/AKR20220626030900003?section=search
+&nbsp;
+기사 전문에서 1만원으로 최저임금 인상시 최소 6만 8천개, 최대 16만 5천개의 일자리가 감소할 전망이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어콘제습기능효과]]></title>
         <id>https://factchecker.or.kr/fc_suggests/708</id>
@@ -66,30 +91,5 @@
         <updated>2022-06-15T04:29:37.608Z</updated>
         <content type="html"><![CDATA[트위터를 보다가 확인이 필요한 정보가 있어서 제보합니다.
 트윗 내용은 윤석열 대통령 부부가 영화를 보거나 시장을 돌아다니는 등 퇴근 후에, 쉬는 날에 무엇을 했는지를 다룬 보도가 대통령으로서 화물연대 파업 등 주요사안 대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동양인은 유전자부터 행복하지 않게 설계 됐다는 주장이 사실인가요????]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/701</id>
-        <link href="https://factchecker.or.kr/fc_suggests/701"/>
-        <updated>2022-06-15T03:30:59.718Z</updated>
-        <content type="html"><![CDATA[커뮤니티를 보니까 동양인이 식습관 관리가 중요하다면서 유전자부터 행복하지 않게 설계됐다고 얘기하더라고요.
-근데 이게 진짜 사실인가요????
-인종마다 유전자의 차이가 있을 것 같긴 한데요. 행복함이라는 건 주관적인 영역인데...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 용산 공원 미군 기지 내 정화작업은 이루어지지 않고 있나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/700</id>
-        <link href="https://factchecker.or.kr/fc_suggests/700"/>
-        <updated>2022-06-14T16:18:52.268Z</updated>
-        <content type="html"><![CDATA[https://www.yonhapnewstv.co.kr/news/MYH20220614017300641?input=1825m
-&nbsp;
-이 기사 내용에 따르면 용산 공원 내 오염 물질의 검출량이 기준치를 뛰어넘을 정도로 많이 검출...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ㆍ]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/699</id>
-        <link href="https://factchecker.or.kr/fc_suggests/699"/>
-        <updated>2022-06-14T03:47:31.324Z</updated>
-        <content type="html"><![CDATA[ㆍ]]></content>
     </entry>
 </feed>
