@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-26T23:13:51.731Z</updated>
+    <updated>2022-06-27T01:10:25.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에어콘제습기능효과]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/708</id>
+        <link href="https://factchecker.or.kr/fc_suggests/708"/>
+        <updated>2022-06-27T01:09:41.118Z</updated>
+        <content type="html"><![CDATA[에어콘제습기능이 효과가 있는지?
+의견이 많은데,
+어느 정도 효과가 있는지 알고 싶네요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페인이 영국 관광객들 때문에 해변 노상방뇨 법안을 개정하나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/707</id>
@@ -82,13 +91,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/699"/>
         <updated>2022-06-14T03:47:31.324Z</updated>
         <content type="html"><![CDATA[ㆍ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인 병사 1일군번 진급]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/698</id>
-        <link href="https://factchecker.or.kr/fc_suggests/698"/>
-        <updated>2022-06-12T13:19:58.599Z</updated>
-        <content type="html"><![CDATA[매월 1일에 입대한 병사는 전 달에 입대한 사람과 같이 진급하는지 궁금합니다
-ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁금합니다]]></content>
     </entry>
 </feed>

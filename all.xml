@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 01:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[에어콘제습기능효과 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/708</link>
+            <guid>https://factchecker.or.kr/fc_suggests/708</guid>
+            <pubDate>Mon, 27 Jun 2022 01:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[에어콘제습기능이 효과가 있는지?
+의견이 많은데,
+어느 정도 효과가 있는지 알고 싶네요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스페인이 영국 관광객들 때문에 해변 노상방뇨 법안을 개정하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/707</link>
             <guid>https://factchecker.or.kr/fc_suggests/707</guid>
@@ -301,14 +310,6 @@
             <guid>https://factchecker.or.kr/fc_suggests/699</guid>
             <pubDate>Tue, 14 Jun 2022 03:47:31 GMT</pubDate>
             <content:encoded><![CDATA[ㆍ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[군인 병사 1일군번 진급 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/698</link>
-            <guid>https://factchecker.or.kr/fc_suggests/698</guid>
-            <pubDate>Sun, 12 Jun 2022 13:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[매월 1일에 입대한 병사는 전 달에 입대한 사람과 같이 진급하는지 궁금합니다
-ex: 11월 1일에 입대한 사람이 10월 군번과 같이 진급하는지 궁금합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "일하자"며 '월 3회 회의'…국회는 잘 지켰나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
