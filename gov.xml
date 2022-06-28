@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄소중립설비 지원사업은 중소기업 우선 지원]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4241</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4241</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부는 “탄소중립설비 지원사업은 중소기업을 우선적으로 지원하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--953b670a0a53ce81571d9e18aba4c24d6a9daa92/8f79332b6dc6d0e9a8fadcd33e8bf517.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[정신질환자 복지서비스 확대 및 실태조사 등 가족돌봄 지원]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4236</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부는 “편의점의 1회용컵 수거센터 포함 여부는 업계 의견을 듣고 참여 매장에 한해 검토할 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f64471dfb585aec4a97bd74b74bead28f2cd1b8/5490bf3e6adde2853191722599cf6154.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법 입시컨설팅 처벌 규정 등 없다? 사실 아니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4194</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4194</guid>
-            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[교육부는 “불법 입시컨설팅을 단속할 방법도, 적발될 시 처벌할 규정도 없다는 것은 사실이 아니다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e85cd8d0fb7bce081110534145615a460e636d1/e7e3a5be4b167033d694b6dd8bc964d5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
