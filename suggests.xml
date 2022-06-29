@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-06-29T08:19:11.090Z</updated>
+    <updated>2022-06-29T09:14:34.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO 사무총장이 코로나19 발병 원인을 지목했나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/713</id>
+        <link href="https://factchecker.or.kr/fc_suggests/713"/>
+        <updated>2022-06-29T09:12:47.938Z</updated>
+        <content type="html"><![CDATA[WHO 사무총장이 우한 바이러스 연구소를 코로나19 발병 원인으로 믿는다는 걸 제목으로 한 기사가 나왔는데요.
+이런 비슷한 얘기를 작년에도 들은 적이 있던 것 같은데 WHO가 공식적으로 발표를 한 것이 아니라고 알고 있거...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핸드폰을 오래 사용하면 일찍 죽는다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/712</id>
@@ -83,14 +91,5 @@
         <content type="html"><![CDATA[https://twitter.com/snorelion/status/1537389339704889344?s=21&amp;t=I7ZaFSfqJ34F2mC7lMJyWQ
 &nbsp;
 이거 사실인가요? 이거 보고 검색을 해봤는데 과연 사실인지 의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 진짜 인도에서 쓰레기를 처리하는 영상이 맞습니까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/703</id>
-        <link href="https://factchecker.or.kr/fc_suggests/703"/>
-        <updated>2022-06-16T09:17:23.333Z</updated>
-        <content type="html"><![CDATA[인도와 중국에서는 이렇게 쓰레기를 처리한다고 합니다.
-영상을 보면 트럭에 쓰레기를 잔뜩 몰고와서 강에다가 여지없이 그대로 버립니다.
-댓글을 보니까 중국과 인도가 이렇게 쓰레기를 버린다고 합니다. 정말 나쁘지 않습니까? 이...]]></content>
     </entry>
 </feed>
