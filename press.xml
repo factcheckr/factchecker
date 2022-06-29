@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 01:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노컷체크]1인당 전기사용량 '역대 최고, 세계 3위' 맞나]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4243</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4243</guid>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전문가 가정에서 전기를 쓴 게 세계 3위 수준으로 많다고 보긴 무리]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bad1d42963ca462a805a3bbdd5c24924869bb5bf/654a7c2484e313fbe2d7219fd6ff0b5d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] "숙박비 5만원, 한 끼 7천원" 누리호에 가려진 진실?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4242</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4242</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[누리호가 성공을 거두며 개발을 이끈 한국항공우주연구원 직원들이 찬사를 받고 있습니다. 그런데 이런 노고에 비해서 처우가 열악..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7ae005e450696f5f595011ccadc25cb6f3ca16a/ae4c84042e30065aa63704284f6d7aa0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크 민영화] 민간에 떠넘겨 필수의료 해결…윤석열 정부의 ‘은밀한 민영화’]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4240</link>
@@ -69,22 +85,6 @@
             <pubDate>Sat, 25 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정부가 일주일에 최대 52시간까지만 일할 수 있게 한 주 52시간제를 향후 월 단위로도 넓혀 운용하는 방...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16a9204462b557de6b6e7fa41865f247b4625ef2/790d15ad5cd18216df51f3c9e8a3dc60.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트 체크] 주92시간 일할 판? 최대한 일해도 주69시간]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4230</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4230</guid>
-            <pubDate>Sat, 25 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팩트 체크 주92시간 일할 판 최대한 일해도 주69시간 휴게 시간도 없이 토·일까지 7일내내 일해야 주92시간 가능 현실적으로 불가능한 주장 정부 주52시간 유연화案은 퇴근 후 11시간 휴식 의무화 토요일 일해도 주69시간 못넘어]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f180d028412cea9169470e93c28ad390c05aab1a/4d564847924179939c2a245195a64e34.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 집시법 개정하면 소음 피해 사라질까]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4229</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4229</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이코리아] 전·현직 대통령 사저 인근에서 집회가 연일 계속되면서, 소음으로 인한 지역주민들의 불만이 늘어나고 있다. 일각에서는 집회 및 시위에 관한 법률(이하 집시법)을 강화해 집회 시 발생하는 소음을 강력하게 규제해야 한다는 주장도 나온다.문재인 전 대통령 퇴임 전인 지난 4월 말부터 양산 사저 앞에서 보수단체들이 문 전 대통령을 비난하는 집회를 열자, 윤석열 대통령의 서초동 사저 앞에서도 지난 14일부터 양산 시위 중단을 요구하는 맞불 집회가 열리고 있다. 양측의 집회가 격렬하게 진행되는 만큼 소음과 소란으로 인한 지역주민들의]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b27221ba6f560fb2192ebaba02c98e066816b937/2d2e0df31ffb80050171f1c5bfe6443b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
