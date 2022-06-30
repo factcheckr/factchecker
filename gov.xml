@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한전 영업손실, 에너지전환 정책에 따른 비용상승 영향도 있어]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4251</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4251</guid>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “한전의 영업손실이 연료비 상승에 영향을 받는 것은 사실이지만, 에너지전환 정책에 따른 전원믹스 변화와 요금인상 억제 등에 따라 비용상승 요인이 누적된 것도 사실”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7b733904ec712ce84ef09d50d736a704a8af4df/fac137071cf2a35fb54752c0c5b65ed5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[긴급고용안정지원금은 특고·프리랜서 지원 위한 사업]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4245</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “53조원의 초과세수를 미리 파악할 수 있었다는 것은 전혀 사실과 다르다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae3d0b021b2938efbb29e468d2be56be56ed575d/1d8331568523289d1ca10b6abcc42bc5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기부, 민간연구개발협의체 참여기업 선정에 관여한 바 없어]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4209</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4209</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 “민간연구개발협의체 참여기업의 구성은 한국산업기술진흥협회가 주관해 독립적으로 추진한 것으로, 해당 협의체 참여기업 선정에 관여한 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--efef4f66cbb0ca9ca801f7f229f7b901b67806d3/3421c049514e6be23f217320f15eb2c2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
