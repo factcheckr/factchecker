@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-02T05:16:37.232Z</updated>
+    <updated>2022-07-02T06:16:20.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하반기 입주물량 서울 줄고 경기 늘고…‘전세난민’ 늘어날까  팩트체크 부탁드립니다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/715</id>
+        <link href="https://factchecker.or.kr/fc_suggests/715"/>
+        <updated>2022-07-02T06:15:35.496Z</updated>
+        <content type="html"><![CDATA[https://n.news.naver.com/article/081/0003284153?lfrom=kakao]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO 사무총장이 코로나19 발병 원인을 지목했나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/713</id>
@@ -82,14 +89,5 @@
         <updated>2022-06-21T08:26:50.636Z</updated>
         <content type="html"><![CDATA[요즘 아파트 엘리베이터 인포메이션 화면에 배달의 민족 광고와 같이 음식물 흔적이 남아있는 플라스틱의 재활용 방법이 안내로 나오는데요.
 배달음식을 먹고 나서 용기를 설거지하면 흰색 용기에 음식물 흔적이 남아있어도 재활용이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[횡령 사건 이후 오스템 임플란트 호재?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/704</id>
-        <link href="https://factchecker.or.kr/fc_suggests/704"/>
-        <updated>2022-06-17T07:13:23.540Z</updated>
-        <content type="html"><![CDATA[https://twitter.com/snorelion/status/1537389339704889344?s=21&amp;t=I7ZaFSfqJ34F2mC7lMJyWQ
-&nbsp;
-이거 사실인가요? 이거 보고 검색을 해봤는데 과연 사실인지 의...]]></content>
     </entry>
 </feed>

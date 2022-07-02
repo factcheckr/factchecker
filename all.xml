@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,6 +217,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[하반기 입주물량 서울 줄고 경기 늘고…‘전세난민’ 늘어날까  팩트체크 부탁드립니다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/715</link>
+            <guid>https://factchecker.or.kr/fc_suggests/715</guid>
+            <pubDate>Sat, 02 Jul 2022 06:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[https://n.news.naver.com/article/081/0003284153?lfrom=kakao]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[WHO 사무총장이 코로나19 발병 원인을 지목했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/713</link>
             <guid>https://factchecker.or.kr/fc_suggests/713</guid>
@@ -293,15 +300,6 @@
             <pubDate>Tue, 21 Jun 2022 08:26:50 GMT</pubDate>
             <content:encoded><![CDATA[요즘 아파트 엘리베이터 인포메이션 화면에 배달의 민족 광고와 같이 음식물 흔적이 남아있는 플라스틱의 재활용 방법이 안내로 나오는데요.
 배달음식을 먹고 나서 용기를 설거지하면 흰색 용기에 음식물 흔적이 남아있어도 재활용이 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[횡령 사건 이후 오스템 임플란트 호재? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/704</link>
-            <guid>https://factchecker.or.kr/fc_suggests/704</guid>
-            <pubDate>Fri, 17 Jun 2022 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[https://twitter.com/snorelion/status/1537389339704889344?s=21&amp;t=I7ZaFSfqJ34F2mC7lMJyWQ
-&nbsp;
-이거 사실인가요? 이거 보고 검색을 해봤는데 과연 사실인지 의...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 계속되는 토지보상비 갈등&hellip;버티는 게 유리하다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
