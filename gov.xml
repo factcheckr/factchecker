@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 01:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기차 공공급속충전요금, 7월 중 결정 예정]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4268</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4268</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부와 환경부는 “전기차 공공급속충전요금은 7월 중 결정 예정”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8c3e0aa7916e0ed97388bc747029d7b7c2b1effd/fa697abe3e860de7ad5bd1ad9a7edd2d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한전 영업손실, 에너지전환 정책에 따른 비용상승 영향도 있어]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4251</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “객관적·중립적으로 예타제도를 운영하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--667bd6feec7bd0a607420ada0c7cec69f57ae770/a4b00139457ae4597e22fcf588d39a21.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[53조 초과세수 미리 파악할 수 있었다? 전혀 사실과 달라]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4210</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4210</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “53조원의 초과세수를 미리 파악할 수 있었다는 것은 전혀 사실과 다르다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae3d0b021b2938efbb29e468d2be56be56ed575d/1d8331568523289d1ca10b6abcc42bc5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
