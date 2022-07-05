@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 국회 '개점 휴업', 이번이 유독 길었나요?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4272</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4272</guid>
+            <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한 달 넘게 미뤄졌던 여야의 원 구성 협상이 어제 극적으로 타결됐습니다. 여야 모두가 참석한 본회의에서 더불어민주당 출신 김진표 의원이 국회의장으로 공식 선출됐습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcd187badd9ba3b13227e7f93b1bd95fa1a4174d/11e66edb32329fba746e90dac3162340.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] “대기업 진출 막히면…” 현장기사와 사업주 목소리 다른 까닭]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4271</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 나토(NATO) 정상회담 기간에 나온 대통령 경제수석의 이른바 탈중국 발언으로 논란이 커지고 있습니다. [최상목/대통령실 경제수석] 지난 2...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--48ddf88e7aed23fc7f49219eac9468c0adaf70bc/d090712670622dda630e4a57a81c78b6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 침수차인 수원 중고차는 `믿거?`… 전체 4만대 중 100대만 침수 피해]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4261</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4261</guid>
-            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[`수원 중고차는 침수 중고차로 믿거(믿고 거른다)?`장마철 수도권 집중호우로 서수원 중고차매매단지 내 일부 업체가 침수피해를 입으면서 온라인 커뮤니티를 중심으로 ``수원 중고차는 침..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b61ec5357679b841bba55f691cf4c22f270f7a73/2b2e8aa3fa49dc00365b21f1872d687a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
