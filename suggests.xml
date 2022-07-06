@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-06T06:17:59.799Z</updated>
+    <updated>2022-07-06T07:14:25.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS가 민간인 신분으로 대통령을 수행했나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/719</id>
+        <link href="https://factchecker.or.kr/fc_suggests/719"/>
+        <updated>2022-07-06T07:12:40.680Z</updated>
+        <content type="html"><![CDATA[어제 뉴스를 보니까 민간인 신분인 청와대 비서관 배우자가 1호기를 타고 대통령 해외순방을 따라갔다고 하던데요.
+오늘 아침에 보니까 권성동 원내대표는 BTS도 민간인인데 문재인 대통령 수행했으니까 문제 없다고 주장하더라고요...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존엄사법 시행 이후 연명치료 받지 않겠다는 서약 100만명 돌파.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/718</id>
+        <link href="https://factchecker.or.kr/fc_suggests/718"/>
+        <updated>2022-07-06T07:12:40.681Z</updated>
+        <content type="html"><![CDATA[존엄사법 시행 후 연명치료 안 받겠다 서약 100만명 넘었다 | 연합뉴스 (yna.co.kr) 연합뉴스 서한기 기자의 기사인 저 기사를 보면 존엄사법 시행 이후에 연명치료를 받지 않겠다고 서약한 사람이 100만 명을 돌파...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 쓰레기 썩는 시간이 500년 걸린다는데 ....처음 누가, 어떻게 알게됐을까요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/717</id>
@@ -68,24 +83,5 @@
         <content type="html"><![CDATA[https://www.yna.co.kr/view/AKR20220626030900003?section=search
 &nbsp;
 기사 전문에서 1만원으로 최저임금 인상시 최소 6만 8천개, 최대 16만 5천개의 일자리가 감소할 전망이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어콘제습기능효과]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/708</id>
-        <link href="https://factchecker.or.kr/fc_suggests/708"/>
-        <updated>2022-06-27T01:09:41.118Z</updated>
-        <content type="html"><![CDATA[에어콘제습기능이 효과가 있는지?
-의견이 많은데,
-어느 정도 효과가 있는지 알고 싶네요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페인이 영국 관광객들 때문에 해변 노상방뇨 법안을 개정하나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/707</id>
-        <link href="https://factchecker.or.kr/fc_suggests/707"/>
-        <updated>2022-06-24T10:14:44.789Z</updated>
-        <content type="html"><![CDATA[코로나19가 종식되면 여행 갈 곳을 찾다보니까 이런 기사를 봤네요.
-영국 여행객들 때문에 스페인에서 법안을 개정한다던데요.
-읽어보니까 영국 여행객 때문은 아닌 것 같은데 기사를 되게 모호하게 썼더라고요.
-그리고 스페인에서...]]></content>
     </entry>
 </feed>

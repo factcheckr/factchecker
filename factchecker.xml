@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-07-06T06:17:59.796Z</updated>
+    <updated>2022-07-06T07:14:25.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -14,6 +14,19 @@
 
 기사 전문.&nbsp;
 &nbsp;
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 연방대법원이 '로 대 웨이드' 판례를 번복하자 글로벌 기업들은 낙태를 위한 여행 비용을 지원하고 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/413</id>
+        <link href="https://factchecker.or.kr/fc_subjects/413"/>
+        <updated>2022-07-06T07:12:25.230Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/413">미국 연방대법원은 24일(현지 시각) 여성의 임신중절(낙태) 권리를 인정한 로 대 웨이드 판례의 헌법적 근거가 없다고 판결했습니다. 이후 주요 언론사에서는 외신 보도를 인용해 미국의 글로벌 기업들이 직원에게 낙태를 위한 여행 비용을 지원한다고 보도했습니다. 미 대법원판결에 따라 향후 낙태를 불법화하는 주가 늘어날 가능성이 제기되고 있고, 이에 따라 기업들은 직원들이 합법적 원정 시술을 위해 이동할 수 있도록 여행 비용을 지원한다는 내용이었습니다.&nbsp;
+&nbsp;
+1. 스타벅스, 애플 등 미국 글로벌 기업에서 해당 지침을 발표한 것이 사실인지 검증하고,&nbsp;
+2. 해당 지침을 발표한 이유가 미국 대법원이 로 대 웨이드 판결을 번복한 것과 관련됐는지 검증하고자 합니다.
+&nbsp;
+
 </a>]]></content>
     </entry>
     <entry>
@@ -94,15 +107,5 @@
 
 과연 박홍근 원내대표의 주장은 타당할까요?
 </ytn라디오></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구광역시는 낙후된 상태인가?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/396</id>
-        <link href="https://factchecker.or.kr/fc_subjects/396"/>
-        <updated>2022-06-07T08:16:47.712Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/396">지방선거를 앞둔 5월 17일, 더불어민주당 대구광역시당 선대위 발대식을 방문한 윤호중 상임선대위원장은 다음과 같이 발언합니다.
-지방자치 부활 이후 대구는 국민의힘이 일당 독식해왔습니다. 그 결과는 대구가 30년 넘게 낙후를 거듭하고 있습니다.
-30년이 넘는 세월 동안 왜 대구만 발전이 멈춰졌는지 국민의힘은 대답해야 합니다. 1992년 이후에 대구의 ‘1인당 지역 내 총생산(GRDP)’은 29년째 전국 최하위를 기록 중입니다. 인구는 날이 갈수록 줄어 그 결과 이대로 가면 2045년경 대구시 자체가 지방소멸 위기에 들어갈 수 있다, 위험 단계가 아니라 고위험 단계라고 전문가들은 예측하고 있습니다. 대구를 지금까지 만들어온 국민의힘 세력, 이분들은 여기에 대해서 책임을 져야 합니다.
-</a>]]></content>
     </entry>
 </feed>
