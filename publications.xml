@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-07-06T11:13:29.558Z</updated>
+    <updated>2022-07-06T12:36:39.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카타르 월드컵에서 혼외정사를 하다가 적발되면 최대 7년 징역형에 처할 수도 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/137</id>
+        <link href="https://factchecker.or.kr/fc_publications/137"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[올해 말 개막할 카타르 월드컵과 관련해, 아래와 같은 정보가 국내 매체들을 통해 보도되었다.
+&lt;검증 대상 3가지&gt;
+
+‘카타르에 온 축구 팬들이 배우자 이외의 다른 사람과 성관계를 하다 적발되면 최대 징역 7년형에 처해질 수 있다’
+‘경기에서 동성애 상징의 일종인 무지개 깃발을 흔드는 것도 금지된다’
+
+&nbsp;
+첫번째 검증 대상은 FIFA가 월드컵 관광객을 대상으로 공식적으로 경고한 내용인 것으로 파악된다.
+두번째 검증 대상은 나세르 알 카테르 카타르 월드컵 조직위원장이 실제로 말한 내용으로 확인된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10초 동안 '한 발 서기'를 잘 못하는 중장년층은 수년 내 사망할 위험이 높다고?]]></title>
         <id>https://factchecker.or.kr/fc_publications/135</id>
@@ -102,14 +117,5 @@ CNN 기사
 해당 기준들을 종합해 볼 때, 보충역의 정의가 병역판정 검사 결과 현역 복무를 할 수 있다고 판정된 사람을 기준으로 한다 해도 사회복무요원의 경우 신체적으로 현역 복무가 불가능한 경우가 있다. 보충역 단순 정의에 따라 사회복무요원이 무조건적으로 현역 복무가 가능하다고 볼 수 없다는 점을 인식할 필요가 있다. 이는 뒤에 나올 선택권 내용에 있어 중요 관련 내용이다.(*신체검사에서는 4급이 보충역이다.)&nbsp;
 &nbsp;
 2) ILO 강제노동금지 협약 / 병역법기본소득당 용혜인 의원이 사회복무요원 제도가 ILO 강제노동 금지 협약에 위...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맨발 걷기가 무조건 좋은 건가?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/120</id>
-        <link href="https://factchecker.or.kr/fc_publications/120"/>
-        <updated>2022-04-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 우리 몸에서 발의 역할은 ?&nbsp;&nbsp;
-&nbsp; &nbsp;
-대부분의 사람들은 발에 무관심하거나 발을 무시하는 경향이 있다. ‘발길질 당하다’ ‘발에 차인다’처럼 발에 관한 말 중에는 부정적인 의미가 더 많다. 발을 이렇게 홀대해도 되는 걸까. 일찍이 레오나르도 다빈치는 사람의 발을 가리켜 ‘인간 공학 상 최대의 걸작이자 최고의 예술품’이라고 말했다. 그 이유는 발의 구조와 기능만 봐도 알 수 있다. 인체는 약 206개의 뼈로 구성돼 있는데 그중 발에만 양쪽 합쳐 52개의 뼈가 있다. 몸 전체 뼈의 4분의 1을 차지한다. 이뿐만 아니라 발에는 몸에서 가장 굵고 강한 근육이 발달해 있다. 또 우리 몸 중에서 인대가 가장 많이 밀집되어 있는 곳이기도 하다. 한쪽 발은 뼈 26개, 관절 33개, 근육 64개, 인대 56개로 이뤄져 있다. 근육은 발의 움직임 전반에 걸쳐 작용하며 인대는 격렬한 긴장과 비틀림을 견딘다. 또 발 관절들을 결합시켜 주고 외부 충격으로부터 보호하고 각 관절의 기능을 유지시켜...]]></content>
     </entry>
 </feed>
