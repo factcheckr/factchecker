@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-07-06T07:14:24.974Z</updated>
+    <updated>2022-07-06T08:17:31.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -25,6 +25,15 @@
 
 CNN 기사
 이를 토대로 팩트체...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 연방대법원이 '로 대 웨이드' 판례를 번복하자 글로벌 기업들은 낙태를 위한 여행 비용을 지원하고 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/136</id>
+        <link href="https://factchecker.or.kr/fc_publications/136"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 로 대 웨이드(Roe v. Wade) 판결이란?
+미국에서는 1970년대 초까지 대부분 주에서 임신부의 생명이 위험한 경우를 제외한 낙태를 불법으로 보고 낙태죄를 처벌했습니다. 1969년 텍사스주 댈러스의 노마 맥코비라는 여성이 강간을 당해 임신했다고 주장하며 낙태수술을 요청하게 되는데, 임신부의 생명이 위독하지 않고 성폭행 사건에 대한 경찰 보고서가 없다는 이유로 수술을 거부당했습니다. 이에 맥코비는 변호사 린다 커피, 사라 웨딩턴을 대리로 해 텍사스주를 상대로 위헌소송을 제기했고, 신변 보호를 위해 제인 로(Jane Roe)라는 가명을 사용했습니다. 이 이름과 소송의 피고인이었던 댈러스카운티 지방검사 헨리 웨이드(Henry Wade)의 이름을 따 소송의 명칭이 로 대 웨이드(Roe v. Wade)라고 불리게 됐습니다.
+지방법원을 거쳐 연방대법원까지 올라간 이 소송 결과, 대법원은 1973년 1월 22일 7대2로 낙태금지가 위헌이라는 결정을 내렸습니다. 대법원은 낙태를 처...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다?]]></title>
@@ -102,11 +111,5 @@ CNN 기사
         <content type="html"><![CDATA[1. 우리 몸에서 발의 역할은 ?&nbsp;&nbsp;
 &nbsp; &nbsp;
 대부분의 사람들은 발에 무관심하거나 발을 무시하는 경향이 있다. ‘발길질 당하다’ ‘발에 차인다’처럼 발에 관한 말 중에는 부정적인 의미가 더 많다. 발을 이렇게 홀대해도 되는 걸까. 일찍이 레오나르도 다빈치는 사람의 발을 가리켜 ‘인간 공학 상 최대의 걸작이자 최고의 예술품’이라고 말했다. 그 이유는 발의 구조와 기능만 봐도 알 수 있다. 인체는 약 206개의 뼈로 구성돼 있는데 그중 발에만 양쪽 합쳐 52개의 뼈가 있다. 몸 전체 뼈의 4분의 1을 차지한다. 이뿐만 아니라 발에는 몸에서 가장 굵고 강한 근육이 발달해 있다. 또 우리 몸 중에서 인대가 가장 많이 밀집되어 있는 곳이기도 하다. 한쪽 발은 뼈 26개, 관절 33개, 근육 64개, 인대 56개로 이뤄져 있다. 근육은 발의 움직임 전반에 걸쳐 작용하며 인대는 격렬한 긴장과 비틀림을 견딘다. 또 발 관절들을 결합시켜 주고 외부 충격으로부터 보호하고 각 관절의 기능을 유지시켜...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국장애인차별철폐연대(전장연)의 시위는 위법행위다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/118</id>
-        <link href="https://factchecker.or.kr/fc_publications/118"/>
-        <updated>2022-04-21T00:00:00.000Z</updated>
     </entry>
 </feed>
