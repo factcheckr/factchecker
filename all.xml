@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,83 +212,76 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BTS가 민간인 신분으로 대통령을 수행했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/719</link>
-            <guid>https://factchecker.or.kr/fc_suggests/719</guid>
-            <pubDate>Wed, 06 Jul 2022 07:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[어제 뉴스를 보니까 민간인 신분인 청와대 비서관 배우자가 1호기를 타고 대통령 해외순방을 따라갔다고 하던데요.
-오늘 아침에 보니까 권성동 원내대표는 BTS도 민간인인데 문재인 대통령 수행했으니까 문제 없다고 주장하더라고요...]]></content:encoded>
+            <title><![CDATA[AI가 물리치료사를 대체할 수 없다고 하는데, 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/735</link>
+            <guid>https://factchecker.or.kr/fc_suggests/735</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[https://n.news.naver.com/article/082/0000933561?sid=102
+■인공지능(AI)도 대체불가...폭넓은 진로물리치료는 보건·의료 인력 중 가장 많은 시간동안 환자들과 스킨십을 하는 직종...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[존엄사법 시행 이후 연명치료 받지 않겠다는 서약 100만명 돌파. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/718</link>
-            <guid>https://factchecker.or.kr/fc_suggests/718</guid>
-            <pubDate>Wed, 06 Jul 2022 07:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[존엄사법 시행 후 연명치료 안 받겠다 서약 100만명 넘었다 | 연합뉴스 (yna.co.kr) 연합뉴스 서한기 기자의 기사인 저 기사를 보면 존엄사법 시행 이후에 연명치료를 받지 않겠다고 서약한 사람이 100만 명을 돌파...]]></content:encoded>
+            <title><![CDATA[인간은 죽기직전 30초간 주마등을 느낀다던데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/734</link>
+            <guid>https://factchecker.or.kr/fc_suggests/734</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[https://youtu.be/pOqg_8IwbAY]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플라스틱 쓰레기 썩는 시간이 500년 걸린다는데 ....처음 누가, 어떻게 알게됐을까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/717</link>
-            <guid>https://factchecker.or.kr/fc_suggests/717</guid>
-            <pubDate>Wed, 06 Jul 2022 05:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[프라스틱 재료는 이제 100년이 좀 넘게 걸리는데...]]></content:encoded>
+            <title><![CDATA[커피 섭취량 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/733</link>
+            <guid>https://factchecker.or.kr/fc_suggests/733</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[커피를 마시는 양에 따라 득이 될 수도, 실이 될 수도 있다고 합니다.&nbsp; 얼만큼의 커피를 마시는것이 우리 몸에 제일 이로울수 있을까요?https://www.dailymedi.com/news/news_view.php?wr_...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중앙선거관리위원회는 감사원의 감사대상인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/716</link>
-            <guid>https://factchecker.or.kr/fc_suggests/716</guid>
-            <pubDate>Tue, 05 Jul 2022 08:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 권성동 원내대표가 중앙선거관리위원회가 잘못됐다면서 감사를 받아야 한다고 주장하는데요.
-감사원 감사도 법으로 정한 대상이 있을텐데 선거관리위원회가 대상이 되냐 안되냐는 별로 중요하지 않다면서 자꾸 문제가 있으니까 ...]]></content:encoded>
+            <title><![CDATA[원숭이두창에 대한 오해와 진실(동성애자간 성병) (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/732</link>
+            <guid>https://factchecker.or.kr/fc_suggests/732</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 세계보건기구 WHO 비상위원장을 지낸 데이비드 헤이만 박사는 원숭이두창 확산이 유럽에서 열린 대규모 파티에서 벌어진 동성애자의 성관계에서 비롯됐다는 것이 유력한 가설이라고 밝혔고 미국 질병통제예방센터 CDC는 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[하반기 입주물량 서울 줄고 경기 늘고…‘전세난민’ 늘어날까  팩트체크 부탁드립니다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/715</link>
-            <guid>https://factchecker.or.kr/fc_suggests/715</guid>
-            <pubDate>Sat, 02 Jul 2022 06:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/article/081/0003284153?lfrom=kakao]]></content:encoded>
+            <title><![CDATA[커피가 인지기능 저하를 막아준다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/731</link>
+            <guid>https://factchecker.or.kr/fc_suggests/731</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[https://n.news.naver.com/article/346/0000052144?sid=103
+커피가 인지기능 저하를 막아준다는 뉴스를 보았는데 사실인가요?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[WHO 사무총장이 코로나19 발병 원인을 지목했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/713</link>
-            <guid>https://factchecker.or.kr/fc_suggests/713</guid>
-            <pubDate>Wed, 29 Jun 2022 09:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[WHO 사무총장이 우한 바이러스 연구소를 코로나19 발병 원인으로 믿는다는 걸 제목으로 한 기사가 나왔는데요.
-이런 비슷한 얘기를 작년에도 들은 적이 있던 것 같은데 WHO가 공식적으로 발표를 한 것이 아니라고 알고 있거...]]></content:encoded>
+            <title><![CDATA[탄음식을 먹으면 암에 걸릴까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/730</link>
+            <guid>https://factchecker.or.kr/fc_suggests/730</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[http://www.mkhealth.co.kr/news/articleView.html?idxno=52014]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[핸드폰을 오래 사용하면 일찍 죽는다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/712</link>
-            <guid>https://factchecker.or.kr/fc_suggests/712</guid>
-            <pubDate>Mon, 27 Jun 2022 09:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[핸드폰을 오래 사용하면 일찍 죽는다는 연구가 있다고 합니다.
-그런데 핸드폰이 없었던 시기를 생각해보면 오히려 수명이 더 짧았는데 이런 연구 결과가 의미가 있는지 모르겠습니다.
-인간의 수명은 환경과 의학기술이 더 중요한 것...]]></content:encoded>
+            <title><![CDATA[치매는 정말 치료방법이 없는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/729</link>
+            <guid>https://factchecker.or.kr/fc_suggests/729</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[http://www.daejunghospital.com/treatment/dementia/?gclid=Cj0KCQjw5ZSWBhCVARIsALERCvySmojbAcUYrlXSMw1GB_t_5XQNNm3YR-SKZ24nnW...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문재인 비과세연금 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/711</link>
-            <guid>https://factchecker.or.kr/fc_suggests/711</guid>
-            <pubDate>Mon, 27 Jun 2022 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[https://youtu.be/umWuyQYfFaI]]></content:encoded>
+            <title><![CDATA[간호사 초음파 검사 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/728</link>
+            <guid>https://factchecker.or.kr/fc_suggests/728</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[간호사가 초음파를 하는 것이 정말 법 위반인가요.?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전력 공급예비율 연중 최저, 올해만의 일인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/710</link>
-            <guid>https://factchecker.or.kr/fc_suggests/710</guid>
-            <pubDate>Mon, 27 Jun 2022 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[전력 공급예비율 연중 최저치… 올 여름 블랙아웃 되나 - 머니S (mt.co.kr)
-&nbsp;
-이른 무더위로 전력 예비율이 연중 최저치를 기록하고 있다는 보도들이 쏟아지고 있습니다. 6~8월에 전력 예비율이 낮아지는 건 자연스러...]]></content:encoded>
+            <title><![CDATA[백신 냉장보관 하지 않으면 유효기간 줄어드나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/727</link>
+            <guid>https://factchecker.or.kr/fc_suggests/727</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 기사에서 0.1도씨까지 세밀하게 온도 조절이 가능한 백신 냉장고를 다뤘는데 이 기사를 보다가 백신이 온도에 예민한지 의문이 들어 백신을 냉장보관 하지 않으면 유효기간이 줄어드는지 알고 싶습니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최저임금 1만원으로 인상하면 일자리 16만 5천개 감소 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/709</link>
-            <guid>https://factchecker.or.kr/fc_suggests/709</guid>
-            <pubDate>Mon, 27 Jun 2022 03:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.yna.co.kr/view/AKR20220626030900003?section=search
-&nbsp;
-기사 전문에서 1만원으로 최저임금 인상시 최소 6만 8천개, 최대 16만 5천개의 일자리가 감소할 전망이...]]></content:encoded>
+            <title><![CDATA[원숭이 두창 재감염 우려 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/726</link>
+            <guid>https://factchecker.or.kr/fc_suggests/726</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[https://m.kin.naver.com/mobile/qna/detail.naver?d1id=11&amp;dirId=111604&amp;docId=421959493&amp;qb=65GQ7LC9IOyerOqwkOyXvA==&amp;enc=utf8&amp;s...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
