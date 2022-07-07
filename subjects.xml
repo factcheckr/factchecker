@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 03:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 04:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,6 +18,14 @@
 
 ‘경기에서 동성애 상징의 일종인 무지개 깃발을 흔드는 것도 금지된다’]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연어와 같은 냉장 수산물이 코로나19 국제전파의 매개가 되는가?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/416</link>
+            <guid>https://factchecker.or.kr/fc_subjects/416</guid>
+            <pubDate>Thu, 07 Jul 2022 04:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[연어와 같은 냉장 수산물을 비롯한 국제적으로 이동되는 냉장육, 냉동육과 냉동 수산물이 코로나19 바이러스 전파의 매개가 되었는가?]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10초 동안 '한 발 서기'를 잘 못하는 중장년층은 수년 내 사망할 위험이 높다고?]]></title>
@@ -88,24 +96,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/405</guid>
             <pubDate>Thu, 09 Jun 2022 08:18:10 GMT</pubDate>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[법사위원장 팩트체크② ‘합의문 전제조건이 지켜지지 않았다?’]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/401</link>
-            <guid>https://factchecker.or.kr/fc_subjects/401</guid>
-            <pubDate>Fri, 27 May 2022 22:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10일 박홍근 더불어민주당 원내대표의 ‘합의문 파기가 국회법 따르는 것’이라는 주장에 이어 어제(27일)는, ‘합의문 전제조건이 지켜지지 않았기에 법사위원장은 민주당이 가져와야 한다’라는 우상호 의원의 주장이 등장했습니다.
-
-어제 27일, 우상호 더불어민주당 의원이 <mbc 라디오="" 김종배의="" 시선집중="">에 나와 법사위원장은 더불어민주당이 가져와야 한다고 말했습니다.
-우상호 의원이 제시하는 근거는 이렇습니다.
-① 국민의힘이 법사위원장을 맡기로 한 합의는 사실이다② 그러나 합의에는 전제조건이 있었다.③ 그 전제조건이 지켜지지 않았다.∴ 따라서 합의는 무효다.
-
-그렇다면 우 의원이 말한 합의의 전제조건 무엇일까요? 그는 이렇게 말합니다.
-전제조건 : “법사위를 일개 상임위로 개혁한다”, “법사위를 검찰청이나 법무부 교정국만 관리하는 그런 상임위로 만든다”
-과연 법사위원장을 둘러싼 작년 여야 합의에는 이런 전제가 있었을까요? 그리고 그 전제는 지켜지지 않았을까요?
-&nbsp;
-</mbc>]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

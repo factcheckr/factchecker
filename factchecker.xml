@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-07-07T03:46:24.791Z</updated>
+    <updated>2022-07-07T04:43:33.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -17,6 +17,14 @@
 
 ‘경기에서 동성애 상징의 일종인 무지개 깃발을 흔드는 것도 금지된다’
 
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연어와 같은 냉장 수산물이 코로나19 국제전파의 매개가 되는가?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/416</id>
+        <link href="https://factchecker.or.kr/fc_subjects/416"/>
+        <updated>2022-07-07T04:42:22.793Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/416">연어와 같은 냉장 수산물을 비롯한 국제적으로 이동되는 냉장육, 냉동육과 냉동 수산물이 코로나19 바이러스 전파의 매개가 되었는가?
 </a>]]></content>
     </entry>
     <entry>
@@ -91,22 +99,5 @@
         <updated>2022-06-09T08:18:02.844Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/405">
 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법사위원장 팩트체크② ‘합의문 전제조건이 지켜지지 않았다?’]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/401</id>
-        <link href="https://factchecker.or.kr/fc_subjects/401"/>
-        <updated>2022-05-30T15:15:39.839Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/401">지난 10일 박홍근 더불어민주당 원내대표의 ‘합의문 파기가 국회법 따르는 것’이라는 주장에 이어 어제(27일)는, ‘합의문 전제조건이 지켜지지 않았기에 법사위원장은 민주당이 가져와야 한다’라는 우상호 의원의 주장이 등장했습니다.
-
-어제 27일, 우상호 더불어민주당 의원이 <mbc 라디오="" 김종배의="" 시선집중="">에 나와 법사위원장은 더불어민주당이 가져와야 한다고 말했습니다.
-우상호 의원이 제시하는 근거는 이렇습니다.
-① 국민의힘이 법사위원장을 맡기로 한 합의는 사실이다② 그러나 합의에는 전제조건이 있었다.③ 그 전제조건이 지켜지지 않았다.∴ 따라서 합의는 무효다.
-
-그렇다면 우 의원이 말한 합의의 전제조건 무엇일까요? 그는 이렇게 말합니다.
-전제조건 : “법사위를 일개 상임위로 개혁한다”, “법사위를 검찰청이나 법무부 교정국만 관리하는 그런 상임위로 만든다”
-과연 법사위원장을 둘러싼 작년 여야 합의에는 이런 전제가 있었을까요? 그리고 그 전제는 지켜지지 않았을까요?
-&nbsp;
-</mbc></a>]]></content>
     </entry>
 </feed>
