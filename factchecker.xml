@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-07-07T12:27:32.261Z</updated>
+    <updated>2022-07-07T13:38:04.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/422</id>
+        <link href="https://factchecker.or.kr/fc_subjects/422"/>
+        <updated>2022-07-07T13:37:03.408Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/422">&nbsp;
+&nbsp;英 철도, 33년 만에 최대 규모의 파업에 돌입했다?
+&nbsp;
+영국 철도노조의 파업을 보도하며 국내 언론은 33년(30여년) 만에 최대 규모라는 점을 강조하고 있다. 영국 철도노조의 파업이 ‘33년’ 만에 ‘최대 규모 파업’이라는 보도는 과연 사실일까?
+&nbsp;
+33년 만에 영국 철도 최대 파업 “인플레이션 견딜 임금 인상을”
+https://m.khan.co.kr/world/europe-russia/article/202206222148035#c2b
+&nbsp;
+[지구촌 돋보기] 英 철도 33년 만에 최대 파업…유럽 줄파업 이유는?
+https://news.kbs.co.kr/news/view.do?ncd=5495339
+&nbsp;
+&nbsp;
+철도해운운수노조(RMT)는 임금 인상과 구조조정 중단을 요구하며 파업을 결정했다.
+국내 언론은 다양한 외신을 인용하며 해당 파업 소식을 전했다.
+&nbsp;
+Great Britain faces biggest rail strike in 30 years
+가디언즈 보도에서 영국 철도 노조...
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카타르 월드컵에서 혼외정사를 하다가 적발되면 최대 7년 징역형에 처할 수도 있다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/421</id>
@@ -98,14 +122,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/408"/>
         <updated>2022-06-16T06:15:40.942Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/408">문재인 전 대통령의 양산 사저 앞 보수단체들의 고성과 욕설 시위로 논란이 계속되는 가운데, 윤석열 대통령의 서초동 자택 앞에서도 지난 14일 처음으로 집회가 열렸습니다. 집회 주최 측은 양산에서 시위가 끝날 때까지 서초동 시위를 이어가겠다고 밝혔습니다. 전현직 대통령의 사저 앞에서 사상 초유의 ‘집회 대결’이 펼쳐지고 있는 셈입니다. 양산 시위에 대한 비판이 높아지자, 관련법을 바꿔서라도 제한해야 하는 거 아니냐는 주장이 힘을 얻고 있습니다. 이에 따라 더불어민주당 의원들은 한 달 새 집회 및 시위에 관한 법률(이하 집시법) 개정안 4개를 발의했습니다. 개정안에는 전직 대통령 사저 앞 집회를 금지하고. 정치적 의견 등으로 증오를 조장하는 행위와 1인 시위까지 집시법 규제를 받도록 하는 내용이 들어있습니다. &lt;알고보니&gt;에서는 현행 집시법의 주요 내용을 살펴보고, 최근 발의된 집시법 개정안이 표현의 자유 침해등 위헌 소지가 있는지 따져봤습니다. 나아가 주요 선진국들의 집회 규정 및...
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/407</id>
-        <link href="https://factchecker.or.kr/fc_subjects/407"/>
-        <updated>2022-06-20T07:13:01.396Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/407">
 </a>]]></content>
     </entry>
 </feed>
