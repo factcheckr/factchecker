@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 01:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,6 +291,30 @@
 기사 전문에서 1만원으로 최저임금 인상시 최소 6만 8천개, 최대 16만 5천개의 일자리가 감소할 전망이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4284</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4284</guid>
+            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라의 올 상반기 무역수지가 역대 최대 적자를 기록하면서 탈(脫) 중국론을 둘러싼 논란이 커지고 있다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaThrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d7cab6933f7fbb67eb0ef02a065dbf697b147ef2/0f05e5189638cd1302eb0520a05926db.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 119 신고해도 위치추적 안 된다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4283</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4283</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 서울 가양역 인근에서 20대 여성이 실종돼 경찰이 수사에 나선 가운데, 실종자가 실종 당일 1...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874192caefb3fb52e71e29c33af279701c0822a4/55df0f2219c14095a4d3b951df0acb71.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA["연대 청소노동자 월급 300만~400만원" 고소 학생 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4282</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4282</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 학교가 지급하는 용역업체 도급비와 혼동... 급여명세서 월급은 208만 원]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ffe337af3481c1e7fa64ff0b3e3c2d628d0706e3/d8a232b160501517568ec4a2b27dccc9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크K] 휴가철 앞두고 고개드는 코로나19…7월 ‘재유행’ 오나? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4278</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4278</guid>
@@ -347,28 +371,36 @@
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2609c90f36c2acc0d49ddcb81d9d327e12090bda/fd69a5c698c1bf8995df0c6d51b832f8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트 체크] 선거판 달궜던 ‘부산 학력 저하’ 주장, 반은 맞고 반은 틀렸다 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4269</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4269</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023학년도 대학수학능력시험 6월 모의평가가 치러진 지난달 9일 오전 부산 동성고등학교에서 3학년 학생들이 시험을 보고 있다. 김종진 기자 kj...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f6b3f0fe3bff3c81ca0b8006792be0cfc01e166/52be7f766b1ff7f86315a8dce8cd252e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[미래노동시장 연구회 위원 확정된 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4288</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4288</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “노동시장 개혁의 우선 추진과제를 논의할 예정인 ‘미래 노동시장 연구회’ 위원은 현재 확정된 바 없다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--797378a5657fb1a19435e37fa70cc425ba70b873/49cccecd083acfd4817a5c7f2ec77241.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[이근 '우크라' 전쟁 참전했다는데…'사전죄' 처벌 못한다?[팩트체크] - 머니투데이 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4266</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4266</guid>
-            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사전죄, 일본 메이지 형법서 유래돼 한국 법에 이식된 법조항…일본서도 사문화돼 법정비 논의 대두돼우크라이나 외국인 의용군인 국토방위군 국제여단&amp;qu...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2a3a23123853c6bfa52c8e439c84185903094591/d8cf173311bc7a5920068c0d201e1d22.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[수소기술 R&D ‘최대 50%’ 세액공제 추진? 사실과 다르다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4287</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4287</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획재정부는 “수소기술 R&amp;D ‘최대 50%’ 세액공제를 추진한다는 내용은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--84e702c5a526f74b521e2dc06175c1c5ca5fc669/7f677d12fcd5c58f8bffa19cb1565a86.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크]수입동물 안락사 정부 맘대로 한다고?…"사실과 달랐다" (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4265</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4265</guid>
-            <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b460877e43d3e28fee48ecf2e4bdf20d6d6332a4/6f727e1685ce529cad12db5d6cd1dd50.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[합리적·실현 가능한 수준서 재생에너지 보급 지속 확대 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4286</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4286</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “합리적이고 실현 가능한 수준에서 재생에너지 보급을 지속 확대해나갈 계획이며, 국내 RE100 기업들의 이행에 차질이 없도록 관련 정책을 추진할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5396a8a4155ea397b7498d973a9953d470e8a10d/14ba8a3aaf6eb8cc7f3459be9c618875.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[근로시간 제도 개선, 주52시간제 폐지·주92시간 근무 허용 아냐 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4285</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4285</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “근로시간 제도 개선은 주52시간제를 폐지하거나 주92시간 근무를 허용하려는 것이 아니다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--507ea9fd5e95b6620c155643fb7874821b230312/ad25373e425518422a85f932836b48a2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[수입 소고기 할당관세 0% 적용 여부, 결정된 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -417,38 +449,6 @@
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부와 환경부는 “전기차 공공급속충전요금은 7월 중 결정 예정”이라고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8c3e0aa7916e0ed97388bc747029d7b7c2b1effd/fa697abe3e860de7ad5bd1ad9a7edd2d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한전 영업손실, 에너지전환 정책에 따른 비용상승 영향도 있어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4251</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4251</guid>
-            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “한전의 영업손실이 연료비 상승에 영향을 받는 것은 사실이지만, 에너지전환 정책에 따른 전원믹스 변화와 요금인상 억제 등에 따라 비용상승 요인이 누적된 것도 사실”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7b733904ec712ce84ef09d50d736a704a8af4df/fac137071cf2a35fb54752c0c5b65ed5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴급고용안정지원금은 특고·프리랜서 지원 위한 사업 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4245</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4245</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “긴급고용안정지원금은 고용안전망의 혜택을 받지 못하는 고용보험 사각지대의 특고·프리랜서를 지원하기 위한 사업”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUFqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58a7e62ee73990a4cc1903b674ee4ed6b2e36843/fa50ee2785e49f24666645421ecf17ae.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[구체적 법인세 과표구간 조정방안 내용, 결정된 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4244</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4244</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “법인세 과표구간 조정방안의 구체적 내용은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--489865992b709942b3708c88c6579c256c2ac7b7/99f63d88262eec97a33dc116ee61c2e5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소중립설비 지원사업은 중소기업 우선 지원 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4241</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4241</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부는 “탄소중립설비 지원사업은 중소기업을 우선적으로 지원하고 있다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--953b670a0a53ce81571d9e18aba4c24d6a9daa92/8f79332b6dc6d0e9a8fadcd33e8bf517.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[카타르 월드컵에서 혼외정사를 하다가 적발되면 최대 7년 징역형에 처할 수도 있다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
