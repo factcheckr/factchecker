@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-07T22:13:56.860Z</updated>
+    <updated>2022-07-07T23:14:52.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고유가가 앞으로 지속될것이다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/736</id>
+        <link href="https://factchecker.or.kr/fc_suggests/736"/>
+        <updated>2022-07-07T23:14:08.345Z</updated>
+        <content type="html"><![CDATA[국가별 나라통계에서의 석유소비량
+https://kosis.kr/statHtml/statHtml.do?orgId=101&amp;tblId=DT_2KAAE03&amp;conn_path=I2
+&nbsp;
+유가 급락기사
+https://youtu.be/...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI가 물리치료사를 대체할 수 없다고 하는데, 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/735</id>
@@ -69,12 +80,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/727"/>
         <updated>2022-07-07T03:44:36.913Z</updated>
         <content type="html"><![CDATA[어떤 기사에서 0.1도씨까지 세밀하게 온도 조절이 가능한 백신 냉장고를 다뤘는데 이 기사를 보다가 백신이 온도에 예민한지 의문이 들어 백신을 냉장보관 하지 않으면 유효기간이 줄어드는지 알고 싶습니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원숭이 두창 재감염 우려]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/726</id>
-        <link href="https://factchecker.or.kr/fc_suggests/726"/>
-        <updated>2022-07-07T03:44:36.914Z</updated>
-        <content type="html"><![CDATA[https://m.kin.naver.com/mobile/qna/detail.naver?d1id=11&amp;dirId=111604&amp;docId=421959493&amp;qb=65GQ7LC9IOyerOqwkOyXvA==&amp;enc=utf8&amp;s...]]></content>
     </entry>
 </feed>

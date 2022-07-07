@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,6 +242,17 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[고유가가 앞으로 지속될것이다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/736</link>
+            <guid>https://factchecker.or.kr/fc_suggests/736</guid>
+            <pubDate>Thu, 07 Jul 2022 23:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[국가별 나라통계에서의 석유소비량
+https://kosis.kr/statHtml/statHtml.do?orgId=101&amp;tblId=DT_2KAAE03&amp;conn_path=I2
+&nbsp;
+유가 급락기사
+https://youtu.be/...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[AI가 물리치료사를 대체할 수 없다고 하는데, 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/735</link>
             <guid>https://factchecker.or.kr/fc_suggests/735</guid>
@@ -305,13 +316,6 @@ Great Britain faces biggest rail strike in 30 years
             <guid>https://factchecker.or.kr/fc_suggests/727</guid>
             <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
             <content:encoded><![CDATA[어떤 기사에서 0.1도씨까지 세밀하게 온도 조절이 가능한 백신 냉장고를 다뤘는데 이 기사를 보다가 백신이 온도에 예민한지 의문이 들어 백신을 냉장보관 하지 않으면 유효기간이 줄어드는지 알고 싶습니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[원숭이 두창 재감염 우려 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/726</link>
-            <guid>https://factchecker.or.kr/fc_suggests/726</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[https://m.kin.naver.com/mobile/qna/detail.naver?d1id=11&amp;dirId=111604&amp;docId=421959493&amp;qb=65GQ7LC9IOyerOqwkOyXvA==&amp;enc=utf8&amp;s...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 중국 수출 없으면 우리나라도 무역적자국 된다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
