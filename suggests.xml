@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-08T08:20:23.910Z</updated>
+    <updated>2022-07-08T09:24:18.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고프로10 발열로 꺼짐문제 sd 카드 샌디스크에서 렉사교체후 증상없다는 유튜버]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/737</id>
+        <link href="https://factchecker.or.kr/fc_suggests/737"/>
+        <updated>2022-07-08T09:23:36.304Z</updated>
+        <content type="html"><![CDATA[https://www.youtube.com/watch?v=FCV1TGgoJZ0
+&nbsp;
+저도 혹해서 구매를 했습니다
+이미 샌디스크를 쓰고있었지만, 급할때 발열로 꺼질까봐 다들 별로라하는 렉사로 또 질렀어요
+비싼걸 두개나...ㄷ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고유가가 앞으로 지속될것이다]]></title>
         <id>https://factchecker.or.kr/fc_suggests/736</id>
@@ -73,12 +84,5 @@ https://youtu.be/...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/728"/>
         <updated>2022-07-07T03:44:36.911Z</updated>
         <content type="html"><![CDATA[간호사가 초음파를 하는 것이 정말 법 위반인가요.?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 냉장보관 하지 않으면 유효기간 줄어드나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/727</id>
-        <link href="https://factchecker.or.kr/fc_suggests/727"/>
-        <updated>2022-07-07T03:44:36.913Z</updated>
-        <content type="html"><![CDATA[어떤 기사에서 0.1도씨까지 세밀하게 온도 조절이 가능한 백신 냉장고를 다뤘는데 이 기사를 보다가 백신이 온도에 예민한지 의문이 들어 백신을 냉장보관 하지 않으면 유효기간이 줄어드는지 알고 싶습니다]]></content>
     </entry>
 </feed>
