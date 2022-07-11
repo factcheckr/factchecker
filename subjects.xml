@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 06:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 07:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리나라 중국 수출 호황의 시대가 끝나가고 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/426</link>
+            <guid>https://factchecker.or.kr/fc_subjects/426</guid>
+            <pubDate>Mon, 11 Jul 2022 07:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6월 28일 나토 정상회의에서 최상목 대통령실 경제수석은 “지난 20년간 우리가 누려왔던 중국을 통한 수출 호황의 시대는 끝나가고 있다”고 발언했습니다. 나토는 북대서양조약기구로서 미국과 주요 국가 간 안보 동맹으로, 이번 회의를 통해 세운 새로운 전략에서 중국을 ‘위협’과 ‘도전’으로 규정하는 등 중국에 대한 견제를 확대하고 있습니다. 경제수석의 해당 발언은 이후 주식시장에도 영향을 미쳐 중국과 관련된 기업의 주가가 낮아지기도 했습니다. “제2 한한령 악몽”이나 “제2 사드사태” 등 보도를 통해서는 우리나라와의 안보 갈등 상황에서 중국 내에서 발효되었던 한한령만큼 중국으로부터 큰 제재가 따를 수 있다는 우려를 표했습니다. 현실적으로 중국에 크게 의존하는 한국의 경제 상황을 고려하지 못하고 ‘탈중국’ 취지의 발언을 했다는 비판이 일고 있는 겁니다. ‘우리나라 대중국 수출 호황이 끝나가고 있다’는 경제수석의 주장의 근거는 무엇인지 발언의 맥락과 그 근거를 살펴봤습니다...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주식·가상화폐 투자 빚 서울에서 탕감받는다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/424</link>
@@ -113,14 +121,6 @@ Great Britain faces biggest rail strike in 30 years
 2. 해당 지침을 발표한 이유가 미국 대법원이 로 대 웨이드 판결을 번복한 것과 관련됐는지 검증하고자 합니다.
 &nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연봉 3천 안 되는 20대, 최대 6억까지 주택담보대출 받는다?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/412</link>
-            <guid>https://factchecker.or.kr/fc_subjects/412</guid>
-            <pubDate>Tue, 28 Jun 2022 01:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[6월 16일, 금융위원회에서 새정부 가계대출 관리 방향을 공개했습니다. 가계 부채 증가세를 완화하면서도 생에 첫 주택 구입자의 경우 대출 규제를 풀어주겠다는 내용이 골자입니다. 이 가운데 국민들의 관심을 모은 항목이 있습니다. 바로 20, 30대 청년층의 내집 마련을 위해 지금이 아니라 앞으로 받을 소득, 즉 ‘장래 소득’을 이전보다 적극적으로 고려해 그들의 대출 여력을 늘려주겠다는 내용입니다. 많은 언론들이 이런 정부 방침을 부각시켜 청년층이 얼마만큼 대출을 받을 수 있을지를 분석하는 기사를 내놓았습니다. “20대 맞벌이, 연봉 3천 안 돼도 6억 대출...주거 사다리 될까?” “20대, 30대보다 대출 1억 더 받는다” 등, 청년층이 대출을 받아 주택을 구입하기 쉬워질 것이라는 제목의 보도들입니다. 〈알고보니〉에서는 보도의 사례에서 제시된 것처럼 20대 청년이 최대 대출 한도인 6억 원을 대출받는 것이 가능한지와 그 현실성 등을 따져봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
