@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-07-12T04:58:09.483Z</updated>
+    <updated>2022-07-12T05:36:42.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[촉법소년 흉악범죄 최근에 더 늘었다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/427</id>
+        <link href="https://factchecker.or.kr/fc_subjects/427"/>
+        <updated>2022-07-12T05:35:45.995Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/427">촉법소년이라 불리는 만 10세 이상 14세 미만 청소년들은 범죄를 저질러도 처벌을 받지 않습니다. 처벌 규정이 없어 이들의 범죄가 점점 더 흉포화된다는 주장이 나옵니다. 법무부도 촉법소년 기준 나이 하향을 추진 중인데, 실제 이들의 범죄가 최근 급증한 것인지 확인해봤습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 중국 수출 호황의 시대가 끝나가고 있다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/426</id>
@@ -109,19 +117,6 @@ Great Britain faces biggest rail strike in 30 years
 
 기사 전문.&nbsp;
 &nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 연방대법원이 '로 대 웨이드' 판례를 번복하자 글로벌 기업들은 낙태를 위한 여행 비용을 지원하고 있다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/413</id>
-        <link href="https://factchecker.or.kr/fc_subjects/413"/>
-        <updated>2022-07-06T07:12:25.230Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/413">미국 연방대법원은 24일(현지 시각) 여성의 임신중절(낙태) 권리를 인정한 로 대 웨이드 판례의 헌법적 근거가 없다고 판결했습니다. 이후 주요 언론사에서는 외신 보도를 인용해 미국의 글로벌 기업들이 직원에게 낙태를 위한 여행 비용을 지원한다고 보도했습니다. 미 대법원판결에 따라 향후 낙태를 불법화하는 주가 늘어날 가능성이 제기되고 있고, 이에 따라 기업들은 직원들이 합법적 원정 시술을 위해 이동할 수 있도록 여행 비용을 지원한다는 내용이었습니다.&nbsp;
-&nbsp;
-1. 스타벅스, 애플 등 미국 글로벌 기업에서 해당 지침을 발표한 것이 사실인지 검증하고,&nbsp;
-2. 해당 지침을 발표한 이유가 미국 대법원이 로 대 웨이드 판결을 번복한 것과 관련됐는지 검증하고자 합니다.
-&nbsp;
-
 </a>]]></content>
     </entry>
 </feed>
