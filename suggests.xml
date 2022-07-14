@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-14T04:45:32.275Z</updated>
+    <updated>2022-07-14T05:28:20.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 펜데믹으로 인한 보상심리가 패션 유행에 영향을 끼친다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/741</id>
+        <link href="https://factchecker.or.kr/fc_suggests/741"/>
+        <updated>2022-07-14T05:27:35.419Z</updated>
+        <content type="html"><![CDATA[https://m.fashionn.com/board/read.php?table=fashionnews&amp;number=40235]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민간인이 1급 보안사항을 알게 되면 처벌 받나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/739</id>
@@ -78,12 +85,5 @@ https://youtu.be/...]]></content>
         <updated>2022-07-07T03:44:36.907Z</updated>
         <content type="html"><![CDATA[https://n.news.naver.com/article/346/0000052144?sid=103
 커피가 인지기능 저하를 막아준다는 뉴스를 보았는데 사실인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄음식을 먹으면 암에 걸릴까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/730</id>
-        <link href="https://factchecker.or.kr/fc_suggests/730"/>
-        <updated>2022-07-07T03:44:36.909Z</updated>
-        <content type="html"><![CDATA[http://www.mkhealth.co.kr/news/articleView.html?idxno=52014]]></content>
     </entry>
 </feed>
