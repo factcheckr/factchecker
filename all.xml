@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 01:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,6 +314,14 @@ https://youtu.be/...]]></content:encoded>
             <content:encoded><![CDATA[http://www.mkhealth.co.kr/news/articleView.html?idxno=52014]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4333</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4333</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ff31359cd04082a95da6a4011de794bae625517/fd19c22c1862331d375f927ea9f40609.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4325</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4325</guid>
@@ -385,12 +393,36 @@ https://youtu.be/...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4cfec68000cdb8d97042e0929d22de48ee65efff/cf8e8ca209753db048ebb73c20d66864.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] &quot;韓, 전기&middot;물 전 세계서 제일 물 쓰듯이 쓰는 나라&quot; (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4305</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4305</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안철수 국민의힘 의원이 4일 오후 서울 여의도 국회 본회의장에서 열린 제398회 국회(임시회) 제1차 본회의에서 인사말을 하고 있다. [사진=김성진 기자][아이뉴스24 정호영 기자]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47b0c3c3e62307556057702e4b6c99106d96666d/c49a26268915dfe538e1a66d0e0d3cef.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[유류세 추가인하에 시장판매가격 하락 중…시장점검 지속 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4337</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4337</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “유류세 추가인하(30%→37%) 실시에 따라 시장판매가격도 하락 중”이라며 “유류세 인하분이 석유제품 유통시장에 신속히 반영되도록 일일가격 모니터링 및 시장점검을 지속해 나갈 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--afdfe400bcf726077cb5531563b18da788cbd360/a47927e4332616159e192b226a5fc830.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[고용부 “폭염에 의한 온열질환 예방 위해 최선” (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4336</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4336</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “‘야외근로자용 온열질환 특성 자가진단표’는 온열질환자인지를 판단하기 위한 용도가 아니며, 작업하기 전 근로자의 온열질환 취약도를 사전에 판별하는데 도움을 주기 위한 용도”라면서 “폭염에 의한 온열질환 예방을 위해 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmtrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9e97bccb15045016ddd5d62d585bbc52f4a90e6/9e45342d45d5aba0276964b0acf35bf2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[원전정책 안전 무시? 전혀 사실 아니다 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4335</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4335</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “정부 원전정책이 안전을 무시할 것이라는 주장은 전혀 사실이 아니다”면서 “‘안전확보’는 원전정책의 기본 전제이므로 정부는 무엇보다 안전성 확보를 기반으로 원전을 조화롭게 활용할 것”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--313d9e02bca716e252e1e29a72292c13687e61ce/186a0fc219e67dcb4a12a872ce88536b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[월성 2호기 계획예방정비 실시 중…배관누설 철저히 점검·정비 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4334</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4334</guid>
+            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “월성 2호기는 현재 계획예방정비를 실시 중이며, 배관 누설에 대한 철저한 점검과 정비를 진행할 계획”이라고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--370f45a514f4029f14e584039d260a1b233f8093/d4cf36bc5d36c3919f84a021c66d5395.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[외국인근로자 주거환경 개선 위해 집중 지도점검 등 실시 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
@@ -439,38 +471,6 @@ https://youtu.be/...]]></content:encoded>
             <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “사전지정운용제도(디폴트옵션)가 안착될 수 있도록 면밀한 관리감독 체계를 갖추고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVFrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a3d98be7c2a2e65624aa05aba31d4bfd117008e4/4e599388d0548436c714cb05c30d3a92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[소득세 구체 개편방안 결정된 바 없어 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4326</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4326</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기획재정부는 “소득세의 구체적 개편방안은 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--628994f45b8f8c3f6cc5f792f0ab68ab4029a6c8/b177f108afc88d9f196cf0245bd0bb43.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 기술료, 향후 항우연과 기업 간 협의 통해 산정 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4323</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4323</guid>
-            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 “누리호 기술료는 향후 한국항공우주연구원과 기업 간 협의를 통해 산정할 예정”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEVrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dbf7cf5d39145dea871dd9629305d6c856ccbf1/e94627a7d7316cabe5909a110631263b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[원전 공기와 예산준수가 부실시공 조장? 지나친 비약 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4322</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4322</guid>
-            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “우리 원전의 ‘공기와 예산준수(on time on budget)가 부실시공을 조장’ 한다는 것은 지나친 비약이며, 우리 원전은 안전성을 최대한 확보하면서도 경제적으로 건설할 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEFrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0baebef093996db554773c52c52eaee83e7586e5/417496acaa65694a45f0086e9eb383f0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업 자율적 안전보건관리체계 구축 도움되는 방안 검토 중 (팩트체크넷 ─ 팩트체크 ─ 정부기관)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4321</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4321</guid>
-            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 “기업의 자율적인 안전보건관리체계 구축에 도움이 되는 방향으로 다양한 방안을 검토 중”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzhrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58e163811a2e8d1fd04fecab61cf521eda78d4e0/eada0a25047fdd762de3a154a318a5e8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[英 철도, 33년만에 대규모 파업 사실일까? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

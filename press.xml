@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 01:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '튀르키예발 비행기 연착' 보상으로 24만원 할인권이 적정?(종합) | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4333</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4333</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 9일 오후(현지시간) 튀르키예(터키) 이스탄불을 출발해 인천국제공항으로 향하던 대한항공 여객기가 엔진 결함으로...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ff31359cd04082a95da6a4011de794bae625517/fd19c22c1862331d375f927ea9f40609.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 한미통화스와프, 文정부 때 한미 관계 나빠져 종료됐다? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4325</link>
@@ -77,14 +85,6 @@
             <pubDate>Sun, 10 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 안철수 국회의원이 최근 언론 인터뷰에서 우리가 전기·물 모두 전 세계에서 제일 펑펑 쓰는 나라라며 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4cfec68000cdb8d97042e0929d22de48ee65efff/cf8e8ca209753db048ebb73c20d66864.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] &quot;韓, 전기&middot;물 전 세계서 제일 물 쓰듯이 쓰는 나라&quot;]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4305</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4305</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안철수 국민의힘 의원이 4일 오후 서울 여의도 국회 본회의장에서 열린 제398회 국회(임시회) 제1차 본회의에서 인사말을 하고 있다. [사진=김성진 기자][아이뉴스24 정호영 기자]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47b0c3c3e62307556057702e4b6c99106d96666d/c49a26268915dfe538e1a66d0e0d3cef.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
