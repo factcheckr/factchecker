@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -677,6 +677,15 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 * 본 소개글은 SOMA 프로젝트 홈페이지 (https://www.dis...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[관련자료] 팩트체크 동향리포트 6호 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
+            <link>https://factchecker.or.kr/papers/478</link>
+            <guid>https://factchecker.or.kr/papers/478</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 6호
+1. 여는글깨어있는 시민이 SNS의 주인
+2. 글로벌 팩트체크소셜미디어 플랫폼들의 허위정보 대응 정책 및 팩트체크 활동 소개: 메타의 투명성 센터(Transparency...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[관련자료] 팩트체크 동향리포트 5호 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
             <link>https://factchecker.or.kr/papers/456</link>
             <guid>https://factchecker.or.kr/papers/456</guid>
@@ -784,16 +793,6 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 1. 여는글허위정보의 위험성과 팩트체크 교육의 필요성
 2. 글로벌 팩트체크미국의 팩트체크 교육 현황EJTA의 팩트체크 교육
 3. 팩트체크 연구 소개가짜뉴스와 팩트체크 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[관련자료] 팩트체크 동향리포트 2호 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>
-            <link>https://factchecker.or.kr/papers/364</link>
-            <guid>https://factchecker.or.kr/papers/364</guid>
-            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 2호
-1. 여는글딥페이크를 이용한 허위정보의 위험과 대응 마련의 필요성
-2. 글로벌 팩트체크딥페이크 해외 입법 현황 - 유럽 정책에서의 딥페이크 대처
-3. 글로벌 팩트체크딥...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쉽게 따라하는 팩트체크 가이드북 (포켓용) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>

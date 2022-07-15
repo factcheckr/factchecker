@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-07-15T03:53:59.658Z</updated>
+    <updated>2022-07-15T05:00:33.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 6호]]></title>
+        <id>https://factchecker.or.kr/papers/478</id>
+        <link href="https://factchecker.or.kr/papers/478"/>
+        <updated>2022-07-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 6호
+1. 여는글깨어있는 시민이 SNS의 주인
+2. 글로벌 팩트체크소셜미디어 플랫폼들의 허위정보 대응 정책 및 팩트체크 활동 소개: 메타의 투명성 센터(Transparency...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 5호]]></title>
         <id>https://factchecker.or.kr/papers/456</id>
@@ -113,15 +122,5 @@
 1. 여는글허위정보의 위험성과 팩트체크 교육의 필요성
 2. 글로벌 팩트체크미국의 팩트체크 교육 현황EJTA의 팩트체크 교육
 3. 팩트체크 연구 소개가짜뉴스와 팩트체크 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 2호]]></title>
-        <id>https://factchecker.or.kr/papers/364</id>
-        <link href="https://factchecker.or.kr/papers/364"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 2호
-1. 여는글딥페이크를 이용한 허위정보의 위험과 대응 마련의 필요성
-2. 글로벌 팩트체크딥페이크 해외 입법 현황 - 유럽 정책에서의 딥페이크 대처
-3. 글로벌 팩트체크딥...]]></content>
     </entry>
 </feed>
