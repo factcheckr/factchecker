@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[신경안정제 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/742</link>
+            <guid>https://factchecker.or.kr/fc_suggests/742</guid>
+            <pubDate>Fri, 15 Jul 2022 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[불안장애&nbsp; 자율신경 불균형으로 신경 안정제 한달째 섭취하고있는데 왼쪽가슴하고폐쪽에 통증이 생겼다 약을 안먹어야되나요 안정제를 줄이자고 의료진한테 애기했는데 안된다고하면 계속 먹어야하나요 졸리고 일상생활이 안됩니다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나 펜데믹으로 인한 보상심리가 패션 유행에 영향을 끼친다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/741</link>
             <guid>https://factchecker.or.kr/fc_suggests/741</guid>
@@ -304,14 +311,6 @@ https://youtu.be/...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/732</guid>
             <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 세계보건기구 WHO 비상위원장을 지낸 데이비드 헤이만 박사는 원숭이두창 확산이 유럽에서 열린 대규모 파티에서 벌어진 동성애자의 성관계에서 비롯됐다는 것이 유력한 가설이라고 밝혔고 미국 질병통제예방센터 CDC는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[커피가 인지기능 저하를 막아준다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/731</link>
-            <guid>https://factchecker.or.kr/fc_suggests/731</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/article/346/0000052144?sid=103
-커피가 인지기능 저하를 막아준다는 뉴스를 보았는데 사실인가요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 탈북어민 강제 북송 논란…국제법·헌법 위반? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
