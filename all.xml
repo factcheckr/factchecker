@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 06:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 07:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[mRNA 관련 떠 돌고 있는 사진 한 장에 대해 팩트체크 부탁드립니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/743</link>
+            <guid>https://factchecker.or.kr/fc_suggests/743</guid>
+            <pubDate>Mon, 18 Jul 2022 07:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[현재 이슈가 되고 있는 mRNA 백신 접종에 관련하여 어떤 사진을 보게 되어 팩트인지 아닌지 확인하고 싶어 제안드립니다.
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신경안정제 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/742</link>
             <guid>https://factchecker.or.kr/fc_suggests/742</guid>
@@ -304,13 +312,6 @@ https://youtu.be/...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/733</guid>
             <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
             <content:encoded><![CDATA[커피를 마시는 양에 따라 득이 될 수도, 실이 될 수도 있다고 합니다.&nbsp; 얼만큼의 커피를 마시는것이 우리 몸에 제일 이로울수 있을까요?https://www.dailymedi.com/news/news_view.php?wr_...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[원숭이두창에 대한 오해와 진실(동성애자간 성병) (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/732</link>
-            <guid>https://factchecker.or.kr/fc_suggests/732</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 세계보건기구 WHO 비상위원장을 지낸 데이비드 헤이만 박사는 원숭이두창 확산이 유럽에서 열린 대규모 파티에서 벌어진 동성애자의 성관계에서 비롯됐다는 것이 유력한 가설이라고 밝혔고 미국 질병통제예방센터 CDC는 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 대한민국은 진짜로 ‘양성 평등 후진국’일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
