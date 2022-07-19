@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울, 택시가 부족해 귀가 전쟁? [FACT IN 뉴스]]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4359</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4359</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“밤에 택시 잡기가 하늘의 별 따기예요. 서울시가 택시 공급을 늘린 게 맞나요?”  신종 코로나바이러스 감염증(코로나19)에 따른 사회적 거리두기가 해제된 후 서울시의 ‘택시 대란’이 계속되고 있다. 시가 개인택시 부제를 일시 해제하고, 심야전용택시 운영시간을 늘리는 등 택시...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a5c1412d941afba948db4198b75d74b05b5123ca/906940e056cbdc0922bd8f20814d9f71.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '사랑해'라고 썼더니 죽어가던 양파가 살아났다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4358</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4358</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 10일 국제신문은 라는 제목의 기사를 발행했다. 기사는 부산경상대학교 박모 교수가 양파를 대상으로 재밌는 연구결과를 발표했다며 파동 연구(문자에너지파동 실험)로서 공명 실험을 했다고 적었다.박 교수는 2021년 6월에 생산한 양파로 생장 실험을 했다고 한다. 튼실하고 보기 좋은 양파를 담은 투명한 컵에는 미워!란 글자를 써서 붙였고, 부실하고 보기에 좋지 않은 양파를 담은 컵에는 사랑합니다란 글자를 써서 붙였다. 실험이 시작된 지 47일이 지나면서 미워!라는 글]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e66ca4057d83db1b1308dc77ec8cf910a93ced9/acd45a3fbe786e2ddbd223300977ed84.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크K] 대한민국은 진짜로 ‘양성 평등 후진국’일까?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4352</link>
@@ -69,22 +85,6 @@
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[형법에선 14세가 되지 않은 청소년들을 형사미성년자로 정의하며 이들의 범죄 행위를 벌하지 않는다고 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b1de46f6a67f7b3593923a67e9611e99729239cc/f42bb9ff2057e8d6c9c00baa8061978b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 1년에 500명이 과로로 죽는 나라]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4344</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4344</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[용혜인 기본소득당 국회의원은 2017~2021년 과로사한 노동자는 모두 2503명이라고 밝혔다. 매년 500명 안팎의 노동자가 과로로 목숨을 잃는다는 뜻이다. 정부 통계에 따르면 지난해 산재사고로 사망한 노동자는 828명이다. 과로로 목숨을 잃는 노동자가 산업재해 사고사망자의 60%에 이르는 어마어마한 숫자를 기록한 것이다. 과연 사실일까? 뉴스톱이 팩트체크 했다.◈용혜인, “연 500명 이상 과로사”용혜인 의원은 지난 11일 라는 제목의 보도자료를 냈다. 용의원은 근로복지공단, 인사혁신처,]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b5279da6e87a9dacd4ff79b4e7ccb298e9fe667f/6f2e2f7f3f3ae1647646ddea23be314e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 도로 위 '공포의 쇳덩이'…단속도 처벌도 힘들다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4342</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4342</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나흘 전, 고속도로를 달리던 차량에 갑자기 쇳덩이가 날아와서 앞 유리가 다 부서진 사고가 있었습니다. 운전자들은 경찰이 왜 이런..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--adbeae3ef9d80d47552041dfe83a1371674f6fe3/c7332a82d1915d644e5ec776d7c075c5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

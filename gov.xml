@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고용부 “중대재해처벌법 현장 안착에 최선”]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4361</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4361</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 “중대재해처벌법이 현장에 안착될 수 있도록 최선을 다 하겠다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUVrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--83abb655134d8120298fe8f749e7197c067cb992/53158c87e2864f0ae587643ff74ac2fd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[재생에너지 모자라 기업이 사용 어렵다? 사실과 다르다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4360</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4360</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “재생에너지가 모자라 기업이 재생에너지 사용이 어렵다는 지적은 사실과 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2906eedb464097d99a41294cb6c0fd480167d9bb/d111bea2ab3dee238529db4bbfcb6a42.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[용산공원 내 발견됐다는 기름띠, 토양오염과는 무관]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4357</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고용노동부는 “‘야외근로자용 온열질환 특성 자가진단표’는 온열질환자인지를 판단하기 위한 용도가 아니며, 작업하기 전 근로자의 온열질환 취약도를 사전에 판별하는데 도움을 주기 위한 용도”라면서 “폭염에 의한 온열질환 예방을 위해 최선을 다하고 있다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmtrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9e97bccb15045016ddd5d62d585bbc52f4a90e6/9e45342d45d5aba0276964b0acf35bf2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[원전정책 안전 무시? 전혀 사실 아니다]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4335</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4335</guid>
-            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “정부 원전정책이 안전을 무시할 것이라는 주장은 전혀 사실이 아니다”면서 “‘안전확보’는 원전정책의 기본 전제이므로 정부는 무엇보다 안전성 확보를 기반으로 원전을 조화롭게 활용할 것”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--313d9e02bca716e252e1e29a72292c13687e61ce/186a0fc219e67dcb4a12a872ce88536b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[월성 2호기 계획예방정비 실시 중…배관누설 철저히 점검·정비]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4334</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4334</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 “월성 2호기는 현재 계획예방정비를 실시 중이며, 배관 누설에 대한 철저한 점검과 정비를 진행할 계획”이라고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--370f45a514f4029f14e584039d260a1b233f8093/d4cf36bc5d36c3919f84a021c66d5395.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
