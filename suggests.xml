@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-19T03:56:08.422Z</updated>
+    <updated>2022-07-19T05:05:50.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쪽방촌 에어컨 설치 사업 규모가 줄어들었다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/744</id>
+        <link href="https://factchecker.or.kr/fc_suggests/744"/>
+        <updated>2022-07-19T05:05:04.937Z</updated>
+        <content type="html"><![CDATA[얼마 전에 커뮤니티에서 이런 글을 봤는데요. 오세훈 서울시장이 쪽방촌 에어컨 설치 사업 현장에 방문한 사진이 엄청 많은 언론 보도로 나왔는더라고요.
+근데 댓글을 보니까 오세훈 시장이 이미지 메이킹을 한다면서 비판하더라고요...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mRNA 관련 떠 돌고 있는 사진 한 장에 대해 팩트체크 부탁드립니다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/743</id>
@@ -78,12 +86,5 @@ https://youtu.be/...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/734"/>
         <updated>2022-07-07T03:44:36.907Z</updated>
         <content type="html"><![CDATA[https://youtu.be/pOqg_8IwbAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피 섭취량]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/733</id>
-        <link href="https://factchecker.or.kr/fc_suggests/733"/>
-        <updated>2022-07-07T03:44:36.907Z</updated>
-        <content type="html"><![CDATA[커피를 마시는 양에 따라 득이 될 수도, 실이 될 수도 있다고 합니다.&nbsp; 얼만큼의 커피를 마시는것이 우리 몸에 제일 이로울수 있을까요?https://www.dailymedi.com/news/news_view.php?wr_...]]></content>
     </entry>
 </feed>
