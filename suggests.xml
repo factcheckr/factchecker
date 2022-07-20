@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-20T04:37:02.328Z</updated>
+    <updated>2022-07-20T05:22:10.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서민통합지원센터]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/745</id>
+        <link href="https://factchecker.or.kr/fc_suggests/745"/>
+        <updated>2022-07-20T05:21:21.792Z</updated>
+        <content type="html"><![CDATA[http://kor-people.co.kr/&nbsp;여기 어떤데인지 사기아닌지 궁금해요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쪽방촌 에어컨 설치 사업 규모가 줄어들었다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/744</id>
@@ -79,12 +86,5 @@ https://youtu.be/...]]></content>
         <updated>2022-07-07T03:44:36.904Z</updated>
         <content type="html"><![CDATA[https://n.news.naver.com/article/082/0000933561?sid=102
 ■인공지능(AI)도 대체불가...폭넓은 진로물리치료는 보건·의료 인력 중 가장 많은 시간동안 환자들과 스킨십을 하는 직종...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간은 죽기직전 30초간 주마등을 느낀다던데 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/734</id>
-        <link href="https://factchecker.or.kr/fc_suggests/734"/>
-        <updated>2022-07-07T03:44:36.907Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/pOqg_8IwbAY]]></content>
     </entry>
 </feed>

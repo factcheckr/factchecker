@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 04:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[서민통합지원센터 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/745</link>
+            <guid>https://factchecker.or.kr/fc_suggests/745</guid>
+            <pubDate>Wed, 20 Jul 2022 05:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[http://kor-people.co.kr/&nbsp;여기 어떤데인지 사기아닌지 궁금해요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쪽방촌 에어컨 설치 사업 규모가 줄어들었다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/744</link>
             <guid>https://factchecker.or.kr/fc_suggests/744</guid>
@@ -306,13 +313,6 @@ https://youtu.be/...]]></content:encoded>
             <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
             <content:encoded><![CDATA[https://n.news.naver.com/article/082/0000933561?sid=102
 ■인공지능(AI)도 대체불가...폭넓은 진로물리치료는 보건·의료 인력 중 가장 많은 시간동안 환자들과 스킨십을 하는 직종...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인간은 죽기직전 30초간 주마등을 느낀다던데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/734</link>
-            <guid>https://factchecker.or.kr/fc_suggests/734</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[https://youtu.be/pOqg_8IwbAY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 블룸버그가 한국을 채무불이행 가능국으로 보고 있다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
