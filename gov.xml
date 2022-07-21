@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 정부기관</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 03:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신재생·원전정책 일방통행? 사실과 전혀 달라]]></title>
+            <link>https://factchecker.or.kr/fc_archives/gov/4377</link>
+            <guid>https://factchecker.or.kr/fc_archives/gov/4377</guid>
+            <pubDate>Wed, 20 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[산업통상자원부는 “정부의 신재생 및 원전정책이 지역의 동의 없이 일방통행식이라는 주장은 근거가 없으며 사실과도 전혀 다르다”고 밝혔습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNsIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c74ce12cd1b5e92d3107f24875ddb222e56a2c7c/2a31415859c025d7bb035370be77368e.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[반도체 고급인력양성사업 예산 조정, 정상적 예타 절차 통해 이뤄져]]></title>
             <link>https://factchecker.or.kr/fc_archives/gov/4368</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기획재정부는 “종합부동산세의 구체적 개편 내용에 대해서는 아직 결정된 바 없다”고 밝혔습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cfb43c04021a05a4d5f518dae3ec711a925efa6/91591c5115489afac55d0b0a6a5a245e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국거래소에 사실과 다른 내용의 보도해명자료 배포 지시·압박 안해]]></title>
-            <link>https://factchecker.or.kr/fc_archives/gov/4346</link>
-            <guid>https://factchecker.or.kr/fc_archives/gov/4346</guid>
-            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[금융위원회는 “한국거래소에 사실과 다른 내용의 보도 해명자료 배포를 지시하거나 압박한 바 없다”고 밝혔습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5b998751ea06a89e60fe7caaabeabb477a67694/1b19becc887e937f8920c9d83acac31f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
