@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,23 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[비염이나 아토피가 있는 사람은 코로나 걸릴 가능성이 낮다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/748</link>
+            <guid>https://factchecker.or.kr/fc_suggests/748</guid>
+            <pubDate>Mon, 25 Jul 2022 09:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[주변에 아직 코로나에 안 걸린 사람들은 다 비염이나 아토피가 있다는 주장
+https://cafe.daum.net/subdued20club/ReHf/3800963
+원트윗 출처: https://twitter.com/jyata...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[법인세 내리면 투자 고용 증가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/747</link>
+            <guid>https://factchecker.or.kr/fc_suggests/747</guid>
+            <pubDate>Mon, 25 Jul 2022 09:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[기재부 “법인세 내리면 투자·고용 증가한다는 연구결과 있다” | 서울신문 (seoul.co.kr)
+정부가 내년부터 기업 법인세를 깎아주기로 하면서 다양한 실증연구에 따르면 법인세율 인하는 투자·고용 증가 효과가 있다고 분...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서민통합지원센터 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/745</link>
             <guid>https://factchecker.or.kr/fc_suggests/745</guid>
@@ -294,25 +311,6 @@ Great Britain faces biggest rail strike in 30 years
 저도 혹해서 구매를 했습니다
 이미 샌디스크를 쓰고있었지만, 급할때 발열로 꺼질까봐 다들 별로라하는 렉사로 또 질렀어요
 비싼걸 두개나...ㄷ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고유가가 앞으로 지속될것이다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/736</link>
-            <guid>https://factchecker.or.kr/fc_suggests/736</guid>
-            <pubDate>Thu, 07 Jul 2022 23:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[국가별 나라통계에서의 석유소비량
-https://kosis.kr/statHtml/statHtml.do?orgId=101&amp;tblId=DT_2KAAE03&amp;conn_path=I2
-&nbsp;
-유가 급락기사
-https://youtu.be/...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI가 물리치료사를 대체할 수 없다고 하는데, 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/735</link>
-            <guid>https://factchecker.or.kr/fc_suggests/735</guid>
-            <pubDate>Mon, 25 Jul 2022 04:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/article/082/0000933561?sid=102
-■인공지능(AI)도 대체불가...폭넓은 진로물리치료는 보건·의료 인력 중 가장 많은 시간동안 환자들과 스킨십을 하는 직종...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대우조선해양, 손배소 포기하면 경영자 ‘배임’ 처벌된다? [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-25T08:19:41.441Z</updated>
+    <updated>2022-07-25T09:14:33.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비염이나 아토피가 있는 사람은 코로나 걸릴 가능성이 낮다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/748</id>
+        <link href="https://factchecker.or.kr/fc_suggests/748"/>
+        <updated>2022-07-25T09:13:45.352Z</updated>
+        <content type="html"><![CDATA[주변에 아직 코로나에 안 걸린 사람들은 다 비염이나 아토피가 있다는 주장
+https://cafe.daum.net/subdued20club/ReHf/3800963
+원트윗 출처: https://twitter.com/jyata...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법인세 내리면 투자 고용 증가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/747</id>
+        <link href="https://factchecker.or.kr/fc_suggests/747"/>
+        <updated>2022-07-25T09:13:45.353Z</updated>
+        <content type="html"><![CDATA[기재부 “법인세 내리면 투자·고용 증가한다는 연구결과 있다” | 서울신문 (seoul.co.kr)
+정부가 내년부터 기업 법인세를 깎아주기로 하면서 다양한 실증연구에 따르면 법인세율 인하는 투자·고용 증가 효과가 있다고 분...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서민통합지원센터]]></title>
         <id>https://factchecker.or.kr/fc_suggests/745</id>
@@ -67,24 +84,5 @@
 저도 혹해서 구매를 했습니다
 이미 샌디스크를 쓰고있었지만, 급할때 발열로 꺼질까봐 다들 별로라하는 렉사로 또 질렀어요
 비싼걸 두개나...ㄷ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고유가가 앞으로 지속될것이다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/736</id>
-        <link href="https://factchecker.or.kr/fc_suggests/736"/>
-        <updated>2022-07-07T23:14:08.345Z</updated>
-        <content type="html"><![CDATA[국가별 나라통계에서의 석유소비량
-https://kosis.kr/statHtml/statHtml.do?orgId=101&amp;tblId=DT_2KAAE03&amp;conn_path=I2
-&nbsp;
-유가 급락기사
-https://youtu.be/...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 물리치료사를 대체할 수 없다고 하는데, 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/735</id>
-        <link href="https://factchecker.or.kr/fc_suggests/735"/>
-        <updated>2022-07-25T04:43:42.110Z</updated>
-        <content type="html"><![CDATA[https://n.news.naver.com/article/082/0000933561?sid=102
-■인공지능(AI)도 대체불가...폭넓은 진로물리치료는 보건·의료 인력 중 가장 많은 시간동안 환자들과 스킨십을 하는 직종...]]></content>
     </entry>
 </feed>
