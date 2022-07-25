@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-25T10:16:32.018Z</updated>
+    <updated>2022-07-25T11:13:41.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -10,9 +10,7 @@
         <id>https://factchecker.or.kr/fc_suggests/748</id>
         <link href="https://factchecker.or.kr/fc_suggests/748"/>
         <updated>2022-07-25T09:13:45.352Z</updated>
-        <content type="html"><![CDATA[주변에 아직 코로나에 안 걸린 사람들은 다 비염이나 아토피가 있다는 주장
-https://cafe.daum.net/subdued20club/ReHf/3800963
-원트윗 출처: https://twitter.com/jyata...]]></content>
+        <content type="html"><![CDATA[아직 코로나에 걸리지 않은 사람들은 비염이나 아토피가 있는 사람이다라는 주장이 트위터와 커뮤니티에서 확산되고 있습니다. 해당 트윗에서 비염 등 아토피성 질환자가 코로나19에 걸릴 가능성이 낮다는 내용에 대해 팩트체크를 제...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[법인세 내리면 투자 고용 증가?]]></title>
