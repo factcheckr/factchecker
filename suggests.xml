@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-26T01:11:59.071Z</updated>
+    <updated>2022-07-26T04:03:01.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연봉 1억 넘는 사람들 세금 깎아주도록 소득세를 개편한다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/750</id>
+        <link href="https://factchecker.or.kr/fc_suggests/750"/>
+        <updated>2022-07-26T04:02:13.167Z</updated>
+        <content type="html"><![CDATA[윤석열 정부가 소득세 과세표준 구간을 조정한다고 하는데요. 언론 기사를 보니 주로 연봉 1억이 넘는 사람들이 혜택을 보도록 개편한다고 썼네요.
+그런데 정부는 이 기사를 두고 사실이 아니라면서 중, 저소득층 혜택이 더 크다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공기살균기 썬볼트]]></title>
         <id>https://factchecker.or.kr/fc_suggests/749</id>
@@ -74,12 +82,5 @@ https://youtu.be/B_t--7sb2As]]></content>
         <updated>2022-07-11T06:17:10.100Z</updated>
         <content type="html"><![CDATA[윤석열 대통령 해외순방 일정에 민간인이 따라갔는데 대통령 일정은 1급 보안 사항이라고 더불어민주당 정치인들이 그러더라고요.
 찾아보니까 대통령 일정은 1급 비밀이라고 주장하는 글이 있네요. 진짜 법으로 정해진 1급 비밀이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 훌륭한 수녀님도   계시니 참 말로 고귀하도다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/738</id>
-        <link href="https://factchecker.or.kr/fc_suggests/738"/>
-        <updated>2022-07-11T04:33:09.470Z</updated>
-        <content type="html"><![CDATA[카톡에 나도는 글입니다. 수녀의 글로는 공격적이고 정치적이라고 보입니다.]]></content>
     </entry>
 </feed>

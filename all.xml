@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:03:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[연봉 1억 넘는 사람들 세금 깎아주도록 소득세를 개편한다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/750</link>
+            <guid>https://factchecker.or.kr/fc_suggests/750</guid>
+            <pubDate>Tue, 26 Jul 2022 04:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 소득세 과세표준 구간을 조정한다고 하는데요. 언론 기사를 보니 주로 연봉 1억이 넘는 사람들이 혜택을 보도록 개편한다고 썼네요.
+그런데 정부는 이 기사를 두고 사실이 아니라면서 중, 저소득층 혜택이 더 크다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공기살균기 썬볼트 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/749</link>
             <guid>https://factchecker.or.kr/fc_suggests/749</guid>
@@ -301,13 +309,6 @@ https://youtu.be/B_t--7sb2As]]></content:encoded>
             <pubDate>Mon, 11 Jul 2022 06:17:10 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 해외순방 일정에 민간인이 따라갔는데 대통령 일정은 1급 보안 사항이라고 더불어민주당 정치인들이 그러더라고요.
 찾아보니까 대통령 일정은 1급 비밀이라고 주장하는 글이 있네요. 진짜 법으로 정해진 1급 비밀이 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 훌륭한 수녀님도   계시니 참 말로 고귀하도다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/738</link>
-            <guid>https://factchecker.or.kr/fc_suggests/738</guid>
-            <pubDate>Mon, 11 Jul 2022 04:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[카톡에 나도는 글입니다. 수녀의 글로는 공격적이고 정치적이라고 보입니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 정부의 ‘탈(脫) 탈원전’ 정책…에너지법 개정 없인 불가능? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
