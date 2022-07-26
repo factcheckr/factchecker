@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-25T23:15:18.358Z</updated>
+    <updated>2022-07-26T01:11:59.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공기살균기 썬볼트]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/749</id>
+        <link href="https://factchecker.or.kr/fc_suggests/749"/>
+        <updated>2022-07-26T01:11:08.437Z</updated>
+        <content type="html"><![CDATA[공기살균기 궁금한 점이 있습니다
+이게 진짜 가능할까요?
+플라즈마로 저농도 오존으로 공기를&nbsp; 살균한다는데 코로나&nbsp; BA5 &amp; BA 2.75도 살균될까요?
+https://youtu.be/B_t--7sb2As]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비염이나 아토피가 있는 사람은 코로나 걸릴 가능성이 낮다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/748</id>
@@ -71,16 +81,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/738"/>
         <updated>2022-07-11T04:33:09.470Z</updated>
         <content type="html"><![CDATA[카톡에 나도는 글입니다. 수녀의 글로는 공격적이고 정치적이라고 보입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고프로10 발열로 꺼짐문제 sd 카드 샌디스크에서 렉사교체후 증상없다는 유튜버]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/737</id>
-        <link href="https://factchecker.or.kr/fc_suggests/737"/>
-        <updated>2022-07-08T09:23:36.304Z</updated>
-        <content type="html"><![CDATA[https://www.youtube.com/watch?v=FCV1TGgoJZ0
-&nbsp;
-저도 혹해서 구매를 했습니다
-이미 샌디스크를 쓰고있었지만, 급할때 발열로 꺼질까봐 다들 별로라하는 렉사로 또 질렀어요
-비싼걸 두개나...ㄷ...]]></content>
     </entry>
 </feed>
