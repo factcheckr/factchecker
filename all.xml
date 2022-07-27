@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[자폐 스펙트럼 장애인은 미각에 민감하다는게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/752</link>
+            <guid>https://factchecker.or.kr/fc_suggests/752</guid>
+            <pubDate>Wed, 27 Jul 2022 08:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전에 요즘 유행하는 드라마 이상한 변호사 우영우에서 배우 박은빈이 연기한 장면을 두고 디테일이 살아있다는 유튜브 영상이 돌아다니는데요.
+보니까 자폐 스펙트럼 장애가 있으면 미각이 민감하고, 그래서 예상하지 못한 맛을...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[문재인 전 대통령 사저 건립 비용 역대급 최고액수다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/751</link>
             <guid>https://factchecker.or.kr/fc_suggests/751</guid>
@@ -302,13 +310,6 @@ https://youtu.be/B_t--7sb2As]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/742</guid>
             <pubDate>Fri, 15 Jul 2022 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[불안장애&nbsp; 자율신경 불균형으로 신경 안정제 한달째 섭취하고있는데 왼쪽가슴하고폐쪽에 통증이 생겼다 약을 안먹어야되나요 안정제를 줄이자고 의료진한테 애기했는데 안된다고하면 계속 먹어야하나요 졸리고 일상생활이 안됩니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나 펜데믹으로 인한 보상심리가 패션 유행에 영향을 끼친다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/741</link>
-            <guid>https://factchecker.or.kr/fc_suggests/741</guid>
-            <pubDate>Thu, 14 Jul 2022 05:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[https://m.fashionn.com/board/read.php?table=fashionnews&amp;number=40235]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세습 특혜 논란 '민주유공자법'… 팩트는? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

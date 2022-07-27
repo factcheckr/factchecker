@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-07-27T07:14:18.678Z</updated>
+    <updated>2022-07-27T08:17:41.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자폐 스펙트럼 장애인은 미각에 민감하다는게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/752</id>
+        <link href="https://factchecker.or.kr/fc_suggests/752"/>
+        <updated>2022-07-27T08:16:50.402Z</updated>
+        <content type="html"><![CDATA[얼마 전에 요즘 유행하는 드라마 이상한 변호사 우영우에서 배우 박은빈이 연기한 장면을 두고 디테일이 살아있다는 유튜브 영상이 돌아다니는데요.
+보니까 자폐 스펙트럼 장애가 있으면 미각이 민감하고, 그래서 예상하지 못한 맛을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 전 대통령 사저 건립 비용 역대급 최고액수다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/751</id>
@@ -75,12 +83,5 @@ https://youtu.be/B_t--7sb2As]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/742"/>
         <updated>2022-07-15T08:17:36.176Z</updated>
         <content type="html"><![CDATA[불안장애&nbsp; 자율신경 불균형으로 신경 안정제 한달째 섭취하고있는데 왼쪽가슴하고폐쪽에 통증이 생겼다 약을 안먹어야되나요 안정제를 줄이자고 의료진한테 애기했는데 안된다고하면 계속 먹어야하나요 졸리고 일상생활이 안됩니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 펜데믹으로 인한 보상심리가 패션 유행에 영향을 끼친다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/741</id>
-        <link href="https://factchecker.or.kr/fc_suggests/741"/>
-        <updated>2022-07-14T05:27:35.419Z</updated>
-        <content type="html"><![CDATA[https://m.fashionn.com/board/read.php?table=fashionnews&amp;number=40235]]></content>
     </entry>
 </feed>
