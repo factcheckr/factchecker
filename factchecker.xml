@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-07-27T23:14:01.363Z</updated>
+    <updated>2022-07-28T01:08:02.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털성범죄 남성 피해자 비율은 20%가 넘는다]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/436</id>
+        <link href="https://factchecker.or.kr/fc_subjects/436"/>
+        <updated>2022-07-28T01:06:58.391Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/436">김현숙 여성가족부 장관이 지난 24일 &lt;연합뉴스&gt;와의 인터뷰에서 ‘인하대 성폭행 사망사건’을 두고 한 발언으로 논란이 일고 있습니다. 김 장관은 해당 사안에 대한 의견을 묻자 “그건 안전의 문제”라며 “남녀를 나눠 젠더 갈등을 증폭시키는 건 절대 바람직하지 않다”고 말했습니다. 이어 “디지털 성범죄의 남성 피해자 비율이 20%를 넘는다”는 통계를 근거로 제시했습니다. 일부 누리꾼들은 여가부 장관의 발언이 “본질에 벗어난 대답이다.”, “여가부 장관인데 남녀갈등 부추긴다”며 비판했습니다. 과연 김 장관이 근거로 제시한 수치가 맞는지, 또 발언의 취지에 적합한 근거인지 &lt;알고보니&gt;가 확인해봤습니다.&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[촉법소년 흉악범죄 최근에 더 늘었다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/427</id>
@@ -106,17 +114,6 @@ Great Britain faces biggest rail strike in 30 years
         <link href="https://factchecker.or.kr/fc_subjects/416"/>
         <updated>2022-07-18T10:15:48.483Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/416">연어와 같은 냉장 수산물을 비롯한 국제적으로 이동되는 냉장육, 냉동육과 냉동 수산물이 코로나19 바이러스 전파의 매개가 되었는가?
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10초 동안 '한 발 서기'를 잘 못하는 중장년층은 수년 내 사망할 위험이 높다고?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/414</id>
-        <link href="https://factchecker.or.kr/fc_subjects/414"/>
-        <updated>2022-07-18T10:15:48.490Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/414">10초 동안 한 발 서기를 잘 못하는 중장년층은 수년 내 사망할 위험이 높다고?
-
-기사 전문.&nbsp;
-&nbsp;
 </a>]]></content>
     </entry>
 </feed>
