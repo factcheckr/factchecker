@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-08-01T04:02:23.449Z</updated>
+    <updated>2022-08-01T05:50:55.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/143</id>
+        <link href="https://factchecker.or.kr/fc_publications/143"/>
+        <updated>2022-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 중국산 나무젓가락의 화학물질이 인체에 유해한 수치를 보이는가?
+&nbsp; 1)&nbsp; 과산화수소, 아황산수소나트륨, 수산화나트륨의 사용 용도 및 유해/위험표시 문구
+&nbsp;
+출처: 화학물질종합정보시스템(화학물질안전원) :&nbsp;https://icis.me.go.kr/main.do
+생활환경안전정보시스템 : https://ecolife.me.go.kr/ecolife/
+식품의약품안전평가원 : https://www.nifds.go.kr/index.do
+화학안전기술원 : http://www.kcst.kr/
+&nbsp;
+&nbsp; &nbsp;2)&nbsp; 인체 노출 안전기준이란?
+
+&nbsp;인체노출안전기준이란? https://www.consumer.go.kr/user/bbs/consumer/261/731/bbsDataView/3406.do?page=1&amp;column=&amp;search=&amp;searchSDate=&amp;searchEDate=&amp;bbsDataCategory=
+&nbsp;
+&nbsp; &nbsp;3) 과산화수소, 아황산수소나트륨, 수산화나트륨 독성수치는 동물의 종(기니피그, ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
         <id>https://factchecker.or.kr/fc_publications/140</id>
@@ -115,12 +134,5 @@ CNN 기사
         <link href="https://factchecker.or.kr/fc_publications/133"/>
         <updated>2022-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[1. 북한 방사포전방에 배치된 170mm 자주포와 240mm 방사포는 수도권 지역에 대한 기습적인 대량 집중 공격이 가능하다. 최근 사거리 연장과 정밀 유도가 가능한 300mm 방사포와 대구경방사포를 개발해 한반도 전역을 타격할 수 있는 방사포 위주로 화력을 보강하고 있다. 북한은 5500여 문의 방사포를 보유하고 있다.&nbsp;2. 사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않았을까?- 대체로 사실.해당 명제의 사실 여부를 확인하기 위해 과거 방사포 발사 기록 비교를 했다. 아래는 2020년 국방백서에 나오는 북한 미사일 시험발사 현황이다.아래는 2022년 북한의 방사포 발사 날짜이다. 자체 조사 결과 2021년에는 방사포로 명명된 발사체를 찾을 수 없었다.국방백서와 언론 보도를 인용해 최근 북한의 방사포 발사 일지를 재구성해 봤다.공개 여부에 나오는 언론에 공개된 시간은 합동참모본부, 국방부 보도자료 및 공식 홈페이지 등에서 확인이 어려웠다. 언론...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPC 그룹의 파리바게뜨 사회적 합의 이행 사실일까?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/132</id>
-        <link href="https://factchecker.or.kr/fc_publications/132"/>
-        <updated>2022-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 사회적 합의?2018년 1월 한국노총, 파리크라상, 민주노총 전국화학섬유 식품산업노동조합, 시민사회 대책 위원회, 파리바게뜨 가맹점주협의회, 더불어민주당 을지로 위원회, 정의당 비상구가 파리바게뜨 제조 기사의 권리와 관련해 사회, 경제, 법률 전반에 걸쳐 발생한 문제를 해결하기 위해 맺은 합의이다.총 11가지 합의 내용이 있다. 파이낸셜 보도 내용과 대응되는 부분은 처우개선 및 근로 환경 개선을 위한 내용이다. 세부적 내용은 아래와 같다.2. 파리바게뜨 제빵 기사 임금이 3년 내 파리크라상 임금과 동일 수준으로 되었나?&nbsp;- 사실이 아니다. 사측이 제시한 근거 자료는 신뢰성이 떨어진다.사측은 파리크라상의 유사 직군과 동일한 연봉 수준을 달성했다며 사회적 합의를 충실히 이행해 안정적인 고용 환경을 조성하고 있다는 입장을 밝혔다. 이와 관련한 사측의 근거로는 2021년 3월 화섬 식품산업노조 파리바게뜨 지회에 제공한 자료와 2021년 하반기 국정감사 때 국회 환노위에 제출한 자...]]></content>
     </entry>
 </feed>
