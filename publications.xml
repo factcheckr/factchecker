@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-08-02T04:02:28.461Z</updated>
+    <updated>2022-08-02T05:17:43.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -23,6 +23,14 @@
 &nbsp;인체노출안전기준이란? https://www.consumer.go.kr/user/bbs/consumer/261/731/bbsDataView/3406.do?page=1&amp;column=&amp;search=&amp;searchSDate=&amp;searchEDate=&amp;bbsDataCategory=
 &nbsp;
 &nbsp; &nbsp;3) 과산화수소, 아황산수소나트륨, 수산화나트륨 독성수치는 동물의 종(기니피그, ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진자는 헌혈을 못한다고?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/144</id>
+        <link href="https://factchecker.or.kr/fc_publications/144"/>
+        <updated>2022-08-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[대한적십회사는 공식 홈페이지에 코로나 확진(완치)자와 백신 접종자의 헌혈에 대한 기준을 게시하였습니다. 코로나 완치자는 완치일(격리종료일)로 부터 10일 뒤부터 헌혈이 가능하며, 백신접종자는 이상반응이 없을 경우, 접종 7일 후부터 헌혈이 가능하며 이상반응이 존재할 경우, 이상반응이 사라진 날의 7일 후 부터 헌혈이 가능합니다.&nbsp;
+&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
@@ -127,12 +135,5 @@ CNN 기사
         <content type="html"><![CDATA[1. 로 대 웨이드(Roe v. Wade) 판결이란?
 미국에서는 1970년대 초까지 대부분 주에서 임신부의 생명이 위험한 경우를 제외한 낙태를 불법으로 보고 낙태죄를 처벌했습니다. 1969년 텍사스주 댈러스의 노마 맥코비라는 여성이 강간을 당해 임신했다고 주장하며 낙태수술을 요청하게 되는데, 임신부의 생명이 위독하지 않고 성폭행 사건에 대한 경찰 보고서가 없다는 이유로 수술을 거부당했습니다. 이에 맥코비는 변호사 린다 커피, 사라 웨딩턴을 대리로 해 텍사스주를 상대로 위헌소송을 제기했고, 신변 보호를 위해 제인 로(Jane Roe)라는 가명을 사용했습니다. 이 이름과 소송의 피고인이었던 댈러스카운티 지방검사 헨리 웨이드(Henry Wade)의 이름을 따 소송의 명칭이 로 대 웨이드(Roe v. Wade)라고 불리게 됐습니다.
 지방법원을 거쳐 연방대법원까지 올라간 이 소송 결과, 대법원은 1973년 1월 22일 7대2로 낙태금지가 위헌이라는 결정을 내렸습니다. 대법원은 낙태를 처...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않는다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/133</id>
-        <link href="https://factchecker.or.kr/fc_publications/133"/>
-        <updated>2022-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 북한 방사포전방에 배치된 170mm 자주포와 240mm 방사포는 수도권 지역에 대한 기습적인 대량 집중 공격이 가능하다. 최근 사거리 연장과 정밀 유도가 가능한 300mm 방사포와 대구경방사포를 개발해 한반도 전역을 타격할 수 있는 방사포 위주로 화력을 보강하고 있다. 북한은 5500여 문의 방사포를 보유하고 있다.&nbsp;2. 사거리가 짧고 고도가 낮은 재래식 방사포의 경우 관련 사실을 수시로 공개하지 않았을까?- 대체로 사실.해당 명제의 사실 여부를 확인하기 위해 과거 방사포 발사 기록 비교를 했다. 아래는 2020년 국방백서에 나오는 북한 미사일 시험발사 현황이다.아래는 2022년 북한의 방사포 발사 날짜이다. 자체 조사 결과 2021년에는 방사포로 명명된 발사체를 찾을 수 없었다.국방백서와 언론 보도를 인용해 최근 북한의 방사포 발사 일지를 재구성해 봤다.공개 여부에 나오는 언론에 공개된 시간은 합동참모본부, 국방부 보도자료 및 공식 홈페이지 등에서 확인이 어려웠다. 언론...]]></content>
     </entry>
 </feed>
