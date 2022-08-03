@@ -2,7 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/trends</id>
     <title>팩트체크넷 ─ 자료실 ─ 주요동향</title>
-    <updated>2022-08-03T13:36:59.610Z</updated>
+    <updated>2022-08-03T14:13:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/favicon.ico</icon>
+    <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안]]></title>
+        <id>https://factchecker.or.kr/trends/198</id>
+        <link href="https://factchecker.or.kr/trends/198"/>
+        <updated>2021-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[딥페이크는 딥러닝(deep learning)과 페이크(fake)의 합성어로, 인공지능 기술 기반의 알고리즘을 활용하여 이미지, 영상 그리고 음성에 조작을 가하는 합성 기술이다.
+&nbsp;
+최근 일어난 n번방 사건 피해자 및 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청소년 팩트체크 단체 소개] 에듀뺌(Edu Bbam)]]></title>
+        <id>https://factchecker.or.kr/trends/191</id>
+        <link href="https://factchecker.or.kr/trends/191"/>
+        <updated>2020-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+* 본 소개글은 에듀뺌 티스토리(https://edubbam.com/)의 내용을 발췌하여 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+소개
+&nbsp;
+에듀뺌(Edu Bbam)은 일반 시민, 특히 청소년들이 팩트체크를 쉽고, 재...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 체케아도]]></title>
+        <id>https://factchecker.or.kr/trends/71</id>
+        <link href="https://factchecker.or.kr/trends/71"/>
+        <updated>2020-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+&nbsp;
+* 본 소개글은 Chequeado 홈페이지 (https://chequeado.com/)의 내용을 발췌·번역해 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+I. 소개
+체케아도(Chequeado)는 La Voz Públ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 스놉스]]></title>
+        <id>https://factchecker.or.kr/trends/64</id>
+        <link href="https://factchecker.or.kr/trends/64"/>
+        <updated>2020-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+&nbsp;
+* 본 소개글은 Snopes 홈페이지 (https://www.snopes.com/)의 내용을 발췌·번역해 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+I. 소개
+&nbsp;스놉스(Snopes)는 1994년 출범한 미국의 팩트...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] FactCheck.org]]></title>
+        <id>https://factchecker.or.kr/trends/18</id>
+        <link href="https://factchecker.or.kr/trends/18"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+&nbsp;
+* 본 소개글은 FactCheck.org 홈페이지 (https://www.factcheck.org/)의 내용을 발췌·번역해 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+I. 소개
+&nbsp;미국 펜실베니아 대학교 애넌버그 공...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 퍼스트 드래프트]]></title>
+        <id>https://factchecker.or.kr/trends/15</id>
+        <link href="https://factchecker.or.kr/trends/15"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+&nbsp;
+*본 소개글은 퍼스트 드래프트 홈페이지(https://firstdraftnews.org/)의 내용을 발췌·번역해 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+I. 소개
+&nbsp;퍼스트 드래프트는 오보 및 허위조작정보에 맞서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 유럽의 SOMA 프로젝트]]></title>
+        <id>https://factchecker.or.kr/trends/10</id>
+        <link href="https://factchecker.or.kr/trends/10"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+SOMA (Social Observatory for Disinformation and Social Media Analysis)
+&nbsp;
+&nbsp;
+* 본 소개글은 SOMA 프로젝트 홈페이지 (https://www.dis...]]></content>
+    </entry>
 </feed>
