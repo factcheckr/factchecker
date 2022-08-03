@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-08-03T07:13:25.666Z</updated>
+    <updated>2022-08-03T08:19:18.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -20,9 +20,10 @@
 &nbsp;
 &nbsp; &nbsp;2)&nbsp; 인체 노출 안전기준이란?
 
-&nbsp;인체노출안전기준이란? https://www.consumer.go.kr/user/bbs/consumer/261/731/bbsDataView/3406.do?page=1&amp;column=&amp;search=&amp;searchSDate=&amp;searchEDate=&amp;bbsDataCategory=
+&nbsp;인체노출안전기준이란?
+https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;ntctxt_no=1082976&amp;menu_no=3120
 &nbsp;
-&nbsp; &nbsp;3) 과산화수소, 아황산수소나트륨, 수산화나트륨 독성수치는 동물의 종(기니피그, ...]]></content>
+&nbsp; &nbsp;3) 과산화수소, 아황산수소나트륨, 수산화나트륨 독성수치는 동물의 종(기니피그, 마우스, 토끼 등)과 투여조건(경구, 복강 등)에 따라 다...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진자는 헌혈을 못한다고?]]></title>
