@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-08-04T14:12:17.683Z</updated>
+    <updated>2022-08-04T15:16:33.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -45,6 +45,8 @@ https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;
         <link href="https://factchecker.or.kr/fc_publications/144"/>
         <updated>2022-08-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[대한적십회사는 공식 홈페이지에 코로나 확진(완치)자와 백신 접종자의 헌혈에 대한 기준을 게시하였습니다. 코로나 완치자는 완치일(격리종료일)로 부터 10일 뒤부터 헌혈이 가능하며, 백신접종자는 이상반응이 없을 경우, 접종 7일 후부터 헌혈이 가능하며 이상반응이 존재할 경우, 이상반응이 사라진 날의 7일 후 부터 헌혈이 가능합니다.&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;]]></content>
     </entry>
     <entry>
