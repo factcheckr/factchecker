@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 03:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 04:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,15 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[신천지 온라인 세미나 조회수가 대대적으로 홍보하는것과는 전혀 맞지 않은거 같아서요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/755</link>
+            <guid>https://factchecker.or.kr/fc_suggests/755</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[http://www.dynews.co.kr/news/articleView.html?idxno=665578https://www.newscj.com/947642
+https://www.newscj.com/945738
+800만 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빌린 건물이라도 장애인 주차 구역에 주차하면 위법인지 확인 요청드려도 될까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/754</link>
             <guid>https://factchecker.or.kr/fc_suggests/754</guid>
@@ -289,14 +298,6 @@ https://youtu.be/B_t--7sb2As]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/745</guid>
             <pubDate>Wed, 03 Aug 2022 14:12:25 GMT</pubDate>
             <content:encoded><![CDATA[http://kor-people.co.kr/&nbsp;여기 어떤데인지 사기아닌지 궁금해요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쪽방촌 에어컨 설치 사업 규모가 줄어들었다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/744</link>
-            <guid>https://factchecker.or.kr/fc_suggests/744</guid>
-            <pubDate>Wed, 03 Aug 2022 14:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전에 커뮤니티에서 이런 글을 봤는데요. 오세훈 서울시장이 쪽방촌 에어컨 설치 사업 현장에 방문한 사진이 엄청 많은 언론 보도로 나왔는더라고요.
-근데 댓글을 보니까 오세훈 시장이 이미지 메이킹을 한다면서 비판하더라고요...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만 5세 입학, 극성 엄마들 때문에 만들어진 정책이다? [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
