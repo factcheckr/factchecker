@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-05T08:18:03.935Z</updated>
+    <updated>2022-08-05T09:13:55.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://factchecker.or.kr/fc_suggests</id>
+        <link href="https://factchecker.or.kr/fc_suggests"/>
+        <updated>2022-08-05T09:13:06.924Z</updated>
+        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
+장혁
+2022.08.05 17:43:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신천지 온라인 세미나 조회수가 대대적으로 홍보하는것과는 전혀 맞지 않은거 같아서요.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/755</id>
@@ -79,12 +88,5 @@ https://youtu.be/B_t--7sb2As]]></content>
         <updated>2022-08-03T14:12:25.955Z</updated>
         <content type="html"><![CDATA[기재부 “법인세 내리면 투자·고용 증가한다는 연구결과 있다” | 서울신문 (seoul.co.kr)
 정부가 내년부터 기업 법인세를 깎아주기로 하면서 다양한 실증연구에 따르면 법인세율 인하는 투자·고용 증가 효과가 있다고 분...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서민통합지원센터]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/745</id>
-        <link href="https://factchecker.or.kr/fc_suggests/745"/>
-        <updated>2022-08-03T14:12:25.957Z</updated>
-        <content type="html"><![CDATA[http://kor-people.co.kr/&nbsp;여기 어떤데인지 사기아닌지 궁금해요]]></content>
     </entry>
 </feed>
