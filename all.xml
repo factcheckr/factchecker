@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -187,7 +187,7 @@ UN에서 실제로 위의 내용을 발표했는지 검증해보겠습니다.]]>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 08 Aug 2022 14:14:40 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2022 15:14:35 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 장혁
 2022.08.05 17:43:44]]></content:encoded>
