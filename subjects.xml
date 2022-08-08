@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령실 직원 명단, 우리나라만 유독 공개 안 한다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/447</link>
+            <guid>https://factchecker.or.kr/fc_subjects/447</guid>
+            <pubDate>Mon, 08 Aug 2022 06:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 카메라에 포착되었습니다. 이후 강 씨가 강경우파 정당인 자유의새벽당 출신이며, 현재 대통령실 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 이런 논란은 이번이 처음이 아닙니다. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지 줄줄이 채용 적합성 논란을 빚어왔습니다. 대통령실은 공정하고 적법하게 채용했다면서, 채용 과정과 직위, 직책 등은 모두 공개하지 않고 있습니다. 하지만&nbsp;일각에서는 대통령실 직원 신분이 깜깜이 관행인 것을 두고, 국제적 기준과 맞지 않는다고 주장합니다. 과연 대통령실 직원들의 신상은 국민들이 알아선 안 되는 비밀이어야 하는지, 주요 선진국들과 우리나라와의 차별점은 없는지 비교·분석해봤습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[UN에서 2050년에 지구가 망한다고 발표했다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/444</link>
@@ -84,30 +92,6 @@ UN에서 실제로 위의 내용을 발표했는지 검증해보겠습니다.]]>
             <pubDate>Wed, 03 Aug 2022 14:12:19 GMT</pubDate>
             <content:encoded><![CDATA[최근 온라인 커뮤니티와 카페 등을 통해 코로나 바이러스에 확진되었던 경우 완치 후에도 헌혈을 할 수 없다는 내용의 글과 댓글이 게시되고 있습니다. 과연 코로나 확진자/완치자와 백신 접종자는 헌혈을 할 수 없는지 검증해보겠습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/422</link>
-            <guid>https://factchecker.or.kr/fc_subjects/422</guid>
-            <pubDate>Wed, 03 Aug 2022 14:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-&nbsp;英 철도, 33년 만에 최대 규모의 파업에 돌입했다?
-&nbsp;
-영국 철도노조의 파업을 보도하며 국내 언론은 33년(30여년) 만에 최대 규모라는 점을 강조하고 있다. 영국 철도노조의 파업이 ‘33년’ 만에 ‘최대 규모 파업’이라는 보도는 과연 사실일까?
-&nbsp;
-33년 만에 영국 철도 최대 파업 “인플레이션 견딜 임금 인상을”
-https://m.khan.co.kr/world/europe-russia/article/202206222148035#c2b
-&nbsp;
-[지구촌 돋보기] 英 철도 33년 만에 최대 파업…유럽 줄파업 이유는?
-https://news.kbs.co.kr/news/view.do?ncd=5495339
-&nbsp;
-&nbsp;
-철도해운운수노조(RMT)는 임금 인상과 구조조정 중단을 요구하며 파업을 결정했다.
-국내 언론은 다양한 외신을 인용하며 해당 파업 소식을 전했다.
-&nbsp;
-Great Britain faces biggest rail strike in 30 years
-가디언즈 보도에서 영국 철도 노조...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
