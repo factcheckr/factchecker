@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/fc_subjects</id>
-    <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
-    <updated>2022-08-09T12:28:52.993Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Aug 2022 13:44:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령실 직원 명단, 우리나라만 유독 공개 안 한다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/447</link>
+            <guid>https://factchecker.or.kr/fc_subjects/447</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 카메라에 포착되었습니다. 이후 강 씨가 강경우파 정당인 자유의새벽당 출신이며, 현재 대통령실 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 이런 논란은 이번이 처음이 아닙니다. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지 줄줄이 채용 적합성 논란을 빚어왔습니다. 대통령실은 공정하고 적법하게 채용했다면서, 채용 과정과 직위, 직책 등은 모두 공개하지 않고 있습니다. 하지만&nbsp;일각에서는 대통령실 직원 신분이 깜깜이 관행인 것을 두고, 국제적 기준과 맞지 않는다고 주장합니다. 과연 대통령실 직원들의 신상은 국민들이 알아선 안 되는 비밀이어야 하는지, 주요 선진국들과 우리나라와의 차별점은 없는지 비교·분석해봤습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[UN에서 2050년에 지구가 망한다고 발표했다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/444</link>
+            <guid>https://factchecker.or.kr/fc_subjects/444</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 커뮤니티 사이트를 통해 UN이 환경문제로 인해 지구가 약 2050년에 지구 기온이 2도 증가할 것 이며, 이는 인류에게 치명적인 문제가 될 것이라고 발표했다는 게시물이 확산되고 있다.&nbsp;
+UN에서 실제로 위의 내용을 발표했는지 검증해보겠습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/checking_validity_sign-c5e0e1e75a35f6ed7e487a9eddef41da.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털성범죄 남성 피해자 비율은 20%가 넘는다]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/436</link>
+            <guid>https://factchecker.or.kr/fc_subjects/436</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[김현숙 여성가족부 장관이 지난 24일 &lt;연합뉴스&gt;와의 인터뷰에서 ‘인하대 성폭행 사망사건’을 두고 한 발언으로 논란이 일고 있습니다. 김 장관은 해당 사안에 대한 의견을 묻자 “그건 안전의 문제”라며 “남녀를 나눠 젠더 갈등을 증폭시키는 건 절대 바람직하지 않다”고 말했습니다. 이어 “디지털 성범죄의 남성 피해자 비율이 20%를 넘는다”는 통계를 근거로 제시했습니다. 일부 누리꾼들은 여가부 장관의 발언이 “본질에 벗어난 대답이다.”, “여가부 장관인데 남녀갈등 부추긴다”며 비판했습니다. 과연 김 장관이 근거로 제시한 수치가 맞는지, 또 발언의 취지에 적합한 근거인지 &lt;알고보니&gt;가 확인해봤습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/435</link>
+            <guid>https://factchecker.or.kr/fc_subjects/435</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;중국산 나무젓가락의 위생문제에 대한 정보들이 잊을만하면 SNS, 개인블로그, 동영상 플랫폼 등에 올라와 공유되고 있습니다.&nbsp;
+
+관련 블로그 내용처럼 우리나라에는 중국산 나무젓가락에 대한 위생기준이 아예 없다 를 확인해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비건 패션은 친환경적이지 않다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/434</link>
+            <guid>https://factchecker.or.kr/fc_subjects/434</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[인조 가죽을 사용한 일부 비건 패션은 친환경이지 않다는 언론보도를 바탕으로
+비건 패션은 친환경적이지 않다라는 진술문을 검증해보고자 합니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정부의 '금융부문 민생안정 과제 추진현황 및 대책'에 대한 온라인 주장 검증]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/432</link>
+            <guid>https://factchecker.or.kr/fc_subjects/432</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월 14일 금융위원회가 윤석열 대통령 주재 제2차 비상경제민생대책회의에서 보고한 금융부문 민생안정 과제 추진현황 및 대책(이하 민생안정 대책)을 내놓았습니다. 약 125조 원을 들여 소상공인·가계·청년·서민 등 취약부문의 부담 경감을 위해 금융지원 노력을 강화하는 내용을 담았습니다.
+그런데 이에 대해 인터넷 커뮤니티와 SNS를 위주로 부정적 반응이 확산되고 있습니다. 민생 안정을 위한 정부 대책의 목적이 따로 있다는 주장 때문입니다. 이에 주장의 핵심이 되는 온라인의 주장 1) 정부의 민생안정 금융지원 대책의 125조가 2030세대 빚투(빚내서 투자) 탕감을 위해 사용된다? 2) 또한 제2의 부산저축은행 사태처럼 될 것이다? 두 가지를 검증하고자 합니다.
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[촉법소년 흉악범죄 최근에 더 늘었다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/427</link>
+            <guid>https://factchecker.or.kr/fc_subjects/427</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[촉법소년이라 불리는 만 10세 이상 14세 미만 청소년들은 범죄를 저질러도 처벌을 받지 않습니다. 처벌 규정이 없어 이들의 범죄가 점점 더 흉포화된다는 주장이 나옵니다. 법무부도 촉법소년 기준 나이 하향을 추진 중인데, 실제 이들의 범죄가 최근 급증한 것인지 확인해봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리나라 중국 수출 호황의 시대가 끝나가고 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/426</link>
+            <guid>https://factchecker.or.kr/fc_subjects/426</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 28일 윤석열 대통령의 북대서양조약기구(NATO·나토) 정상회의 일정 중 브리핑에서 최상목 대통령실 경제수석은 “지난 20년간 우리가 누려왔던 중국을 통한 수출 호황의 시대는 끝나가고 있다”고 말했습니다. 최 수석은 “중국 성장이 둔화하고 있고, 내수 중심의 전략으로 전환되고 있다”고 진단했습니다. 그러자 국내에선 공개적인 국제 외교 무대에서 ‘탈중국’ 취지의 발언을 하는 것이 바람직하지 않다는 비판이 곧바로 일었습니다. 실제로 경제수석의 해당 발언 다음 날, 중국 관련 한국 기업의 주가가 급락하기도 했습니다. 해당 발언의 사실 관계 자체가 틀렸다는 비판도 있었습니다. 김종대 전 정의당 의원은 MBC 라디오에서 ‘한중 교역액이 최근으로 올수록 증가하고 있고, 미중 간의 전략경쟁이 심해질 때도 대중 무역 의존도는 높아졌다’고 주장하며 최 수석의 발언을 반박했습니다. 두 개의 상충된 주장의 이유와 근거는 무엇인지, 우리나라 수출에서 가장 큰 비중을 차지하는 중국 수출이 정말...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[주식·가상화폐 투자 빚 서울에서 탕감받는다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/424</link>
+            <guid>https://factchecker.or.kr/fc_subjects/424</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 28일 서울회생법원이 보도자료를 발표했습니다. 주식 또는 가상화폐 투자실패를 겪은 채무자를 지원하기 위해 새 실무준칙을 7월 1일부터 시행한다는 내용이었습니다. 이같은 내용은 주가 하락과 루나 사태 등으로 가상화폐가 폭락하는 상황과 맞물려 여론의 높은 관심을 받았습니다. 주된 관심은 개인의 투자 실패로 진 빚을 탕감해준다는 비판이었습니다. 대다수 언론은 이러한 여론을 반영해 “‘빚투’를 조장한다”, “‘먹튀’를 양산한다”는 제목으로, 도덕적 해이를 비판하고 지적했습니다. 또 서울회생법원의 관할권인 서울지역 거주자와 근무자만 새 준칙을 적용받을 수 있다며 형평성 논란도 제기했습니다. 온라인 개인회생 관련 커뮤니티에서는 개인회생을 앞두고 서울로 위장전입을 하면 된다는 의견과 관련 문의글이 크게 늘었습니다. 주식과 가상화폐로 진 빚을 안 갚아도 된다는 주장이 사실인지, 타 지역 사람들도 서울로 위장전입을 해서 빚을 탕감받으면 된다는 주장이 현실성이 있는지 확인했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 확진자는 헌혈을 못한다고?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/423</link>
+            <guid>https://factchecker.or.kr/fc_subjects/423</guid>
+            <pubDate>Tue, 09 Aug 2022 13:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 온라인 커뮤니티와 카페 등을 통해 코로나 바이러스에 확진되었던 경우 완치 후에도 헌혈을 할 수 없다는 내용의 글과 댓글이 게시되고 있습니다. 과연 코로나 확진자/완치자와 백신 접종자는 헌혈을 할 수 없는지 검증해보겠습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
