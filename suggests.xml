@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-09T08:20:03.991Z</updated>
+    <updated>2022-08-09T09:16:10.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[현행법상 가스라이팅은 처벌 할 수 없다는 것이 사실인가]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/759</id>
+        <link href="https://factchecker.or.kr/fc_suggests/759"/>
+        <updated>2022-08-09T09:15:26.859Z</updated>
+        <content type="html"><![CDATA[영미권 국가에서는 가능하다는데 우리나라에서는 불가능 한것이 사실인가요 ?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시의회가 수방 예산을 깎았다는게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/758</id>
+        <link href="https://factchecker.or.kr/fc_suggests/758"/>
+        <updated>2022-08-09T09:15:26.859Z</updated>
+        <content type="html"><![CDATA[어제 폭우가 쏟아져서 인명사고도 났는데요. 오늘 여기저기서 서울시 예산을 보면 올해 수방 예산이 작년에 비해서 줄어들었다고 하더라고요.
+보니까 서울시에서 예산 깎인게 민주당 시의회가 한 거라면서 책임을 넘기고 있네요. 당...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칩4가 한국에 좋은 방향으로 갈까요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/757</id>
@@ -14,10 +29,10 @@
 칩4가 한국 미국 일본 대만이 모여 안정적인 반도체 공급망을 구축하겠다는 것 같은 데 여기서 발생하는 이익과 중국이 반...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-08-09T08:19:19.271Z</updated>
+        <updated>2022-08-09T09:15:26.762Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 장혁
 2022.08.05 17:43:44]]></content>
@@ -71,22 +86,5 @@ https://www.newscj.com/945738
         <updated>2022-08-03T14:12:25.952Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 소득세 과세표준 구간을 조정한다고 하는데요. 언론 기사를 보니 주로 연봉 1억이 넘는 사람들이 혜택을 보도록 개편한다고 썼네요.
 그런데 정부는 이 기사를 두고 사실이 아니라면서 중, 저소득층 혜택이 더 크다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공기살균기 썬볼트]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/749</id>
-        <link href="https://factchecker.or.kr/fc_suggests/749"/>
-        <updated>2022-08-03T14:12:25.955Z</updated>
-        <content type="html"><![CDATA[공기살균기 궁금한 점이 있습니다
-이게 진짜 가능할까요?
-플라즈마로 저농도 오존으로 공기를&nbsp; 살균한다는데 코로나&nbsp; BA5 &amp; BA 2.75도 살균될까요?
-https://youtu.be/B_t--7sb2As]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비염이나 아토피가 있는 사람은 코로나 걸릴 가능성이 낮다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/748</id>
-        <link href="https://factchecker.or.kr/fc_suggests/748"/>
-        <updated>2022-08-03T14:12:25.955Z</updated>
-        <content type="html"><![CDATA[아직 코로나에 걸리지 않은 사람들은 비염이나 아토피가 있는 사람이다라는 주장이 트위터와 커뮤니티에서 확산되고 있습니다. 해당 트윗에서 비염 등 아토피성 질환자가 코로나19에 걸릴 가능성이 낮다는 내용에 대해 팩트체크를 제...]]></content>
     </entry>
 </feed>
