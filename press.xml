@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["강남 물난리는 빗물펌프장 반대탓" 주장은 '대체로 거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4429</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4429</guid>
+            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 신사동은 무산됐지만 대치동 펌프장은 위치 옮겨 2017년 완공]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b67881cab820083d4f436349358e673c5b049433/bd037a6eff910e610e14d4fee05e7db0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '우영우' 작가가 졸업한 하자센터, 박원순이 설립했다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4428</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4428</guid>
+            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 인기리에 방영 중인 드라마 이상한 변호사 우영우의 12회 에피소드가 박원순 전 서울시장과 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--90f8583658ed7a616c18268afaf54bff06a33f8a/ae1a37684cd50aaf6e843faa90ce4347.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] ‘○○○ 열애’…유명인 사생활 보도, 어디까지 허용?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4427</link>
@@ -69,22 +85,6 @@
             <guid>https://factchecker.or.kr/fc_archives/press/4419</guid>
             <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지난달 29일 초등학교 입학 연령을 현행 만 6세에서 만 5세로 낮추는 학제 개편안이 공론화된 이후 찬반 논란이 확산되고 있다. 한편 이러한 사실을 알리는 기사의 댓글에는 “몇년 전 애들 조기교육 시키던 일부 부유한 집안 엄마들이, 아이들 초등학교 입학 연령을 낮춰달...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사실확인] 과도한 노출은 처벌 대상이다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4420</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4420</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 빗속에서 남녀 커플이 과도한 노출 차림으로 오토바이 질주를 한 영상이 공개되면서 경찰이 내사에...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBsIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--79957eadc0de7050cc7a2fac88a40e459b97bccc/22faa330145cab0e1cd202f84117058d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대통령실 "보안상 중요한 공사는 비공개"…판단 기준은?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4418</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4418</guid>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 부부가 조만간 입주할 새 관저의 리모델링을 수의계약으로 따낸 업체가 김건희 여사와 연관됐단 의혹이 나왔습니다. ..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndsIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d6e45f734f209d2867fcbdb42a3fa7e42417bc1/04af784898df26350af7cabac6f11550.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
