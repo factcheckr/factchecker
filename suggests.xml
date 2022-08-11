@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-11T08:16:43.308Z</updated>
+    <updated>2022-08-11T09:14:18.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정부가 바뀌고 나서 백신 비판 보도가 줄어들었다는게 사실인가요?????]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/763</id>
+        <link href="https://factchecker.or.kr/fc_suggests/763"/>
+        <updated>2022-08-11T09:13:36.716Z</updated>
+        <content type="html"><![CDATA[최근에 나온 백신 관련 기사를 두고 정부가 바뀌니까 백신에 대해서 긍정적인 기사가 늘었다고 하는 사람이 있더라고요. 반대로 그런거랑 상관없다고 하는 사람도 있고요.&nbsp;
+조선일보처럼 특정 언론사를 언급하면서 논조가 달라졌다고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자전거 음주운전과 전동 킥보드 음주운전 처벌 기준은 같다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/762</id>
@@ -52,10 +60,10 @@
 칩4가 한국 미국 일본 대만이 모여 안정적인 반도체 공급망을 구축하겠다는 것 같은 데 여기서 발생하는 이익과 중국이 반...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-08-11T08:15:56.286Z</updated>
+        <updated>2022-08-11T09:13:36.647Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 장혁
 2022.08.05 17:43:44]]></content>
@@ -77,13 +85,5 @@ https://www.newscj.com/945738
         <content type="html"><![CDATA[얼마 전에 런닝맨이라는 프로그램에서 장애인 주차 구역에 차를 주차한 장면이 나왔는데요.
 이걸 두고 위법이다, 아니다 논란이 있더라고요.
 보니까 런닝맨 촬영 때문에 저 건물을 빌렸다고 하는데요. 건물을 빌리더라도 장애인 주...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사 조력 존엄사를 시행하면 자살률이 높아진다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/753</id>
-        <link href="https://factchecker.or.kr/fc_suggests/753"/>
-        <updated>2022-08-09T13:43:06.570Z</updated>
-        <content type="html"><![CDATA[미국 일부 주와 스위스 등에서 시행되고 있는 의사 조력 존엄사 관련 법안이 국회에 발의됐습니다.
-그런데 오늘 나온 기사를 보니까 일부 단체에서 법안에 대한 반대 의견을 들면서 법안 때문에 생명경시 문화가 퍼져서 자살률이 ...]]></content>
     </entry>
 </feed>
