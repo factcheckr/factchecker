@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-12T18:16:50.738Z</updated>
+    <updated>2022-08-12T19:11:59.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[7]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-08-12T18:16:02.018Z</updated>
+        <updated>2022-08-12T19:11:09.738Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 장혁
 2022.08.05 17:43:44]]></content>
