@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,14 @@ UN에서 실제로 위의 내용을 발표했는지 검증해보겠습니다.]]>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이재용 삼성 부회장 사면의 경제적효과 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/765</link>
+            <guid>https://factchecker.or.kr/fc_suggests/765</guid>
+            <pubDate>Wed, 17 Aug 2022 05:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[https://m.khan.co.kr/national/court-law/article/202208121112001#c2b
+이재용 삼성 부회장의 사면에 관한 기사. 광복절 특사로 사면 되었으나 타 정치인들은 사면이 되지 않...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[싼샤땜 붕괴 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/764</link>
             <guid>https://factchecker.or.kr/fc_suggests/764</guid>
@@ -249,19 +257,10 @@ UN에서 실제로 위의 내용을 발표했는지 검증해보겠습니다.]]>
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 03:55:13 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 05:04:40 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 장혁
 2022.08.05 17:43:44]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신천지 온라인 세미나 조회수가 대대적으로 홍보하는것과는 전혀 맞지 않은거 같아서요. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/755</link>
-            <guid>https://factchecker.or.kr/fc_suggests/755</guid>
-            <pubDate>Tue, 09 Aug 2022 13:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[http://www.dynews.co.kr/news/articleView.html?idxno=665578https://www.newscj.com/947642
-https://www.newscj.com/945738
-800만 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
