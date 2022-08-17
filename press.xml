@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 01:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4450</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4450</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[침수 예상 지도라는 게 있습니다. 침수 피해가 있을 걸로 예상되는 지역들을 미리 지도로 볼 수 있게 한 건데요. 그런데 이 지도..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1c0e7fb566d0039edf89ccf60ff129d2f77da075/e544ed55c7eca87ffb9fb52d5180b7ac.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 침수 중고차, 모르고 사면 전액 환불 가능하다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4448</link>
@@ -77,14 +85,6 @@
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 서울시 먼저 700억 삭감안 제출... 시의회, 안전 소홀 비판하고 오세훈 예산 삭감]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2ttIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9745b2518ec1d8c99f9c4a1989bf6d92f16ac317/ed434fbccf9797c140343b4bc0deed85.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 수방 예산 삭감은 민주당 다수인 시의회 탓? [FACT IN 뉴스]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4440</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4440</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“서울시 수방 예산을 삭감한 것은 민주당이 거의 독점하다시피 한 서울시의회다.” 국민의힘 양금희 원내대변인은 전날(10일) ‘민주당은 물 폭탄 거짓선동을 즉각 중단하라’라는 논평을 내며 이같이 말했다. 이는 지난 9일 서울시가 내놓은 설명자료에 나온 “작년 절대 다수의 민주당...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3f32843851380b1cda162ae1e2cfd929c4c5adb9/c5f958b6266ca88212ac86fe416be7b2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
