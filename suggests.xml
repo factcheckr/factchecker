@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T14:17:54.104Z</updated>
+    <updated>2022-08-18T15:27:20.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[1:1 대화 채팅은 고소가 불가능한가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/778</id>
+        <link href="https://factchecker.or.kr/fc_suggests/778"/>
+        <updated>2022-08-18T15:26:38.287Z</updated>
+        <content type="html"><![CDATA[어떠한 욕을 먹더라도, 그게 심지어 모욕적이어도 1:1 채팅은 죄가 성립이 안된다는데 사실인가요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동차 기름 아침에 넣는 것이 좋다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/777</id>
+        <link href="https://factchecker.or.kr/fc_suggests/777"/>
+        <updated>2022-08-18T15:26:38.287Z</updated>
+        <content type="html"><![CDATA[자동차 기름 아침에 넣는 것이 좋다는 썰이 팩트인지 궁금합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인의 범죄율]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/776</id>
+        <link href="https://factchecker.or.kr/fc_suggests/776"/>
+        <updated>2022-08-18T15:26:38.287Z</updated>
+        <content type="html"><![CDATA[대부분 국내에 있는 외국인들의 범죄율이 높다고 생각합니다.&nbsp;
+특히 중국교포(조선족)의 범죄가 많다고 생각하는데 사실인지 궁금합니다.&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 먹을때 식후 30분 시간을 지켜야 하나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/775</id>
+        <link href="https://factchecker.or.kr/fc_suggests/775"/>
+        <updated>2022-08-18T15:26:38.295Z</updated>
+        <content type="html"><![CDATA[약 먹을때 식후 30분을 지켜야 된다고 들었는데 꼭 지켜야 되나요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기상청 예보 정확도가 떨어지나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/774</id>
+        <link href="https://factchecker.or.kr/fc_suggests/774"/>
+        <updated>2022-08-18T15:26:38.297Z</updated>
+        <content type="html"><![CDATA[최근에 보면 틀리는 때가 있던데 기상청 예보 정확도가 떨어지나요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타투 도안을 배껴도 저작권법으로 처벌받나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/773</id>
@@ -50,52 +86,5 @@
 도는 우유를 싫어하지만 키가 큰 친구도 있고요.
 &nbsp;
 우유 섭취와 성장의 관련성 팩트체크 해주세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약먹을때 꼭 식후 30분을 지켜야되나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/768</id>
-        <link href="https://factchecker.or.kr/fc_suggests/768"/>
-        <updated>2022-08-18T05:39:31.482Z</updated>
-        <content type="html"><![CDATA[https://terms.naver.com/entry.naver?docId=2100488&amp;cid=63166&amp;categoryId=51015
-&nbsp;
-꼭 식후 30분에 복용해야된다는 것처럼하였는데 대부분의 약이 시간이 간격이 중요...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기세 아끼려면 에어컨 껐다가 켜지 말고 계속 틀어야 하나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/767</id>
-        <link href="https://factchecker.or.kr/fc_suggests/767"/>
-        <updated>2022-08-18T01:17:38.668Z</updated>
-        <content type="html"><![CDATA[요즘처럼 습하고 더운 날씨에는 에어컨을 안 틀 수가 없는데요.
-아무래도 에어컨을 많이 틀다보면 전기세 걱정이 들더라구요.
-&nbsp;
-전기세를 아끼려면 에어컨을 껐다가 켜는 걸 반복하지 말고
-한 번 틀면 계속 쭉 틀어놓으라고 하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감기는 추워서 걸리는 게 아니다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/766</id>
-        <link href="https://factchecker.or.kr/fc_suggests/766"/>
-        <updated>2022-08-18T01:17:38.670Z</updated>
-        <content type="html"><![CDATA[http://www.ikpnews.net/news/articleView.html?idxno=27926
-날씨가 추우니 감기 조심하세요,
-기온이 떨어졌습니다. 감기에 유의하시기 바랍니다
-겨울이면 흔히 쓰는 안부인사 입니다.
-...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용 삼성 부회장 사면의 경제적효과]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/765</id>
-        <link href="https://factchecker.or.kr/fc_suggests/765"/>
-        <updated>2022-08-17T05:04:40.837Z</updated>
-        <content type="html"><![CDATA[https://m.khan.co.kr/national/court-law/article/202208121112001#c2b
-이재용 삼성 부회장의 사면에 관한 기사. 광복절 특사로 사면 되었으나 타 정치인들은 사면이 되지 않...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싼샤땜 붕괴]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/764</id>
-        <link href="https://factchecker.or.kr/fc_suggests/764"/>
-        <updated>2022-08-14T11:12:03.282Z</updated>
-        <content type="html"><![CDATA[https://youtu.be/fiaVyZlHGwQ
-유튜브를보다 싼샤땜이 붕과했다는 뉴스를보았는대 다른뉴스들에선 전혀내용이 안보여서 진짜인지여쭙니다]]></content>
     </entry>
 </feed>
