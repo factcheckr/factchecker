@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T21:15:08.278Z</updated>
+    <updated>2022-08-18T22:14:44.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 무비자 불법 체류 외국인 노동자가 수십만명이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/780</id>
+        <link href="https://factchecker.or.kr/fc_suggests/780"/>
+        <updated>2022-08-18T22:14:00.992Z</updated>
+        <content type="html"><![CDATA[https://www.yna.co.kr/view/AKR20220801139700371]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플의 아이폰 구매가 한국의 경제적 이익이 될 수 있는가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/779</id>
@@ -71,16 +78,6 @@
 강수정확도는 80% 이상을 유지하는데, 맑다고 예보하고 실제로 맑았던 날까지 포함돼 있어 정확도가 높게 계산되는 특징이 있습니다.
 펙트체크 부탁드립니다.
 &nbsp;
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요새 기업에서 MBTI로 사람을 뽑는다고 하는데 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/770</id>
-        <link href="https://factchecker.or.kr/fc_suggests/770"/>
-        <updated>2022-08-18T05:39:31.480Z</updated>
-        <content type="html"><![CDATA[https://www.newsis.com/view/?id=NISX20220401_0001817163
-&nbsp;
-실제로 MBTI를 보고 그 유형에 맞춰서 직원을 뽑는 회사가 있나요?
 &nbsp;]]></content>
     </entry>
 </feed>

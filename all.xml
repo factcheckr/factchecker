@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 21:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 22:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우리나라 무비자 불법 체류 외국인 노동자가 수십만명이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/780</link>
+            <guid>https://factchecker.or.kr/fc_suggests/780</guid>
+            <pubDate>Thu, 18 Aug 2022 22:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.yna.co.kr/view/AKR20220801139700371]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[애플의 아이폰 구매가 한국의 경제적 이익이 될 수 있는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/779</link>
             <guid>https://factchecker.or.kr/fc_suggests/779</guid>
@@ -279,16 +286,6 @@ Great Britain faces biggest rail strike in 30 years
 강수정확도는 80% 이상을 유지하는데, 맑다고 예보하고 실제로 맑았던 날까지 포함돼 있어 정확도가 높게 계산되는 특징이 있습니다.
 펙트체크 부탁드립니다.
 &nbsp;
-&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[요새 기업에서 MBTI로 사람을 뽑는다고 하는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/770</link>
-            <guid>https://factchecker.or.kr/fc_suggests/770</guid>
-            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.newsis.com/view/?id=NISX20220401_0001817163
-&nbsp;
-실제로 MBTI를 보고 그 유형에 맞춰서 직원을 뽑는 회사가 있나요?
 &nbsp;]]></content:encoded>
         </item>
         <item>
