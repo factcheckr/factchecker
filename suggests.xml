@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T18:17:58.580Z</updated>
+    <updated>2022-08-18T19:12:35.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애플의 아이폰 구매가 한국의 경제적 이익이 될 수 있는가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/779</id>
+        <link href="https://factchecker.or.kr/fc_suggests/779"/>
+        <updated>2022-08-18T19:11:52.887Z</updated>
+        <content type="html"><![CDATA[애플의 아이폰의 원자재로서 삼섬의 제품을 사용하는 데 이런 상황이면 결국 애플의 아이폰을 구매하는게 삼성의 원자재 판매를 증가시켜 결국 자국의 회사인 삼성도 이익을 얻어 자국의 경제적 이익으로 발전할 수 있다는 게 사실일...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1:1 대화 채팅은 고소가 불가능한가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/778</id>
@@ -75,16 +82,5 @@
 &nbsp;
 실제로 MBTI를 보고 그 유형에 맞춰서 직원을 뽑는 회사가 있나요?
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우유를 먹으면 정말 키가 크나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/769</id>
-        <link href="https://factchecker.or.kr/fc_suggests/769"/>
-        <updated>2022-08-18T05:39:31.481Z</updated>
-        <content type="html"><![CDATA[칼슘 섭취가 뼈 건강에 좋다는 것은 사실이지만..
-성장기에 우유를 많이 먹은 친구들 중 키가 작은 친구들도 있더라구요
-도는 우유를 싫어하지만 키가 큰 친구도 있고요.
-&nbsp;
-우유 섭취와 성장의 관련성 팩트체크 해주세요!]]></content>
     </entry>
 </feed>

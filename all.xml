@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 18:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 19:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[애플의 아이폰 구매가 한국의 경제적 이익이 될 수 있는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/779</link>
+            <guid>https://factchecker.or.kr/fc_suggests/779</guid>
+            <pubDate>Thu, 18 Aug 2022 19:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 아이폰의 원자재로서 삼섬의 제품을 사용하는 데 이런 상황이면 결국 애플의 아이폰을 구매하는게 삼성의 원자재 판매를 증가시켜 결국 자국의 회사인 삼성도 이익을 얻어 자국의 경제적 이익으로 발전할 수 있다는 게 사실일...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1:1 대화 채팅은 고소가 불가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/778</link>
             <guid>https://factchecker.or.kr/fc_suggests/778</guid>
@@ -283,17 +290,6 @@ Great Britain faces biggest rail strike in 30 years
 &nbsp;
 실제로 MBTI를 보고 그 유형에 맞춰서 직원을 뽑는 회사가 있나요?
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우유를 먹으면 정말 키가 크나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/769</link>
-            <guid>https://factchecker.or.kr/fc_suggests/769</guid>
-            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[칼슘 섭취가 뼈 건강에 좋다는 것은 사실이지만..
-성장기에 우유를 많이 먹은 친구들 중 키가 작은 친구들도 있더라구요
-도는 우유를 싫어하지만 키가 큰 친구도 있고요.
-&nbsp;
-우유 섭취와 성장의 관련성 팩트체크 해주세요!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
