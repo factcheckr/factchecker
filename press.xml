@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 01:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4452</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4452</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 기자에게 전달된 카카오톡 메시지입니다. 휴대폰을 충전하면서 전화를 받을 경우 감전사할 수 있다는...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--976b36e9ab737d345e7c0a296498441ed10ddf49/7b4e01628eafb7e9f6c1cb4a7c1c5cdb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 코로나19 치명률 잘 관리되고 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4453</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4453</guid>
+            <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국이 인구 대비 코로나19 확진자 수에서 세계 1위를 기록했다는 소식이 전해지면서 우려가 커지자, 방역 당국이 “확진자 대비 사망자 수(치명률)은 해외 어느 나라보다도 낮게 관리되고 있다”고 밝혔습니다. 관련 통계를 통해 확인했습니다. 국제 통계 사이트 ‘아워월드인데이터(Our World in Data)’에 따르면, 지난 주(8월 7일∼13일) 인구 100만 명당 코로나19 확진자 수는 한국이 1만6724명으로 집계대상 216개국 가운데 가장 많았습니다. 두 번째로 많은 마셜제도(1만4577명), 3위인 일본(1만1228명)과 차]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWdtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--369bf35896dd553462b88b938bd5dff3ea9e36c5/137c2b22955ab74acdad0da13e49d63c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 여론조사때 60대·70대 구분 않으면 尹 지지율 높아진다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4451</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4451</guid>
+            <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 국민의힘 이준석 전 대표가 16일 MBC 라디오와의 인터뷰에서 윤석열 대통령 국정운영 지지율과 관련해 어떤 여...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ab73f5d107205c1e8efcb0592e361c626ff2f85e/4bc1cbdc128fbf074e50d885a3884343.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] '침수 예상 지도' 이번 폭우에 얼마나 정확했나]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4450</link>
@@ -62,29 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 최근 정부가, 나라가 갖고 있는 땅과 건물을 민간에 적극적으로 팔겠다는 발표한 것을 두고 오늘도 여야 간에 공방이 벌어졌는데요. [추경호/기획재정...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a8978827971fe6f8c69d7c7bb035ea3d1845cd9/f447a61476c3c8c4759830f6c4e1f9c5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크, 코로나19 예방에 효과 없다? [팩트체크]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4443</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4443</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 19일, 국회 국민동의청원에 “감염병 예방에 관한 법률 중 마스크 관련 조항 삭제 재개정 요청에 관한 청원”이 올라왔다. 글의 골자는 마스크가 코로나19 예방에 효과가 없다는 것이었다.이 청원은 8월 12일 현재 1,800명이 넘는 동의를 받았다. 해당 청원...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 반지하 주택은 안보 목적으로 생겨났다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4442</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4442</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 집중호우로 인해 반지하 주택이 침수되면서 일가족이 숨졌다는 안타까운 소식이 전해진 가운데, 우...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--03e3727d5148bb7b5cca4c75e267bdf350d6fc27/31c79d9cd824e99c7c2f063dd505ccca.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["수방예산 삭감, 민주당 시의회 탓" 서울시 주장은 '대체로 거짓']]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4441</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4441</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 서울시 먼저 700억 삭감안 제출... 시의회, 안전 소홀 비판하고 오세훈 예산 삭감]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2ttIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9745b2518ec1d8c99f9c4a1989bf6d92f16ac317/ed434fbccf9797c140343b4bc0deed85.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
