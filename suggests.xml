@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T09:16:45.832Z</updated>
+    <updated>2022-08-18T10:17:58.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[타투 도안을 배껴도 저작권법으로 처벌받나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/773</id>
+        <link href="https://factchecker.or.kr/fc_suggests/773"/>
+        <updated>2022-08-18T10:16:13.761Z</updated>
+        <content type="html"><![CDATA[요즘 sns로 타투 홍보하는 타투이스트들이 많은데요. 종종 타투 도안을 배껴 문제가 되는 경우가 있습니다. 국내에서 문신은 의료행위로 분류돼 의사가 아닌 이가 새긴 문신은 ‘불법’으로 취급하고 있는데요. 과연 타투 도안도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12억 관저 리모델링사 대표, 김건희 여사가 취임식 초청 / 김대표는 초청받지 않았다. 확인이 필요합니다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/772</id>
@@ -90,13 +97,5 @@
         <updated>2022-08-14T11:12:03.282Z</updated>
         <content type="html"><![CDATA[https://youtu.be/fiaVyZlHGwQ
 유튜브를보다 싼샤땜이 붕과했다는 뉴스를보았는대 다른뉴스들에선 전혀내용이 안보여서 진짜인지여쭙니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 바뀌고 나서 백신 비판 보도가 줄어들었다는게 사실인가요?????]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/763</id>
-        <link href="https://factchecker.or.kr/fc_suggests/763"/>
-        <updated>2022-08-11T09:13:36.716Z</updated>
-        <content type="html"><![CDATA[최근에 나온 백신 관련 기사를 두고 정부가 바뀌니까 백신에 대해서 긍정적인 기사가 늘었다고 하는 사람이 있더라고요. 반대로 그런거랑 상관없다고 하는 사람도 있고요.&nbsp;
-조선일보처럼 특정 언론사를 언급하면서 논조가 달라졌다고...]]></content>
     </entry>
 </feed>
