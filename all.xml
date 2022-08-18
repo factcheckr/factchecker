@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,47 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[기상청 예보, 정확도 떨어진다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/771</link>
+            <guid>https://factchecker.or.kr/fc_suggests/771</guid>
+            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 날씨를 보면 기상청의 예보가 부정화한 것 같은데,
+강수정확도는 80% 이상을 유지하는데, 맑다고 예보하고 실제로 맑았던 날까지 포함돼 있어 정확도가 높게 계산되는 특징이 있습니다.
+펙트체크 부탁드립니다.
+&nbsp;
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요새 기업에서 MBTI로 사람을 뽑는다고 하는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/770</link>
+            <guid>https://factchecker.or.kr/fc_suggests/770</guid>
+            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.newsis.com/view/?id=NISX20220401_0001817163
+&nbsp;
+실제로 MBTI를 보고 그 유형에 맞춰서 직원을 뽑는 회사가 있나요?
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우유를 먹으면 정말 키가 크나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/769</link>
+            <guid>https://factchecker.or.kr/fc_suggests/769</guid>
+            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[칼슘 섭취가 뼈 건강에 좋다는 것은 사실이지만..
+성장기에 우유를 많이 먹은 친구들 중 키가 작은 친구들도 있더라구요
+도는 우유를 싫어하지만 키가 큰 친구도 있고요.
+&nbsp;
+우유 섭취와 성장의 관련성 팩트체크 해주세요!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[약먹을때 꼭 식후 30분을 지켜야되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/768</link>
+            <guid>https://factchecker.or.kr/fc_suggests/768</guid>
+            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[https://terms.naver.com/entry.naver?docId=2100488&amp;cid=63166&amp;categoryId=51015
+&nbsp;
+꼭 식후 30분에 복용해야된다는 것처럼하였는데 대부분의 약이 시간이 간격이 중요...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전기세 아끼려면 에어컨 껐다가 켜지 말고 계속 틀어야 하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/767</link>
             <guid>https://factchecker.or.kr/fc_suggests/767</guid>
@@ -267,37 +308,6 @@ Great Britain faces biggest rail strike in 30 years
             <guid>https://factchecker.or.kr/fc_suggests/762</guid>
             <pubDate>Thu, 11 Aug 2022 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[자전거 음주운전과 전동 킥보드 음주운전 처벌 기준은 같다?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수도권 100년만의 폭우, 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/761</link>
-            <guid>https://factchecker.or.kr/fc_suggests/761</guid>
-            <pubDate>Thu, 11 Aug 2022 03:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[與 “吳의 4450억 수방 예산서 248억 삭감한 서울시의회, 결과는 폭우에 잠긴 강남·서초구” | 세계일보 (segye.com)
-&nbsp;
-수도권에 내린 폭우가 100년만의 일이라는 얘기가 많이 나옵니다. 언론에서도 정치인들의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후변화로 인한 식품가격상승 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/760</link>
-            <guid>https://factchecker.or.kr/fc_suggests/760</guid>
-            <pubDate>Thu, 11 Aug 2022 03:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[기후변화나 전쟁으로 인한 식품,원료 가격 상승이 식품산업에 부정적 영향만 미치는가?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현행법상 가스라이팅은 처벌 할 수 없다는 것이 사실인가 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/759</link>
-            <guid>https://factchecker.or.kr/fc_suggests/759</guid>
-            <pubDate>Tue, 09 Aug 2022 13:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[영미권 국가에서는 가능하다는데 우리나라에서는 불가능 한것이 사실인가요 ?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울시의회가 수방 예산을 깎았다는게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/758</link>
-            <guid>https://factchecker.or.kr/fc_suggests/758</guid>
-            <pubDate>Tue, 09 Aug 2022 13:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[어제 폭우가 쏟아져서 인명사고도 났는데요. 오늘 여기저기서 서울시 예산을 보면 올해 수방 예산이 작년에 비해서 줄어들었다고 하더라고요.
-보니까 서울시에서 예산 깎인게 민주당 시의회가 한 거라면서 책임을 넘기고 있네요. 당...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
