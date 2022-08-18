@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T05:40:14.481Z</updated>
+    <updated>2022-08-18T06:17:45.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[12억 관저 리모델링사 대표, 김건희 여사가 취임식 초청 / 김대표는 초청받지 않았다. 확인이 필요합니다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/772</id>
+        <link href="https://factchecker.or.kr/fc_suggests/772"/>
+        <updated>2022-08-18T06:17:03.863Z</updated>
+        <content type="html"><![CDATA[https://www.hani.co.kr/arti/politics/politics_general/1055221.html]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기상청 예보, 정확도 떨어진다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/771</id>
@@ -62,13 +69,11 @@
         <id>https://factchecker.or.kr/fc_suggests/766</id>
         <link href="https://factchecker.or.kr/fc_suggests/766"/>
         <updated>2022-08-18T01:17:38.670Z</updated>
-        <content type="html"><![CDATA[날씨가 추우니 감기 조심하세요,
+        <content type="html"><![CDATA[http://www.ikpnews.net/news/articleView.html?idxno=27926
+날씨가 추우니 감기 조심하세요,
 기온이 떨어졌습니다. 감기에 유의하시기 바랍니다
 겨울이면 흔히 쓰는 안부인사 입니다.
-&nbsp;
-그런데 감기가 기온이 낮아져서 걸리는 건가요?!
-코로나와 같이 바이러스에 의한 전염이 아닌가요?
-정...]]></content>
+...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재용 삼성 부회장 사면의 경제적효과]]></title>
@@ -93,12 +98,5 @@
         <updated>2022-08-11T09:13:36.716Z</updated>
         <content type="html"><![CDATA[최근에 나온 백신 관련 기사를 두고 정부가 바뀌니까 백신에 대해서 긍정적인 기사가 늘었다고 하는 사람이 있더라고요. 반대로 그런거랑 상관없다고 하는 사람도 있고요.&nbsp;
 조선일보처럼 특정 언론사를 언급하면서 논조가 달라졌다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자전거 음주운전과 전동 킥보드 음주운전 처벌 기준은 같다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/762</id>
-        <link href="https://factchecker.or.kr/fc_suggests/762"/>
-        <updated>2022-08-11T03:15:43.278Z</updated>
-        <content type="html"><![CDATA[자전거 음주운전과 전동 킥보드 음주운전 처벌 기준은 같다?]]></content>
     </entry>
 </feed>
