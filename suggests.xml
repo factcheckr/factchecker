@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-19T01:12:26.213Z</updated>
+    <updated>2022-08-19T03:47:59.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카뱅 계좌번호 3355 시작하면 가상 계좌?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/782</id>
+        <link href="https://factchecker.or.kr/fc_suggests/782"/>
+        <updated>2022-08-19T03:47:15.786Z</updated>
+        <content type="html"><![CDATA[카뱅 계좌번호 3355로 시작하면 가상계좌라 사기쳐도 잡을 수 없다고 하는데 사실인가요?
+https://twitter.com/blizzard_bishop/status/1560171651408355328?s=21&amp;t=B4C...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공복에 음료수(당분)을 마시면 안되나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/781</id>
@@ -70,12 +78,5 @@ https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265
         <link href="https://factchecker.or.kr/fc_suggests/773"/>
         <updated>2022-08-18T10:16:13.761Z</updated>
         <content type="html"><![CDATA[요즘 sns로 타투 홍보하는 타투이스트들이 많은데요. 종종 타투 도안을 배껴 문제가 되는 경우가 있습니다. 국내에서 문신은 의료행위로 분류돼 의사가 아닌 이가 새긴 문신은 ‘불법’으로 취급하고 있는데요. 과연 타투 도안도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12억 관저 리모델링사 대표, 김건희 여사가 취임식 초청 / 김대표는 초청받지 않았다. 확인이 필요합니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/772</id>
-        <link href="https://factchecker.or.kr/fc_suggests/772"/>
-        <updated>2022-08-18T06:17:03.863Z</updated>
-        <content type="html"><![CDATA[https://www.hani.co.kr/arti/politics/politics_general/1055221.html]]></content>
     </entry>
 </feed>
