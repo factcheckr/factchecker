@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[전기차 충전할 때 나오는 전자파가 인체에 해롭다고 들었는데 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/786</link>
+            <guid>https://factchecker.or.kr/fc_suggests/786</guid>
+            <pubDate>Fri, 19 Aug 2022 08:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 모빌리티로써 차츰 각광받고 있는 전기차 구매에 관심이 있어 여러 정보들을 알아보던 중 한 뉴스 기사를 통해 위와 같은 정보를 보았는데 사실인지 팩트체크 해주셨으면 좋겠습니다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우유와 달리 [두유]는 많이 섭취하면 할수록 몸에 좋다고하는데 팩트일까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/785</link>
             <guid>https://factchecker.or.kr/fc_suggests/785</guid>
@@ -284,14 +291,6 @@ https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265
             <guid>https://factchecker.or.kr/fc_suggests/777</guid>
             <pubDate>Thu, 18 Aug 2022 15:26:38 GMT</pubDate>
             <content:encoded><![CDATA[자동차 기름 아침에 넣는 것이 좋다는 썰이 팩트인지 궁금합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외국인의 범죄율 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/776</link>
-            <guid>https://factchecker.or.kr/fc_suggests/776</guid>
-            <pubDate>Thu, 18 Aug 2022 15:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[대부분 국내에 있는 외국인들의 범죄율이 높다고 생각합니다.&nbsp;
-특히 중국교포(조선족)의 범죄가 많다고 생각하는데 사실인지 궁금합니다.&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[노컷체크]오세훈표 '빗물터널', 강남엔 뚫을 곳 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
