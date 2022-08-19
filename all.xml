@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 01:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,15 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[공복에 음료수(당분)을 마시면 안되나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/781</link>
+            <guid>https://factchecker.or.kr/fc_suggests/781</guid>
+            <pubDate>Fri, 19 Aug 2022 01:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[잠이 확 깨서 좋은데 건강에는 해로운가요?
+&nbsp;
+https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265265&amp;qb=6rO167O1IOydjOujjO...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우리나라 무비자 불법 체류 외국인 노동자가 수십만명이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/780</link>
             <guid>https://factchecker.or.kr/fc_suggests/780</guid>
@@ -278,15 +287,28 @@ Great Britain faces biggest rail strike in 30 years
             <content:encoded><![CDATA[https://www.hani.co.kr/arti/politics/politics_general/1055221.html]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기상청 예보, 정확도 떨어진다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/771</link>
-            <guid>https://factchecker.or.kr/fc_suggests/771</guid>
-            <pubDate>Thu, 18 Aug 2022 05:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 날씨를 보면 기상청의 예보가 부정화한 것 같은데,
-강수정확도는 80% 이상을 유지하는데, 맑다고 예보하고 실제로 맑았던 날까지 포함돼 있어 정확도가 높게 계산되는 특징이 있습니다.
-펙트체크 부탁드립니다.
-&nbsp;
-&nbsp;]]></content:encoded>
+            <title><![CDATA[[노컷체크]오세훈표 '빗물터널', 강남엔 뚫을 곳 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4456</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4456</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈 서울시장이 최근 강남지역 폭우 피해 이후 대심도 빗물저류배수시설(이하 대심도 빗물터널) 재추진에 나선 가운데, 누리꾼들 사이에서 강남 일대는 다수 노선의 지하철이 깔려있어 시공 공간이 없다는 ..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2dtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ea6dadc90d9084622bb6ad7f33262626ed6b421/7ef1b463c5f0e664406687f66ab2686d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트인사이드-우리 곁에 파고든 기후위기③] 경기도가 전국 광역단체 중 가장 많은 온실가스를 배출한다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4455</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4455</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기획보도  기상 이변이 심상찮다. 기록적인 폭염과 가뭄이 이어지고 극지에서는 빙하가 녹아내린다. 사막 한가운데 폭우가 쏟아지고, 원인 모를 산불이 곳곳에서 발생한다. 한반도에는 지난 6월, 사상 최초로 열대야가 관측됐다. 기상 이변이 우리 곁에 다가온 것이다. 중부일보는 이러한 현상이 지구온난화로 인한 것인지 팩트체크하고, 우리의 대응상황을 3편의 기획 보도로 짚어본다. 편집자주 [글 싣는 순서]1. ‘남의 일 아니다’…SNS 통해 기후재앙 우려 확산2. 기후 위기와 윤석열 정부의 에너지 정책3. 수도권]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82577855606a1101f2005c2f2e811a652d0ca7e4/0841a4f26e77108e7a3a6ba07ddf6e9f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 부모 혈액형이 모두 B형인데 자녀가 A형일 수 있다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4454</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4454</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 장하나 기자 = 최근 온라인상에서는 26년 전 시험관 시술로 낳은 아들의 유전자가 남편의 유전자와 일치하지 않는다는 황당한 사...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1ltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ed6776a5242716beaf6129e821d94c4847ba435c/ccc173a20a32a612158b53cd3820885f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] 휴대폰 충전하면서 통화하면 감전사할 수 있다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
@@ -343,30 +365,6 @@ Great Britain faces biggest rail strike in 30 years
             <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[앵커]지난 대선 당시, 안철수 후보가 대표로 있던 국민의...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3603ddd787948f1d5a716a0a332e49e1fdbf957/e53412dcdd1a761950d4df6cc17bef41.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 위암 치료는 우리나라가 세계 1등이다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4445</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4445</guid>
-            <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 화제를 모으는 드라마 이상한 변호사 우영우 14회에서 주인공인 우영우(박은빈 분)와 선배 변호사 정명석(강기...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3dtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b6d9978e69b526a4e774bf05d5edc78a9155b37/48c6b092875337440bb1decf358ae5ab.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] '수방 예산 900억 삭감' 네 탓 공방 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4449</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4449</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 수해 방지 예산을 많이 줄였기 때문에 비 피해가 더 커진 거라는 주장이 최근 나왔습니다. 그 책임을 놓고 여야가 공방을 벌이고 있는데, 과연 맞는 말인지, 이경원 기자가 예산안을 자세히 들여다봤습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4e633277281fc5b01e0103d8e7367aef423be97/c8d632ba5afa8c7c537ec0ade9805ef2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니] 강남 알짜 빌딩, '노는 땅'이라 판다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4444</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4444</guid>
-            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 최근 정부가, 나라가 갖고 있는 땅과 건물을 민간에 적극적으로 팔겠다는 발표한 것을 두고 오늘도 여야 간에 공방이 벌어졌는데요. [추경호/기획재정...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a8978827971fe6f8c69d7c7bb035ea3d1845cd9/f447a61476c3c8c4759830f6c4e1f9c5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>

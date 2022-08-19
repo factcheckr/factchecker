@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-18T23:14:35.112Z</updated>
+    <updated>2022-08-19T01:12:26.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공복에 음료수(당분)을 마시면 안되나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/781</id>
+        <link href="https://factchecker.or.kr/fc_suggests/781"/>
+        <updated>2022-08-19T01:11:43.170Z</updated>
+        <content type="html"><![CDATA[잠이 확 깨서 좋은데 건강에는 해로운가요?
+&nbsp;
+https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265265&amp;qb=6rO167O1IOydjOujjO...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 무비자 불법 체류 외국인 노동자가 수십만명이다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/780</id>
@@ -68,16 +77,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/772"/>
         <updated>2022-08-18T06:17:03.863Z</updated>
         <content type="html"><![CDATA[https://www.hani.co.kr/arti/politics/politics_general/1055221.html]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기상청 예보, 정확도 떨어진다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/771</id>
-        <link href="https://factchecker.or.kr/fc_suggests/771"/>
-        <updated>2022-08-18T05:39:31.479Z</updated>
-        <content type="html"><![CDATA[요즘 날씨를 보면 기상청의 예보가 부정화한 것 같은데,
-강수정확도는 80% 이상을 유지하는데, 맑다고 예보하고 실제로 맑았던 날까지 포함돼 있어 정확도가 높게 계산되는 특징이 있습니다.
-펙트체크 부탁드립니다.
-&nbsp;
-&nbsp;]]></content>
     </entry>
 </feed>
