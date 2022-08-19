@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-19T15:16:28.302Z</updated>
+    <updated>2022-08-19T16:20:09.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[보스웰리아  쇠가루 문제가 한때이슈였는데 해결되었나요 ? 요즘은 어떤지 궁금해요~???]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/787</id>
+        <link href="https://factchecker.or.kr/fc_suggests/787"/>
+        <updated>2022-08-19T16:19:26.421Z</updated>
+        <content type="html"><![CDATA[보스웰리아 쇳가루가 나와서 문제가 되었었던&nbsp; 뉴스 ~! 팩트&nbsp; 한때 이슈였는데&nbsp;
+요즘은 어떤지 궁금해요 ~!^^&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차 충전할 때 나오는 전자파가 인체에 해롭다고 들었는데 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/786</id>
@@ -76,12 +84,5 @@ https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265
         <link href="https://factchecker.or.kr/fc_suggests/778"/>
         <updated>2022-08-18T15:26:38.287Z</updated>
         <content type="html"><![CDATA[어떠한 욕을 먹더라도, 그게 심지어 모욕적이어도 1:1 채팅은 죄가 성립이 안된다는데 사실인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차 기름 아침에 넣는 것이 좋다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/777</id>
-        <link href="https://factchecker.or.kr/fc_suggests/777"/>
-        <updated>2022-08-18T15:26:38.287Z</updated>
-        <content type="html"><![CDATA[자동차 기름 아침에 넣는 것이 좋다는 썰이 팩트인지 궁금합니다.]]></content>
     </entry>
 </feed>
