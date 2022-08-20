@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-20T22:13:41.441Z</updated>
+    <updated>2022-08-20T23:13:53.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/793</id>
+        <link href="https://factchecker.or.kr/fc_suggests/793"/>
+        <updated>2022-08-20T23:13:06.317Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+[팩트체크] 휴대폰 충전하면서 통화하면 감전사할 수 있다고 하는데 맞나요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단식과 건강]]></title>
         <id>https://factchecker.or.kr/fc_suggests/792</id>
@@ -78,14 +86,5 @@ https://n.news.naver.com/article/055/0000992860?sid=102]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/784"/>
         <updated>2022-08-19T05:24:01.908Z</updated>
         <content type="html"><![CDATA[밤에 먹는 사과는 독이다 라는 말이 실제로 옳은 말인가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보스웰리아가 정말로 관절염에 효과가 있나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/783</id>
-        <link href="https://factchecker.or.kr/fc_suggests/783"/>
-        <updated>2022-08-19T05:24:01.913Z</updated>
-        <content type="html"><![CDATA[https://health.chosun.com/site/data/html_dir/2022/05/24/2022052401625.html
-(이 기사가 허위정보라는 건 아닙니다. 하나의 예시에요.)
-포털사이트에 보스웰리아와 관...]]></content>
     </entry>
 </feed>
