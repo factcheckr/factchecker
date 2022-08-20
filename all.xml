@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 03:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 04:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,15 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[기상청 예보 정확도에 관련한 팩트체크 부탁드려요! (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/788</link>
+            <guid>https://factchecker.or.kr/fc_suggests/788</guid>
+            <pubDate>Sat, 20 Aug 2022 04:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[기상청 예보 정확도가 평시 90%가 넘는다고 하는데
+이 기사가 진짜 사실인 것인지 팩트체크 부탁드립니다!
+https://n.news.naver.com/article/055/0000992860?sid=102]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보스웰리아  쇠가루 문제가 한때이슈였는데 해결되었나요 ? 요즘은 어떤지 궁금해요~??? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/787</link>
             <guid>https://factchecker.or.kr/fc_suggests/787</guid>
@@ -285,13 +294,6 @@ https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265
             <guid>https://factchecker.or.kr/fc_suggests/779</guid>
             <pubDate>Thu, 18 Aug 2022 19:11:52 GMT</pubDate>
             <content:encoded><![CDATA[애플의 아이폰의 원자재로서 삼섬의 제품을 사용하는 데 이런 상황이면 결국 애플의 아이폰을 구매하는게 삼성의 원자재 판매를 증가시켜 결국 자국의 회사인 삼성도 이익을 얻어 자국의 경제적 이익으로 발전할 수 있다는 게 사실일...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1:1 대화 채팅은 고소가 불가능한가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/778</link>
-            <guid>https://factchecker.or.kr/fc_suggests/778</guid>
-            <pubDate>Thu, 18 Aug 2022 15:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[어떠한 욕을 먹더라도, 그게 심지어 모욕적이어도 1:1 채팅은 죄가 성립이 안된다는데 사실인가요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[노컷체크]오세훈표 '빗물터널', 강남엔 뚫을 곳 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
