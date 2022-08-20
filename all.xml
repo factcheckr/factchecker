@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 06:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 07:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,23 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[에어컨  제습과 냉방 전기료 팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/790</link>
+            <guid>https://factchecker.or.kr/fc_suggests/790</guid>
+            <pubDate>Sat, 20 Aug 2022 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 사람은 제습이 전기세가 덜 나온다
+어떤 사람은 아니다 그냥 냉방으로 맞춰두면 된다
+하는뎅
+뭐가 맞는 말인지 팩트체크 부탁드립니당]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[간혈적 단식 효과는? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/789</link>
+            <guid>https://factchecker.or.kr/fc_suggests/789</guid>
+            <pubDate>Sat, 20 Aug 2022 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 매체를 타며 그 효과가 전해지고 있는 간혈적 단식의 효과에 대해 팩트체크 해보는 시간을 가지면 좋을것 같습니다~!^^]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기상청 예보 정확도에 관련한 팩트체크 부탁드려요! (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/788</link>
             <guid>https://factchecker.or.kr/fc_suggests/788</guid>
@@ -280,20 +297,6 @@ https://twitter.com/blizzard_bishop/status/1560171651408355328?s=21&amp;t=B4C...
             <content:encoded><![CDATA[잠이 확 깨서 좋은데 건강에는 해로운가요?
 &nbsp;
 https://kin.naver.com/qna/detail.naver?d1id=8&amp;dirId=8020301&amp;docId=408265265&amp;qb=6rO167O1IOydjOujjO...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리나라 무비자 불법 체류 외국인 노동자가 수십만명이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/780</link>
-            <guid>https://factchecker.or.kr/fc_suggests/780</guid>
-            <pubDate>Thu, 18 Aug 2022 22:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.yna.co.kr/view/AKR20220801139700371]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플의 아이폰 구매가 한국의 경제적 이익이 될 수 있는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/779</link>
-            <guid>https://factchecker.or.kr/fc_suggests/779</guid>
-            <pubDate>Thu, 18 Aug 2022 19:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 아이폰의 원자재로서 삼섬의 제품을 사용하는 데 이런 상황이면 결국 애플의 아이폰을 구매하는게 삼성의 원자재 판매를 증가시켜 결국 자국의 회사인 삼성도 이익을 얻어 자국의 경제적 이익으로 발전할 수 있다는 게 사실일...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[노컷체크]오세훈표 '빗물터널', 강남엔 뚫을 곳 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
