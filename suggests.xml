@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-21T17:15:42.417Z</updated>
+    <updated>2022-08-21T18:18:14.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매니큐어를 바르면 심장에 안좋은 관계를 파헤쳐주세요, 또한 손톱영양제의]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/796</id>
+        <link href="https://factchecker.or.kr/fc_suggests/796"/>
+        <updated>2022-08-21T18:16:28.816Z</updated>
+        <content type="html"><![CDATA[매니큐어를 바르면 심장에 안좋은 관계를 파헤쳐주세요, 또한 손톱영양제는 손톱에 이로우며 심장에도 해롭지 않은지가 궁금합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 시대에 저탄고지가 과연 좋은 음식 식단인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/795</id>
@@ -75,12 +82,5 @@ https://n.news.naver.com/article/055/0000992860?sid=102]]></content>
         <updated>2022-08-19T16:19:26.421Z</updated>
         <content type="html"><![CDATA[보스웰리아 쇳가루가 나와서 문제가 되었었던&nbsp; 뉴스 ~! 팩트&nbsp; 한때 이슈였는데&nbsp;
 요즘은 어떤지 궁금해요 ~!^^&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 충전할 때 나오는 전자파가 인체에 해롭다고 들었는데 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/786</id>
-        <link href="https://factchecker.or.kr/fc_suggests/786"/>
-        <updated>2022-08-19T08:17:06.005Z</updated>
-        <content type="html"><![CDATA[친환경 모빌리티로써 차츰 각광받고 있는 전기차 구매에 관심이 있어 여러 정보들을 알아보던 중 한 뉴스 기사를 통해 위와 같은 정보를 보았는데 사실인지 팩트체크 해주셨으면 좋겠습니다]]></content>
     </entry>
 </feed>
