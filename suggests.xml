@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-21T06:17:18.483Z</updated>
+    <updated>2022-08-21T07:14:09.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비타민C를 식사중에 먹으면 아주 효과적이라고 하는데요]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/794</id>
+        <link href="https://factchecker.or.kr/fc_suggests/794"/>
+        <updated>2022-08-21T07:12:21.795Z</updated>
+        <content type="html"><![CDATA[비타민C를 식사중에 먹으면 더욱 효과가 있는 것인지가 궁금합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/793</id>
@@ -79,12 +86,5 @@ https://n.news.naver.com/article/055/0000992860?sid=102]]></content>
 노력하시는 중입니다만 몸에 잘맞고 좋은 단백질 섭취를 위해 복용하기 쉬운
 두유를 주변에서도 많이 권해서 드리고 있습니다.
 우...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밤에 먹는 사과는 독이다" 라는 말이 실제로 옳은 말인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/784</id>
-        <link href="https://factchecker.or.kr/fc_suggests/784"/>
-        <updated>2022-08-19T05:24:01.908Z</updated>
-        <content type="html"><![CDATA[밤에 먹는 사과는 독이다 라는 말이 실제로 옳은 말인가요?]]></content>
     </entry>
 </feed>
