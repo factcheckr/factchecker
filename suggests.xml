@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-23T07:18:24.331Z</updated>
+    <updated>2022-08-23T08:18:30.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유전자 변형 식품의. 유통 과연 안전한가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/809</id>
+        <link href="https://factchecker.or.kr/fc_suggests/809"/>
+        <updated>2022-08-23T08:17:48.234Z</updated>
+        <content type="html"><![CDATA[유전자변형식품이 다양한 경로로 유통되고 있는데 항간에는 유전자변형식품이 암을 유발한다는 보고가 있던데 과연 한국은 이런 몸에 해로운 식품을 &nbsp;기준없이 유통판매해도 괜찮은지 ? 이러한 식품을 계속 섭취하여 문제가 발생한다면...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 녹취하지 마세요, 녹취하면 징역 입니다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/808</id>
+        <link href="https://factchecker.or.kr/fc_suggests/808"/>
+        <updated>2022-08-23T08:17:48.236Z</updated>
+        <content type="html"><![CDATA[이제 녹취하지 마세요, 녹취하면 징역 입니다.
+https://aagag.com/issue/?idx=1134238]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당당치킨 6990원에 팔아도 남는다??]]></title>
         <id>https://factchecker.or.kr/fc_suggests/807</id>
@@ -71,19 +86,5 @@
         <content type="html"><![CDATA[https://naver.me/G2HQ82vi
 https://naver.me/FBQBOkQY
 &nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 탐크루즈 주연의 탑건:매버릭 에서 보면 마하 10을 돌파하는 장면이 있는데 과연 실제로 이것이 가능한 전투기와 조정사가 있는지 궁금합니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/799</id>
-        <link href="https://factchecker.or.kr/fc_suggests/799"/>
-        <updated>2022-08-22T06:19:45.149Z</updated>
-        <content type="html"><![CDATA[영화 탐크루즈 주연의 탑건:매버릭 을 보면서 마하10을 돌파하는 장면이 나오는데 영화속 말고 실제로 마하10(음속의 10배)을 돌파할 수 있는 전투기가 전세계에 있는지와 그것을 조정할 수 있는 조정사가 있는지 궁금합니다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴대용 선풍기의 전자파가 암을 유발할 수 있다는 논란 팩트체크 해주셨으면 좋겠습니다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/798</id>
-        <link href="https://factchecker.or.kr/fc_suggests/798"/>
-        <updated>2022-08-22T03:55:37.162Z</updated>
-        <content type="html"><![CDATA[https://biz.sbs.co.kr/article/20000074624?division=NAVER]]></content>
     </entry>
 </feed>
