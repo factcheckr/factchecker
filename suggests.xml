@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-23T11:14:31.913Z</updated>
+    <updated>2022-08-23T12:26:54.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[식약청에서는우리나라수입품을빠짐없이검사하고있다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/811</id>
+        <link href="https://factchecker.or.kr/fc_suggests/811"/>
+        <updated>2022-08-23T12:26:11.769Z</updated>
+        <content type="html"><![CDATA[외국에서들어오는수입품들에검사구멍이있다는데]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상대의 동의없이 녹취하는 게 진정 불법이여야 할까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/810</id>
+        <link href="https://factchecker.or.kr/fc_suggests/810"/>
+        <updated>2022-08-23T12:26:11.771Z</updated>
+        <content type="html"><![CDATA[상대의 동의없이 녹취하는 게 진정 불법이여야 할까?&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유전자 변형 식품의. 유통 과연 안전한가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/809</id>
@@ -69,22 +83,5 @@ https://aagag.com/issue/?idx=1134238]]></content>
         <content type="html"><![CDATA[원자력 에너지가 정말 저탄소배출을 하는 에너지원이고 환경을 위해서는 원자력에너지를 사용하는 것이 가장 이상적인지 궁금합니다.
 &nbsp;
 자료출처 : https://www.yna.co.kr/view/AKR20201218148400...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라에서 불법체류자가 가장 많은 국가는 중국, 필리핀, 베트남, 태국, 몽골, 우즈베키스탄 순이다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/801</id>
-        <link href="https://factchecker.or.kr/fc_suggests/801"/>
-        <updated>2022-08-23T01:20:17.743Z</updated>
-        <content type="html"><![CDATA[우리나라에서 불법체류자가 가장 많은 국가는 중국, 필리핀, 베트남, 태국, 몽골, 우즈베티스탄 순이라고 네이버 지식에 나와있는데 이 순서가 정말 맞는지 궁금합니다.&nbsp;&nbsp;
-네이버 지식 : https://kin.naver.co...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령의 취임 100일 폭등한 집값과 전셋값을 안정시켰다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/800</id>
-        <link href="https://factchecker.or.kr/fc_suggests/800"/>
-        <updated>2022-08-22T09:13:32.713Z</updated>
-        <content type="html"><![CDATA[https://naver.me/G2HQ82vi
-https://naver.me/FBQBOkQY
-&nbsp;]]></content>
     </entry>
 </feed>
