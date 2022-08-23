@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 05:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 06:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[당당치킨 6990원에 팔아도 남는다?? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/807</link>
+            <guid>https://factchecker.or.kr/fc_suggests/807</guid>
+            <pubDate>Tue, 23 Aug 2022 06:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[홈플러스에서 판매하고 있는 당당치킨은 100% 국내산 냉장 생닭을 쓰고 있고, 직접 원재료를 대량 구매해 매입 가격을 낮췄으며, 여기에 기존 조리시설이 갖춰진 매장에서 이미 근무 중인 전문 조리사가 직접 조리하기 때문에 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영화 모가디슈에서 보면 소말리아를 북한 대사관과 그 직원들과 함께 탈출하는데 이것은 국가보안법 위반이 아닌지 궁금합니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/806</link>
             <guid>https://factchecker.or.kr/fc_suggests/806</guid>
@@ -254,13 +261,6 @@ https://naver.me/FBQBOkQY
             <guid>https://factchecker.or.kr/fc_suggests/798</guid>
             <pubDate>Mon, 22 Aug 2022 03:55:37 GMT</pubDate>
             <content:encoded><![CDATA[https://biz.sbs.co.kr/article/20000074624?division=NAVER]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매니큐어를 바르면 심장에 안좋은 관계를 파헤쳐주세요, 또한 손톱영양제의 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/796</link>
-            <guid>https://factchecker.or.kr/fc_suggests/796</guid>
-            <pubDate>Sun, 21 Aug 2022 18:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[매니큐어를 바르면 심장에 안좋은 관계를 파헤쳐주세요, 또한 손톱영양제는 손톱에 이로우며 심장에도 해롭지 않은지가 궁금합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[취업난에도 외면 당하는 부사관… 최저임금도 못 받는다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
