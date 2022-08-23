@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 16:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[현 대한민국의 학업 과정, 정말 문제 없을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/813</link>
+            <guid>https://factchecker.or.kr/fc_suggests/813</guid>
+            <pubDate>Tue, 23 Aug 2022 17:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 정부의 만 5세 입학연령 하향 추진 계획이 큰 화제가 되었다.
+지금은 박순애 (전)교육부장관이 사퇴함으로계획계획은 사실상 폐기되었으나, 과연 현 우리나라의 만 6세(한국 나이로 8세)에 입학하여 만 18세(한국 나이...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제로 콜라는 정말 설탕이 하나도 안 들어가 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/812</link>
             <guid>https://factchecker.or.kr/fc_suggests/812</guid>
@@ -250,13 +258,6 @@ https://aagag.com/issue/?idx=1134238]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/804</guid>
             <pubDate>Tue, 23 Aug 2022 04:09:23 GMT</pubDate>
             <content:encoded><![CDATA[체주 감량을 할때&nbsp; 운동으로 고갈된 에너지&nbsp; &nbsp;보충 하기 위해 식욕을 증가시키고 신진 대사 마저 줄임으로 체중을 회복하려 하는데요&nbsp; 이러한&nbsp; &nbsp;효과때문에&nbsp; 실질적인&nbsp; 다이어트&nbsp; 성공률은 매우 낮게 나타난다고 하죠&nbsp;전반적인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연중 온도가 30도가 넘지 않는 강원도 태백 진짜인가요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/803</link>
-            <guid>https://factchecker.or.kr/fc_suggests/803</guid>
-            <pubDate>Tue, 23 Aug 2022 04:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[5월에도 눈이와 여름에도 에어컨이 필요없다는 태백시 진짜라면 이유가 뭘까요]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[취업난에도 외면 당하는 부사관… 최저임금도 못 받는다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
