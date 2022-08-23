@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 21:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 22:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[거울이랑 가위바위보해서 이길 수 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/814</link>
+            <guid>https://factchecker.or.kr/fc_suggests/814</guid>
+            <pubDate>Tue, 23 Aug 2022 22:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 보통 못이긴다 하지만 질수 있는 방법은 딱 하나가 있다 그것은 내가보는관점에서만 해당이 될 수 있는데 손을 자신에 눈높이까지 올린다음 엄지 검지와 중지는 주먹을 쥐고 소지와 약지는 보자기를 한다 그럼 내가보는관점...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[현 대한민국의 학업 과정, 정말 문제 없을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/813</link>
             <guid>https://factchecker.or.kr/fc_suggests/813</guid>
@@ -251,13 +258,6 @@ https://aagag.com/issue/?idx=1134238]]></content:encoded>
 &nbsp;
 바다근처 항구에서 통발로 재미삼아 하는 통발잡이 괜찮을까요?
 수산업법상 어업인이 아닌 자가...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다이어트가 목적이라면 운동을 안하는게  나을까  ? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/804</link>
-            <guid>https://factchecker.or.kr/fc_suggests/804</guid>
-            <pubDate>Tue, 23 Aug 2022 04:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[체주 감량을 할때&nbsp; 운동으로 고갈된 에너지&nbsp; &nbsp;보충 하기 위해 식욕을 증가시키고 신진 대사 마저 줄임으로 체중을 회복하려 하는데요&nbsp; 이러한&nbsp; &nbsp;효과때문에&nbsp; 실질적인&nbsp; 다이어트&nbsp; 성공률은 매우 낮게 나타난다고 하죠&nbsp;전반적인...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[취업난에도 외면 당하는 부사관… 최저임금도 못 받는다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
