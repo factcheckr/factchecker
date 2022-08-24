@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-24T12:28:10.438Z</updated>
+    <updated>2022-08-24T13:33:02.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ세대가 페이스북을 떠나는 이유는?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/820</id>
+        <link href="https://factchecker.or.kr/fc_suggests/820"/>
+        <updated>2022-08-24T13:32:15.811Z</updated>
+        <content type="html"><![CDATA[MZ세대가 페이스북을 떠나는 이유는?
+직장상사와 페친되기 싫어서
+https://aagag.com/issue/?idx=1134886
+&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동으로 땀을 많이 흘리면 흘릴수록 살이 더욱 빠진다는 논쟁거리에 대해서]]></title>
         <id>https://factchecker.or.kr/fc_suggests/819</id>
@@ -77,12 +87,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/811"/>
         <updated>2022-08-24T10:15:09.751Z</updated>
         <content type="html"><![CDATA[외국에서들어오는수입품들에검사구멍이있다는데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상대의 동의없이 녹취하는 게 진정 불법이여야 할까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/810</id>
-        <link href="https://factchecker.or.kr/fc_suggests/810"/>
-        <updated>2022-08-24T10:15:09.751Z</updated>
-        <content type="html"><![CDATA[상대의 동의없이 녹취하는 게 진정 불법이여야 할까?&nbsp;]]></content>
     </entry>
 </feed>
