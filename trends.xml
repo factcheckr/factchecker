@@ -1,126 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/papers</id>
-    <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-08-24T09:14:58.977Z</updated>
+    <id>https://factchecker.or.kr/trends</id>
+    <title>팩트체크넷 ─ 자료실 ─ 주요동향</title>
+    <updated>2022-08-24T10:15:54.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 6호]]></title>
-        <id>https://factchecker.or.kr/papers/478</id>
-        <link href="https://factchecker.or.kr/papers/478"/>
-        <updated>2022-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 6호
-1. 여는글깨어있는 시민이 SNS의 주인
-2. 글로벌 팩트체크소셜미디어 플랫폼들의 허위정보 대응 정책 및 팩트체크 활동 소개: 메타의 투명성 센터(Transparency...]]></content>
+        <title type="html"><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안]]></title>
+        <id>https://factchecker.or.kr/trends/198</id>
+        <link href="https://factchecker.or.kr/trends/198"/>
+        <updated>2021-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[딥페이크는 딥러닝(deep learning)과 페이크(fake)의 합성어로, 인공지능 기술 기반의 알고리즘을 활용하여 이미지, 영상 그리고 음성에 조작을 가하는 합성 기술이다.
+&nbsp;
+최근 일어난 n번방 사건 피해자 및 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 5호]]></title>
-        <id>https://factchecker.or.kr/papers/456</id>
-        <link href="https://factchecker.or.kr/papers/456"/>
-        <updated>2022-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 5호
-1. 여는글선거와 팩트체크
-2. 글로벌 팩트체크EU 회원국들의 허위정보 대응 정책[팩트체크 플랫폼 소개] 미국 팩트체크 기관 PolitiFact, 영국 팩트체크 기관 F...]]></content>
+        <title type="html"><![CDATA[[청소년 팩트체크 단체 소개] 에듀뺌(Edu Bbam)]]></title>
+        <id>https://factchecker.or.kr/trends/191</id>
+        <link href="https://factchecker.or.kr/trends/191"/>
+        <updated>2020-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+* 본 소개글은 에듀뺌 티스토리(https://edubbam.com/)의 내용을 발췌하여 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+소개
+&nbsp;
+에듀뺌(Edu Bbam)은 일반 시민, 특히 청소년들이 팩트체크를 쉽고, 재...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 4호]]></title>
-        <id>https://factchecker.or.kr/papers/438</id>
-        <link href="https://factchecker.or.kr/papers/438"/>
-        <updated>2022-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 4호
-1. 여는글시민 협업 팩트체크의 의미
-2. 글로벌 팩트체크Newtral Educación: 비판적 사고와 미디어 리터러시 교육[팩트체크 플랫폼 소개] 북아일랜드 팩트체크...]]></content>
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 체케아도]]></title>
+        <id>https://factchecker.or.kr/trends/71</id>
+        <link href="https://factchecker.or.kr/trends/71"/>
+        <updated>2020-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+&nbsp;
+* 본 소개글은 Chequeado 홈페이지 (https://chequeado.com/)의 내용을 발췌·번역해 재구성한 내용입니다.
+&nbsp;
+&nbsp;
+I. 소개
+체케아도(Chequeado)는 La Voz Públ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스톱] 한국 에너지전환 팩트체크]]></title>
-        <id>https://factchecker.or.kr/papers/397</id>
-        <link href="https://factchecker.or.kr/papers/397"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(표지를 클릭하시면 보고서를 받으실 수 있습니다)
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 스놉스]]></title>
+        <id>https://factchecker.or.kr/trends/64</id>
+        <link href="https://factchecker.or.kr/trends/64"/>
+        <updated>2020-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
 &nbsp;
-제목 : 한국 에너지전환 팩트체크
+* 본 소개글은 Snopes 홈페이지 (https://www.snopes.com/)의 내용을 발췌·번역해 재구성한 내용입니다.
 &nbsp;
-여는 글 :&nbsp;
-인류의 무분별한 에너지 사용이 불러온 기후변화와 환경오염은 이제 전 세계가 직면한 가장 큰 문제로 떠올...]]></content>
+&nbsp;
+I. 소개
+&nbsp;스놉스(Snopes)는 1994년 출범한 미국의 팩트...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[미디어오늘] 포털 팩트체크와 포털 저널리즘의 과제]]></title>
-        <id>https://factchecker.or.kr/papers/396</id>
-        <link href="https://factchecker.or.kr/papers/396"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(표지를 클릭하시면 보고서를 받으실 수 있습니다)
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] FactCheck.org]]></title>
+        <id>https://factchecker.or.kr/trends/18</id>
+        <link href="https://factchecker.or.kr/trends/18"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
 &nbsp;
-제목 : 포털 팩트체크와 포털 저널리즘의 과제
+* 본 소개글은 FactCheck.org 홈페이지 (https://www.factcheck.org/)의 내용을 발췌·번역해 재구성한 내용입니다.
 &nbsp;
-여는 글 :&nbsp;
-미디어오늘 금준경, 박서연, 이희욱, 조준혁 기자는 팩트체크넷 ‘팩트체크 사례연구’ 사업을...]]></content>
+&nbsp;
+I. 소개
+&nbsp;미국 펜실베니아 대학교 애넌버그 공...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩트체크넷] 시민 협업 팩트체크 오픈플랫폼 활용가이드]]></title>
-        <id>https://factchecker.or.kr/papers/389</id>
-        <link href="https://factchecker.or.kr/papers/389"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(표지를 클릭하시면 보고서를 받으실 수 있습니다)
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 퍼스트 드래프트]]></title>
+        <id>https://factchecker.or.kr/trends/15</id>
+        <link href="https://factchecker.or.kr/trends/15"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
 &nbsp;
-제목 : 시민 협업 팩트체크 오픈플랫폼 활용가이드
+*본 소개글은 퍼스트 드래프트 홈페이지(https://firstdraftnews.org/)의 내용을 발췌·번역해 재구성한 내용입니다.
 &nbsp;
-발간사 :&nbsp;
-팩트체크 오픈플랫폼 ‘팩트체크넷’은 공공의 도구입니다. 일상에서 고개를 갸웃하게 만드는 의심...]]></content>
+&nbsp;
+I. 소개
+&nbsp;퍼스트 드래프트는 오보 및 허위조작정보에 맞서...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[언론개혁시민연대] 언론은 어떻게 반중을 확산하는가]]></title>
-        <id>https://factchecker.or.kr/papers/388</id>
-        <link href="https://factchecker.or.kr/papers/388"/>
-        <updated>2022-03-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(표지를 클릭하시면 보고서를 받으실 수 있습니다)
-제목 : 언론은 어떻게 반중을 확산하는가
+        <title type="html"><![CDATA[[해외 팩트체크 기관 소개] 유럽의 SOMA 프로젝트]]></title>
+        <id>https://factchecker.or.kr/trends/10</id>
+        <link href="https://factchecker.or.kr/trends/10"/>
+        <updated>2020-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+SOMA (Social Observatory for Disinformation and Social Media Analysis)
 &nbsp;
-지은이 :&nbsp;언론개혁시민연대
 &nbsp;
-발간사 :&nbsp;
-『언론은 어떻게 반중(反中)을 확산하는가: 언론에 의한 중국(인) 혐오 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련서적] 슬기로운 팩트체크]]></title>
-        <id>https://factchecker.or.kr/papers/386</id>
-        <link href="https://factchecker.or.kr/papers/386"/>
-        <updated>2022-02-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[- 출간일 : 2021년 11월 25일
-- 저자 : 정재철 내일신문 기자
-&nbsp;
-
-책소개
-
-
-
-&nbsp;
-가짜뉴스가 위협적인 이유는 그것이 가짜인지 잘 분간할 수 없게 변신하여 우리의 일상 곳곳에서 촘촘하게 스며...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련서적] 인포데믹 또는 정보 감염병]]></title>
-        <id>https://factchecker.or.kr/papers/385</id>
-        <link href="https://factchecker.or.kr/papers/385"/>
-        <updated>2022-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[- 출간일 : 2022년 2월 4일
-- 저자 : 안종주 한국산업안전보건공단 이사장, 선정수 뉴스톱 기자
-&nbsp;
-
-책소개
-
-
-
-&nbsp;
-정보 감염병은 변이에 변이를 거듭하는 특징을 가지고 있다. 이는 알파, 베타...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 3호]]></title>
-        <id>https://factchecker.or.kr/papers/384</id>
-        <link href="https://factchecker.or.kr/papers/384"/>
-        <updated>2022-02-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 3호
-1. 여는글허위정보의 위험성과 팩트체크 교육의 필요성
-2. 글로벌 팩트체크미국의 팩트체크 교육 현황EJTA의 팩트체크 교육
-3. 팩트체크 연구 소개가짜뉴스와 팩트체크 ...]]></content>
+* 본 소개글은 SOMA 프로젝트 홈페이지 (https://www.dis...]]></content>
     </entry>
 </feed>
