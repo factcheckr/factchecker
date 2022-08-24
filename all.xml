@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 11:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 12:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,13 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[운동으로 땀을 많이 흘리면 흘릴수록 살이 더욱 빠진다는 논쟁거리에 대해서 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/819</link>
+            <guid>https://factchecker.or.kr/fc_suggests/819</guid>
+            <pubDate>Wed, 24 Aug 2022 12:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[예로부터 운동으로 땀을 흘릴때 많이 흘리면 흘릴수록 살이 더욱 많이 빠진다는 말이 있었습니다. 땀을 흘리는 것과 살이 빠지는 것은 연관이 있는 것인가요? 또한 같은 사례로 찜질방이나 사우나에서 반신욕을 하며 땀을 흘리면 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가난한 사람 중 비만이 많나요 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/818</link>
             <guid>https://factchecker.or.kr/fc_suggests/818</guid>
@@ -253,13 +260,6 @@
             <guid>https://factchecker.or.kr/fc_suggests/810</guid>
             <pubDate>Wed, 24 Aug 2022 10:15:09 GMT</pubDate>
             <content:encoded><![CDATA[상대의 동의없이 녹취하는 게 진정 불법이여야 할까?&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유전자 변형 식품의. 유통 과연 안전한가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/809</link>
-            <guid>https://factchecker.or.kr/fc_suggests/809</guid>
-            <pubDate>Wed, 24 Aug 2022 10:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[유전자변형식품이 다양한 경로로 유통되고 있는데 항간에는 유전자변형식품이 암을 유발한다는 보고가 있던데 과연 한국은 이런 몸에 해로운 식품을 &nbsp;기준없이 유통판매해도 괜찮은지 ? 이러한 식품을 계속 섭취하여 문제가 발생한다면...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
