@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,21 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[설문조사의 정확도 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/816</link>
+            <guid>https://factchecker.or.kr/fc_suggests/816</guid>
+            <pubDate>Wed, 24 Aug 2022 04:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[각종 여론조사마다 설문조듸 정확도를 높이기 위한 방법과&nbsp;
+현재 여론조사 방식의 문제점 및 이를 개선하는 방안에 대한 논의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이크림 효능 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/815</link>
+            <guid>https://factchecker.or.kr/fc_suggests/815</guid>
+            <pubDate>Wed, 24 Aug 2022 04:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[아이크림이 정말 화장품 광고에서 말하는 것처럼 눈가 주름을 예방하거나 눈가 잔주름을 없애주는지요?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[거울이랑 가위바위보해서 이길 수 있을까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/814</link>
             <guid>https://factchecker.or.kr/fc_suggests/814</guid>
@@ -238,26 +253,6 @@ https://aagag.com/issue/?idx=1134238]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/807</guid>
             <pubDate>Tue, 23 Aug 2022 06:27:11 GMT</pubDate>
             <content:encoded><![CDATA[홈플러스에서 판매하고 있는 당당치킨은 100% 국내산 냉장 생닭을 쓰고 있고, 직접 원재료를 대량 구매해 매입 가격을 낮췄으며, 여기에 기존 조리시설이 갖춰진 매장에서 이미 근무 중인 전문 조리사가 직접 조리하기 때문에 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 모가디슈에서 보면 소말리아를 북한 대사관과 그 직원들과 함께 탈출하는데 이것은 국가보안법 위반이 아닌지 궁금합니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/806</link>
-            <guid>https://factchecker.or.kr/fc_suggests/806</guid>
-            <pubDate>Tue, 23 Aug 2022 04:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[영화 모가디슈에서 보면 소말리아를 북한 대사관과 그 직원들과 함께 탈출하는데 이것은 국가보안법 위반으로 처벌대상이 되지 않을까요? 그당시만해도 국가보안법이 강화되었을 것 같은데 어떤지 모르겠네요.
-&nbsp;
-관련 기사 : htt...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바다의 통발은 사용가능한가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/805</link>
-            <guid>https://factchecker.or.kr/fc_suggests/805</guid>
-            <pubDate>Tue, 23 Aug 2022 04:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[경우에 따라서 투망, 족대,&nbsp;통발&nbsp;등을&nbsp;사용하기도 한다.
-투망은&nbsp;둥근 원형의&nbsp;그물 가장자리에 무게 추들을 달은&nbsp;그물 어망이다.
-&nbsp;
-바다근처 항구에서 통발로 재미삼아 하는 통발잡이 괜찮을까요?
-수산업법상 어업인이 아닌 자가...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
