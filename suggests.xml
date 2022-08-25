@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-25T17:17:50.703Z</updated>
+    <updated>2022-08-25T18:16:48.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크릴오일에 대한 팩트체크 부탁합니다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/833</id>
+        <link href="https://factchecker.or.kr/fc_suggests/833"/>
+        <updated>2022-08-25T18:16:06.911Z</updated>
+        <content type="html"><![CDATA[https://1helloworld1.everythingstory.co.kr/13
+&nbsp;
+크릴오일에 대한 팩트체크를 해주세요. 여전히 홈쇼핑에서 크릴오일관련 제품들을 건강식품으로 팔고 있는데 이런 효과가 정말 있는지 팩트체크...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종합비타민(영양제) 복용이 건강에 좋은가 안 좋은가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/832</id>
@@ -83,12 +92,5 @@ https://naver.me/G5IyqQZk]]></content>
         <content type="html"><![CDATA[윤석열 지지율이 떨어졌다가 올랐다가 하는데 이런 지지율을 조사하는 기관이 신뢰가 있나요? 저는 전화 같은 것을 받지 못한것 같은데 신뢰가 있는 것인지 궁금합니다!
 &nbsp;
 https://n.news.naver.com/artic...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가공식품이 인체에 미치는 유해한 예]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/823</id>
-        <link href="https://factchecker.or.kr/fc_suggests/823"/>
-        <updated>2022-08-24T23:14:15.661Z</updated>
-        <content type="html"><![CDATA[가공식품의 섭취에 따른 몸의 변화와 자연식품의 차이점]]></content>
     </entry>
 </feed>

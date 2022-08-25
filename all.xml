@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 17:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 18:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[크릴오일에 대한 팩트체크 부탁합니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/833</link>
+            <guid>https://factchecker.or.kr/fc_suggests/833</guid>
+            <pubDate>Thu, 25 Aug 2022 18:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[https://1helloworld1.everythingstory.co.kr/13
+&nbsp;
+크릴오일에 대한 팩트체크를 해주세요. 여전히 홈쇼핑에서 크릴오일관련 제품들을 건강식품으로 팔고 있는데 이런 효과가 정말 있는지 팩트체크...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[종합비타민(영양제) 복용이 건강에 좋은가 안 좋은가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/832</link>
             <guid>https://factchecker.or.kr/fc_suggests/832</guid>
@@ -259,13 +268,6 @@ https://naver.me/G5IyqQZk]]></content:encoded>
             <content:encoded><![CDATA[윤석열 지지율이 떨어졌다가 올랐다가 하는데 이런 지지율을 조사하는 기관이 신뢰가 있나요? 저는 전화 같은 것을 받지 못한것 같은데 신뢰가 있는 것인지 궁금합니다!
 &nbsp;
 https://n.news.naver.com/artic...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가공식품이 인체에 미치는 유해한 예 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/823</link>
-            <guid>https://factchecker.or.kr/fc_suggests/823</guid>
-            <pubDate>Wed, 24 Aug 2022 23:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[가공식품의 섭취에 따른 몸의 변화와 자연식품의 차이점]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] ‘대통령 취임식 초청자 명단’ 폐기해도 문제 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
