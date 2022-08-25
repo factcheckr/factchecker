@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-25T01:20:29.212Z</updated>
+    <updated>2022-08-25T04:09:00.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마시는 수돗물/ 누구나?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/826</id>
+        <link href="https://factchecker.or.kr/fc_suggests/826"/>
+        <updated>2022-08-25T04:07:16.464Z</updated>
+        <content type="html"><![CDATA[수돗물은 깨끗해도 노후화된 수돗물 교체가 얼마나 이루어지는지?
+100% 안심이라는 말이 정확한지?
+&nbsp;
+&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 시도의 재정운영에 대한 알림이 정확한가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/825</id>
+        <link href="https://factchecker.or.kr/fc_suggests/825"/>
+        <updated>2022-08-25T04:07:16.465Z</updated>
+        <content type="html"><![CDATA[재정운영 보고에 대한 감사 절차는 어떻게? 정확하게? 이루어지고있나요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지지율의 신뢰성]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/824</id>
+        <link href="https://factchecker.or.kr/fc_suggests/824"/>
+        <updated>2022-08-25T04:07:16.466Z</updated>
+        <content type="html"><![CDATA[윤석열 지지율이 떨어졌다가 올랐다가 하는데 이런 지지율을 조사하는 기관이 신뢰가 있나요? 저는 전화 같은 것을 받지 못한것 같은데 신뢰가 있는 것인지 궁금합니다!
+&nbsp;
+https://n.news.naver.com/artic...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가공식품이 인체에 미치는 유해한 예]]></title>
         <id>https://factchecker.or.kr/fc_suggests/823</id>
@@ -65,27 +91,5 @@ https://aagag.com/issue/?idx=1134886
         <link href="https://factchecker.or.kr/fc_suggests/817"/>
         <updated>2022-08-24T10:15:09.738Z</updated>
         <content type="html"><![CDATA[저녁에 먹는 사과는 안 좋다고들 하는데 이것이 사실인지 궁금 합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설문조사의 정확도]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/816</id>
-        <link href="https://factchecker.or.kr/fc_suggests/816"/>
-        <updated>2022-08-24T10:15:09.744Z</updated>
-        <content type="html"><![CDATA[각종 여론조사마다 설문조듸 정확도를 높이기 위한 방법과&nbsp;
-현재 여론조사 방식의 문제점 및 이를 개선하는 방안에 대한 논의]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이크림 효능]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/815</id>
-        <link href="https://factchecker.or.kr/fc_suggests/815"/>
-        <updated>2022-08-24T10:15:09.744Z</updated>
-        <content type="html"><![CDATA[아이크림이 정말 화장품 광고에서 말하는 것처럼 눈가 주름을 예방하거나 눈가 잔주름을 없애주는지요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거울이랑 가위바위보해서 이길 수 있을까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/814</id>
-        <link href="https://factchecker.or.kr/fc_suggests/814"/>
-        <updated>2022-08-24T10:15:09.746Z</updated>
-        <content type="html"><![CDATA[사람들은 보통 못이긴다 하지만 질수 있는 방법은 딱 하나가 있다 그것은 내가보는관점에서만 해당이 될 수 있는데 손을 자신에 눈높이까지 올린다음 엄지 검지와 중지는 주먹을 쥐고 소지와 약지는 보자기를 한다 그럼 내가보는관점...]]></content>
     </entry>
 </feed>
