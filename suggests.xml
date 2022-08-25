@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-25T09:14:35.538Z</updated>
+    <updated>2022-08-25T10:17:13.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나에 감염되면 폐와 심장이 젤리처럼된다는데...]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/831</id>
+        <link href="https://factchecker.or.kr/fc_suggests/831"/>
+        <updated>2022-08-25T10:15:28.724Z</updated>
+        <content type="html"><![CDATA[코로나19에 감염되면
+폐와 심장이 젤리처럼 딱딱해진다는&nbsp;
+이야기를 코로나 처음 발생했을때부터 들었었는데
+요즘 폐섬유화 뉴스도 나오고 있어
+걱정이 많이 됩니다
+또 중국에서는 코로나 재감염시 심장마비로 사망하는 경우가 많았었...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브 스트리머가 교수로 임용됐다는데..]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/830</id>
+        <link href="https://factchecker.or.kr/fc_suggests/830"/>
+        <updated>2022-08-25T10:15:28.730Z</updated>
+        <content type="html"><![CDATA[그냥 방송만 하던 사람도 교수가 될수 있나요??
+&nbsp;
+https://naver.me/G5IyqQZk]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패스트푸드의 심각성]]></title>
         <id>https://factchecker.or.kr/fc_suggests/829</id>
@@ -69,23 +90,5 @@ https://n.news.naver.com/artic...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/822"/>
         <updated>2022-08-24T23:14:15.671Z</updated>
         <content type="html"><![CDATA[금리인상인하에따른 마대율이 달라지는 속도와 은행 이윤의상관관계 분석&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코피나는이유]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/821</id>
-        <link href="https://factchecker.or.kr/fc_suggests/821"/>
-        <updated>2022-08-24T23:14:15.675Z</updated>
-        <content type="html"><![CDATA[몸이 약하면 코피가 날까요?
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대가 페이스북을 떠나는 이유는?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/820</id>
-        <link href="https://factchecker.or.kr/fc_suggests/820"/>
-        <updated>2022-08-24T13:32:15.811Z</updated>
-        <content type="html"><![CDATA[MZ세대가 페이스북을 떠나는 이유는?
-직장상사와 페친되기 싫어서
-https://aagag.com/issue/?idx=1134886
-&nbsp;]]></content>
     </entry>
 </feed>
