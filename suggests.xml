@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-25T22:14:53.114Z</updated>
+    <updated>2022-08-25T23:22:33.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[할이코인]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/836</id>
+        <link href="https://factchecker.or.kr/fc_suggests/836"/>
+        <updated>2022-08-25T23:20:46.842Z</updated>
+        <content type="html"><![CDATA[코인발행사와직거래 할인코인 매수 안전한가요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국유재산에 대한 현황파악]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/835</id>
+        <link href="https://factchecker.or.kr/fc_suggests/835"/>
+        <updated>2022-08-25T23:20:46.846Z</updated>
+        <content type="html"><![CDATA[친일파 의 국유재산 환수율은 어느정도인지?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[각종 영양제 소개에 표시가 정확한지]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/834</id>
+        <link href="https://factchecker.or.kr/fc_suggests/834"/>
+        <updated>2022-08-25T23:20:46.846Z</updated>
+        <content type="html"><![CDATA[영양제끼리 흡수가 같이되면 안되는것들은 큰 글씨로 안내가되었는지&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크릴오일에 대한 팩트체크 부탁합니다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/833</id>
@@ -66,31 +87,5 @@ https://naver.me/G5IyqQZk]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/827"/>
         <updated>2022-08-25T05:51:24.086Z</updated>
         <content type="html"><![CDATA[감기 걸렸을때 몸을 따뜻하게 하는게 효과적인가, 열을 낮추는게 효과적인가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마시는 수돗물/ 누구나?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/826</id>
-        <link href="https://factchecker.or.kr/fc_suggests/826"/>
-        <updated>2022-08-25T04:07:16.464Z</updated>
-        <content type="html"><![CDATA[수돗물은 깨끗해도 노후화된 수돗물 교체가 얼마나 이루어지는지?
-100% 안심이라는 말이 정확한지?
-&nbsp;
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 시도의 재정운영에 대한 알림이 정확한가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/825</id>
-        <link href="https://factchecker.or.kr/fc_suggests/825"/>
-        <updated>2022-08-25T04:07:16.465Z</updated>
-        <content type="html"><![CDATA[재정운영 보고에 대한 감사 절차는 어떻게? 정확하게? 이루어지고있나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지지율의 신뢰성]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/824</id>
-        <link href="https://factchecker.or.kr/fc_suggests/824"/>
-        <updated>2022-08-25T04:07:16.466Z</updated>
-        <content type="html"><![CDATA[윤석열 지지율이 떨어졌다가 올랐다가 하는데 이런 지지율을 조사하는 기관이 신뢰가 있나요? 저는 전화 같은 것을 받지 못한것 같은데 신뢰가 있는 것인지 궁금합니다!
-&nbsp;
-https://n.news.naver.com/artic...]]></content>
     </entry>
 </feed>
