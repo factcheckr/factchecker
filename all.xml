@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[패스트푸드의 심각성 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/829</link>
+            <guid>https://factchecker.or.kr/fc_suggests/829</guid>
+            <pubDate>Thu, 25 Aug 2022 06:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[https://woman.donga.com/3/all/12/132402/1
+페스트푸드는 심각합니다.
+&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대통령 일정은 국가 기밀 아닌가요? 민간인이 국가 기밀을 유출해도 잡혀가지 않나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/828</link>
             <guid>https://factchecker.or.kr/fc_suggests/828</guid>
@@ -254,13 +263,6 @@ https://n.news.naver.com/artic...]]></content:encoded>
 직장상사와 페친되기 싫어서
 https://aagag.com/issue/?idx=1134886
 &nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[운동으로 땀을 많이 흘리면 흘릴수록 살이 더욱 빠진다는 논쟁거리에 대해서 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/819</link>
-            <guid>https://factchecker.or.kr/fc_suggests/819</guid>
-            <pubDate>Wed, 24 Aug 2022 12:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[예로부터 운동으로 땀을 흘릴때 많이 흘리면 흘릴수록 살이 더욱 많이 빠진다는 말이 있었습니다. 땀을 흘리는 것과 살이 빠지는 것은 연관이 있는 것인가요? 또한 같은 사례로 찜질방이나 사우나에서 반신욕을 하며 땀을 흘리면 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크K] ‘대통령 취임식 초청자 명단’ 폐기해도 문제 없다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
