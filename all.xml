@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 10:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 11:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[환율의 변동에 따른 해외 국부유출은 실제 얼마나 일어나는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/842</link>
+            <guid>https://factchecker.or.kr/fc_suggests/842</guid>
+            <pubDate>Fri, 26 Aug 2022 11:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[환율의 변동에 따른 해외 국부유출은 실제 얼마나 일어나는가?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[육아 중 스트레스 해소는 먹방이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/841</link>
             <guid>https://factchecker.or.kr/fc_suggests/841</guid>
@@ -275,18 +282,6 @@ Great Britain faces biggest rail strike in 30 years
             <guid>https://factchecker.or.kr/fc_suggests/832</guid>
             <pubDate>Thu, 25 Aug 2022 11:13:15 GMT</pubDate>
             <content:encoded><![CDATA[저 같은 경우는 편식으로 영양이 부족해서 종합비타민(영양제)을 먹고 있는데 종합비타민(영양제)을 먹어도 아무 효과가 없습니다. 과연 종합비타민(영양제) 복용이 건강에 좋은지 팩트체크가 필요합니다. https://www.j...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코로나에 감염되면 폐와 심장이 젤리처럼된다는데... (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/831</link>
-            <guid>https://factchecker.or.kr/fc_suggests/831</guid>
-            <pubDate>Thu, 25 Aug 2022 10:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19에 감염되면
-폐와 심장이 젤리처럼 딱딱해진다는&nbsp;
-이야기를 코로나 처음 발생했을때부터 들었었는데
-요즘 폐섬유화 뉴스도 나오고 있어
-걱정이 많이 됩니다
-또 중국에서는 코로나 재감염시 심장마비로 사망하는 경우가 많았었...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
