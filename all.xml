@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 18:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 19:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,15 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["文, 퇴임 후 예금 8억 증가, 토지와 주택 매매에 따른 것" - 검증 가능할까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/847</link>
+            <guid>https://factchecker.or.kr/fc_suggests/847</guid>
+            <pubDate>Fri, 26 Aug 2022 19:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[https://n.news.naver.com/mnews/article/448/0000371670?sid=100
+&nbsp;
+문재인 전 대통령은&nbsp;25억 6천만원을 신고해, 지난해 말 대비 예금이 8억원 가까이 늘었습니다.문 전 대통...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이열치열이 정말 더위 이기는 것에 도움이 될까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/846</link>
             <guid>https://factchecker.or.kr/fc_suggests/846</guid>
@@ -280,13 +289,6 @@ https://ww...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/838</guid>
             <pubDate>Fri, 26 Aug 2022 04:14:06 GMT</pubDate>
             <content:encoded><![CDATA[기록적인 폭우 앞으로의 대응은 어떻게 할지 현재 상황 점검]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[할이코인 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/836</link>
-            <guid>https://factchecker.or.kr/fc_suggests/836</guid>
-            <pubDate>Thu, 25 Aug 2022 23:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[코인발행사와직거래 할인코인 매수 안전한가요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
