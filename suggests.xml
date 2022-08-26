@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-26T09:14:22.222Z</updated>
+    <updated>2022-08-26T10:15:53.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[육아 중 스트레스 해소는 먹방이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/841</id>
+        <link href="https://factchecker.or.kr/fc_suggests/841"/>
+        <updated>2022-08-26T10:15:04.596Z</updated>
+        <content type="html"><![CDATA[육아 중 스트레스 해소는 먹방이 최고일까요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비건 제품은 정말 동물보호를 할 수 있는걸까요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/840</id>
@@ -74,14 +81,5 @@
 요즘 폐섬유화 뉴스도 나오고 있어
 걱정이 많이 됩니다
 또 중국에서는 코로나 재감염시 심장마비로 사망하는 경우가 많았었...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 스트리머가 교수로 임용됐다는데..]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/830</id>
-        <link href="https://factchecker.or.kr/fc_suggests/830"/>
-        <updated>2022-08-25T10:15:28.730Z</updated>
-        <content type="html"><![CDATA[그냥 방송만 하던 사람도 교수가 될수 있나요??
-&nbsp;
-https://naver.me/G5IyqQZk]]></content>
     </entry>
 </feed>
