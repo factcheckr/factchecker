@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-26T07:21:23.618Z</updated>
+    <updated>2022-08-26T08:18:44.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비건 제품은 정말 동물보호를 할 수 있는걸까요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/840</id>
+        <link href="https://factchecker.or.kr/fc_suggests/840"/>
+        <updated>2022-08-26T08:18:02.017Z</updated>
+        <content type="html"><![CDATA[요즘 비건이 열풍이고 화장품부터 과자, 음식, 생활용품 등등 다양한 비건 제품들이 나오고 있는데 정말 비건 제품이 동물보호가 되는것인지 팩트체크 해주세요!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여론조사의 차이가 나는 이유와 이를 줄이는 법]]></title>
         <id>https://factchecker.or.kr/fc_suggests/839</id>
@@ -76,14 +83,5 @@
         <content type="html"><![CDATA[그냥 방송만 하던 사람도 교수가 될수 있나요??
 &nbsp;
 https://naver.me/G5IyqQZk]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패스트푸드의 심각성]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/829</id>
-        <link href="https://factchecker.or.kr/fc_suggests/829"/>
-        <updated>2022-08-25T06:28:21.873Z</updated>
-        <content type="html"><![CDATA[https://woman.donga.com/3/all/12/132402/1
-페스트푸드는 심각합니다.
-&nbsp;]]></content>
     </entry>
 </feed>
