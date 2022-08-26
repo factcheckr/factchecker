@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-08-25T23:22:33.014Z</updated>
+    <updated>2022-08-26T01:14:09.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -24,20 +24,6 @@
 https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;ntctxt_no=1082976&amp;menu_no=3120
 &nbsp;
 &nbsp; &nbsp;3) 과산화수소, 아황산수소나트륨, 수산화나트륨 독성수치는 동물의 종(기니피그, 마우스, 토끼 등)과 투여조건(경구, 복강 등)에 따라 다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비건 패션은 친환경적이지 않다?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/145</id>
-        <link href="https://factchecker.or.kr/fc_publications/145"/>
-        <updated>2022-08-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[1. 비건 패션의 정의
-한국 패션디자인 학회지에 따르면, 비건 패션이란 동물을 인간의 이기적 필요 도구가 아닌 하나의 생명체이자 함께 상생해 나아갈 가치 있는 존재로 여기며, 잔인한 동물학대 대신 그 권리를 보호하고 존중하는 윤리적 패션입니다. 또한 동물성 소재 가공과정에서 발생되는 각종 유해물질로부터 지구와 생태계, 인간을 보호하고자 하는 책임 있는 패션이라고 정의할 수 있습니다.
-그러나 어디까지를 비건 패션이라고 할 것인지에 대한 가이드라인이 마련되지 않아서 현시점에서는 디자이너와 생산책임자의 양심에 맡겨져 있는 실정이라고 합니다.
-&nbsp;
-2. 친환경의 정의
-비건 패션이 친환경인지 아닌지를 따져보기에 앞서, 먼저 친환경이란 무엇인지 정의해보고자 합니다.
-
-자연환경을 오염시키거나 파괴하지 않고 자연 그대로의 환경과 잘 어울리는 것(소년중앙 시사용어 https://terms.naver.com/entry.naverdocId=6045172&amp;cid=67200&amp;categoryId=6720...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진자는 헌혈을 못한다고?]]></title>
@@ -143,5 +129,14 @@ https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;
 
 CNN 기사
 이를 토대로 팩트체...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 연방대법원이 '로 대 웨이드' 판례를 번복하자 글로벌 기업들은 낙태를 위한 여행 비용을 지원하고 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/136</id>
+        <link href="https://factchecker.or.kr/fc_publications/136"/>
+        <updated>2022-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1. 로 대 웨이드(Roe v. Wade) 판결이란?
+미국에서는 1970년대 초까지 대부분 주에서 임신부의 생명이 위험한 경우를 제외한 낙태를 불법으로 보고 낙태죄를 처벌했습니다. 1969년 텍사스주 댈러스의 노마 맥코비라는 여성이 강간을 당해 임신했다고 주장하며 낙태수술을 요청하게 되는데, 임신부의 생명이 위독하지 않고 성폭행 사건에 대한 경찰 보고서가 없다는 이유로 수술을 거부당했습니다. 이에 맥코비는 변호사 린다 커피, 사라 웨딩턴을 대리로 해 텍사스주를 상대로 위헌소송을 제기했고, 신변 보호를 위해 제인 로(Jane Roe)라는 가명을 사용했습니다. 이 이름과 소송의 피고인이었던 댈러스카운티 지방검사 헨리 웨이드(Henry Wade)의 이름을 따 소송의 명칭이 로 대 웨이드(Roe v. Wade)라고 불리게 됐습니다.
+지방법원을 거쳐 연방대법원까지 올라간 이 소송 결과, 대법원은 1973년 1월 22일 7대2로 낙태금지가 위헌이라는 결정을 내렸습니다. 대법원은 낙태를 처...]]></content>
     </entry>
 </feed>

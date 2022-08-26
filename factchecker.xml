@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-08-25T23:22:33.051Z</updated>
+    <updated>2022-08-26T01:14:09.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -37,15 +37,6 @@
         <content type="html"><![CDATA[<a href="/fc_subjects/435">&nbsp;중국산 나무젓가락의 위생문제에 대한 정보들이 잊을만하면 SNS, 개인블로그, 동영상 플랫폼 등에 올라와 공유되고 있습니다.&nbsp;
 
 관련 블로그 내용처럼 우리나라에는 중국산 나무젓가락에 대한 위생기준이 아예 없다 를 확인해봤습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비건 패션은 친환경적이지 않다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/434</id>
-        <link href="https://factchecker.or.kr/fc_subjects/434"/>
-        <updated>2022-08-25T12:27:16.993Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/434">인조 가죽을 사용한 일부 비건 패션은 친환경이지 않다는 언론보도를 바탕으로
-비건 패션은 친환경적이지 않다라는 진술문을 검증해보고자 합니다.
 </a>]]></content>
     </entry>
     <entry>
@@ -92,6 +83,30 @@
         <link href="https://factchecker.or.kr/fc_subjects/423"/>
         <updated>2022-08-25T12:27:17.002Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/423">최근 온라인 커뮤니티와 카페 등을 통해 코로나 바이러스에 확진되었던 경우 완치 후에도 헌혈을 할 수 없다는 내용의 글과 댓글이 게시되고 있습니다. 과연 코로나 확진자/완치자와 백신 접종자는 헌혈을 할 수 없는지 검증해보겠습니다.
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/422</id>
+        <link href="https://factchecker.or.kr/fc_subjects/422"/>
+        <updated>2022-08-26T01:13:05.921Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/422">&nbsp;
+&nbsp;英 철도, 33년 만에 최대 규모의 파업에 돌입했다?
+&nbsp;
+영국 철도노조의 파업을 보도하며 국내 언론은 33년(30여년) 만에 최대 규모라는 점을 강조하고 있다. 영국 철도노조의 파업이 ‘33년’ 만에 ‘최대 규모 파업’이라는 보도는 과연 사실일까?
+&nbsp;
+33년 만에 영국 철도 최대 파업 “인플레이션 견딜 임금 인상을”
+https://m.khan.co.kr/world/europe-russia/article/202206222148035#c2b
+&nbsp;
+[지구촌 돋보기] 英 철도 33년 만에 최대 파업…유럽 줄파업 이유는?
+https://news.kbs.co.kr/news/view.do?ncd=5495339
+&nbsp;
+&nbsp;
+철도해운운수노조(RMT)는 임금 인상과 구조조정 중단을 요구하며 파업을 결정했다.
+국내 언론은 다양한 외신을 인용하며 해당 파업 소식을 전했다.
+&nbsp;
+Great Britain faces biggest rail strike in 30 years
+가디언즈 보도에서 영국 철도 노조...
 </a>]]></content>
     </entry>
 </feed>
