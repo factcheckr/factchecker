@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-26T11:13:46.807Z</updated>
+    <updated>2022-08-26T12:28:07.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/843</id>
+        <link href="https://factchecker.or.kr/fc_suggests/843"/>
+        <updated>2022-08-26T12:27:16.566Z</updated>
+        <content type="html"><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환율의 변동에 따른 해외 국부유출은 실제 얼마나 일어나는가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/842</id>
@@ -69,12 +76,5 @@
         <content type="html"><![CDATA[https://1helloworld1.everythingstory.co.kr/13
 &nbsp;
 크릴오일에 대한 팩트체크를 해주세요. 여전히 홈쇼핑에서 크릴오일관련 제품들을 건강식품으로 팔고 있는데 이런 효과가 정말 있는지 팩트체크...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종합비타민(영양제) 복용이 건강에 좋은가 안 좋은가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/832</id>
-        <link href="https://factchecker.or.kr/fc_suggests/832"/>
-        <updated>2022-08-25T11:13:15.260Z</updated>
-        <content type="html"><![CDATA[저 같은 경우는 편식으로 영양이 부족해서 종합비타민(영양제)을 먹고 있는데 종합비타민(영양제)을 먹어도 아무 효과가 없습니다. 과연 종합비타민(영양제) 복용이 건강에 좋은지 팩트체크가 필요합니다. https://www.j...]]></content>
     </entry>
 </feed>
