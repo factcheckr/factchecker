@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-26T14:14:12.971Z</updated>
+    <updated>2022-08-26T15:16:20.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[치킨 가격이 왜 이리 급등하게 오르는것일까]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/845</id>
+        <link href="https://factchecker.or.kr/fc_suggests/845"/>
+        <updated>2022-08-26T15:15:33.550Z</updated>
+        <content type="html"><![CDATA[프렌차이즈 치킨 브랜드중 한곳이 양은 똑같지만 세트21900원 하던걸 24400원으로 올렸다&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 큰 효과가 없다는게 진실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/844</id>
@@ -71,12 +78,5 @@ https://ww...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/835"/>
         <updated>2022-08-25T23:20:46.846Z</updated>
         <content type="html"><![CDATA[친일파 의 국유재산 환수율은 어느정도인지?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각종 영양제 소개에 표시가 정확한지]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/834</id>
-        <link href="https://factchecker.or.kr/fc_suggests/834"/>
-        <updated>2022-08-25T23:20:46.846Z</updated>
-        <content type="html"><![CDATA[영양제끼리 흡수가 같이되면 안되는것들은 큰 글씨로 안내가되었는지&nbsp;]]></content>
     </entry>
 </feed>

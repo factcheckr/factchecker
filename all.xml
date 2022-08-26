@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,13 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[치킨 가격이 왜 이리 급등하게 오르는것일까 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/845</link>
+            <guid>https://factchecker.or.kr/fc_suggests/845</guid>
+            <pubDate>Fri, 26 Aug 2022 15:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[프렌차이즈 치킨 브랜드중 한곳이 양은 똑같지만 세트21900원 하던걸 24400원으로 올렸다&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 큰 효과가 없다는게 진실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/844</link>
             <guid>https://factchecker.or.kr/fc_suggests/844</guid>
@@ -277,13 +284,6 @@ https://ww...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/835</guid>
             <pubDate>Thu, 25 Aug 2022 23:20:46 GMT</pubDate>
             <content:encoded><![CDATA[친일파 의 국유재산 환수율은 어느정도인지?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[각종 영양제 소개에 표시가 정확한지 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/834</link>
-            <guid>https://factchecker.or.kr/fc_suggests/834</guid>
-            <pubDate>Thu, 25 Aug 2022 23:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[영양제끼리 흡수가 같이되면 안되는것들은 큰 글씨로 안내가되었는지&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
