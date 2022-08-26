@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 12:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 13:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,17 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 큰 효과가 없다는게 진실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/844</link>
+            <guid>https://factchecker.or.kr/fc_suggests/844</guid>
+            <pubDate>Fri, 26 Aug 2022 13:33:06 GMT</pubDate>
+            <content:encoded><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 별 효과가 없다는게 진실인가요?
+실제로 해양오염의 대부분이&nbsp; 어업에서 발생한 해양폐기물과
+과도한 어업으로 인한 환경파괴라고 하는데 진실을 알려주세요
+&nbsp;
+https://ww...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/843</link>
             <guid>https://factchecker.or.kr/fc_suggests/843</guid>
@@ -273,15 +284,6 @@ Great Britain faces biggest rail strike in 30 years
             <guid>https://factchecker.or.kr/fc_suggests/834</guid>
             <pubDate>Thu, 25 Aug 2022 23:20:46 GMT</pubDate>
             <content:encoded><![CDATA[영양제끼리 흡수가 같이되면 안되는것들은 큰 글씨로 안내가되었는지&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크릴오일에 대한 팩트체크 부탁합니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/833</link>
-            <guid>https://factchecker.or.kr/fc_suggests/833</guid>
-            <pubDate>Thu, 25 Aug 2022 18:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[https://1helloworld1.everythingstory.co.kr/13
-&nbsp;
-크릴오일에 대한 팩트체크를 해주세요. 여전히 홈쇼핑에서 크릴오일관련 제품들을 건강식품으로 팔고 있는데 이런 효과가 정말 있는지 팩트체크...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

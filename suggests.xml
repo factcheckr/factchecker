@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-26T12:28:07.093Z</updated>
+    <updated>2022-08-26T13:34:52.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 큰 효과가 없다는게 진실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/844</id>
+        <link href="https://factchecker.or.kr/fc_suggests/844"/>
+        <updated>2022-08-26T13:33:06.986Z</updated>
+        <content type="html"><![CDATA[해양보호를 위해서 개인의 플라스틱 사용을 줄이는게 별 효과가 없다는게 진실인가요?
+실제로 해양오염의 대부분이&nbsp; 어업에서 발생한 해양폐기물과
+과도한 어업으로 인한 환경파괴라고 하는데 진실을 알려주세요
+&nbsp;
+https://ww...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화]]></title>
         <id>https://factchecker.or.kr/fc_suggests/843</id>
@@ -67,14 +78,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/834"/>
         <updated>2022-08-25T23:20:46.846Z</updated>
         <content type="html"><![CDATA[영양제끼리 흡수가 같이되면 안되는것들은 큰 글씨로 안내가되었는지&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크릴오일에 대한 팩트체크 부탁합니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/833</id>
-        <link href="https://factchecker.or.kr/fc_suggests/833"/>
-        <updated>2022-08-25T18:16:06.911Z</updated>
-        <content type="html"><![CDATA[https://1helloworld1.everythingstory.co.kr/13
-&nbsp;
-크릴오일에 대한 팩트체크를 해주세요. 여전히 홈쇼핑에서 크릴오일관련 제품들을 건강식품으로 팔고 있는데 이런 효과가 정말 있는지 팩트체크...]]></content>
     </entry>
 </feed>
