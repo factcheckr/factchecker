@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4473</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4473</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시사위크=이선민 기자 대통령이 처음 취임한 뒤 주목받는 대표적인 일 중의 하나는 국무위원 인선이다. 윤석열 정부 국무위원 중 추경호 경제부총리 겸 기획재정부 장관, 박진 외교부 장관, 권영세 통일부 장관은 한가지 공통점이 있다. 모두 현직 국회의원이라는 점이다. 우리나라는 법령에 의해 국회의원과 국무위원 겸직이 가능하다.해당 장관들은 국회의원으로서 맡은 상임위도 있다. 추경호 의원은 과학기술정보방송통신위원회, 박진 의원은 기획재정위원회, 권영세 의원은 보건복지위원회다. 하지만 각 부처 장관을 맡은 만큼 현실적으로 상임위 활동은 거의]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5184d77dde738a6e120f3b083183e3dbb97f68c3/981696ea6981d8bcab69b60e1b641fc7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실확인]″'심심', '유선상' 몰라요″…실질 문맹률 75%?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4472</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 검찰의 수사권을 확대하기 위한 법무부의 검수원복(검찰 수사권 원상복구) 시행령 개정안에 대...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef036c829278b6c7ba25dcc51956c53ef4198696/d02dd8e6bbef71992a9d19e086652f75.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3개 차로 줄어든 광화문광장 교통흐름 변화 없다? [FACT IN 뉴스]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4463</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4463</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울 도심의 상징 종로구 광화문광장이 공사 시작 1년9개월 만인 지난 6일 재개장했다. 광장이 개방한 반가움도 잠시 이날 오전 이곳을 지나던 한 마을버스 기사는 “도로가 줄어 아침마다 정체가 말도 못한다”고 불만을 토로했다. 광화문 앞 세종대로는 광장 재구조화 과정에서 광장 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ffc7107275bd517d1725b3efc97b5fcbde75044f/1b330c4e3ec0bf9f07ee7a9e97f18aaf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
