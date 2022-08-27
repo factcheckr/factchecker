@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 23:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 01:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,29 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[교원1인당 수급현황 OECD 수준과 우리나라의 비교 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/850</link>
+            <guid>https://factchecker.or.kr/fc_suggests/850</guid>
+            <pubDate>Sat, 27 Aug 2022 01:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[교육현장의 교사1인당 학급인원수 비율의 OECD와의 차이와 이를 줄여가기 위한 방안모색&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윗집 누수에 따른 아랫집 피해 윗집책임? 공동주택 건설책임? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/849</link>
+            <guid>https://factchecker.or.kr/fc_suggests/849</guid>
+            <pubDate>Sat, 27 Aug 2022 01:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[윗집 누수에 따른 아랫집 피해 윗집책임? 공동주택 건설책임?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미세전류 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/848</link>
+            <guid>https://factchecker.or.kr/fc_suggests/848</guid>
+            <pubDate>Sat, 27 Aug 2022 01:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[요새 미세전류가 보이는데 특히 칫솔에 적용에 이어 이제 복부 비만에 적용됨에 복부가 감소된다 하는데 맞습니까?
+https://youtu.be/pnsi6t0f8Aw
+https://www.bodyone.kr/#enp_mbris]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["文, 퇴임 후 예금 8억 증가, 토지와 주택 매매에 따른 것" - 검증 가능할까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/847</link>
             <guid>https://factchecker.or.kr/fc_suggests/847</guid>
@@ -268,27 +291,6 @@ https://ww...]]></content:encoded>
             <guid>https://factchecker.or.kr/fc_suggests/841</guid>
             <pubDate>Fri, 26 Aug 2022 10:15:04 GMT</pubDate>
             <content:encoded><![CDATA[육아 중 스트레스 해소는 먹방이 최고일까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비건 제품은 정말 동물보호를 할 수 있는걸까요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/840</link>
-            <guid>https://factchecker.or.kr/fc_suggests/840</guid>
-            <pubDate>Fri, 26 Aug 2022 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 비건이 열풍이고 화장품부터 과자, 음식, 생활용품 등등 다양한 비건 제품들이 나오고 있는데 정말 비건 제품이 동물보호가 되는것인지 팩트체크 해주세요!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여론조사의 차이가 나는 이유와 이를 줄이는 법 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/839</link>
-            <guid>https://factchecker.or.kr/fc_suggests/839</guid>
-            <pubDate>Fri, 26 Aug 2022 04:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[여론조사마다 차이가 나는 이유와 이를 줄이기 위한 공정성 있는 여론조사를 위한 노력]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기록적인 폭우에 대한 원인 진단 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/838</link>
-            <guid>https://factchecker.or.kr/fc_suggests/838</guid>
-            <pubDate>Fri, 26 Aug 2022 04:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[기록적인 폭우 앞으로의 대응은 어떻게 할지 현재 상황 점검]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
