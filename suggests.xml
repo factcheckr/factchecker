@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T04:02:00.528Z</updated>
+    <updated>2022-08-27T04:59:13.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부의 법인세율 인하와 종부세의 부자감세 논란]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/853</id>
+        <link href="https://factchecker.or.kr/fc_suggests/853"/>
+        <updated>2022-08-27T04:58:26.434Z</updated>
+        <content type="html"><![CDATA[종부세 완화에 대해 여당은 개정 못하면 50만명 피해 볻다고 하고
+야당은 명백한 부자감세라고 주장합니다.&nbsp;
+그리고 법인세율 인하고 기업에 부담을 줄여 기업 사기진전에 큰 도움이 된다고 하지만
+야당은 대기업에만 도움되는 정...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지진발생빈도와 최근 5년의한반도 지진이 많이 발생하는지? 적당한지 분석]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/852</id>
+        <link href="https://factchecker.or.kr/fc_suggests/852"/>
+        <updated>2022-08-27T04:58:26.436Z</updated>
+        <content type="html"><![CDATA[지진발생빈도와 최근 5년의한반도 지진이 많이 발생하는지? 적당한지 분석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땅꺼짐 포트홀이 일어나는 원인분석]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/851</id>
+        <link href="https://factchecker.or.kr/fc_suggests/851"/>
+        <updated>2022-08-27T04:58:26.438Z</updated>
+        <content type="html"><![CDATA[주변 건설현상때문인가 자연적 원인으로만 볼수있는가&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교원1인당 수급현황 OECD 수준과 우리나라의 비교]]></title>
         <id>https://factchecker.or.kr/fc_suggests/850</id>
@@ -25,8 +49,9 @@
         <link href="https://factchecker.or.kr/fc_suggests/848"/>
         <updated>2022-08-27T01:06:05.520Z</updated>
         <content type="html"><![CDATA[요새 미세전류가 보이는데 특히 칫솔에 적용에 이어 이제 복부 비만에 적용됨에 복부가 감소된다 하는데 맞습니까?
+팩트체크 바랍니다
 https://youtu.be/pnsi6t0f8Aw
-https://www.bodyone.kr/#enp_mbris]]></content>
+https://www.bodyone.kr...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["文, 퇴임 후 예금 8억 증가, 토지와 주택 매매에 따른 것" - 검증 가능할까요?]]></title>
@@ -64,26 +89,5 @@ https://www.bodyone.kr/#enp_mbris]]></content>
 과도한 어업으로 인한 환경파괴라고 하는데 진실을 알려주세요
 &nbsp;
 https://ww...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/843</id>
-        <link href="https://factchecker.or.kr/fc_suggests/843"/>
-        <updated>2022-08-26T12:27:16.566Z</updated>
-        <content type="html"><![CDATA[시청률에 따른 변화추이가 보이는 우리 TV매체의 변화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율의 변동에 따른 해외 국부유출은 실제 얼마나 일어나는가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/842</id>
-        <link href="https://factchecker.or.kr/fc_suggests/842"/>
-        <updated>2022-08-26T11:12:00.755Z</updated>
-        <content type="html"><![CDATA[환율의 변동에 따른 해외 국부유출은 실제 얼마나 일어나는가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아 중 스트레스 해소는 먹방이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/841</id>
-        <link href="https://factchecker.or.kr/fc_suggests/841"/>
-        <updated>2022-08-26T10:15:04.596Z</updated>
-        <content type="html"><![CDATA[육아 중 스트레스 해소는 먹방이 최고일까요?]]></content>
     </entry>
 </feed>
