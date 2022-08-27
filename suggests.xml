@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T14:12:36.717Z</updated>
+    <updated>2022-08-27T15:14:36.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와인은 과연 인간의 건강에 이로울까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/864</id>
+        <link href="https://factchecker.or.kr/fc_suggests/864"/>
+        <updated>2022-08-27T15:13:49.282Z</updated>
+        <content type="html"><![CDATA[일반 알코올보다는 와인을 정말 좋아하는 애주가 한명으로써...
+오래전부터 궁금해오던 와인이 과연 인간의 건강에겐 이로울지?
+항상 궁금하던 내용이었는데 좋다는 의견이 많은데 과연 진실일지 궁금하네요ㅎ
+https://www....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통가 해저 화산 폭발이 이상 이변을 가속화 시켰다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/863</id>
+        <link href="https://factchecker.or.kr/fc_suggests/863"/>
+        <updated>2022-08-27T15:13:49.287Z</updated>
+        <content type="html"><![CDATA[2022년 1월에 있었던 통가의 해저 화산폭발이 엄청난 양의 수증기를 성층권까지 밀어 올려는 바람에 , 지금 지구곳곳에서의 기상이변을&nbsp; 가속화 시켰다는 이야기들이 있어서&nbsp;
+팩트 체크 부탁 드립니다.&nbsp;
+https://dob...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['6990원 치킨' 화장실도 못가고 튀겨…불붙은 '치킨 노동자' 논란]]></title>
         <id>https://factchecker.or.kr/fc_suggests/862</id>
@@ -68,23 +87,5 @@ BBQ측 입장은 3만원에 팔아야&nbsp; 남는게 있다
 &nbsp;
 일단 마트측 치킨의 경우 팔아도 이윤이 있는지 궁금하고
 BBQ 치킨의 경우 지금 2만원대에 팔...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원숭이 두창은 미국의 음모? 동성애 때문?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/854</id>
-        <link href="https://factchecker.or.kr/fc_suggests/854"/>
-        <updated>2022-08-27T07:12:35.329Z</updated>
-        <content type="html"><![CDATA[https://www.insight.co.kr/news/408293&nbsp;원숭이 두창이 동성애자 (특히 남성간의 동성애자)들에 주로 발현된다고 하는데
-정말 근거가 있는 말일까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부의 법인세율 인하와 종부세의 부자감세 논란]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/853</id>
-        <link href="https://factchecker.or.kr/fc_suggests/853"/>
-        <updated>2022-08-27T04:58:26.434Z</updated>
-        <content type="html"><![CDATA[종부세 완화에 대해 여당은 개정 못하면 50만명 피해 볻다고 하고
-야당은 명백한 부자감세라고 주장합니다.&nbsp;
-그리고 법인세율 인하고 기업에 부담을 줄여 기업 사기진전에 큰 도움이 된다고 하지만
-야당은 대기업에만 도움되는 정...]]></content>
     </entry>
 </feed>
