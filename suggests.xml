@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T07:13:19.878Z</updated>
+    <updated>2022-08-27T08:17:21.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 부부 관련 보도가 주요 사안 관련 보도보다 더 많다는 게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/856</id>
+        <link href="https://factchecker.or.kr/fc_suggests/856"/>
+        <updated>2022-08-27T08:16:36.740Z</updated>
+        <content type="html"><![CDATA[이 트윗에 공감한 사람들이 많았는데, 실제 윤석열 대통령과 김건희 여사 관련 보도의 비중을 알고 싶습니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 프랜차이즈와 마트의 치킨경쟁이 심화되고 있습니다. 누가 진실을 말하는지 알려주세요]]></title>
         <id>https://factchecker.or.kr/fc_suggests/855</id>
@@ -81,15 +88,5 @@ https://www.bodyone.kr...]]></content>
         <content type="html"><![CDATA[https://n.news.naver.com/mnews/article/448/0000371670?sid=100
 &nbsp;
 문재인 전 대통령은&nbsp;25억 6천만원을 신고해, 지난해 말 대비 예금이 8억원 가까이 늘었습니다.문 전 대통...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이열치열이 정말 더위 이기는 것에 도움이 될까요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/846</id>
-        <link href="https://factchecker.or.kr/fc_suggests/846"/>
-        <updated>2022-08-26T17:18:33.457Z</updated>
-        <content type="html"><![CDATA[이열치열!
-여름이면 누구나 한번쯤은 들어본 말일 건데요?!
-과연 이 말이 영양이 과잉인 현재에도 맞는 말인지 그리고 시원한 음식을 쉽게 접할 수 있는 현재에도 맞는지 궁금합니다
-제생각엔 이열치열을 외쳤던 이유는 얼음이 소...]]></content>
     </entry>
 </feed>
