@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T16:19:15.200Z</updated>
+    <updated>2022-08-27T17:15:43.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국이 파산 가능성이 높은 50개국 중 하나? 사실과 달라]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/865</id>
+        <link href="https://factchecker.or.kr/fc_suggests/865"/>
+        <updated>2022-08-27T17:14:53.732Z</updated>
+        <content type="html"><![CDATA[&nbsp;
+http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002850430
+한국의 파산 가능성에 대해 처음 언급이 나온 이후로 반박 기사가 나왔는데
+우리 경제 상황에 대해...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와인은 과연 인간의 건강에 이로울까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/864</id>
@@ -75,17 +85,5 @@ https://n.news.naver.com/article/008/0004787055
         <link href="https://factchecker.or.kr/fc_suggests/856"/>
         <updated>2022-08-27T08:16:36.740Z</updated>
         <content type="html"><![CDATA[이 트윗에 공감한 사람들이 많았는데, 실제 윤석열 대통령과 김건희 여사 관련 보도의 비중을 알고 싶습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 프랜차이즈와 마트의 치킨경쟁이 심화되고 있습니다. 누가 진실을 말하는지 알려주세요]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/855</id>
-        <link href="https://factchecker.or.kr/fc_suggests/855"/>
-        <updated>2022-08-27T07:12:35.328Z</updated>
-        <content type="html"><![CDATA[마트측 입장은 6990원에 팔아도 마진이 남는다
-BBQ측 입장은 3만원에 팔아야&nbsp; 남는게 있다
-두 의견이 요즘 이슈입니다.
-&nbsp;
-일단 마트측 치킨의 경우 팔아도 이윤이 있는지 궁금하고
-BBQ 치킨의 경우 지금 2만원대에 팔...]]></content>
     </entry>
 </feed>
