@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T09:14:39.177Z</updated>
+    <updated>2022-08-27T10:14:40.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자가 줄기세포]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/860</id>
+        <link href="https://factchecker.or.kr/fc_suggests/860"/>
+        <updated>2022-08-27T10:13:56.763Z</updated>
+        <content type="html"><![CDATA[인공관절에 관심이 있습니다&nbsp; 20대때 다쳐서 바로 무릎연골수술을햇엇는데요&nbsp; 그덕에 그금40대인데도 무릎통증이 아주 심해요 요즘음 연골이 찢어 져도 연골을 긁어 내는 수술을 하지 않는다는데&nbsp; 그냥 두는데 더 나은건지 아님 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고가의 화장품과 저가 화장품 비교, 정말 효과도 그만큼 차이가 나는가?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/859</id>
@@ -76,12 +83,5 @@ BBQ 치킨의 경우 지금 2만원대에 팔...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/851"/>
         <updated>2022-08-27T04:58:26.438Z</updated>
         <content type="html"><![CDATA[주변 건설현상때문인가 자연적 원인으로만 볼수있는가&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교원1인당 수급현황 OECD 수준과 우리나라의 비교]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/850</id>
-        <link href="https://factchecker.or.kr/fc_suggests/850"/>
-        <updated>2022-08-27T01:06:05.516Z</updated>
-        <content type="html"><![CDATA[교육현장의 교사1인당 학급인원수 비율의 OECD와의 차이와 이를 줄여가기 위한 방안모색&nbsp;]]></content>
     </entry>
 </feed>
