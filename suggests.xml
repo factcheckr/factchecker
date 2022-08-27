@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-27T11:12:25.712Z</updated>
+    <updated>2022-08-27T12:27:29.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 공공부분의 고용 비율과 임금에 대한 정확한 팩트 체크]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/861</id>
+        <link href="https://factchecker.or.kr/fc_suggests/861"/>
+        <updated>2022-08-27T12:26:44.568Z</updated>
+        <content type="html"><![CDATA[https://www.segye.com/newsView/20220826517612?OutUrl=naver&nbsp;
+최근 공무원 사회의 급여가 많은 이슈가 되고 있는데 우리 공무원 숫자가 많아서임금 상승 여력이 없다고 하더라고요 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자가 줄기세포]]></title>
         <id>https://factchecker.or.kr/fc_suggests/860</id>
@@ -76,12 +84,5 @@ BBQ 치킨의 경우 지금 2만원대에 팔...]]></content>
         <link href="https://factchecker.or.kr/fc_suggests/852"/>
         <updated>2022-08-27T04:58:26.436Z</updated>
         <content type="html"><![CDATA[지진발생빈도와 최근 5년의한반도 지진이 많이 발생하는지? 적당한지 분석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅꺼짐 포트홀이 일어나는 원인분석]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/851</id>
-        <link href="https://factchecker.or.kr/fc_suggests/851"/>
-        <updated>2022-08-27T04:58:26.438Z</updated>
-        <content type="html"><![CDATA[주변 건설현상때문인가 자연적 원인으로만 볼수있는가&nbsp;]]></content>
     </entry>
 </feed>
