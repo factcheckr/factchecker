@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 09:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 10:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,23 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[운동 효과 높이는 ‘아침 공복 유산소 운동’은 좋다? 나쁘다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/876</link>
+            <guid>https://factchecker.or.kr/fc_suggests/876</guid>
+            <pubDate>Sun, 28 Aug 2022 10:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.korea.kr/news/healthView.do?newsId=148874457#goList
+코로나로 확찐자가 되어 이제 더위도 좀 꺽이고해서 조깅으로 다이어트를 할려고 하고 있습니다.
+개인적으로 공...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알코올 제로 맥주는 정말 아무리 마셔도 취하지 않나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/875</link>
+            <guid>https://factchecker.or.kr/fc_suggests/875</guid>
+            <pubDate>Sun, 28 Aug 2022 10:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[https://namu.wiki/w/%EB%AC%B4%EC%95%8C%EC%BD%94%EC%98%AC%20%EB%A7%A5%EC%A3%BC
+맞는지 안 맞는지 정확하게 팩트체크해주세요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[금방 찐 살은 금방 빠진다! 검증해주세요!! (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/874</link>
             <guid>https://factchecker.or.kr/fc_suggests/874</guid>
@@ -269,26 +286,6 @@ Great Britain faces biggest rail strike in 30 years
             <guid>https://factchecker.or.kr/fc_suggests/867</guid>
             <pubDate>Sun, 28 Aug 2022 01:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2022 하반기 한국의 대외 채무 이행률과 단기 채무 변제금액은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국이 파산 가능성이 높은 50개국 중 하나? 사실과 달라 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/865</link>
-            <guid>https://factchecker.or.kr/fc_suggests/865</guid>
-            <pubDate>Sat, 27 Aug 2022 17:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002850430
-한국의 파산 가능성에 대해 처음 언급이 나온 이후로 반박 기사가 나왔는데
-우리 경제 상황에 대해...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[와인은 과연 인간의 건강에 이로울까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/864</link>
-            <guid>https://factchecker.or.kr/fc_suggests/864</guid>
-            <pubDate>Sat, 27 Aug 2022 15:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[일반 알코올보다는 와인을 정말 좋아하는 애주가 한명으로써...
-오래전부터 궁금해오던 와인이 과연 인간의 건강에겐 이로울지?
-항상 궁금하던 내용이었는데 좋다는 의견이 많은데 과연 진실일지 궁금하네요ㅎ
-https://www....]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
