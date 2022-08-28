@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-28T08:17:46.835Z</updated>
+    <updated>2022-08-28T09:13:59.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[금방 찐 살은 금방 빠진다! 검증해주세요!!]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/874</id>
+        <link href="https://factchecker.or.kr/fc_suggests/874"/>
+        <updated>2022-08-28T09:13:11.947Z</updated>
+        <content type="html"><![CDATA[코로나로 인해 확진자가 늘어난 만큼 늘어난 확찐자!
+많은 사람들이 늘어난 지방 때문에 걱정을 하면 주변에서 흔히 말하는 게 금방 찐 살은 금방 빠진대잖아요?실제로 몇달 안에 찐 살은 금방 빠지는 걸까요?빠진다면 그 원리는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피 세잔 건강에 좋을까? 해로울까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/873</id>
+        <link href="https://factchecker.or.kr/fc_suggests/873"/>
+        <updated>2022-08-28T09:13:11.950Z</updated>
+        <content type="html"><![CDATA[인터넷과 뉴스들을 보면 어떤 전문가와 뉴스 기사를 보면 커피를 하루에 3잔까지 마시는 것은 뇌조중과 심혈관에 도움이 된다고 하고 어떤 박사는 커피도 한 잔은 몰라도 두잔 이상 마시면 건강에 해롭다고 하던데, 과연 어떤 말...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트는 나를 위한것인가 남을위한것인가]]></title>
         <id>https://factchecker.or.kr/fc_suggests/872</id>
@@ -68,23 +83,5 @@ http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002850430
 오래전부터 궁금해오던 와인이 과연 인간의 건강에겐 이로울지?
 항상 궁금하던 내용이었는데 좋다는 의견이 많은데 과연 진실일지 궁금하네요ㅎ
 https://www....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통가 해저 화산 폭발이 이상 이변을 가속화 시켰다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/863</id>
-        <link href="https://factchecker.or.kr/fc_suggests/863"/>
-        <updated>2022-08-27T15:13:49.287Z</updated>
-        <content type="html"><![CDATA[2022년 1월에 있었던 통가의 해저 화산폭발이 엄청난 양의 수증기를 성층권까지 밀어 올려는 바람에 , 지금 지구곳곳에서의 기상이변을&nbsp; 가속화 시켰다는 이야기들이 있어서&nbsp;
-팩트 체크 부탁 드립니다.&nbsp;
-https://dob...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['6990원 치킨' 화장실도 못가고 튀겨…불붙은 '치킨 노동자' 논란]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/862</id>
-        <link href="https://factchecker.or.kr/fc_suggests/862"/>
-        <updated>2022-08-27T13:26:12.110Z</updated>
-        <content type="html"><![CDATA[&nbsp;
-https://n.news.naver.com/article/008/0004787055
-최근에 당당치킨이 이슈화가 되면서 치킨 프랜차이즈 업체들이 당당치킨은 품질이 떨어지는 닭과 원재료를 사용한다고 공격했지만 모두 허위...]]></content>
     </entry>
 </feed>

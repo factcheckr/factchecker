@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,21 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[금방 찐 살은 금방 빠진다! 검증해주세요!! (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/874</link>
+            <guid>https://factchecker.or.kr/fc_suggests/874</guid>
+            <pubDate>Sun, 28 Aug 2022 09:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[코로나로 인해 확진자가 늘어난 만큼 늘어난 확찐자!
+많은 사람들이 늘어난 지방 때문에 걱정을 하면 주변에서 흔히 말하는 게 금방 찐 살은 금방 빠진대잖아요?실제로 몇달 안에 찐 살은 금방 빠지는 걸까요?빠진다면 그 원리는...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[커피 세잔 건강에 좋을까? 해로울까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/873</link>
+            <guid>https://factchecker.or.kr/fc_suggests/873</guid>
+            <pubDate>Sun, 28 Aug 2022 09:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷과 뉴스들을 보면 어떤 전문가와 뉴스 기사를 보면 커피를 하루에 3잔까지 마시는 것은 뇌조중과 심혈관에 도움이 된다고 하고 어떤 박사는 커피도 한 잔은 몰라도 두잔 이상 마시면 건강에 해롭다고 하던데, 과연 어떤 말...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다이어트는 나를 위한것인가 남을위한것인가 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/872</link>
             <guid>https://factchecker.or.kr/fc_suggests/872</guid>
@@ -274,24 +289,6 @@ http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002850430
 오래전부터 궁금해오던 와인이 과연 인간의 건강에겐 이로울지?
 항상 궁금하던 내용이었는데 좋다는 의견이 많은데 과연 진실일지 궁금하네요ㅎ
 https://www....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[통가 해저 화산 폭발이 이상 이변을 가속화 시켰다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/863</link>
-            <guid>https://factchecker.or.kr/fc_suggests/863</guid>
-            <pubDate>Sat, 27 Aug 2022 15:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월에 있었던 통가의 해저 화산폭발이 엄청난 양의 수증기를 성층권까지 밀어 올려는 바람에 , 지금 지구곳곳에서의 기상이변을&nbsp; 가속화 시켰다는 이야기들이 있어서&nbsp;
-팩트 체크 부탁 드립니다.&nbsp;
-https://dob...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['6990원 치킨' 화장실도 못가고 튀겨…불붙은 '치킨 노동자' 논란 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/862</link>
-            <guid>https://factchecker.or.kr/fc_suggests/862</guid>
-            <pubDate>Sat, 27 Aug 2022 13:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-https://n.news.naver.com/article/008/0004787055
-최근에 당당치킨이 이슈화가 되면서 치킨 프랜차이즈 업체들이 당당치킨은 품질이 떨어지는 닭과 원재료를 사용한다고 공격했지만 모두 허위...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
