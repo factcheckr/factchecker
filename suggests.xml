@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-28T13:26:34.305Z</updated>
+    <updated>2022-08-28T14:13:52.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[4대강 녹조 원인]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/885</id>
+        <link href="https://factchecker.or.kr/fc_suggests/885"/>
+        <updated>2022-08-28T14:12:09.707Z</updated>
+        <content type="html"><![CDATA[4대강 녹조의 원인을 4대강 사업 &lt;댐&gt; 으로 물흐름을 막은것을 원인으로 보고 있는 부분이 많은데
+반대파의 경우 댐(4대강사업)과 무관하게 4대강 자체가 원래 녹조가 심했고
+4대강 사업을 철거 한다고 해서 녹조가 사라지는...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무선공유기 와이파이 전자파가 인체에 해를 끼친다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/884</id>
@@ -78,13 +87,5 @@ https://m.health....]]></content>
         <content type="html"><![CDATA[https://www.korea.kr/news/healthView.do?newsId=148874457#goList
 코로나로 확찐자가 되어 이제 더위도 좀 꺽이고해서 조깅으로 다이어트를 할려고 하고 있습니다.
 개인적으로 공...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알코올 제로 맥주는 정말 아무리 마셔도 취하지 않나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/875</id>
-        <link href="https://factchecker.or.kr/fc_suggests/875"/>
-        <updated>2022-08-28T10:14:51.474Z</updated>
-        <content type="html"><![CDATA[https://namu.wiki/w/%EB%AC%B4%EC%95%8C%EC%BD%94%EC%98%AC%20%EB%A7%A5%EC%A3%BC
-맞는지 안 맞는지 정확하게 팩트체크해주세요.]]></content>
     </entry>
 </feed>
