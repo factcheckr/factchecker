@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-28T11:13:03.732Z</updated>
+    <updated>2022-08-28T12:23:15.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제로 음료수 팩트체크요!]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/880</id>
+        <link href="https://factchecker.or.kr/fc_suggests/880"/>
+        <updated>2022-08-28T12:22:27.887Z</updated>
+        <content type="html"><![CDATA[설탕과 칼로리가 0 인 제품은 정말 하나도 안들은건가요?
+이런경우 카페인도 안들었는지 궁금해요!
+또 그렇다면 물과 동일한건가요?&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가난할수록 보수정당을 지지하나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/879</id>
+        <link href="https://factchecker.or.kr/fc_suggests/879"/>
+        <updated>2022-08-28T12:22:27.894Z</updated>
+        <content type="html"><![CDATA[https://n.news.naver.com/article/003/0011335091?sid=100
+최근 모 정치인이 저학력·저소득층일수록 국민의힘을 지지한다라는 식의 발언을 하여 큰 화제가 되었는데요, 정말 가난할수록...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄볕과 가을볕 중 봄볕이 더 안 좋다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/878</id>
@@ -67,19 +84,5 @@ https://m.health....]]></content>
         <content type="html"><![CDATA[https://www.kukinews.com/newsView/kuk202208020191
 국민연금을 계속 내고 있는 일반인으로서 저출산, 고령화가 확산이 되고 있는 상황에&nbsp;
 20년 뒤 정말 받을 수 있는지에 대한 의문이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19  확산 방지를 위한 사회적거리두기의 효과 검증]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/870</id>
-        <link href="https://factchecker.or.kr/fc_suggests/870"/>
-        <updated>2022-08-28T01:12:30.639Z</updated>
-        <content type="html"><![CDATA[https://biz.chosun.com/site/data/html_dir/2020/03/30/2020033002522.html]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로음식]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/869</id>
-        <link href="https://factchecker.or.kr/fc_suggests/869"/>
-        <updated>2022-08-28T01:12:30.639Z</updated>
-        <content type="html"><![CDATA[제로음식은 몸에 괜찮은지 궁금합니다]]></content>
     </entry>
 </feed>
