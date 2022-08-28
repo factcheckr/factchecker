@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 01:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 03:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,22 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[다이어트는 나를 위한것인가 남을위한것인가 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/872</link>
+            <guid>https://factchecker.or.kr/fc_suggests/872</guid>
+            <pubDate>Sun, 28 Aug 2022 03:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트를 위해 식품,운동,식단,한약 등 많은것들을 사용하는데 과연 누구를 위한것인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국민 85.7%, 저출산‧고령화에 국가소멸 위기 공감 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/871</link>
+            <guid>https://factchecker.or.kr/fc_suggests/871</guid>
+            <pubDate>Sun, 28 Aug 2022 03:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[https://www.kukinews.com/newsView/kuk202208020191
+국민연금을 계속 내고 있는 일반인으로서 저출산, 고령화가 확산이 되고 있는 상황에&nbsp;
+20년 뒤 정말 받을 수 있는지에 대한 의문이 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19  확산 방지를 위한 사회적거리두기의 효과 검증 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/870</link>
             <guid>https://factchecker.or.kr/fc_suggests/870</guid>
@@ -276,21 +292,6 @@ https://dob...]]></content:encoded>
             <content:encoded><![CDATA[&nbsp;
 https://n.news.naver.com/article/008/0004787055
 최근에 당당치킨이 이슈화가 되면서 치킨 프랜차이즈 업체들이 당당치킨은 품질이 떨어지는 닭과 원재료를 사용한다고 공격했지만 모두 허위...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국의 공공부분의 고용 비율과 임금에 대한 정확한 팩트 체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/861</link>
-            <guid>https://factchecker.or.kr/fc_suggests/861</guid>
-            <pubDate>Sat, 27 Aug 2022 12:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.segye.com/newsView/20220826517612?OutUrl=naver&nbsp;
-최근 공무원 사회의 급여가 많은 이슈가 되고 있는데 우리 공무원 숫자가 많아서임금 상승 여력이 없다고 하더라고요 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자가 줄기세포 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/860</link>
-            <guid>https://factchecker.or.kr/fc_suggests/860</guid>
-            <pubDate>Sat, 27 Aug 2022 10:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[인공관절에 관심이 있습니다&nbsp; 20대때 다쳐서 바로 무릎연골수술을햇엇는데요&nbsp; 그덕에 그금40대인데도 무릎통증이 아주 심해요 요즘음 연골이 찢어 져도 연골을 긁어 내는 수술을 하지 않는다는데&nbsp; 그냥 두는데 더 나은건지 아님 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
