@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-28T10:15:35.659Z</updated>
+    <updated>2022-08-28T11:13:03.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[봄볕과 가을볕 중 봄볕이 더 안 좋다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/878</id>
+        <link href="https://factchecker.or.kr/fc_suggests/878"/>
+        <updated>2022-08-28T11:12:13.947Z</updated>
+        <content type="html"><![CDATA[옛 속담에 봄볕은 며느리를 보내고 가을볕은 딸을 보낸다고 하는 이유가 봄볕의 일조량이 가을볕보다 더 높아서 그런다고 하는데요.. 진짠가요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공복유산소는 건강에 득일까요 실일까요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/877</id>
+        <link href="https://factchecker.or.kr/fc_suggests/877"/>
+        <updated>2022-08-28T11:12:13.947Z</updated>
+        <content type="html"><![CDATA[공복유산소가 체지방 연소에 가장 효과적이라 건강에 좋다는 말도 있고 근손실을 유발하고 어지럼증이 올 수 있어 건강에 안좋다는 말도 있는데 진짜 득이 많은지 실이 많은지 팩트체크 궁금합니다&nbsp;
+https://m.health....]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동 효과 높이는 ‘아침 공복 유산소 운동’은 좋다? 나쁘다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/876</id>
@@ -66,19 +81,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/869"/>
         <updated>2022-08-28T01:12:30.639Z</updated>
         <content type="html"><![CDATA[제로음식은 몸에 괜찮은지 궁금합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재 시행 여론조사 강점은 무엇이고? 단점은 무엇이며 ? 어떻게 극복할수있는지]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/868</id>
-        <link href="https://factchecker.or.kr/fc_suggests/868"/>
-        <updated>2022-08-28T01:12:30.639Z</updated>
-        <content type="html"><![CDATA[현재 시행 여론조사 강점은 무엇이고? 단점은 무엇이며 ? 어떻게 극복할수있는지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 하반기 한국의 대외 채무 이행률과 단기 채무 변제금액은?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/867</id>
-        <link href="https://factchecker.or.kr/fc_suggests/867"/>
-        <updated>2022-08-28T01:12:30.639Z</updated>
-        <content type="html"><![CDATA[2022 하반기 한국의 대외 채무 이행률과 단기 채무 변제금액은?]]></content>
     </entry>
 </feed>
