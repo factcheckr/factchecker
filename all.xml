@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 23:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 01:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,34 @@ Great Britain faces biggest rail strike in 30 years
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[코로나19  확산 방지를 위한 사회적거리두기의 효과 검증 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/870</link>
+            <guid>https://factchecker.or.kr/fc_suggests/870</guid>
+            <pubDate>Sun, 28 Aug 2022 01:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[https://biz.chosun.com/site/data/html_dir/2020/03/30/2020033002522.html]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제로음식 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/869</link>
+            <guid>https://factchecker.or.kr/fc_suggests/869</guid>
+            <pubDate>Sun, 28 Aug 2022 01:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[제로음식은 몸에 괜찮은지 궁금합니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현재 시행 여론조사 강점은 무엇이고? 단점은 무엇이며 ? 어떻게 극복할수있는지 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/868</link>
+            <guid>https://factchecker.or.kr/fc_suggests/868</guid>
+            <pubDate>Sun, 28 Aug 2022 01:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[현재 시행 여론조사 강점은 무엇이고? 단점은 무엇이며 ? 어떻게 극복할수있는지]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 하반기 한국의 대외 채무 이행률과 단기 채무 변제금액은? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/867</link>
+            <guid>https://factchecker.or.kr/fc_suggests/867</guid>
+            <pubDate>Sun, 28 Aug 2022 01:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022 하반기 한국의 대외 채무 이행률과 단기 채무 변제금액은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국이 파산 가능성이 높은 50개국 중 하나? 사실과 달라 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/865</link>
             <guid>https://factchecker.or.kr/fc_suggests/865</guid>
@@ -263,34 +291,6 @@ https://n.news.naver.com/article/008/0004787055
             <guid>https://factchecker.or.kr/fc_suggests/860</guid>
             <pubDate>Sat, 27 Aug 2022 10:13:56 GMT</pubDate>
             <content:encoded><![CDATA[인공관절에 관심이 있습니다&nbsp; 20대때 다쳐서 바로 무릎연골수술을햇엇는데요&nbsp; 그덕에 그금40대인데도 무릎통증이 아주 심해요 요즘음 연골이 찢어 져도 연골을 긁어 내는 수술을 하지 않는다는데&nbsp; 그냥 두는데 더 나은건지 아님 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고가의 화장품과 저가 화장품 비교, 정말 효과도 그만큼 차이가 나는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/859</link>
-            <guid>https://factchecker.or.kr/fc_suggests/859</guid>
-            <pubDate>Sat, 27 Aug 2022 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[고가의 화장품은 크림 하나에 백만원 단위까지 가죠. 그리고 다양한 좋은 성분을 함유했다고 홍보합니다.&nbsp;저렴이 화장품과 비교했을 때 과연 그 기능이 얼마나 차이가 나는지, 가격이 비싼만큼 효과가 큰건지 궁금합니다.&nbsp;마케팅과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[저탄소 실천 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/858</link>
-            <guid>https://factchecker.or.kr/fc_suggests/858</guid>
-            <pubDate>Sat, 27 Aug 2022 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[각종 매체에서 환경오염을 줄이기 위해 많은 홍보 활동을 하는데 비용 대비 효과가 많이 나타났는지 궁금합니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전기차의 전자파 발생 검승 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/857</link>
-            <guid>https://factchecker.or.kr/fc_suggests/857</guid>
-            <pubDate>Sat, 27 Aug 2022 09:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[전기차는 전자파 차단 시스템이 잘 갖춰져있기 때문에 오히려 소형 가전보다 전자파 노출이 적다고 들었는데 각 제조사별로 차량들을 하나씩 검사해보면 좋을거 같습니다 국민 건강을 위해서 꼭 팩츠테크 해주세요!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령 부부 관련 보도가 주요 사안 관련 보도보다 더 많다는 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/856</link>
-            <guid>https://factchecker.or.kr/fc_suggests/856</guid>
-            <pubDate>Sat, 27 Aug 2022 08:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[이 트윗에 공감한 사람들이 많았는데, 실제 윤석열 대통령과 김건희 여사 관련 보도의 비중을 알고 싶습니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
