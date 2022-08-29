@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 01:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@ https://m.health....]]></content:encoded>
 개인적으로 공...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[알고보니] 활발한 여사님 행보‥제2부속실 불필요? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4474</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4474</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 최근 김건희 여사의 팬클럽을 통해 대통령의 일정이나 집무실 사진 등이 공개되면서 논란이 일고 있습니다. 윤석열 대통령은 후보 시절 조용한 내조...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--42e26a37a0a072c9a0e26239cb56ef19b269586b/95b5407320b3805c88174d1ff363474d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[이슈&팩트(192)] 국회의원 겸직 장관 급여 '양쪽서 받을까?' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4473</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4473</guid>
@@ -365,14 +373,6 @@ https://m.health....]]></content:encoded>
             <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 경찰 신고 건수는 줄었지만 2021년 이후 가정폭력 상담 늘고 아동학대도 증가]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77664f30ff6c9d58ae01181a0ec183ecffefb30a/be600b73c5f53e1f12d1ef7d99fa7692.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 국민 90%가 '검수원복 시행령'을 문제없다고 본다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4464</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4464</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 박성제 기자 유경민 인턴기자 = 검찰의 수사권을 확대하기 위한 법무부의 검수원복(검찰 수사권 원상복구) 시행령 개정안에 대...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef036c829278b6c7ba25dcc51956c53ef4198696/d02dd8e6bbef71992a9d19e086652f75.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
