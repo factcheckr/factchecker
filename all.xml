@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 15:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 16:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,14 @@ https://m.health....]]></content:encoded>
 개인적으로 공...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] 엇갈린 국민의힘 '비상상황'…과거에는? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4475</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4475</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 비상대책위원회 전환의 효력을 정지해달라며 이준석 전 대표가 낸 가처분 신청을 법원이 받아들였습니다. 지도부의 정당성을 부정하는 법원 결정에 국민의힘은 혼란 속으로 빠져들었습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1lvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d9f309873867ca32acb952a1707a565730c9d710/0c0d872da0752c3f90a7e00f8dfea652.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[알고보니] 활발한 여사님 행보‥제2부속실 불필요? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4474</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4474</guid>
@@ -365,14 +373,6 @@ https://m.health....]]></content:encoded>
             <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 침수차는 강제로 폐차시켜야 한다..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE1tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df3bc47a49c53978e2dd7e7b6c854513542f728c/19049b1d9590cefd9eaaa6eb672f30bd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["코로나19에도 한국은 가정폭력 감소"? 통계 따져보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4465</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4465</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 경찰 신고 건수는 줄었지만 2021년 이후 가정폭력 상담 늘고 아동학대도 증가]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77664f30ff6c9d58ae01181a0ec183ecffefb30a/be600b73c5f53e1f12d1ef7d99fa7692.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
