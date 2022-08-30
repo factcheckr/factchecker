@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제2부속실 없애고 영부인 일정 줄였다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/490</link>
+            <guid>https://factchecker.or.kr/fc_subjects/490</guid>
+            <pubDate>Tue, 30 Aug 2022 08:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[최근 김건희 여사의 팬클럽을 통해 기밀 사항인 대통령의 외부 일정이 공개되면서 논란이 일고 있습니다. 같은 날, 김 여사가 수해 현장에서 비공개 봉사활동을 벌여온 사실이 언론에 뒤늦게 공개되기도 했습니다. 대통령과 대통령 부인의 공식적인 일정과 행사가 공적으로 관리되지 못하고, 사후에도 투명하게 공개되지 않는다는 지적이 제기됐습니다. 앞서 윤석열 대통령은 대선 후보 시절 ‘조용한 내조’를 내세우며, 제2부속실을 폐지하고, 역할도 축소하겠다고 공약을 걸었습니다. 김 여사도 작년 12월 기자회견을 통해 ‘아내 역할에만 충실하겠다’고 말했습니다. 즉 영부인으로서의 역할을 최소화할 것이기 때문에 보좌하는 조직을 별도로 두지 않겠다는 이야기입니다. 그러나 일부 누리꾼들은 “제2부속실을 없앤다고 하더니, 영부인 일정은 더 많은 것 같다”, “공식적으로 영부인 일정과 메시지를 관리할 제2부속실은 필요하다”라는 비판을 제기하고 있습니다. 정말 대통령 취임 이후 영부인의 활동이 줄었는지...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국유재산 강남 빌딩, 노는 땅이라 판다?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/450</link>
@@ -82,30 +90,6 @@
             <pubDate>Thu, 25 Aug 2022 12:27:25 GMT</pubDate>
             <content:encoded><![CDATA[최근 온라인 커뮤니티와 카페 등을 통해 코로나 바이러스에 확진되었던 경우 완치 후에도 헌혈을 할 수 없다는 내용의 글과 댓글이 게시되고 있습니다. 과연 코로나 확진자/완치자와 백신 접종자는 헌혈을 할 수 없는지 검증해보겠습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[英 철도, 33년만에 대규모 파업 사실일까?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/422</link>
-            <guid>https://factchecker.or.kr/fc_subjects/422</guid>
-            <pubDate>Fri, 26 Aug 2022 01:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
-&nbsp;英 철도, 33년 만에 최대 규모의 파업에 돌입했다?
-&nbsp;
-영국 철도노조의 파업을 보도하며 국내 언론은 33년(30여년) 만에 최대 규모라는 점을 강조하고 있다. 영국 철도노조의 파업이 ‘33년’ 만에 ‘최대 규모 파업’이라는 보도는 과연 사실일까?
-&nbsp;
-33년 만에 영국 철도 최대 파업 “인플레이션 견딜 임금 인상을”
-https://m.khan.co.kr/world/europe-russia/article/202206222148035#c2b
-&nbsp;
-[지구촌 돋보기] 英 철도 33년 만에 최대 파업…유럽 줄파업 이유는?
-https://news.kbs.co.kr/news/view.do?ncd=5495339
-&nbsp;
-&nbsp;
-철도해운운수노조(RMT)는 임금 인상과 구조조정 중단을 요구하며 파업을 결정했다.
-국내 언론은 다양한 외신을 인용하며 해당 파업 소식을 전했다.
-&nbsp;
-Great Britain faces biggest rail strike in 30 years
-가디언즈 보도에서 영국 철도 노조...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
