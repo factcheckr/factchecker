@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-31T08:17:30.510Z</updated>
+    <updated>2022-08-31T09:14:47.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -11,9 +11,7 @@
         <link href="https://factchecker.or.kr/fc_suggests/890"/>
         <updated>2022-08-31T08:16:43.648Z</updated>
         <content type="html"><![CDATA[실시간 이슈 시스템을 활용하여 지난 1주일의 이슈를 모니터링한 결과,
-정부의 공공재개발 사업을 놓고 정부와 토지 소유자간의 갈등이 심화되고 있다는 것을 파악할 수 있었습니다.
-특히
-공공재개발 반대 27개 구역 비상대책위원...]]></content>
+다양한 매체 (특히 블로그) 보도 및 재생산을 통해 정부의 공공재개발 사업을 놓고 정부와 토지 소유자간의 갈등이 심화되고 있다는 것을 파악할 수 있었습...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지역화폐가 소상공인 매출 향상과 지역 경제 활성화에 큰 기여를 해왔다?]]></title>
