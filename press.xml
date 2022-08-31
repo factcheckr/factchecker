@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 01:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 군대 사진 SNS 올리면…군기 교육? 휴가 제한?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4476</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4476</guid>
+            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[군 내부 사진 유출이 잇따르고 있습니다. 최근에는 총기와 장갑차 사진이 SNS에 올라와 논란이 됐습니다. 보안 문제가 도마 위에 올랐습니다. 군사기밀을 유출하면 당연히 징역형도 가능합니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c4199f97a23081578674a5fcbfa9fde21816dafc/1a4f78b235c5e3edb94b6ddaa68ddb5a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 엇갈린 국민의힘 '비상상황'…과거에는?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4475</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대전의 문화라고 불리는 한 빵집이 있다. 1956년 대전역 앞 찐빵 가게로 시작해 지역 명물에서 전국구 베이커리로 거듭난 성심당이다. 지난 5월 금융감독원에 따르면 성심당을 운영하는 로쏘(주)의 지난해 매출..]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bd6f1f5089051c7818c5984859f5816825cc00fa/c854a94b60f3d1b13cb548d0662eb617.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 강제 폐차로 '침수차 거래' 막는다? 법적 기준 보니]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4466</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4466</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게 침수차가 멀쩡한 중고차로 둔갑할 수 있는 상황들을 걱정하면서 일부 소비자들은 침수차는 강제로 폐차시켜야 한다..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE1tIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df3bc47a49c53978e2dd7e7b6c854513542f728c/19049b1d9590cefd9eaaa6eb672f30bd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
