@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-31T07:36:10.586Z</updated>
+    <updated>2022-08-31T08:17:30.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공공재개발은 사유재산 침해인가?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/890</id>
+        <link href="https://factchecker.or.kr/fc_suggests/890"/>
+        <updated>2022-08-31T08:16:43.648Z</updated>
+        <content type="html"><![CDATA[실시간 이슈 시스템을 활용하여 지난 1주일의 이슈를 모니터링한 결과,
+정부의 공공재개발 사업을 놓고 정부와 토지 소유자간의 갈등이 심화되고 있다는 것을 파악할 수 있었습니다.
+특히
+공공재개발 반대 27개 구역 비상대책위원...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역화폐가 소상공인 매출 향상과 지역 경제 활성화에 큰 기여를 해왔다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/888</id>
@@ -79,12 +89,5 @@ SBS에서 의사 의견까지 달아놓긴 했지만, 계산 상 어떤 소주�
         <updated>2022-08-28T12:22:27.894Z</updated>
         <content type="html"><![CDATA[https://n.news.naver.com/article/003/0011335091?sid=100
 최근 모 정치인이 저학력·저소득층일수록 국민의힘을 지지한다라는 식의 발언을 하여 큰 화제가 되었는데요, 정말 가난할수록...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄볕과 가을볕 중 봄볕이 더 안 좋다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/878</id>
-        <link href="https://factchecker.or.kr/fc_suggests/878"/>
-        <updated>2022-08-28T11:12:13.947Z</updated>
-        <content type="html"><![CDATA[옛 속담에 봄볕은 며느리를 보내고 가을볕은 딸을 보낸다고 하는 이유가 봄볕의 일조량이 가을볕보다 더 높아서 그런다고 하는데요.. 진짠가요?]]></content>
     </entry>
 </feed>
