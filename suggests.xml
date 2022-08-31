@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-08-31T04:30:10.194Z</updated>
+    <updated>2022-08-31T06:22:17.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지역화폐가 소상공인 매출 향상과 지역 경제 활성화에 큰 기여를 해왔다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/888</id>
+        <link href="https://factchecker.or.kr/fc_suggests/888"/>
+        <updated>2022-08-31T06:21:33.382Z</updated>
+        <content type="html"><![CDATA[팩트체크넷 검증 도구 실시간 이슈를 통해 금일 자 이슈들을 살펴보았는데 지역화폐 키워드가 높은 순위에 있었습니다.
+그 이유는 발표된 내년 예산안에서 지역화폐 관련 예산이 전액 삭감되었기 때문이었는데요. 이에 대해 야당 주...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민 세금으로 외국인을 치료하는 한국의 건강보험제도?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/887</id>
@@ -78,13 +86,5 @@ SBS에서 의사 의견까지 달아놓긴 했지만, 계산 상 어떤 소주�
         <link href="https://factchecker.or.kr/fc_suggests/878"/>
         <updated>2022-08-28T11:12:13.947Z</updated>
         <content type="html"><![CDATA[옛 속담에 봄볕은 며느리를 보내고 가을볕은 딸을 보낸다고 하는 이유가 봄볕의 일조량이 가을볕보다 더 높아서 그런다고 하는데요.. 진짠가요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공복유산소는 건강에 득일까요 실일까요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/877</id>
-        <link href="https://factchecker.or.kr/fc_suggests/877"/>
-        <updated>2022-08-28T11:12:13.947Z</updated>
-        <content type="html"><![CDATA[공복유산소가 체지방 연소에 가장 효과적이라 건강에 좋다는 말도 있고 근손실을 유발하고 어지럼증이 올 수 있어 건강에 안좋다는 말도 있는데 진짜 득이 많은지 실이 많은지 팩트체크 궁금합니다&nbsp;
-https://m.health....]]></content>
     </entry>
 </feed>
