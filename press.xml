@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 01:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓']]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4477</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4477</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 빗나간 8월 전세대란 예측... 전문가들 전셋값 변동은 금리 탓]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW9vIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d03fbbbc4ebb5963a9c4ad2c99a5b22bdbe0055b/343c59f9a8cdc1f0db44664969f64e39.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] 군대 사진 SNS 올리면…군기 교육? 휴가 제한?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4476</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“저희도 팩트가 궁금해서 취임준비위원회에 물어보니 (대통령 취임식 초청 명단이) 개인정보라고 이미 다 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eab985d502677c996adc9687a04ad2ffaa1c6ebc/f69473f41a885e6a3204a9ef9c741eae.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[노컷체크]'소보로빵 비누'는 불법이다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4468</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4468</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대전의 문화라고 불리는 한 빵집이 있다. 1956년 대전역 앞 찐빵 가게로 시작해 지역 명물에서 전국구 베이커리로 거듭난 성심당이다. 지난 5월 금융감독원에 따르면 성심당을 운영하는 로쏘(주)의 지난해 매출..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bd6f1f5089051c7818c5984859f5816825cc00fa/c854a94b60f3d1b13cb548d0662eb617.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
