@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,6 +184,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쓰레기 소각장은 석탄발전소보다 발암 물질 및 온실가스를 많이 배출한다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/891</link>
+            <guid>https://factchecker.or.kr/fc_suggests/891</guid>
+            <pubDate>Thu, 01 Sep 2022 09:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기 소각장에 관한 논쟁이 발생했습니다.
+서울 신규 쓰레기 소각장을 상암동에 건설한다고 합니다. 이에 대해 찬반 여론이 극명하게 나뉘는데요
+그러던 와중 한 네이버 카페에서 쓰레기 소각장이 석탄발전소보다&nbsp;수은 14배,...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공공재개발은 사유재산 침해인가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/890</link>
             <guid>https://factchecker.or.kr/fc_suggests/890</guid>
@@ -257,14 +266,6 @@ SBS에서 의사 의견까지 달아놓긴 했지만, 계산 상 어떤 소주�
             <content:encoded><![CDATA[설탕과 칼로리가 0 인 제품은 정말 하나도 안들은건가요?
 이런경우 카페인도 안들었는지 궁금해요!
 또 그렇다면 물과 동일한건가요?&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가난할수록 보수정당을 지지하나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/879</link>
-            <guid>https://factchecker.or.kr/fc_suggests/879</guid>
-            <pubDate>Sun, 28 Aug 2022 12:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[https://n.news.naver.com/article/003/0011335091?sid=100
-최근 모 정치인이 저학력·저소득층일수록 국민의힘을 지지한다라는 식의 발언을 하여 큰 화제가 되었는데요, 정말 가난할수록...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["임대차법 때문에 전셋값 폭등" 보수언론 주장은 '거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
