@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-02T04:13:22.650Z</updated>
+    <updated>2022-09-02T05:59:49.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이집트 엘다바 원전 건설 사업 수주 관련 검증 부탁드립니다.]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/892</id>
+        <link href="https://factchecker.or.kr/fc_suggests/892"/>
+        <updated>2022-09-02T05:59:08.105Z</updated>
+        <content type="html"><![CDATA[8월말, 한국수력원자력이 3조원 규모의 이집트 엘다바 원전 건설 사업을 수주했다는 언론 보도가 일제히 터져나왔습니다.
+실시간 이슈 기능을 활용하여 언론 보도가 나온 8/26의 키워드를 살펴본 결과, 관련 키워드가 랭킹...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쓰레기 소각장은 석탄발전소보다 발암 물질 및 온실가스를 많이 배출한다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/891</id>
@@ -79,14 +87,5 @@ SBS에서 의사 의견까지 달아놓긴 했지만, 계산 상 어떤 소주�
         <updated>2022-08-28T13:25:52.375Z</updated>
         <content type="html"><![CDATA[하루 물 권장량 2리터 마시기 정확한 거 맞나요?
 사람마다 체중도 다르고 몸 상태가 다른데 물 권장량 따로 계산방식이 있어야 되는건 아닌지 궁금합니다.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로 음료수 팩트체크요!]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/880</id>
-        <link href="https://factchecker.or.kr/fc_suggests/880"/>
-        <updated>2022-08-28T12:22:27.887Z</updated>
-        <content type="html"><![CDATA[설탕과 칼로리가 0 인 제품은 정말 하나도 안들은건가요?
-이런경우 카페인도 안들었는지 궁금해요!
-또 그렇다면 물과 동일한건가요?&nbsp;]]></content>
     </entry>
 </feed>
