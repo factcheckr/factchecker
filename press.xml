@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,7 +84,7 @@
             <guid>https://factchecker.or.kr/fc_archives/press/4479</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 모두 허리띠를 졸라매야 한다고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckFvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f4c7b66add9f816dc0a2de91a7bce5c4c1088129/f98ecc47310296b66d18762303529953.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6143af10c77faec61d8f38f7f9b3749bd0291c4d/3003e88d96c030dcfb245b53369241a7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
