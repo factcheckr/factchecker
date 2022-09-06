@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-09-06T01:23:02.477Z</updated>
+    <updated>2022-09-06T04:20:03.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2015 ‘위안부’ 협의, 공식합의이며 문재인 정권도 인정했다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/492</id>
+        <link href="https://factchecker.or.kr/fc_subjects/492"/>
+        <updated>2022-09-06T04:19:04.147Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/492">2022년 4월 20일 당시 외교부 장관 후보자였던 박진 장관은, 서울 종로구 인사청문준비 사무실 출근길에 기자들을 만나, 2015년 위안부 합의에 대한 윤석열 정부의 입장에 대해 위안부 합의는 한·일 간의 공식 합의이며 지금 문재인 정부에서도 그것은 인정하고 있지 않나라고 밝혔습니다.
+더불어 지난 7월 19일 일본 도쿄에서 기시다 후미오 일본 총리와의 면담 직후 박 장관은 2015년 한일 위안부 합의를 공식 합의로 존중하며 이 합의 정신에 따라 해결하기를 기대한다고 했다고 밝혔습니다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2부속실 없애고 영부인 일정 줄였다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/490</id>
@@ -87,14 +96,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/424"/>
         <updated>2022-08-25T12:27:17.001Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/424">지난달 28일 서울회생법원이 보도자료를 발표했습니다. 주식 또는 가상화폐 투자실패를 겪은 채무자를 지원하기 위해 새 실무준칙을 7월 1일부터 시행한다는 내용이었습니다. 이같은 내용은 주가 하락과 루나 사태 등으로 가상화폐가 폭락하는 상황과 맞물려 여론의 높은 관심을 받았습니다. 주된 관심은 개인의 투자 실패로 진 빚을 탕감해준다는 비판이었습니다. 대다수 언론은 이러한 여론을 반영해 “‘빚투’를 조장한다”, “‘먹튀’를 양산한다”는 제목으로, 도덕적 해이를 비판하고 지적했습니다. 또 서울회생법원의 관할권인 서울지역 거주자와 근무자만 새 준칙을 적용받을 수 있다며 형평성 논란도 제기했습니다. 온라인 개인회생 관련 커뮤니티에서는 개인회생을 앞두고 서울로 위장전입을 하면 된다는 의견과 관련 문의글이 크게 늘었습니다. 주식과 가상화폐로 진 빚을 안 갚아도 된다는 주장이 사실인지, 타 지역 사람들도 서울로 위장전입을 해서 빚을 탕감받으면 된다는 주장이 현실성이 있는지 확인했습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확진자는 헌혈을 못한다고?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/423</id>
-        <link href="https://factchecker.or.kr/fc_subjects/423"/>
-        <updated>2022-08-25T12:27:17.002Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/423">최근 온라인 커뮤니티와 카페 등을 통해 코로나 바이러스에 확진되었던 경우 완치 후에도 헌혈을 할 수 없다는 내용의 글과 댓글이 게시되고 있습니다. 과연 코로나 확진자/완치자와 백신 접종자는 헌혈을 할 수 없는지 검증해보겠습니다.
 </a>]]></content>
     </entry>
 </feed>
