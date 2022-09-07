@@ -4,9 +4,32 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 01:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] 역대 '가을 태풍' 피해, 여름 태풍의 2.2배?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4491</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4491</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[과거 사례를 돌아보면 지금까지 우리나라에 큰 피해를 줬던 태풍은 대부분 가을쯤 찾아왔습니다. 그럼 여름보다 가을 태풍이 피해 규모가 정말 큰 건지, 저희 사실은 팀이 최근 약 20년 동안 태풍을 분석해서 계산해 봤습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9wIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a8a90d8a5285fd7d4fee57a233c53579839ebba2/8665e35bfd1e29763b4cceef17a110a8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] '위험천만' 재난 중계 유튜버 막을 방법이 없다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4490</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4490</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령은 6일 “영상을 찍는 분들도 위험하다. 빠른 조치를 취해야한다”고 말한 것으로 언론에 보도됐다. 전날 밤부터 이날 새벽까지 남부 지방을 휘몰아친 태풍 힌남노와 관련해서다. 일부 유튜버가 ‘태풍 체험 중계’에 나서며 아찔한 장면을 연출한 것에 대한 언급인 것으로 추정된다. MBC는 유튜버 관련 보도에서 “재난을 이용한 일부 유튜버들의 위험천만한 돈벌이 방송을 제재할 수단이 없다는 지적이 나온다”고 보도했다. 뉴스톱은 과연 재난 위험 지역에서 유튜버의 방송을 제재할 수단이 없는지 팩트체크 한다.◈유튜버 무슨 짓을 했나?5]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddf7e8785cd6275136ecf3db83b7c711fe14fdf5/73ed99fd21ef03dd624664e6c25f1b20.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] E1목재 친환경 가구? 친환경 살충제? 다 거짓말]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4489</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4489</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린워싱. 실제로는 친환경적이지 않지만 마치 친환경적인 것처럼 홍보하는 ‘위장환경주의’를 의미합니다. 쉽게 말하면 ‘짝퉁 친환경’이죠. 기후위기 시대를 맞아 친환경적 소비가 강조되면서 기업들도 ‘친환경’ 이미지를 구축하고 있습니다. ‘그린’, ‘에코’, ‘녹색’, ‘친환경’, ‘천연’ 등 말만 들어도 지구가 살아날 것 같은 단어들이 광고를 가득 채웁니다. 과연 그린워싱이란 무엇이고, 그린워싱에 속지 않을 방법은 무엇일까요? 뉴스톱이  시리즈를 통해 우리 곁에 있는 그린워싱을 팩트체크 했습니다.※ 이 시리]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[팩트와이] 기후변화가 힌남노 '역대 최강'으로 만들었다?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4488</link>
@@ -62,29 +85,6 @@
             <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 3000억 원대 배상 역대 최대... 전문가들 핵심 쟁점에서 진 것]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--799c7579dc78ac285e1c9dc4d0154c4dcbcd1796/835825546f64546df0f47b8f63261479.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 백신, 중증화도 막을 수 없다? [팩트체크]]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4481</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4481</guid>
-            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[방역 당국이 동절기 코로나19 백신 접종 계획을 발표했지만 일반 국민은 물론 50세 이상, 고위험군 등 사이에서도 추가 백신 접종에 대한 회의적인 시각이 강하다. 일각에서는 코로나19 백신이 ‘중증화’까지 막지 못한다는 주장도 제기된다. (사진=뉴시스)앞서 최춘식 국...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 분홍 구름은 태풍의 전조현상이다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4480</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4480</guid>
-            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스포스트=이별님 기자] 무더운 여름이 지나고 가을이 오면서 태풍에 대한 우려가 커지고 있다. 가을철 대표 자연재해인 태풍 소식은 올해도 어김없이 들린다. 1일 오전 10시 기상청 발표에 따르면 제11호 태풍 ‘힌남노’는 오는 5일 제주 서귀포 남남서쪽 약 470km 부근 해상에 도달한다. 다음 날인 6일 오전 9시에는 서귀포 동북동쪽 약 180km 부근 해상까지 접근한다.온라인 커뮤니티와 SNS 등에서는 태풍에 대한 각종 이야기가 나오고 있다. 특히 태풍을 예견이라도 한 듯 독특한 자연 현상이 주목받고 있다. 분홍 구름이 대표적]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dad4aeb97ea8f13f1395ad383b9fc80fdc56ff2/82b3346e70ef2ee18a53951a9f9389b7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니] 월 27만 원 노인일자리, 용돈벌이 허드렛일?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4479</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4479</guid>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[◀ 기자 ▶ 알고보니 시작합니다. 정부는 내년도 예산안이 긴축 재정이란 점을 강조하면서 모두 허리띠를 졸라매야 한다고 여러 차례 언급했는데요. 이에 따른 예산절감 방안 중 하나...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6143af10c77faec61d8f38f7f9b3749bd0291c4d/3003e88d96c030dcfb245b53369241a7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
