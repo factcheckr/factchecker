@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_publications</id>
     <title>팩트체크넷 ─ 팩트체크 ─ 시민</title>
-    <updated>2022-09-07T01:22:31.806Z</updated>
+    <updated>2022-09-07T04:22:36.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -41,6 +41,17 @@
 
 한일 외교장관회담 공동기자회견문 전문
 　윤병세 외교부 장관과 기시다 후미오 일본 외무상은 28일 오후 서울 외교부 청사에서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산업재해 피해자와 군내 사고 피해자의 99%는 남성이다?]]></title>
+        <id>https://factchecker.or.kr/fc_publications/148</id>
+        <link href="https://factchecker.or.kr/fc_publications/148"/>
+        <updated>2022-09-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[1.팩트체크 대상 발언
+
+왼쪽부터 신주호 국민의힘 부대변인 SNS 화면본(출처: MBN), 박민영 국민희힘 당시 대변인 SNS 화면봄(출처: 에펨코리아), 여성가족부 김현숙 장관 발언 관련 이데일리 기사 화면본.
+지난 7월 15일, 인하대학교에서 한 남학생이 동급 여학생을 성폭행하고 사망에 이르게 한 사건이 발생했습니다. 본 사건을 여성을 향한 젠더 폭력으로 명명해야 한다는 목소리가 높아지자, 김현숙 여성가족부 장관을 비롯한 여당 정치인들은 ‘인하대 성폭행 사망 사건은 젠더 폭력이 아닌 개인의 비극이자 안전 문제’라는 취지의 발언들을 내놓았습니다. 박민영 당시 국민의힘 대변인 또한 해당 사건을 ‘“여자라서 죽었다”와 같은 젠더 이분법으로 해석해서는 안 된다’라며 ‘산업재해 피해자와 군대에서 발생하는 각종 사고 피해자의 99%가 남성이지만 그 누구도 이에 대해 “남자라서 죽었다”고 표현하지 않는다’라고 설명했습니다.
+박 대변인이 젠더 폭력은 없다는 요지로 사용한 ‘산업재해 피해자...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국에는 인체에 해롭다는 중국산 나무젓가락에 대한 위생 기준이 없다?]]></title>
@@ -137,13 +148,5 @@ https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;
 
 ▲ UAE 미디어 규제국 트위터
 반면, 사우디아라비아, 이집트, 인도네시아, 말레이시아, 레바논을 포함한 다른 나라는 상영 금지의 이유에 대한 물음에 즉각적으로 반응하지 않았다고 로이터는 보도했...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연어와 같은 냉장 수산물이 코로나19 국제전파의 매개가 되는가?]]></title>
-        <id>https://factchecker.or.kr/fc_publications/138</id>
-        <link href="https://factchecker.or.kr/fc_publications/138"/>
-        <updated>2022-07-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[&nbsp; 지난 2020년 9월 중국 화난농업대학 다이만 교수팀이 냉장연어에 존재하는 코로나 바이러스 생존 시간과 관련한 논문을 발표했다. 학술논문 사전 공개 사이트 biorxiv.org에 게재된 논문에 의하면 현재까지 진행된 연구 결과 4°C로 냉장으로 보관한 연어에 있는 코로나바이러스는 약 8일간 생존할 수 있다. 이를 근거로 다이만 연구팀은 일주일 이내에 냉장 상태로 국제 이동을 하는 연어가 코로나바이러스의 주요 전파 경로 중 하나로 볼 수 있다고 설명했다. 이러한 중국의 논문 발표는 지난 중국의 코로나19 바이러스가 중국 우한으로부터 기원한다는 논란을 부정하는 그간의 태도와 무관하지 않다.
-이와 유사한 연구로 미국 미생물학회에서 게재한 보고서 따르면 냉동육과 냉동 수산물에 있는 코로나 대체 바이러스가 4°C와 -20°C에서 약 30일간 생존 가능하다는 결과를 보였다. 이에 현재까지의 연구 결과 이와 유사한 코로나 바이러스 또한 낮은 온도 내에서 변이 또는 생존이 가능하기에 냉동...]]></content>
     </entry>
 </feed>
