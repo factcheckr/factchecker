@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-09-13T01:20:43.737Z</updated>
+    <updated>2022-09-13T04:17:08.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 7호]]></title>
+        <id>https://factchecker.or.kr/papers/519</id>
+        <link href="https://factchecker.or.kr/papers/519"/>
+        <updated>2022-09-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 7호&nbsp;
+&nbsp;
+1. 여는 글
+허위정보에 맞서 싸우는 진실의 여정: 노르웨이 오슬로 글로벌팩트9 참가기
+러-우 전(戰)을 거울로 삼는 필수과정 3교시
+&nbsp;
+2. 글로벌 팩트체...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 6호]]></title>
         <id>https://factchecker.or.kr/papers/478</id>
@@ -112,15 +125,5 @@
 
 &nbsp;
 정보 감염병은 변이에 변이를 거듭하는 특징을 가지고 있다. 이는 알파, 베타...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[관련자료] 팩트체크 동향리포트 3호]]></title>
-        <id>https://factchecker.or.kr/papers/384</id>
-        <link href="https://factchecker.or.kr/papers/384"/>
-        <updated>2022-02-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[[시청자미디어재단] 팩트체크 동향리포트 3호
-1. 여는글허위정보의 위험성과 팩트체크 교육의 필요성
-2. 글로벌 팩트체크미국의 팩트체크 교육 현황EJTA의 팩트체크 교육
-3. 팩트체크 연구 소개가짜뉴스와 팩트체크 ...]]></content>
     </entry>
 </feed>
