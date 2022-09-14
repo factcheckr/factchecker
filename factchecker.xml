@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-09-14T06:04:49.207Z</updated>
+    <updated>2022-09-14T07:30:51.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[그린워싱 팩트체크] 친환경 1회용품?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/501</id>
+        <link href="https://factchecker.or.kr/fc_subjects/501"/>
+        <updated>2022-09-14T07:29:53.560Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/501">현재 판매중인 친환경 1회용품.&nbsp;인터넷 쇼핑몰에서 ‘친환경 종이컵’을 검색해보면 수많은 제품이 판매되고 있다. 일부는 환경부의 친환경 마크를 달고 판매되고 있다. 종이컵을 비롯해 종이접시, 종이호일, 분식용기, 김밥용기 등 수많은 일회용품이 친환경 마크를 달고 판매중이다.
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그린워싱 팩트체크] 음식물쓰레기와 함께 버리는 '생분해성 친환경 음식물 쓰레기 거름망'?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/500</id>
@@ -90,14 +98,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/450"/>
         <updated>2022-09-11T05:35:34.615Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/450">지난 8일 추경호 기획재정부 장관은 “생산적으로 활용되지 않고 있는 유휴·저활용 재산”을 향후 5년간 16조 원 규모로 매각한다고 발표했습니다. 활용하지 않는 재산을 민간에 팔아 수익을 국가재정에 보태고, 민간 경제를 활성화하겠다는 겁니다. 매각대상으로 언급된 국유재산 중에는 정부가 2,000억 원의 가치가 있다고 밝힌 부동산 9곳이 있습니다. 일부 언론에서는 이 9곳 가운데 강남에 소재한 6곳을 첫 발표 때 일부러 공개하지 않았다고 비판했습니다. 알짜 재산 매각으로 ‘부자 배 불리기’ 비난이 일 것을 우려해 의도적으로 숨겼다는 것입니다. 이에 대해 기획재정부는 11일 보도설명자료를 통해 이 중 서울 강남구 소재의 국유재산 6곳이 “물납부동산(노후주택) 3곳, 소규모 유휴지 2곳, 노후 관사 1곳”이라고 설명했습니다. 《알고보니》는 실제 강남구 소재의 국유재산을 확인해, 이들이 유휴·저활용 재산이라는 기재부의 설명이 사실인지 확인해봤습니다.&nbsp;
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 직원 명단, 우리나라만 유독 공개 안 한다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/447</id>
-        <link href="https://factchecker.or.kr/fc_subjects/447"/>
-        <updated>2022-09-11T05:35:34.618Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/447">최근 권성동 원내대표가 윤석열 대통령과의 텔레그램 대화방에서 “강기훈과 함께”라고 적는 모습이 카메라에 포착되었습니다. 이후 강 씨가 강경우파 정당인 자유의새벽당 출신이며, 현재 대통령실 행정관으로 근무하는 것이 밝혀지자 ‘사적채용’ 논란이 불거졌습니다. 이런 논란은 이번이 처음이 아닙니다. 윤석열 대통령의 40년 지기의 아들, 김건희 여사의 지인, 권성동 여당 대표 대행의 지인까지 줄줄이 채용 적합성 논란을 빚어왔습니다. 대통령실은 공정하고 적법하게 채용했다면서, 채용 과정과 직위, 직책 등은 모두 공개하지 않고 있습니다. 하지만&nbsp;일각에서는 대통령실 직원 신분이 깜깜이 관행인 것을 두고, 국제적 기준과 맞지 않는다고 주장합니다. 과연 대통령실 직원들의 신상은 국민들이 알아선 안 되는 비밀이어야 하는지, 주요 선진국들과 우리나라와의 차별점은 없는지 비교·분석해봤습니다.&nbsp;
 </a>]]></content>
     </entry>
 </feed>
