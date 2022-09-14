@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] '친환경 마크'는 다 똑같다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4507</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4507</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[그린워싱. 실제로는 친환경적이지 않지만 마치 친환경적인 것처럼 홍보하는 ‘위장환경주의’를 의미합니다. 쉽게 말하면 ‘짝퉁 친환경’이죠. 기후위기 시대를 맞아 친환경적 소비가 강조되면서 기업들도 ‘친환경’ 이미지를 구축하고 있습니다. ‘그린’, ‘에코’, ‘녹색’, ‘친환경’, ‘천연’ 등 말만 들어도 지구가 살아날 것 같은 단어들이 광고를 가득 채웁니다. 과연 그린워싱이란 무엇이고, 그린워싱에 속지 않을 방법은 무엇일까요? 뉴스톱이  시리즈를 통해 우리 곁에 있는 그린워싱을 팩트체크 했습니다.※ 이 시리]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazBwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--75f6f9e70773d0b7d348d0bc8982aeb8c7d8f7e2/d9c84c066c37044d47b4ade3c5c6acd1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트와이] 일본군에 살해당한 위안부 피해자 1명도 없다？]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4506</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(부산=연합뉴스) 손형주 기자 = 제11호 태풍 힌남노 내습을 계기로 태풍만 오면 방파제를 넘은 파도(월파) 피해를 되풀이하는 부산 해운대구...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c8f4a48bd6798edb1b5ce7c500635f85d945c6c/e1a713e571eccff999cb42778d297139.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크K] 명절 고속도로 통행료 면제하면 도로공사 부채 가중된다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4497</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4497</guid>
-            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민족 대이동이 이뤄지는 추석이 코앞으로 다가왔습니다. 올 추석은 코로나19 유행 이후 거리두기 없이 맞...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalVwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb3134ac244b81601ebb26724324c0c58a5469ce/79ba8f5a99717d95f091a69c3927d30c.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
