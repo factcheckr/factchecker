@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,7 +106,7 @@
             <title><![CDATA[[그린워싱 팩트체크] '친환경' 세제? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/502</link>
             <guid>https://factchecker.or.kr/fc_subjects/502</guid>
-            <pubDate>Wed, 14 Sep 2022 08:18:10 GMT</pubDate>
+            <pubDate>Wed, 14 Sep 2022 08:18:01 GMT</pubDate>
             <content:encoded><![CDATA[포털 사이트 등을 통해 친환경으로 소개되거나, 온오프라인 마켓에서 친환경이라고 홍보되며 판매중인 세제]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/inable_sign-ecd73a2e4c05f053a6f40e0d19b4884a.png" length="0" type="image/png"/>
         </item>
