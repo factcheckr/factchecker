@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-15T08:20:31.841Z</updated>
+    <updated>2022-09-15T09:18:01.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포항제철소 침수, 인재였나?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/896</id>
+        <link href="https://factchecker.or.kr/fc_suggests/896"/>
+        <updated>2022-09-15T09:17:07.667Z</updated>
+        <content type="html"><![CDATA[[자막뉴스] 이번엔 인사 태풍 조짐...포스코 향한 정부의 이례적인 조사
+https://www.ytn.co.kr/_ln/0134_202209151542419488
+포스코 “제철소 침수는 냉천 공원화 사업 때문”
+htt...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포항제철소 가동 중단 사태, 언론에 보도되지 않았다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/895</id>
@@ -78,12 +88,5 @@ ht...]]></content>
         <content type="html"><![CDATA[4대강 녹조의 원인을 4대강 사업 &lt;댐&gt; 으로 물흐름을 막은것을 원인으로 보고 있는 부분이 많은데
 반대파의 경우 댐(4대강사업)과 무관하게 4대강 자체가 원래 녹조가 심했고
 4대강 사업을 철거 한다고 해서 녹조가 사라지는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우영우 팽나무' 천연기념물 지정과 재산권 침해]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/883</id>
-        <link href="https://factchecker.or.kr/fc_suggests/883"/>
-        <updated>2022-09-11T06:19:24.332Z</updated>
-        <content type="html"><![CDATA[우영우 팽나무 마을 주민들 천연기념물 지정 좋지만, 재산권 침해 반대 https://www.news1.kr/articles/4778638&nbsp;문화재청은 동부마을 팽나무가 문화재적 가치가 있다고 보고 천연기념물 지정을 검토하고...]]></content>
     </entry>
 </feed>
