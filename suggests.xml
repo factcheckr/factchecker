@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-17T01:17:10.635Z</updated>
+    <updated>2022-09-17T03:58:56.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프로페시아 직구 구매자 처벌에 관한 허위 사실 기사]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/897</id>
+        <link href="https://factchecker.or.kr/fc_suggests/897"/>
+        <updated>2022-09-17T03:57:10.028Z</updated>
+        <content type="html"><![CDATA[http://www.bosa.co.kr/news/articleView.html?idxno=2173714
+&nbsp;
+프로페시아(가장 일반적인 탈모약) 직구자도 처벌대상이 된다는 뉴스기사입니다.
+약사법과 총리령 검색결과 약사법 제4...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포항제철소 침수, 인재였나?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/896</id>
@@ -79,14 +89,5 @@ ht...]]></content>
         <updated>2022-09-11T06:19:24.331Z</updated>
         <content type="html"><![CDATA[안녕하세요.
 팩트체크넷 검증도구 기능인 실시간 이슈 시스템을 활용하여 지난 2달 간의 이슈들을 살펴본 결과, 무임승차라는 단어가 커뮤니티를 중심으로 많이 등장했으며 특히 외국인의 건강보험 무임승차를 다루는 게시글이 많았습...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4대강 녹조 원인]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/885</id>
-        <link href="https://factchecker.or.kr/fc_suggests/885"/>
-        <updated>2022-09-11T06:19:24.331Z</updated>
-        <content type="html"><![CDATA[4대강 녹조의 원인을 4대강 사업 &lt;댐&gt; 으로 물흐름을 막은것을 원인으로 보고 있는 부분이 많은데
-반대파의 경우 댐(4대강사업)과 무관하게 4대강 자체가 원래 녹조가 심했고
-4대강 사업을 철거 한다고 해서 녹조가 사라지는...]]></content>
     </entry>
 </feed>
