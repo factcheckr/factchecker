@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-17T03:58:56.172Z</updated>
+    <updated>2022-09-17T05:01:59.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[교회 폐기 법안]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/899</id>
+        <link href="https://factchecker.or.kr/fc_suggests/899"/>
+        <updated>2022-09-17T05:01:13.996Z</updated>
+        <content type="html"><![CDATA[교회폐지법을 발의한 21대 민주당 국회 의원 78명과 무소속 1명, 79명 의원 명단입니다. 현재 한국에 있는 교회를 폐지하자는 발의를 하자, 그에 대한 항의가 많아지자 발의자가 스스로 철회했다고는 하지만, 이들을 잊지 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교회 폐기 법안]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/898</id>
+        <link href="https://factchecker.or.kr/fc_suggests/898"/>
+        <updated>2022-09-17T05:01:13.996Z</updated>
+        <content type="html"><![CDATA[교회폐지법을 발의한 21대 민주당 국회 의원 78명과 무소속 1명, 79명 의원 명단입니다. 현재 한국에 있는 교회를 폐지하자는 발의를 하자, 그에 대한 항의가 많아지자 발의자가 스스로 철회했다고는 하지만, 이들을 잊지 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로페시아 직구 구매자 처벌에 관한 허위 사실 기사]]></title>
         <id>https://factchecker.or.kr/fc_suggests/897</id>
@@ -73,21 +87,5 @@ ht...]]></content>
         <updated>2022-09-11T06:19:24.329Z</updated>
         <content type="html"><![CDATA[실시간 이슈 시스템을 활용하여 지난 1주일의 이슈를 모니터링한 결과,
 다양한 매체 (특히 블로그) 보도 및 재생산을 통해 정부의 공공재개발 사업을 놓고 정부와 토지 소유자간의 갈등이 심화되고 있다는 것을 파악할 수 있었습...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지역화폐가 소상공인 매출 향상과 지역 경제 활성화에 큰 기여를 해왔다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/888</id>
-        <link href="https://factchecker.or.kr/fc_suggests/888"/>
-        <updated>2022-09-11T06:19:24.330Z</updated>
-        <content type="html"><![CDATA[팩트체크넷 검증 도구 실시간 이슈를 통해 금일 자 이슈들을 살펴보았는데 지역화폐 키워드가 높은 순위에 있었습니다.
-그 이유는 발표된 내년 예산안에서 지역화폐 관련 예산이 전액 삭감되었기 때문이었는데요. 이에 대해 야당 주...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 세금으로 외국인을 치료하는 한국의 건강보험제도?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/887</id>
-        <link href="https://factchecker.or.kr/fc_suggests/887"/>
-        <updated>2022-09-11T06:19:24.331Z</updated>
-        <content type="html"><![CDATA[안녕하세요.
-팩트체크넷 검증도구 기능인 실시간 이슈 시스템을 활용하여 지난 2달 간의 이슈들을 살펴본 결과, 무임승차라는 단어가 커뮤니티를 중심으로 많이 등장했으며 특히 외국인의 건강보험 무임승차를 다루는 게시글이 많았습...]]></content>
     </entry>
 </feed>
