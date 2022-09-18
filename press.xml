@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 14:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트와이] '자이언트 스텝', 미국에선 안 쓰는 한국산 용어?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4523</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4523</guid>
+            <pubDate>Sat, 17 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]미국 중앙은행이 큰 폭의 금리 인상 정책을 이어가...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWdwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb7c3def61f2e8d6836a45e93e447e4abb377069/1a71e4de71c9dca5dd10c42876a25398.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[알고보니] 이전비 496억 원이라더니‥얼마까지 늘었나]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4522</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최고 7미터까지 예보됐는데요.강화에서 반포까지 밀물이 밀려드는데 3시간 정도 걸리기 때문에, 밤 10시쯤부터 반포 한강공원에 물이 차오른 겁니다.  원래 서해안으로 흐르는 강들은]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b8e6be5980909b2879ede9a793012aa46cfec6e9/2a06b88c8cabfda2d65ca368d50d9831.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 가을 태풍 많다? 윈디가 더 정확하다? '둘다 X']]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4512</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4512</guid>
-            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(14일) 오후 천리안 위성 2호가 찍은 영상입니다. 중국 상하이 쪽으로 이동 중인 12호 태풍 무이파의 오른편에 회오리치는 커..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFVwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b1e34cafacf3cc2bf4a46f95a497ed299489a35e/b2002a1e2a2d8955bbd9f8aabd3c3310.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
