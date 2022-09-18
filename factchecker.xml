@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-09-18T11:13:39.317Z</updated>
+    <updated>2022-09-18T12:26:29.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -62,6 +62,20 @@
 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[해양 보호를 위해 개인의 플라스틱 사용을 줄이는 게 큰 효과가 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/494</id>
+        <link href="https://factchecker.or.kr/fc_subjects/494"/>
+        <updated>2022-09-18T12:25:29.375Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/494">&lt;씨스피라시&gt;는 어업이 해양 오염에 미치는 영향을 고발하는 다큐멘터리입니다.
+해양쓰레기 중 생활쓰레기가 차지하는 비중보다, 어업에 의해 발생하는 것이 크다는 내용인데요.
+아래는 &lt;씨스피라시&gt;의 줄거리를 설명하는 유튜브 영상에 달린 댓글입니다.
+
+과연 우리나라 해양 오염의 주 원인은 어업 때문일까요?
+나아가 개인의 플라스틱 사용을 줄이는 게 해양 보호에 큰 효과가 없는 걸까요?
+해양수산부 자료를 바탕으로 팩트체킹했습니다.
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쟁의로 인한 기업의 손해배상 청구 소송을 아예 법으로 금지한 나라가 많다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/493</id>
         <link href="https://factchecker.or.kr/fc_subjects/493"/>
@@ -86,18 +100,6 @@
         <content type="html"><![CDATA[<a href="/fc_subjects/491">지난 7월 25일, 박민영 당시 국민의힘 대변인은 ‘인하대 성폭행 사망 사건’과 관련해 “‘여자라서 죽었다’는 구호로 대표되는, 모든 문제를 젠더 이분법으로 해석하는 극단이 더 이상 반복돼선 안 된다”는 내용의 글을 자신의 SNS에 게시했습니다. 박 대변인은 ‘인하대 성폭행 사망 사건은 젠더 문제가 아닌 개인의 안전 문제’라는 김현숙 여성가족부 장관의 발언을 옹호하면서 “산업재해 피해자의 99%는 남성입니다. 군대에서 발생하는 각종 사고의 피해자 역시 99%가 징집된 남성입니다. 하지만 그 누구도 해당 사건에 대해 “남자라서 죽었다”고 표현하지 않습니다”라고 덧붙였습니다. 
 출처: 커뮤니티 에펨코리아
 박 대변인이 근거로 활용한 수치가 맞는지, ‘특정 성을 향한 구조적 폭력은 없다’는 발언의 맥락에 적합한 근거인지 검증해보았습니다. 더불어 박 대변인의 발언이 어떻게 ‘혐오’로 규정될 수 있는지 논증해보았습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2부속실 없애고 영부인 일정 줄였다?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/490</id>
-        <link href="https://factchecker.or.kr/fc_subjects/490"/>
-        <updated>2022-09-11T05:35:34.615Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/490">
-
-
-
-최근 김건희 여사의 팬클럽을 통해 기밀 사항인 대통령의 외부 일정이 공개되면서 논란이 일고 있습니다. 같은 날, 김 여사가 수해 현장에서 비공개 봉사활동을 벌여온 사실이 언론에 뒤늦게 공개되기도 했습니다. 대통령과 대통령 부인의 공식적인 일정과 행사가 공적으로 관리되지 못하고, 사후에도 투명하게 공개되지 않는다는 지적이 제기됐습니다. 앞서 윤석열 대통령은 대선 후보 시절 ‘조용한 내조’를 내세우며, 제2부속실을 폐지하고, 역할도 축소하겠다고 공약을 걸었습니다. 김 여사도 작년 12월 기자회견을 통해 ‘아내 역할에만 충실하겠다’고 말했습니다. 즉 영부인으로서의 역할을 최소화할 것이기 때문에 보좌하는 조직을 별도로 두지 않겠다는 이야기입니다. 그러나 일부 누리꾼들은 “제2부속실을 없앤다고 하더니, 영부인 일정은 더 많은 것 같다”, “공식적으로 영부인 일정과 메시지를 관리할 제2부속실은 필요하다”라는 비판을 제기하고 있습니다. 정말 대통령 취임 이후 영부인의 활동이 줄었는지...
 </a>]]></content>
     </entry>
 </feed>
