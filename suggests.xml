@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-18T21:14:05.017Z</updated>
+    <updated>2022-09-18T22:15:31.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-09-18T21:13:20.754Z</updated>
+        <updated>2022-09-18T22:13:45.174Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 정윤관
 2022.09.17 13:31:43]]></content>
@@ -18,7 +18,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-09-18T21:13:20.763Z</updated>
+        <updated>2022-09-18T22:13:45.175Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 정윤관
 2022.09.17 13:29:17]]></content>
