@@ -2,23 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-09-19T06:11:25.116Z</updated>
+    <updated>2022-09-19T07:38:19.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://factchecker.or.kr/fc_suggests</id>
-        <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-09-19T06:09:40.122Z</updated>
-        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
-정윤관
-2022.09.17 13:31:43]]></content>
+        <title type="html"><![CDATA[대기업이 개인정보 수집을 통해 얻는 수익이 정부에서 부과하는 과징금보다 높다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/900</id>
+        <link href="https://factchecker.or.kr/fc_suggests/900"/>
+        <updated>2022-09-19T07:36:32.861Z</updated>
+        <content type="html"><![CDATA[https://twitter.com/estima7/status/1570188372286803968
+https://n.news.naver.com/mnews/article/025/0003223778
+지난 1주일 이슈에 과징...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2022-09-19T06:09:40.131Z</updated>
+        <updated>2022-09-19T07:36:32.799Z</updated>
+        <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
+정윤관
+2022.09.17 13:31:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://factchecker.or.kr/fc_suggests</id>
+        <link href="https://factchecker.or.kr/fc_suggests"/>
+        <updated>2022-09-19T07:36:32.808Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 정윤관
 2022.09.17 13:29:17]]></content>
@@ -83,13 +92,5 @@ ht...]]></content>
         <content type="html"><![CDATA[쓰레기 소각장에 관한 논쟁이 발생했습니다.
 서울 신규 쓰레기 소각장을 상암동에 건설한다고 합니다. 이에 대해 찬반 여론이 극명하게 나뉘는데요
 그러던 와중 한 네이버 카페에서 쓰레기 소각장이 석탄발전소보다&nbsp;수은 14배,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공재개발은 사유재산 침해인가?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/890</id>
-        <link href="https://factchecker.or.kr/fc_suggests/890"/>
-        <updated>2022-09-11T06:19:24.329Z</updated>
-        <content type="html"><![CDATA[실시간 이슈 시스템을 활용하여 지난 1주일의 이슈를 모니터링한 결과,
-다양한 매체 (특히 블로그) 보도 및 재생산을 통해 정부의 공공재개발 사업을 놓고 정부와 토지 소유자간의 갈등이 심화되고 있다는 것을 파악할 수 있었습...]]></content>
     </entry>
 </feed>
