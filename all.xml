@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 18:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 19:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@ https://n.news.naver.com/mnews/article/025/0003223778
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 18:20:46 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 19:15:19 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 정윤관
 2022.09.17 13:31:43]]></content:encoded>
@@ -214,7 +214,7 @@ https://n.news.naver.com/mnews/article/025/0003223778
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 18:20:46 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 19:15:19 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 정윤관
 2022.09.17 13:29:17]]></content:encoded>
