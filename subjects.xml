@@ -1,8 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factchecker.or.kr/fc_subjects</id>
-    <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
-    <updated>2022-11-16T16:27:07.954Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:19:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제가 아니다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/594</link>
+            <guid>https://factchecker.or.kr/fc_subjects/594</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 29일, 이태원에서 핼러윈 축제를 즐기기 위해 모인 인파가 좁은 골목길에 집중되며 156명이 숨지고 196명이 부상을 입는 참사가 일어났습니다. 이에 대해 대규모 인파가 몰릴 것으로 예상된 현장에서, 사고를 미연에 막을 수 있는 경찰 병력이 부족했다는 비판이 일었습니다. 이같은 여론에 대해 국가 재난 상황 주무부처 장관인 이상민 행정안전부 장관은 30일 열린 정부 합동 브리핑에서 “(핼러윈 당일) 우려할 정도로 많은 인파가 몰린 것은 아니다”라며 경찰력이 부족했다는 주장을 전면 반박했습니다. &lt;알고보니&gt;는 “(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제는 아니다”라는 이상민 행정안전부 장관의 주장이 사실인지 과거 핼러윈 축제 사례와 참사 당일 현장 영상 및 증언들을 통해 확인했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새 대통령 관저, 촬영하면 처벌받는다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/585</link>
+            <guid>https://factchecker.or.kr/fc_subjects/585</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 취임한 후 청와대 개방을 선언하면서 대통령 집무실은 국방부 청사로, 관저는 외교부장관 공관으로 옮기기로 결정했습니다. 지난 8월 말에는 정부가 보안을 위해 새 대통령 관저가 생기는 한남동 일대를 군사보호구역으로 지정했습니다. 이로 인해 관저에 대한 언론과 일반인들의 사진 촬영이 금지되고, 나아가 남산 전망대에서도 사진을 찍을 수 없다는 보도들이 나왔습니다. &lt;알고보니&gt;는 ‘남산 전망대서 한남동 대통령 관저 일대를 촬영할 수 없다’는 보도와 시민들의 우려가 사실인지 확인했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[만화진흥원이 중고생만화공모전을 "정치 오염" 공모전으로 변색시켰다]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/541</link>
+            <guid>https://factchecker.or.kr/fc_subjects/541</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5일 문화체육관광부(이하 문체부) 국정감사장에서 박보균 장관의 발언이 문제가 됐습니다. 박 장관은 전국학생만화공모전에서 작품 &lt;윤석열차&gt;가 금상을 수상한 것을 두고&nbsp;“(한국만화영상진흥원이) 순수한 예술적 작품성으로 명성을 쌓은 중고생만화공모전을 정치 오염 공모전으로 변색시켰다”고 비판했습니다. 이 작품은 한 고등학생이 그린 만평(카툰)으로, 윤석열 대통령의 얼굴을 한 기차 위에 김건희 여사로 보이는 인물과 네 명의 검사들이 탑승한 모습을 담고 있습니다. &lt;윤석열차&gt;를 향한 문체부의 지적은 단순 발언에 그치지 않았습니다. 국정감사 하루 전날인 4일, 문체부는 한국만화영상진흥원을 상대로 보도자료를 하루 사이 두 차례나 배포했습니다.&nbsp; 문체부는 중·고등학생을 대상으로 주최한 전국학생만화공모전에서 정치적인 주제를 노골적으로 다룬 작품을 선정해 전시한 것은 학생의 만화 창작 욕구를 고취하려는 행사 취지에 지극히 어긋난다고 경고했습니다.&nbsp; 이어“순수창작품인지 깊이 있게 검토되...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국의 남녀 임금 격차 선진국 가운데 가장 크다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/534</link>
+            <guid>https://factchecker.or.kr/fc_subjects/534</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 28일 일본을 방문 중인 해리스 미국 부통령은 뉴욕타임스(NYT)와의 현지 인터뷰에서 이번 방한을 통해 윤석열 정부의 성평등 정책에 대한 우려를 제기할 계획이라고 밝혔습니다. 이에 뉴욕타임스는&nbsp;“한국은 선진국 중 남녀 임금 격차가 가장 크고, 여성 국회의원이 5분의 1 미만이며, 여성가족부 폐지가 윤 대통령의 공약이었다”고 설명을 덧붙였습니다. 실제로 다음날인 29일 한국을 방문한 미국 해리스 부통령은 윤 대통령을 만난 자리에서 한국의 성평등 문제를 언급했습니다. 그러나 대통령실은 “언급하지 않았다”고 부인했다가 백악관이 “언급했다”고 발표하자 다시 정정하는 일도 있었습니다. 해리스 부통령은 대통령과 만남 직후 한국 여성 대표들과 성평등을 주제로 간담회도 열었습니다. 한국의 성평등 문제가 외교무대에서 주요 의제로 떠오르게 된 배경과 ‘우리나라의 성평등 지표’에 대한 외신의 지적이 사실인지 &lt;알고보니&gt;가 따져봤습니다.&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/true_sign-27979861e15502b22db7e243e253a3d5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] 친환경 석탄발전?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/527</link>
+            <guid>https://factchecker.or.kr/fc_subjects/527</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[삼척블루파워는 국내 최고의 환경친화적 명품 발전소, 강릉에코파워는 국내 최대의 친환경 발전소]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 한국 정부는 장애인의 차별 없는 시외이동을 보장하고 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/525</link>
+            <guid>https://factchecker.or.kr/fc_subjects/525</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 24일과 25일, 한국 정부는 스위스 제네바 유엔본부에서 유엔장애인권리위원회(아래 위원회)에 출석해 유엔장애인권리협약(아래 협약) 이행 상황에 대한 심의를 받았습니다. 위원회 한국 담당관들은 한국 장애인의 시외이동권 증진을 위해 한국 정부가 어떤 노력을 하고 있는지 물었습니다.
+이에 국토교통부는 지난달 8일 발표한 ‘2021년 교통약자 이동편의 실태조사 연구 최종 보고서(아래 보고서)’를 기반으로 답변하며, “대한민국 정부는 장애인의 차별 없는 이동을 보장하기 위해 도시 간 이동에 제약이 없도록 다양한 지원을 추진 중”이라고 답했습니다.
+지난달 22일, 정부가 위원회에 제출한 국가보고서(보완보고서) 내용과 위원회에 출석해 답변한 내용이 크게 다르지 않은데요. 한국 정부는 정말 장애인의 차별 없는 시외이동권을 보장하고 있을까요? 비마이너가 확인했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] '생분해' 되니까 친환경?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/523</link>
+            <guid>https://factchecker.or.kr/fc_subjects/523</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 산화 생분해 제품]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] 합성농약, 화학비료 안 쓰면 친환경?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/522</link>
+            <guid>https://factchecker.or.kr/fc_subjects/522</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 농산물]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/519</link>
+            <guid>https://factchecker.or.kr/fc_subjects/519</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 발달장애인 참사 막고자 노력했다는 정부, 무엇을 숨겼나]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/518</link>
+            <guid>https://factchecker.or.kr/fc_subjects/518</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 24일과 25일, 한국 정부는 스위스 제네바 유엔본부에서 유엔장애인권리위원회(아래 위원회)에 출석해 유엔장애인권리협약(아래 협약) 이행 상황에 대한 심의를 받았습니다. 위원회는 이번 심의에서, 끊이지 않는 발달장애인 가족 사망사건에 대한 한국 정부의 대책을 물었습니다.
+이에 정부는 “발달장애인의 일상생활 지원과 지역사회 참여를 높이기 위해 2018년에 비해 2022년 24배 넘게 예산을 대폭 늘렸다”라면서 “장애인 활동지원서비스를 확대했으며, 발달장애인 주간활동서비스와 방과후활동서비스를 도입하는 등 관련 서비스를 지속적으로 확대했다”고 말했습니다.
+또한 정부는 “지난 5월 발달장애인법을 개정해 최중증 발달장애인에게 통합돌봄서비스를 제공할 수 있는 직접적인 근거를 마련했다”고 강조했습니다. 보완보고서에서는 “최중증 발달장애인 대상 1:1 맞춤형 24시간 돌봄서비스를 지원하는 시범사업(2022~2024년)을 실시하고 있다”고도 밝혔습니다.
+비마이너는 한국 정부가 성과라고 내...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
