@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 13:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 14:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[교회폐지법을 민주당이 발의했다 철회한적 있었나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/925</link>
+            <guid>https://factchecker.or.kr/fc_suggests/925</guid>
+            <pubDate>Fri, 18 Nov 2022 14:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[제목 전달: 교회폐지법을 발의한 21교회폐지법을 발의한21대 민주당 국회 의원 78명과 무소속 1명, 79명 의원 명단.
+절대잊지 말아야 하는 악한 이름들
+현재 한국에 있는 교회를 폐지하자는 발의를 하자, 그에 대한 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오미크론 XBB 위험성 정도 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/922</link>
             <guid>https://factchecker.or.kr/fc_suggests/922</guid>
@@ -257,15 +266,6 @@
             <pubDate>Thu, 17 Nov 2022 07:12:25 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부와 국민의힘이 미국 순방 이후에 지속해서 MBC를 비난하고 있는데요. 최근에는 세무조사에 들어간다는 기사가 나오기도 했더라고요.
 근데 언론 보도를 찾아보니까 더불어민주당 서영교 의원이 닉슨 전 대통령이랑 윤석열...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[독일 에너지 공급이 러시아 때문에 큰 일이 나서 메르켈이 욕 먹고 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/912</link>
-            <guid>https://factchecker.or.kr/fc_suggests/912</guid>
-            <pubDate>Thu, 17 Nov 2022 07:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 우크라이나를 침공한 이후에 독일에 가스 공급을 감축하면서 메르켈 전 총리가 독일에서 비판받고 있다는 커뮤니티 게시글을 봤는데요.
-내용을 보니까 독일 언론 보도도 아니고 독일에 있는 한인 취재원만 등장하더라고요.
-...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] '빈곤 포르노'는 사전·논문·언론에 나온 용어다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
