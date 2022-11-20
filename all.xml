@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 10:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 11:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,13 +182,6 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이태원 참사는 마약과 연관성이 없는가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/926</link>
-            <guid>https://factchecker.or.kr/fc_suggests/926</guid>
-            <pubDate>Sat, 19 Nov 2022 08:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[당시 마약류 관련 범죄 단속 실적이 0건 이라고 해서 이태원 참사는 마약과 연관성이 없다고 할 수 있는가?]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[교회폐지법을 민주당이 발의했다 철회한적 있었나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/925</link>
             <guid>https://factchecker.or.kr/fc_suggests/925</guid>
@@ -265,6 +258,14 @@
             <content:encoded><![CDATA[온라인 커뮤니티에 전라도에서 닭 회를 먹는 걸 엄청 부정적으로 묘사하는 글이 올라와서 팩트체크 요청합니다.
 닭 회라는 게 있는지도 몰랐는데 전라도에서 먹는다면서 전라도 사람들을 야만인처럼 몰아가네요.
 닭 회라는 게 실제로...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[닉슨 대통령이 언론사 비판 보도 후에 세무조사를 지시했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/913</link>
+            <guid>https://factchecker.or.kr/fc_suggests/913</guid>
+            <pubDate>Sun, 20 Nov 2022 11:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부와 국민의힘이 미국 순방 이후에 지속해서 MBC를 비난하고 있는데요. 최근에는 세무조사에 들어간다는 기사가 나오기도 했더라고요.
+근데 언론 보도를 찾아보니까 더불어민주당 서영교 의원이 닉슨 전 대통령이랑 윤석열...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] '빈곤 포르노'는 사전·논문·언론에 나온 용어다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
