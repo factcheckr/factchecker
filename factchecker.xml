@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-11-22T06:18:30.726Z</updated>
+    <updated>2022-11-22T07:14:45.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/605</id>
+        <link href="https://factchecker.or.kr/fc_subjects/605"/>
+        <updated>2022-11-22T07:13:48.758Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/605">최근 한 기업에서 업무 시작 10분 전까지 사무실에 오지 않은 10명의 명단을 사내 메일로 공유해 논란이 됐습니다. 계속 출근이 늦는 직원은 교육 또는 면담을 시키겠다는 겁니다. 이밖에도 많은 회사들이 근로계약서에 명시된 출근 시간보다 일찍 회사에 도착해 업무 준비를 하라고 지시합니다.
+이같은 지시가 근로기준법에 위반 되는지 확인해 봤습니다.&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제가 아니다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/594</id>
@@ -81,17 +90,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/519"/>
         <updated>2022-11-16T17:18:50.983Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/519">기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 발달장애인 참사 막고자 노력했다는 정부, 무엇을 숨겼나]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/518</id>
-        <link href="https://factchecker.or.kr/fc_subjects/518"/>
-        <updated>2022-11-16T17:18:50.985Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/518">지난달 24일과 25일, 한국 정부는 스위스 제네바 유엔본부에서 유엔장애인권리위원회(아래 위원회)에 출석해 유엔장애인권리협약(아래 협약) 이행 상황에 대한 심의를 받았습니다. 위원회는 이번 심의에서, 끊이지 않는 발달장애인 가족 사망사건에 대한 한국 정부의 대책을 물었습니다.
-이에 정부는 “발달장애인의 일상생활 지원과 지역사회 참여를 높이기 위해 2018년에 비해 2022년 24배 넘게 예산을 대폭 늘렸다”라면서 “장애인 활동지원서비스를 확대했으며, 발달장애인 주간활동서비스와 방과후활동서비스를 도입하는 등 관련 서비스를 지속적으로 확대했다”고 말했습니다.
-또한 정부는 “지난 5월 발달장애인법을 개정해 최중증 발달장애인에게 통합돌봄서비스를 제공할 수 있는 직접적인 근거를 마련했다”고 강조했습니다. 보완보고서에서는 “최중증 발달장애인 대상 1:1 맞춤형 24시간 돌봄서비스를 지원하는 시범사업(2022~2024년)을 실시하고 있다”고도 밝혔습니다.
-비마이너는 한국 정부가 성과라고 내...
 </a>]]></content>
     </entry>
 </feed>
