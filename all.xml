@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
 근데 언론 보도를 찾아보니까 더불어민주당 서영교 의원이 닉슨 전 대통령이랑 윤석열...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 이재명에 대한 검찰 수사상황 유출, 피의사실 공표죄 해당할까 | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4726</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4726</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 구정모 기자 = 이재명 더불어민주당 대표의 측근들에 대한 검찰 수사를 놓고 피의사실 공표 논란이 일고 있다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW90IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14f84e05592e8f8cdb9b6584c17ccab5f44a5ee3/883098931b7a9d19dd17d57ce9537986.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 송전 및 에너지 공급망 타격은 전쟁범죄일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4725</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4725</guid>
@@ -336,14 +344,6 @@
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[【투데이신문 김효인 기자】 “대한민국 소시지 1위 (하고 싶다)”한 소시지 제품 겉면에 새겨진 문구다. 이는 마치 인증 마크처럼 눈에 띄는 도안 속에 들어 있어 소비자 신뢰를 더하는 듯 하지만, 끝까지 읽어보면 실제 1위를 했다는 것이 아니라 1위를 하고 싶을 뿐이라는 내용을 확인할 수 있다. 인터넷 커뮤니티 등에서 떠돌고 있는 해당 사의 광고는 유머 게시판에 게재되며 ‘솔직한 광고’, ‘위트 있는 개그’ 등의 호평을 받고 있다. 그러나 해당 광고 속 문구의 경우 소비자 오인 요소가 존재하는 만큼 표시광고법 위반이 의심되는 사례로]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnN0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5381693c8efdf8ece22f72967e60d20144e6a77d/47baf61f690b427397f3071404ecc624.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대통령경호처에 군 지휘권 부여한 시행령 개정, 법적근거 없다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4715</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4715</guid>
-            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 구정모 기자 = 대통령경호처(이하 경호처)가 경호구역에서 경호업무를 수행하는 군·경찰 등을 지휘·감독할 수 있게 관련 시행령 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmt0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f3ac6bcd3e54cf87bcbfb150de1c9c4022aed464/73dafff0548afd113b53ab06fa405764.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[해양 보호를 위해 개인의 플라스틱 사용을 줄이는 게 큰 효과가 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
