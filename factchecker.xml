@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-11-26T07:11:26.132Z</updated>
+    <updated>2022-11-26T08:17:21.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[편도선 수술 후에 찬물을 마시면 증상이 완화된다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/610</id>
+        <link href="https://factchecker.or.kr/fc_subjects/610"/>
+        <updated>2022-11-26T08:15:19.531Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/610">편도선 수술 후에 찬물을 마시면 증상이 완화된다?
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/605</id>
@@ -82,14 +90,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/522"/>
         <updated>2022-11-16T17:18:50.976Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/522">친환경 농산물
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/519</id>
-        <link href="https://factchecker.or.kr/fc_subjects/519"/>
-        <updated>2022-11-16T17:18:50.983Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/519">기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크
 </a>]]></content>
     </entry>
 </feed>
