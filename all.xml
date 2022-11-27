@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 05:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,7 +173,7 @@
             <title><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/519</link>
             <guid>https://factchecker.or.kr/fc_subjects/519</guid>
-            <pubDate>Sun, 27 Nov 2022 04:14:27 GMT</pubDate>
+            <pubDate>Sun, 27 Nov 2022 04:14:19 GMT</pubDate>
             <content:encoded><![CDATA[기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
