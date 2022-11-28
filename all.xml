@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 07:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,6 +178,15 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[취임 후 6개월 이상 야당과 안 만난 대통령은 윤석열이 처음인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/928</link>
+            <guid>https://factchecker.or.kr/fc_suggests/928</guid>
+            <pubDate>Mon, 28 Nov 2022 07:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[너무 논란이 많아서 취임 후 6개월밖에 안 됐다는 게 놀라운데요.
+오늘 보니까 야당 당대표들이 대통령이 야당과 소통하지 않는다고 비판했더라고요.
+근데 중간에 정의당 이정미 대표가 대한민국 야당들은 취임 반년이 지나도록 대...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[23년 유급 육아휴직 기간이 1년 6개월로 늘어난다고 하는데 확정인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/927</link>
             <guid>https://factchecker.or.kr/fc_suggests/927</guid>
@@ -252,15 +261,6 @@
 붓, 테이프 같은 부자재도 같이 판매중입니다.
 &nbsp;
 이런 경우에는 비닐봉투...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[닭 회를 전라도에서만 먹나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/914</link>
-            <guid>https://factchecker.or.kr/fc_suggests/914</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 커뮤니티에 전라도에서 닭 회를 먹는 걸 엄청 부정적으로 묘사하는 글이 올라와서 팩트체크 요청합니다.
-닭 회라는 게 있는지도 몰랐는데 전라도에서 먹는다면서 전라도 사람들을 야만인처럼 몰아가네요.
-닭 회라는 게 실제로...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크]코로나 XBB 변이 관련 '진실과 거짓' (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
