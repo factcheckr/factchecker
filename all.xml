@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -178,6 +178,24 @@
             <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국 시위 참가자 얼굴 인식으로 시민점수 깎였다????? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/930</link>
+            <guid>https://factchecker.or.kr/fc_suggests/930</guid>
+            <pubDate>Tue, 29 Nov 2022 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[최근에 중국 정부의 코로나19 봉쇄 정책을 비판하는 시위가 열렸다고 들었는데요
+커뮤니티를 보니까 중국에서 시위가 줄어들고 있는데 이유가 얼굴 인식으로 시위에 참가한 사람들의 시민 점수를 깎아서라는 글이 있네요????
+찾다...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파업을 하면 다 불법인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/929</link>
+            <guid>https://factchecker.or.kr/fc_suggests/929</guid>
+            <pubDate>Tue, 29 Nov 2022 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[화물연대가 업무 중지를 하고 나서 대부분의 보도에서 불법 파업이라고 쓰고 있는데요.
+기사를 보면 국민의힘 정치인들이 반복해서 불법 파업이라고 주장하더라고요.
+그래서 근거가 있는지 궁금해서 국민의힘 홈페이지에 들어가서 봤더...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[취임 후 6개월 이상 야당과 안 만난 대통령은 윤석열이 처음인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/928</link>
             <guid>https://factchecker.or.kr/fc_suggests/928</guid>
@@ -238,29 +256,6 @@
             <guid>https://factchecker.or.kr/fc_suggests/918</guid>
             <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 물부족 국가인가요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오석준 대법관 후보자 균형 판결 해왔다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/917</link>
-            <guid>https://factchecker.or.kr/fc_suggests/917</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[https://www.instagram.com/reel/Ch7wvkiv23b/?igshid=YmMyMTA2M2Y=
-판사 시절, 기준에 따라 엄격히 판결해왔다던 오석준 대법관.
-정말 모든 판결이 그랬나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이번에 시행되는 일회용품 규제에 관해서 체크해보고 싶습니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/915</link>
-            <guid>https://factchecker.or.kr/fc_suggests/915</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[각 언론사마다 말하는게 약간씩 다르고
-언론에서는 그냥 대규모점포라고만 해서
-헷갈립니다.
-&nbsp;
-우선 저희의 경우는 매장이 100평의 페인트 전문매장인데
-붓, 테이프 같은 부자재도 같이 판매중입니다.
-&nbsp;
-이런 경우에는 비닐봉투...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트맨]한동훈 찾아간 더탐사, 주거 침입이다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
