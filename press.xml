@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 01:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 안전운임제 효과,있다VS없다, 사실은]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4738</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4738</guid>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이코리아] 안전운임제를 둘러싼 정부와 경영계, 노동계 간의 갈등이 격화되고 있다. 노동계는 안전운임제 영구화 및 적용 대상 확대를 요구하며 파업에 나선 반면, 경영계는 시장원리를 무시하는 안전운임제로 인해 수출경쟁력이 약화되고 기업 부담이 가중될 수 있다며 반발하고 있다.앞서한국무역협회·대한상공회의소·전국경제인연합회·중소기업중앙회·한국경영자총협회·한국중견기업연합회 등 경제 6단체는 지난 24일 서울 중구 대한상의회관에서 긴급 기자회견을 열고 공동 성명을 발표했다. 이들은 “시장원리에 반하고 세계 유례가 없는, 결과적으로 우리 수출]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjh1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--454cda5069000355b40104e3575ac8eeda753c2b/52abdce1b6caa52196f730733986487a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]코로나 XBB 변이 관련 '진실과 거짓']]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4737</link>
@@ -77,14 +85,6 @@
             <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이코리아] “추 부총리는 증권거래세 인하는 시기상조라고 했는데, 아무래도 머릿 속에 지우개가 있나보다”김성환 더불어민주당 정책위의장이 금투세 조건부 유예 제안을 거부한 정부여당에 대해 비판의 칼날을 세웠다. 김 의장은 지난 22일 국회에서 열린 원내대책회의에서 “추경호 부총리는 지난 5월 ‘금투세 시행이 유예되더라도 증권거래세는 주식시장 활성화 차원에서 인하하겠다’고 했다”라며 “2019년에는 증권거래세를 2023년까지 완전 폐지한다는 내용의 증권거래세 폐지안을 주장한 바 있다”고 말했다.김 의장은 이어 “추 장관은 그때는 맞고]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk10IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4118d4d5c429a576dfdab8b1bb362716fd196ece/5c04ddbe61e5a986875f03ce4237af98.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 전기차, 정말 화재에 취약할까?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4728</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4728</guid>
-            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[아이뉴스24 김종성 기자] 전기차 계약했는데 화재 때문에 불안해서 못 사겠다.지난 9월 대전의 한 아울렛에서 화재가 발생해 8명의 사상자가 나오는 안타까운]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXd0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74ca3b96e0a3dfe9c01fac4312b480457d7a30a6/429d1668e4c7291c8a5aa2f824119a56.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
