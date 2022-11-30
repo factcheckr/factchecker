@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 10:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,14 @@
             <content:encoded><![CDATA[최근 한 기업에서 업무 시작 10분 전까지 사무실에 오지 않은 10명의 명단을 사내 메일로 공유해 논란이 됐습니다. 계속 출근이 늦는 직원은 교육 또는 면담을 시키겠다는 겁니다. 이밖에도 많은 회사들이 근로계약서에 명시된 출근 시간보다 일찍 회사에 도착해 업무 준비를 하라고 지시합니다.
 이같은 지시가 근로기준법에 위반 되는지 확인해 봤습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 11일부터 코로나19 생활지원금 10만 원 모두 중지?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/601</link>
+            <guid>https://factchecker.or.kr/fc_subjects/601</guid>
+            <pubDate>Wed, 30 Nov 2022 10:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진 후 10만 원의 지원금을 받을 수 있는지에 대한 온라인 커뮤니티 게시글에 7월 11일부터 모두 중지되었다는 댓글이 있었다. (해당 게시물은 삭제된 상태이며 코로나19 10만 원 지원금에 초점을 맞춰 검증했다.)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제가 아니다?]]></title>
@@ -81,14 +89,6 @@
             <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
             <content:encoded><![CDATA[친환경 농산물]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/519</link>
-            <guid>https://factchecker.or.kr/fc_subjects/519</guid>
-            <pubDate>Sun, 27 Nov 2022 04:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 10:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Nov 2022 07:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/fc_subjects/605">최근 한 기업에서 업무 시작 10분 전까지 사무실에 오지 않은 10명의 명단을 사내 메일로 공유해 논란이 됐습니다. 계속 출근이 늦는 직원은 교육 또는 면담을 시키겠다는 겁니다. 이밖에도 많은 회사들이 근로계약서에 명시된 출근 시간보다 일찍 회사에 도착해 업무 준비를 하라고 지시합니다.
 이같은 지시가 근로기준법에 위반 되는지 확인해 봤습니다.&nbsp;
+</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 11일부터 코로나19 생활지원금 10만 원 모두 중지? (팩트체크넷)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/601</link>
+            <guid>https://factchecker.or.kr/fc_subjects/601</guid>
+            <pubDate>Wed, 30 Nov 2022 10:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/fc_subjects/601">코로나19 확진 후 10만 원의 지원금을 받을 수 있는지에 대한 온라인 커뮤니티 게시글에 7월 11일부터 모두 중지되었다는 댓글이 있었다. (해당 게시물은 삭제된 상태이며 코로나19 10만 원 지원금에 초점을 맞춰 검증했다.)
 </a>]]></content:encoded>
         </item>
         <item>
@@ -87,14 +95,6 @@
 </a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경? (팩트체크넷)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/519</link>
-            <guid>https://factchecker.or.kr/fc_subjects/519</guid>
-            <pubDate>Sun, 27 Nov 2022 04:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/fc_subjects/519">기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크
-</a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
             <link>https://factchecker.or.kr/fc_subjects/605</link>
             <guid>https://factchecker.or.kr/fc_subjects/605</guid>
@@ -102,6 +102,14 @@
             <content:encoded><![CDATA[최근 한 기업에서 업무 시작 10분 전까지 사무실에 오지 않은 10명의 명단을 사내 메일로 공유해 논란이 됐습니다. 계속 출근이 늦는 직원은 교육 또는 면담을 시키겠다는 겁니다. 이밖에도 많은 회사들이 근로계약서에 명시된 출근 시간보다 일찍 회사에 도착해 업무 준비를 하라고 지시합니다.
 이같은 지시가 근로기준법에 위반 되는지 확인해 봤습니다.&nbsp;]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/truelike_sign-4f3ce15576f7a00accc95f4bfdff8f50.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 11일부터 코로나19 생활지원금 10만 원 모두 중지? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/601</link>
+            <guid>https://factchecker.or.kr/fc_subjects/601</guid>
+            <pubDate>Wed, 30 Nov 2022 10:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 확진 후 10만 원의 지원금을 받을 수 있는지에 대한 온라인 커뮤니티 게시글에 7월 11일부터 모두 중지되었다는 댓글이 있었다. (해당 게시물은 삭제된 상태이며 코로나19 10만 원 지원금에 초점을 맞춰 검증했다.)]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제가 아니다? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
@@ -168,14 +176,6 @@
             <pubDate>Wed, 16 Nov 2022 17:18:50 GMT</pubDate>
             <content:encoded><![CDATA[친환경 농산물]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[그린워싱 팩트체크] 환경부가 주는 '환경' 마크는 모두 친환경? (팩트체크넷 ─ 검증센터 ─ 팩트 검증)]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/519</link>
-            <guid>https://factchecker.or.kr/fc_subjects/519</guid>
-            <pubDate>Sun, 27 Nov 2022 04:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[기업들이 친환경제품임을 홍보하기 위해 자사 제품에 표시하는 환경 마크]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/false_sign-473fc23f616c3f07ead988b752276352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[특수활동비를 사생활에 사용해도 됩니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
@@ -339,6 +339,13 @@
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdll0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--68c76a46fe382cacf53130242dd653b23431c970/4e09ed118abd2fb889e22fed57567f52.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[7월 11일부터 코로나19 생활지원금 10만 원 모두 중지? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
+            <link>https://factchecker.or.kr/fc_publications/155</link>
+            <guid>https://factchecker.or.kr/fc_publications/155</guid>
+            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[먼저, 지원금액이 얼마인지 확인하기 위해 10월 7일 중앙방역대책 본부에서 발표한 코로나19 입원 격리자 생활지원비 지원 사업 안내(4-1판)를 참고했다. 3월 16일부터 소득 기준 상관없이 확진자 1인당 10만 원, 2인 이상 15만 원씩 생활지원비가 정액 지원 되어왔음을 확인할 수 있었다. 하지만, 7월 11일부터 격리 통지서를 받은 확진자 중에서 기준 중위소득 100% 이하에 해당하는 사람에 한해 생활지원비가 동일 금액 기준으로 지급되기 시작했다.11월 23일 기준으로 여전히 동일 금액이 지원되는지 확인하기 위해 질병관리청 콜센터에 문의했다. 콜센터에서는 보건소로부터 격리 통지서를 받은 확진자가 기준 중위소득 100% 이하 기준에 해당할 때 여전히 같은 정액 지원금을 받게 된다고 설명했다. 통지서는 아래의 통지서를 의미한다. 자가 진단키트를 이용해 확진이 확인된 자가격리 치료 환자는 해당하지 않는다고 설명했다.다음은 코로나19 생활지원비 신청이 중단된 곳이 있는지 검증했다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[해양 보호를 위해 개인의 플라스틱 사용을 줄이는 게 큰 효과가 없다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
             <link>https://factchecker.or.kr/fc_publications/149</link>
             <guid>https://factchecker.or.kr/fc_publications/149</guid>
@@ -470,14 +477,6 @@ https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&amp;
 &nbsp;
 이는 국내 커피 소비량의 폭발적 증가와 커피 시장의 성장을 동시에 나타내고 있다.
 습관처럼 자주 마시게 되는 커피에 대한 연구는 꾸준히 진행되고 있다. 하지만 그것이 건강에 미치는 영향에 관한 연구 결과는 늘 상...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 본디 중국 것이다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
-            <link>https://factchecker.or.kr/fc_publications/141</link>
-            <guid>https://factchecker.or.kr/fc_publications/141</guid>
-            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[천원링 발언의 근거UPI뉴스에서 인용한 천원링의 발언은 “산업망·공급망에 있어 본디 중국에 속한 TSMC를 빼앗아야 한다” 이다. 원문인 밍바오에서는 “we must recover Taiwan, especially in terms of industrial chain and supply chain restructuring, and we must grab TSMC, which originally belonged to China, into China’s hands”로 번역할 수 있다. 해석하자면 중국은 산업망과 공급망 재건을 위해서라도 대만을 수복하고 본래 중국의 것인 TSMC를 중국의 손에 쥐어야 한다는 뜻이다. 원문을 통해 해당 진술에 대한 목적은 ‘산업·공급망 재건’으로 알 수 있으나 ‘TSMC가 본래 중국 것’이라는 구체적인 근거는 찾아볼 수 없었다.
-천원링이 이처럼 주장한 데 이유를 추측할 수 있다. 첫 번째로, 중국이 양안 통일의 근거로 제시하는 ‘하나의 중국’ 논리가 있...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[법제동향] 국내 딥페이크 허위영상물 방지 법안 (팩트체크넷 ─ 자료실 ─ 주요동향)]]></title>
