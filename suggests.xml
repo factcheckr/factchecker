@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-11-30T06:16:51.548Z</updated>
+    <updated>2022-11-30T07:12:36.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[일본이나 다른 데는 특수부 검사 출신은 검찰총장도 안 시킨다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/931</id>
+        <link href="https://factchecker.or.kr/fc_suggests/931"/>
+        <updated>2022-11-30T07:11:55.228Z</updated>
+        <content type="html"><![CDATA[아침 출근길에 라디오를 듣다보니 송영길 전 대표가 나와서 검찰 수사에 대한 이야기를 한참 하더라구요.
+듣다가 궁금한 내용이 생겨서 검증 요청합니다.
+특수부 검사들이 더불어민주당 정치인 관련 수사를 하고 있으니 비판하기 위...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 시위 참가자 얼굴 인식으로 시민점수 깎였다?????]]></title>
         <id>https://factchecker.or.kr/fc_suggests/930</id>
@@ -77,12 +86,5 @@
         <updated>2022-11-16T17:19:05.960Z</updated>
         <content type="html"><![CDATA[&nbsp;안보리에서 퇴출 되었나
 다른곳에서도 퇴출되거나, 제외, 또는 탈퇴하고 있는가(3곳 이상)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라는 물 부족 국가일까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/918</id>
-        <link href="https://factchecker.or.kr/fc_suggests/918"/>
-        <updated>2022-11-16T17:19:05.960Z</updated>
-        <content type="html"><![CDATA[우리나라가 물부족 국가인가요?]]></content>
     </entry>
 </feed>
