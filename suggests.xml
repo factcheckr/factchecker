@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-11-30T07:12:36.624Z</updated>
+    <updated>2022-11-30T08:17:58.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[특수활동비를 사생활에 사용해도 됩니까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/932</id>
+        <link href="https://factchecker.or.kr/fc_suggests/932"/>
+        <updated>2022-11-30T08:16:14.700Z</updated>
+        <content type="html"><![CDATA[윤석열 대통령이 부인과 영화 본 비용을 정보공개청구했더니 공개하면 안 된다고 했다고 합니다.
+정보공개하라고 요청한 단체가 납세자연맹인가 하는 곳인데 들어가 보니까 공개되면 국가 안보에 위험하고 사생활 침해라서 안 된다고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본이나 다른 데는 특수부 검사 출신은 검찰총장도 안 시킨다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/931</id>
@@ -78,13 +86,5 @@
         <updated>2022-11-16T17:19:05.960Z</updated>
         <content type="html"><![CDATA[동일한 성분 의약품에 대하여 제약회사마다 약효차이가 최대 40%가 난다고 하는 대한의사협회의 주장이 있습니다.
 생물학적 동등성 시험을 통과한 오리지널 의약품과 제네릭 의약품의 약효차이에 대한 팩트체크가 필요합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 여러 분야에서 러시아는 제외되는 추세이다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/919</id>
-        <link href="https://factchecker.or.kr/fc_suggests/919"/>
-        <updated>2022-11-16T17:19:05.960Z</updated>
-        <content type="html"><![CDATA[&nbsp;안보리에서 퇴출 되었나
-다른곳에서도 퇴출되거나, 제외, 또는 탈퇴하고 있는가(3곳 이상)]]></content>
     </entry>
 </feed>
