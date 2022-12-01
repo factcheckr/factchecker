@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-12-01T08:17:18.798Z</updated>
+    <updated>2022-12-01T09:13:53.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/612</id>
+        <link href="https://factchecker.or.kr/fc_subjects/612"/>
+        <updated>2022-12-01T09:12:54.951Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/612">진술문 : &nbsp;비닐봉지는 해안 플라스틱 쓰레기 중 0.8 %에 불과하다?
+https://www.thedailypost.kr/news/articleView.html?idxno=71100
+http://www.kbmaeil.com/news/articleView.html?idxno=903722
+https://www.hankyung.com/opinion/article/2022110195241
+&nbsp;
+&nbsp;
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/605</id>
@@ -82,14 +95,6 @@
         <link href="https://factchecker.or.kr/fc_subjects/523"/>
         <updated>2022-11-16T17:18:50.972Z</updated>
         <content type="html"><![CDATA[<a href="/fc_subjects/523">친환경 산화 생분해 제품
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그린워싱 팩트체크] 합성농약, 화학비료 안 쓰면 친환경?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/522</id>
-        <link href="https://factchecker.or.kr/fc_subjects/522"/>
-        <updated>2022-11-16T17:18:50.976Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/522">친환경 농산물
 </a>]]></content>
     </entry>
 </feed>

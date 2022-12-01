@@ -4,9 +4,22 @@
         <title>팩트체크넷 ─ 검증센터 ─ 팩트 검증</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다?]]></title>
+            <link>https://factchecker.or.kr/fc_subjects/612</link>
+            <guid>https://factchecker.or.kr/fc_subjects/612</guid>
+            <pubDate>Thu, 01 Dec 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[진술문 : &nbsp;비닐봉지는 해안 플라스틱 쓰레기 중 0.8 %에 불과하다?
+https://www.thedailypost.kr/news/articleView.html?idxno=71100
+http://www.kbmaeil.com/news/articleView.html?idxno=903722
+https://www.hankyung.com/opinion/article/2022110195241
+&nbsp;
+&nbsp;]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반?]]></title>
             <link>https://factchecker.or.kr/fc_subjects/605</link>
@@ -80,14 +93,6 @@
             <guid>https://factchecker.or.kr/fc_subjects/523</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
             <content:encoded><![CDATA[친환경 산화 생분해 제품]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[그린워싱 팩트체크] 합성농약, 화학비료 안 쓰면 친환경?]]></title>
-            <link>https://factchecker.or.kr/fc_subjects/522</link>
-            <guid>https://factchecker.or.kr/fc_subjects/522</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[친환경 농산물]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
     </channel>
