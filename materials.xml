@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/materials</id>
     <title>팩트체크넷 ─ 자료실 ─ 교육 자료</title>
-    <updated>2022-12-02T09:13:52.103Z</updated>
+    <updated>2022-12-02T10:14:09.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팩트체크 가이드(교육자료집)]]></title>
+        <id>https://factchecker.or.kr/materials/550</id>
+        <link href="https://factchecker.or.kr/materials/550"/>
+        <updated>2022-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉽게 따라하는 팩트체크 가이드북 (포켓용)]]></title>
         <id>https://factchecker.or.kr/materials/241</id>
@@ -83,13 +90,5 @@
         <updated>2020-12-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[소개 :&nbsp;
 진짜와 가짜의 경계가 희미해지면서 일상생활의 다양한 정보 중에 ‘팩트’를 구별하고 파악하는 것은 더욱 어려워졌습니다. 영향력 있는 사람들까지도 진짜와 가짜 구분이 명확하지 않은 자료를 바탕으로 저마다 목소리를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팩트체크 교육 - 팩트체크 기사의 검증과정과 특징(중등)]]></title>
-        <id>https://factchecker.or.kr/materials/187</id>
-        <link href="https://factchecker.or.kr/materials/187"/>
-        <updated>2020-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[소개 :&nbsp;
-유명 정치인의 발언, SNS 및 언론의 뉴스를 팩트체크 한 실제 사례를 함께 읽어보는 활동을 통해 팩트체크 기사 작성의 형식과 특징을 알아보고, 앞으로 스스로 팩트체크 기사를 찾아서 읽을 수 있는 방법에 대해...]]></content>
     </entry>
 </feed>

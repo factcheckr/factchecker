@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 10:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -694,6 +694,13 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
 정보 감염병은 변이에 변이를 거듭하는 특징을 가지고 있다. 이는 알파, 베타...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[팩트체크 가이드(교육자료집) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>
+            <link>https://factchecker.or.kr/materials/550</link>
+            <guid>https://factchecker.or.kr/materials/550</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쉽게 따라하는 팩트체크 가이드북 (포켓용) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>
             <link>https://factchecker.or.kr/materials/241</link>
             <guid>https://factchecker.or.kr/materials/241</guid>
@@ -771,14 +778,6 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
             <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[소개 :&nbsp;
 진짜와 가짜의 경계가 희미해지면서 일상생활의 다양한 정보 중에 ‘팩트’를 구별하고 파악하는 것은 더욱 어려워졌습니다. 영향력 있는 사람들까지도 진짜와 가짜 구분이 명확하지 않은 자료를 바탕으로 저마다 목소리를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팩트체크 교육 - 팩트체크 기사의 검증과정과 특징(중등) (팩트체크넷 ─ 자료실 ─ 교육 자료)]]></title>
-            <link>https://factchecker.or.kr/materials/187</link>
-            <guid>https://factchecker.or.kr/materials/187</guid>
-            <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소개 :&nbsp;
-유명 정치인의 발언, SNS 및 언론의 뉴스를 팩트체크 한 실제 사례를 함께 읽어보는 활동을 통해 팩트체크 기사 작성의 형식과 특징을 알아보고, 앞으로 스스로 팩트체크 기사를 찾아서 읽을 수 있는 방법에 대해...]]></content:encoded>
         </item>
     </channel>
 </rss>
