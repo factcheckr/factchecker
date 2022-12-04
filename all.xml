@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 05:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 06:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,15 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/falselike_sign-49fe0ee0680beee70c2ffcd5fcfe6118.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중보기도 요청 받음 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/933</link>
+            <guid>https://factchecker.or.kr/fc_suggests/933</guid>
+            <pubDate>Sun, 04 Dec 2022 06:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[(긴급 중보기도 요청)
+오늘 슬프게도 아주 끔찍한 소식을 지금 막 접했습니다. 그것을 뉴스에서도 확인할 수 있습니다. 무슨 슬픔입니까?
+내일 오후 아프간의 이슬람 교도들에 의해 사형선고를 받을 기독교 선교사 229명을 위...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[특수활동비를 사생활에 사용해도 됩니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/932</link>
             <guid>https://factchecker.or.kr/fc_suggests/932</guid>
@@ -260,14 +269,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <guid>https://factchecker.or.kr/fc_suggests/921</guid>
             <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
             <content:encoded><![CDATA[인천 연수을&nbsp; 선거무효소송 판결문에서 원고가 부정선거범을 특정하지 못했다고 기각처리했는데 터무니없는 투표용지가 보이고 통계수치에도 있을수 없는 사전투표와 본투표의 괴리를&nbsp; 보고도 강제수사를 지시하지 않은 법원, 고소,고발...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오리지널과 제네릭 의약품의 약효차이가 정말 유의미한가? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/920</link>
-            <guid>https://factchecker.or.kr/fc_suggests/920</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[동일한 성분 의약품에 대하여 제약회사마다 약효차이가 최대 40%가 난다고 하는 대한의사협회의 주장이 있습니다.
-생물학적 동등성 시험을 통과한 오리지널 의약품과 제네릭 의약품의 약효차이에 대한 팩트체크가 필요합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트와이] "민주노총 탈퇴 직후 포스코 주가 급등"...사실일까? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
