@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 02:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 03:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,6 +271,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[인천 연수을&nbsp; 선거무효소송 판결문에서 원고가 부정선거범을 특정하지 못했다고 기각처리했는데 터무니없는 투표용지가 보이고 통계수치에도 있을수 없는 사전투표와 본투표의 괴리를&nbsp; 보고도 강제수사를 지시하지 않은 법원, 고소,고발...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] 1무 1패 하고도 16강 진출한 경우는? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4754</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4754</guid>
+            <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[월드컵 조별 예선 2차전 가나전이 끝나고, 한국의 16강 진출을 점치는 사람은 거의 없었습니다. 그도 그럴 것이 월드컵 조별 예선 2차전까지 성적은 1무 1패, 더군다나 조별리그 마지막 3차전은 축구 강호 포르투갈이었기 때문입니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjR1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--190314caec5d320add5676a1b6048828df13c431/0501365e6f8094fbec59c3f129e1a59c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] '안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4753</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4753</guid>
@@ -341,14 +349,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정부가 29일, 파업 중인 화물연대 측 시멘트 운송 차량에 대해 업무개시명령을 발동하면서 양측 간 극한...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXd1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad1782d809d7e4e17e6b32de7795ae616adf56b7/a774a2ac4da5d5661a7da53862733708.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 업무개시명령, ILO 협약 위반? 글로벌 기준 YES...한국은 비준 안해 NO | 아주경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4744</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4744</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 민주노총 공공운수노조 화물연대본부 파업에 대해 발동한 ‘업무개시명령’이 ILO(국제노동기구) 핵심협약이 명시한 ‘강제노동행위 금지’에 배치된다는 주장이 제기되고 있다. 실제 ILO 협약 105호는 ‘강제근로 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXN1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c66acf00995ca0cf5de43838dbd77fde4f0446b/4c284e8e328e25010bea733aa71520bc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
