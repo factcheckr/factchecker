@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-06T07:12:49.558Z</updated>
+    <updated>2022-12-06T08:17:21.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[법인세 인하 후 일자리가 늘어난 사례가 있다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/934</id>
+        <link href="https://factchecker.or.kr/fc_suggests/934"/>
+        <updated>2022-12-06T08:15:36.173Z</updated>
+        <content type="html"><![CDATA[오늘 아침 라디오에서 성일종 국민의힘 정책위의장이 법인세 인하가 필요하다면서 레이건 정부 시절에 법인세 인하 후 일자리가 늘어났고 경제가 좋아졌다, 이명박 정부 시절 법인세 인하 후 박근혜, 문재인 정부에서 30조의 세수...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중보기도 요청 받음]]></title>
         <id>https://factchecker.or.kr/fc_suggests/933</id>
@@ -80,12 +87,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/922"/>
         <updated>2022-11-16T17:19:05.960Z</updated>
         <content type="html"><![CDATA[오미크론 XBB가 진단이 어렵고 위험성도 델타의 5배이고 전파력도 높고 폐로 바로 접근하여 폐렴으로 발전한다고 하는데 사실여부를 체크해주세요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[415총선 부정선거 증거가 차고 넘치는데 강제수사는 왜 안하나?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/921</id>
-        <link href="https://factchecker.or.kr/fc_suggests/921"/>
-        <updated>2022-11-16T17:19:05.960Z</updated>
-        <content type="html"><![CDATA[인천 연수을&nbsp; 선거무효소송 판결문에서 원고가 부정선거범을 특정하지 못했다고 기각처리했는데 터무니없는 투표용지가 보이고 통계수치에도 있을수 없는 사전투표와 본투표의 괴리를&nbsp; 보고도 강제수사를 지시하지 않은 법원, 고소,고발...]]></content>
     </entry>
 </feed>
