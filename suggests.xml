@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-06T08:17:21.780Z</updated>
+    <updated>2022-12-06T09:12:47.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BBC 해설이 한국 경기력이 대회 수준이 아니었다고 했다는 기사가 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/935</id>
+        <link href="https://factchecker.or.kr/fc_suggests/935"/>
+        <updated>2022-12-06T09:12:07.858Z</updated>
+        <content type="html"><![CDATA[커뮤니티를 보니까 BBC 해설이 한국 대표팀이 월드컵 대회 수준이 아니라고 말했다는 국내 언론 기사가 있던데요.
+이게 오보라면서 원문을 해석하면 브라질 대표팀이 파괴적이라고 발언한 게 사실이라고 주장하더라고요.
+내용이 너...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법인세 인하 후 일자리가 늘어난 사례가 있다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/934</id>
@@ -80,12 +89,5 @@
         <content type="html"><![CDATA[제목 전달: 교회폐지법을 발의한 21교회폐지법을 발의한21대 민주당 국회 의원 78명과 무소속 1명, 79명 의원 명단.
 절대잊지 말아야 하는 악한 이름들
 현재 한국에 있는 교회를 폐지하자는 발의를 하자, 그에 대한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 XBB 위험성 정도]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/922</id>
-        <link href="https://factchecker.or.kr/fc_suggests/922"/>
-        <updated>2022-11-16T17:19:05.960Z</updated>
-        <content type="html"><![CDATA[오미크론 XBB가 진단이 어렵고 위험성도 델타의 5배이고 전파력도 높고 폐로 바로 접근하여 폐렴으로 발전한다고 하는데 사실여부를 체크해주세요]]></content>
     </entry>
 </feed>
