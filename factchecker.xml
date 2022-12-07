@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_subjects</id>
     <title>팩트체크넷</title>
-    <updated>2022-12-07T06:16:01.706Z</updated>
+    <updated>2022-12-07T07:14:21.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[화물차 ‘안전운임제’, 안전 개선 효과 없다?]]></title>
+        <id>https://factchecker.or.kr/fc_subjects/621</id>
+        <link href="https://factchecker.or.kr/fc_subjects/621"/>
+        <updated>2022-12-07T07:12:19.675Z</updated>
+        <content type="html"><![CDATA[<a href="/fc_subjects/621">민주노총 공공운수노조 화물연대본부(이하 화물연대)의 집단운송거부(총파업) 사태가 2주째 이어지고 있습니다. 정부가 시멘트에 이어 정유·철강 분야에 대한 추가 업무개시명령 발동을 예고하면서 정부와 화물연대 간의 ‘강대강 대치’가 지속되고 있습니다. 화물연대 파업의 쟁점은 ‘안전운임제 확대’입니다. 2020년부터 1월부터 시행된 안전운임제를 일몰제가 아닌 영구적으로 법제화하고, 안전운임제 적용 품목을 컨테이너와 시멘트 부문에서 철강, 유류, 택배, 사료곡물, 자동차 운송 등으로 확대하자는 겁니다. 그런데 이 제도의 실효성 여부를 놓고 정부와 화물연대 간의 주장이 평행선을 달리고 있습니다. 정부와 여당은 안전운임제가 실시된 이후 오히려 교통사고가 늘었다며 안전 개선 효과가 없다고 주장하는 반면, 화물연대는 안전운임제의 효과가 이미 증명됐다고 말합니다. 과연 안전운임제 도입 이후 화물차 교통사고가 정말 늘었을지, 안전운임제의 입증된 ‘안전 개선’ 효과는 어떤 것들이 있을지. 양측의 주...
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다?]]></title>
         <id>https://factchecker.or.kr/fc_subjects/612</id>
@@ -87,14 +95,6 @@ https://www.hankyung.com/opinion/article/2022110195241
         <content type="html"><![CDATA[<a href="/fc_subjects/525">지난달 24일과 25일, 한국 정부는 스위스 제네바 유엔본부에서 유엔장애인권리위원회(아래 위원회)에 출석해 유엔장애인권리협약(아래 협약) 이행 상황에 대한 심의를 받았습니다. 위원회 한국 담당관들은 한국 장애인의 시외이동권 증진을 위해 한국 정부가 어떤 노력을 하고 있는지 물었습니다.
 이에 국토교통부는 지난달 8일 발표한 ‘2021년 교통약자 이동편의 실태조사 연구 최종 보고서(아래 보고서)’를 기반으로 답변하며, “대한민국 정부는 장애인의 차별 없는 이동을 보장하기 위해 도시 간 이동에 제약이 없도록 다양한 지원을 추진 중”이라고 답했습니다.
 지난달 22일, 정부가 위원회에 제출한 국가보고서(보완보고서) 내용과 위원회에 출석해 답변한 내용이 크게 다르지 않은데요. 한국 정부는 정말 장애인의 차별 없는 시외이동권을 보장하고 있을까요? 비마이너가 확인했습니다.
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그린워싱 팩트체크] '생분해' 되니까 친환경?]]></title>
-        <id>https://factchecker.or.kr/fc_subjects/523</id>
-        <link href="https://factchecker.or.kr/fc_subjects/523"/>
-        <updated>2022-11-16T17:18:50.972Z</updated>
-        <content type="html"><![CDATA[<a href="/fc_subjects/523">친환경 산화 생분해 제품
 </a>]]></content>
     </entry>
 </feed>
