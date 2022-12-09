@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 00:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,6 +276,14 @@ https://www.hankyung.com/opinion/article/2022110195241
 근데 중간에 정의당 이정미 대표가 대한민국 야당들은 취임 반년이 지나도록 대...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 미국·영국선 주소지 없어도 사회보장급여 신청할 수 있다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4763</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4763</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 서울 서대문구 모녀 사망 사건 등 생활고에 시달리던 취약계층이 국가 지원을 받지 못한 채 세상을 떠나는 사건이 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcll2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f74d5c1d723c41e7d57645dacc003eb309a0664/d18d8b2836a27219fdbd255b4a906ba7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 코로나가 들여온 '문자·카톡 행정'…문자 업무개시명령도 효력? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4761</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4761</guid>
@@ -345,14 +353,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[월드컵 조별 예선 2차전 가나전이 끝나고, 한국의 16강 진출을 점치는 사람은 거의 없었습니다. 그도 그럴 것이 월드컵 조별 예선 2차전까지 성적은 1무 1패, 더군다나 조별리그 마지막 3차전은 축구 강호 포르투갈이었기 때문입니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjR1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--190314caec5d320add5676a1b6048828df13c431/0501365e6f8094fbec59c3f129e1a59c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] '안전운임제 확대' 요구하는 화물노동자들, 이미 소득이 높다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4753</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4753</guid>
-            <pubDate>Sat, 03 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 민주노총 공공운수노조 화물연대본부(화물연대)의 파업(집단 운송거부) 사태가 점차 장기화하는 가...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjB1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f321d3dd8f1c35f648b08d0d5c0bc0fb1ce32a6/f3cee44715a783209f4871ab4f194649.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
