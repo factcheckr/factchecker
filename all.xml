@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[노동에 적대적인 사람은 정치인이 될 수 없다고 윤석열 대통령이 말했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/939</link>
+            <guid>https://factchecker.or.kr/fc_suggests/939</guid>
+            <pubDate>Tue, 13 Dec 2022 07:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 끝났지만 화물연대 파업 때 트위터를 돌아다니다 보니 이재명 대표가 윤석열 대통령이 한 발언을 가지고 비판을 했더라고요.
+대통령 선거 후보 시절 같은데 윤석열 대통령이 노동에 적대적인 사람은 정치인이 될 수 없다고 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라오스엔 아디다스, 필리핀엔 맥도날드가 없다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/938</link>
             <guid>https://factchecker.or.kr/fc_suggests/938</guid>
@@ -265,15 +273,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[최근에 중국 정부의 코로나19 봉쇄 정책을 비판하는 시위가 열렸다고 들었는데요
 커뮤니티를 보니까 중국에서 시위가 줄어들고 있는데 이유가 얼굴 인식으로 시위에 참가한 사람들의 시민 점수를 깎아서라는 글이 있네요????
 찾다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파업을 하면 다 불법인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/929</link>
-            <guid>https://factchecker.or.kr/fc_suggests/929</guid>
-            <pubDate>Tue, 29 Nov 2022 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[화물연대가 업무 중지를 하고 나서 대부분의 보도에서 불법 파업이라고 쓰고 있는데요.
-기사를 보면 국민의힘 정치인들이 반복해서 불법 파업이라고 주장하더라고요.
-그래서 근거가 있는지 궁금해서 국민의힘 홈페이지에 들어가서 봤더...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "文 정부 때는 평균 5조 감액" 사실은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

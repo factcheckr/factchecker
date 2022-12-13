@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-13T06:16:36.704Z</updated>
+    <updated>2022-12-13T07:11:59.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노동에 적대적인 사람은 정치인이 될 수 없다고 윤석열 대통령이 말했나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/939</id>
+        <link href="https://factchecker.or.kr/fc_suggests/939"/>
+        <updated>2022-12-13T07:11:14.041Z</updated>
+        <content type="html"><![CDATA[지금은 끝났지만 화물연대 파업 때 트위터를 돌아다니다 보니 이재명 대표가 윤석열 대통령이 한 발언을 가지고 비판을 했더라고요.
+대통령 선거 후보 시절 같은데 윤석열 대통령이 노동에 적대적인 사람은 정치인이 될 수 없다고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라오스엔 아디다스, 필리핀엔 맥도날드가 없다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/938</id>
@@ -83,14 +91,5 @@
         <content type="html"><![CDATA[최근에 중국 정부의 코로나19 봉쇄 정책을 비판하는 시위가 열렸다고 들었는데요
 커뮤니티를 보니까 중국에서 시위가 줄어들고 있는데 이유가 얼굴 인식으로 시위에 참가한 사람들의 시민 점수를 깎아서라는 글이 있네요????
 찾다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파업을 하면 다 불법인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/929</id>
-        <link href="https://factchecker.or.kr/fc_suggests/929"/>
-        <updated>2022-11-29T06:15:57.425Z</updated>
-        <content type="html"><![CDATA[화물연대가 업무 중지를 하고 나서 대부분의 보도에서 불법 파업이라고 쓰고 있는데요.
-기사를 보면 국민의힘 정치인들이 반복해서 불법 파업이라고 주장하더라고요.
-그래서 근거가 있는지 궁금해서 국민의힘 홈페이지에 들어가서 봤더...]]></content>
     </entry>
 </feed>
