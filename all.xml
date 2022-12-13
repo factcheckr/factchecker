@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[역대 정부 중 의료보험비를 축소한 정부는 윤석열 정부밖에 없나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/940</link>
+            <guid>https://factchecker.or.kr/fc_suggests/940</guid>
+            <pubDate>Tue, 13 Dec 2022 09:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[트위터를 돌아다니다 보니까 연합뉴스 보도를 링크하면서 윤석열 정부가 대한민국 정부 중 최초로 의료보험비를 축소했다는 글이 올라왔는데요
+정부가 국민의 건강과 직접 연관된 건강보험료를 깎아버릴 생각을 한다는 게 이해가 안 되...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[노동에 적대적인 사람은 정치인이 될 수 없다고 윤석열 대통령이 말했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/939</link>
             <guid>https://factchecker.or.kr/fc_suggests/939</guid>
@@ -264,15 +272,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[아침 출근길에 라디오를 듣다보니 송영길 전 대표가 나와서 검찰 수사에 대한 이야기를 한참 하더라구요.
 듣다가 궁금한 내용이 생겨서 검증 요청합니다.
 특수부 검사들이 더불어민주당 정치인 관련 수사를 하고 있으니 비판하기 위...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국 시위 참가자 얼굴 인식으로 시민점수 깎였다????? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/930</link>
-            <guid>https://factchecker.or.kr/fc_suggests/930</guid>
-            <pubDate>Tue, 29 Nov 2022 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[최근에 중국 정부의 코로나19 봉쇄 정책을 비판하는 시위가 열렸다고 들었는데요
-커뮤니티를 보니까 중국에서 시위가 줄어들고 있는데 이유가 얼굴 인식으로 시위에 참가한 사람들의 시민 점수를 깎아서라는 글이 있네요????
-찾다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] "文 정부 때는 평균 5조 감액" 사실은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>

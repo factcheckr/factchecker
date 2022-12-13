@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-13T08:16:42.707Z</updated>
+    <updated>2022-12-13T09:13:21.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 정부 중 의료보험비를 축소한 정부는 윤석열 정부밖에 없나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/940</id>
+        <link href="https://factchecker.or.kr/fc_suggests/940"/>
+        <updated>2022-12-13T09:12:38.174Z</updated>
+        <content type="html"><![CDATA[트위터를 돌아다니다 보니까 연합뉴스 보도를 링크하면서 윤석열 정부가 대한민국 정부 중 최초로 의료보험비를 축소했다는 글이 올라왔는데요
+정부가 국민의 건강과 직접 연관된 건강보험료를 깎아버릴 생각을 한다는 게 이해가 안 되...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노동에 적대적인 사람은 정치인이 될 수 없다고 윤석열 대통령이 말했나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/939</id>
@@ -82,14 +90,5 @@
         <content type="html"><![CDATA[아침 출근길에 라디오를 듣다보니 송영길 전 대표가 나와서 검찰 수사에 대한 이야기를 한참 하더라구요.
 듣다가 궁금한 내용이 생겨서 검증 요청합니다.
 특수부 검사들이 더불어민주당 정치인 관련 수사를 하고 있으니 비판하기 위...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 시위 참가자 얼굴 인식으로 시민점수 깎였다?????]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/930</id>
-        <link href="https://factchecker.or.kr/fc_suggests/930"/>
-        <updated>2022-11-29T06:15:57.425Z</updated>
-        <content type="html"><![CDATA[최근에 중국 정부의 코로나19 봉쇄 정책을 비판하는 시위가 열렸다고 들었는데요
-커뮤니티를 보니까 중국에서 시위가 줄어들고 있는데 이유가 얼굴 인식으로 시위에 참가한 사람들의 시민 점수를 깎아서라는 글이 있네요????
-찾다...]]></content>
     </entry>
 </feed>
