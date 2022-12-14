@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 00:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 02:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노컷체크]중대재해 예방에 핼러윈 대비 못했다…서울시 주장, 진실은?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4774</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4774</guid>
+            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[아시다시피 올해 1월부터 중대재해법이 시행되지 않았습니까? 그래서 온 사회가 모든 지자체, 정부, 기업 할 것 없이 중대재해에 모두 초점이 옮겨갔습니다. 그래서 서울시도 거기에 즉응해서 중대재해예방과를 만..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUV2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ab6f76a6c3090aaa297b4c2158d78aa0f4cee30/6ea20304175df05d1e3d55e6336a0c3f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] "文 정부 때는 평균 5조 감액" 사실은?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4772</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 코로나19 사태로 마스크 착용이 의무화된 지 약 2년 만에 실내 마스크 해제 논의가 급물살을 ...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmd2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ebe6911fa707c3450619870f430abd792fe54ac/89d2b14df4c802c83e209f39b1a24ba8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 연필 초콜릿 판매 문제없다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4764</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4764</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동안 펀슈머 열풍이 불면서 이마를 칠 정도로 특이한 식품들이 많이 출시됐습니다. 밀가루 회사와 맥주 회사가 협업한 밀가루 브랜드의 맥주를 비롯해 구두약 브랜드의 흑맥주 등 성인대상 상품은 지금까지 시판되고 있습니다. 그런데 이 열풍은 어린이 대상 식품으로 이어졌고, 딱풀 모양 캔디, 구두약 모양 초콜릿 등 학용품 모양의 식품이 출시되는 결과를 낳았습니다. 이는 분별력이 부족한 어린이 등 취약계층이 식품이 아닌 것을 식품으로 오인해 잘못 섭취하는 사고로 이어질 수 있다는 우려를 낳았습니다. 국회는 관련 법률을 개정했고 정부는 시행규]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmN2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f06621e25d9d94d41cd7fc46fcdde6767ad8561a/80a6f772607091cf696bf730b2ee2e20.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
