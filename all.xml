@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 02:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 03:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,16 +581,15 @@ SOMA (Social Observatory for Disinformation and Social Media Analysis)
             <link>https://factchecker.or.kr/papers/578</link>
             <guid>https://factchecker.or.kr/papers/578</guid>
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;
+            <content:encoded><![CDATA[△ 표지를 클릭하면 보고서를 내려받을 수 있습니다
+&nbsp;
 제목: 정부 보도자료는 모두 사실일까-유엔장애인권리협약 대한민국 심의와 관련한 정부 자료를 중심으로&nbsp;
 &nbsp;
 목차
 &nbsp;
 &nbsp;여는 글
 &nbsp;
-&nbsp;한국 정부가 유엔장애인권리위원회에서 말하지 않은 것들
-&nbsp;
-&nbsp;팩트체크...]]></content:encoded>
+&nbsp;한국 정부가 유엔장...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[뉴스톱] 2022 한국 그린워싱 팩트체크 (팩트체크넷 ─ 자료실 ─ 연구 논문)]]></title>

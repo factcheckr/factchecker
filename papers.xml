@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/papers</id>
     <title>팩트체크넷 ─ 자료실 ─ 연구 논문</title>
-    <updated>2022-12-14T02:23:28.653Z</updated>
+    <updated>2022-12-14T03:17:00.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -10,16 +10,15 @@
         <id>https://factchecker.or.kr/papers/578</id>
         <link href="https://factchecker.or.kr/papers/578"/>
         <updated>2022-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[&nbsp;
+        <content type="html"><![CDATA[△ 표지를 클릭하면 보고서를 내려받을 수 있습니다
+&nbsp;
 제목: 정부 보도자료는 모두 사실일까-유엔장애인권리협약 대한민국 심의와 관련한 정부 자료를 중심으로&nbsp;
 &nbsp;
 목차
 &nbsp;
 &nbsp;여는 글
 &nbsp;
-&nbsp;한국 정부가 유엔장애인권리위원회에서 말하지 않은 것들
-&nbsp;
-&nbsp;팩트체크...]]></content>
+&nbsp;한국 정부가 유엔장...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스톱] 2022 한국 그린워싱 팩트체크]]></title>
