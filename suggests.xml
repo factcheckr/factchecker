@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-15T21:11:20.262Z</updated>
+    <updated>2022-12-15T22:11:53.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 김건희 여사의 주가조작, 학력위조 등의 조사를 실시했으며 무혐의로 종결 되었다는 것이 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/942</id>
+        <link href="https://factchecker.or.kr/fc_suggests/942"/>
+        <updated>2022-12-15T22:11:13.980Z</updated>
+        <content type="html"><![CDATA[문재인 정부 시기 김건희 여사의 의혹을 영상에 나온대로 탈탈(?) 털었으며 무혐의 종결이 충분한 조사로 마무리 된 것인지 궁금합니다&nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부의 대북정책 과정 중 잘된 점과 아쉬운 점 실제로 대북정책에 많은 세금이 쓰였는지 궁금합니다.]]></title>
         <id>https://factchecker.or.kr/fc_suggests/941</id>
@@ -80,13 +87,5 @@
         <content type="html"><![CDATA[(긴급 중보기도 요청)
 오늘 슬프게도 아주 끔찍한 소식을 지금 막 접했습니다. 그것을 뉴스에서도 확인할 수 있습니다. 무슨 슬픔입니까?
 내일 오후 아프간의 이슬람 교도들에 의해 사형선고를 받을 기독교 선교사 229명을 위...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특수활동비를 사생활에 사용해도 됩니까?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/932</id>
-        <link href="https://factchecker.or.kr/fc_suggests/932"/>
-        <updated>2022-11-30T08:16:14.700Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령이 부인과 영화 본 비용을 정보공개청구했더니 공개하면 안 된다고 했다고 합니다.
-정보공개하라고 요청한 단체가 납세자연맹인가 하는 곳인데 들어가 보니까 공개되면 국가 안보에 위험하고 사생활 침해라서 안 된다고 ...]]></content>
     </entry>
 </feed>
