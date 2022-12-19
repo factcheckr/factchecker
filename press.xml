@@ -4,9 +4,25 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 23:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 00:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사실은] "'52시간제', 최대 연 단위로 개편" 따져봤더니]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4776</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4776</guid>
+            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 추진하려는 노동정책의 밑그림이 최근 나왔습니다. 지금은 일하는 시간을 일주일 단위로 계산해서 52시간을 넘지 못하도록 하고 있는데, 앞으로는 계산하는 기준을 한 달, 아니면 일 년 이렇게 더 늘리겠다는 것입니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTh2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76a91b737208f3fc4596829c2769eee332d78d4c/818d512b2a5c683c7e447f7db57aa585.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 화물연대 파업 때문에 11월 수출액이 감소했다? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4775</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4775</guid>
+            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 우리나라 수출액이 지난해에 이어 올해에도 사상 최대를 경신했다는 정부 발표가 나왔으나 무역 전망은 밝지 않다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTR2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee4b795b96161985b6c51767904daf519faf0fb7/48552d82a92a80e29fd599ca7cee3c0f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[노컷체크]중대재해 예방에 핼러윈 대비 못했다…서울시 주장, 진실은?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4774</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이코리아] 정기국회 마지막 날인 9일, 법인세 인하를 두고 여야가 공방을 벌였다. 정부 여당은 법인세 인하가 세계적인 추세이며 기업의 투자, 고용 여력을 높여 경제에 도움이 된다고 주장한다. 특히 외국의 세율과 비교하면 한국의 법인세율이 높다고 강조한다. 반면 더불어민주당은 법인세 인하는 대기업 감세라며 반대한다. 는 우리나라 법인세율이 세계 주요국과 비교해 높은지 팩트체크했다.올해 6월 16일 발표된 새 정부 경제정책방향에 따르면, 한국 법인세 최고세율을 22%로 인하하겠다는 내용이 담겼다. 정부는 기업의 투자ㆍ고]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm92IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8b67ea3b21650f4a14ca10462bf4ab8df56117c5/56b48098e6ef8ad15d562f868d922ac0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 한동훈 장관, “우리 국민은 영주권을 가져도 해당국에서 투표권이 없다” 진위는]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4766</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4766</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[검증대상] 한동훈 법무부 장관은 “우리 국민은 영주권을 가져도 해당국에서 투표권이 없는데 상대국은 우리나라에서 투표권을 갖는 상황이 생길 수 있다”고 말했다. 이어 “상호주의 원칙을 고려하지 않은 외국인 투표권 부여는 민의를 왜곡할 수 있다”고 지적했다. 그래서 알아봤다. [검증방법]- 미국 정부 홈페이지- 미국 비시민권자 투표 : The Right to Vote Under Local Law(2017,Joshua A. DouglasUniversity of Kentucky)- 뉴욕시 법 개정문 : Int. No. 1867(2021.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmt2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f91346be14cdf125b06f1e98744dfde420b050c/e58ef8ad90c61ac4aa3369b9a69195aa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 대전, 실내마스크 의무화 먼저 푼다는데…마스크 언제 벗나 | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4765</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4765</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 코로나19 사태로 마스크 착용이 의무화된 지 약 2년 만에 실내 마스크 해제 논의가 급물살을 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmd2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ebe6911fa707c3450619870f430abd792fe54ac/89d2b14df4c802c83e209f39b1a24ba8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
