@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 02:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 03:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,15 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이완용이 3.1운동을 두고 "공공에 민폐되는 행위 하지 말고 집에 돌아가 공부와 생업에 힘쓰라"고 했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/945</link>
+            <guid>https://factchecker.or.kr/fc_suggests/945</guid>
+            <pubDate>Tue, 20 Dec 2022 03:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 커뮤니티에서 이완용이 했다는 말이라면서 돌아다니는 내용이 있는데요
+이완용이 3.1운동을 조롱하면서 시위라는 게 꼭 힘도 없는 것들이 한다고 했다고 하더라고요
+댓글을 보니까 공공에 민폐되는 행위 하지 말고 집에 돌아...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울도시교통공사가 지하철 고장 때문에 지연되는 걸 전장연 시위 때문이라고 거짓 발표했나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/943</link>
             <guid>https://factchecker.or.kr/fc_suggests/943</guid>
@@ -261,13 +270,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[커뮤니티를 보니까 BBC 해설이 한국 대표팀이 월드컵 대회 수준이 아니라고 말했다는 국내 언론 기사가 있던데요.
 이게 오보라면서 원문을 해석하면 브라질 대표팀이 파괴적이라고 발언한 게 사실이라고 주장하더라고요.
 내용이 너...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법인세 인하 후 일자리가 늘어난 사례가 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/934</link>
-            <guid>https://factchecker.or.kr/fc_suggests/934</guid>
-            <pubDate>Tue, 06 Dec 2022 08:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 아침 라디오에서 성일종 국민의힘 정책위의장이 법인세 인하가 필요하다면서 레이건 정부 시절에 법인세 인하 후 일자리가 늘어났고 경제가 좋아졌다, 이명박 정부 시절 법인세 인하 후 박근혜, 문재인 정부에서 30조의 세수...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] '반격능력' 공식화한 일본…한반도 선제공격 가능? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
