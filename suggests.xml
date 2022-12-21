@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2022-12-21T08:16:31.666Z</updated>
+    <updated>2022-12-21T09:12:17.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부가 이렇게 많은 민생 예산을 삭감했다는 게 사실인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/947</id>
+        <link href="https://factchecker.or.kr/fc_suggests/947"/>
+        <updated>2022-12-21T09:11:33.946Z</updated>
+        <content type="html"><![CDATA[윤석열 정부가 문재인 케어를 중단하겠다고 해서 논란이 커지고 있는데요. 트위터를 돌아다니다 보니까 이런 내용도 있어서 사실인지 검증 요청합니다.
+이미지를 보니까 일자리 예산, 청년 일자리 지원 사업, 지역화폐 예산, 중소...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대만에선 음주운전자가 형광 번호판을 달도록 한다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/946</id>
@@ -77,15 +85,5 @@
         <content type="html"><![CDATA[바이든 대통령 치매설은 지난 미국 대선 때 끝난 줄 알았는데 아직도 이런 게 커뮤니티에 퍼지네요.
 바이든 대통령이 정말 58세 생일 잔치가 기대된다고 한 게 맞나요?
 맞더라도 이유와 맥락이 있을 것 같은데 그런 내용이 하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따끈한 소금물로 가글하면  일주일 안에 독일 전역에서 바이러스가 완전히 사라질 것입니다.]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/936</id>
-        <link href="https://factchecker.or.kr/fc_suggests/936"/>
-        <updated>2022-12-08T02:18:17.911Z</updated>
-        <content type="html"><![CDATA[독일 생물학자들이
-목에서 코로나 바이러스의 번식에 대해 수행한 실험 결과에 따라 따뜻한 소금물로
-가글또는양치질을 잘 해야 할 필요성을 다시 한 번 강조하고 있습니다.
-독일 과학자들은 독일 보건부에 다음과 같이 강하게 요청...]]></content>
     </entry>
 </feed>
