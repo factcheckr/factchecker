@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 00:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 노조, 수십억 지원 받고 감사는 안 받는다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4794</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4794</guid>
+            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 노조에 대한 강한 발언이 잇따라 나오고 있는데요. 몇가지를 팩트체크 해보겠습니다.박민규 기자, 일단 정부와 여당은 노조..]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBall3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8f7f103ef50561865d6135a4b524507b4774ec1/2b558894ee99f56b702a46f018ad2c65.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[때려잡으면 지지율 오른다? 윤 정부 ‘노조회계 논란’ 뜯어봤다 [팩트 체크]]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4793</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 국회의 내년도 정부 예산안 심사에서 법인세 인하가 막판 최대 쟁점으로 떠오르면서 예산안 처...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkl2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0dc606558cea6903a7b8ff92867de5fc50b04813/a54032eb62fa6b1ba61bc66583e7b7dd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실확인] '상사-조직 비판' 언론 인터뷰, '공무원 품위 유지 의무' 위반이다?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4789</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4789</guid>
-            <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부 내 경찰국 신설에 반대하며 지난 7월 23일 전국 경찰서장 회의를 주도한 류삼영 총경(전 울...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a2e16f9ee8a9e7d4136aa9f978e27bae0cd8bedd/bfb81e2d24d5c44535de1f56179fe5f6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
