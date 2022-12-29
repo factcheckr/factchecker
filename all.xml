@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 07:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[법이 없어서 서울시장이 구청 행사 안전점검을 할 수 없다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/952</link>
+            <guid>https://factchecker.or.kr/fc_suggests/952</guid>
+            <pubDate>Thu, 29 Dec 2022 08:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 국정조사에서 오세훈 서울시장이 법이 없어서 안전점검을 할 수 없다고 발언했다는데 이게 사실인가요?
+서울시에서 진행되는 행사를 시장이나 시 차원에서 점검을 할 수 없도록 법이 만들어져 있다는 게 이해가 안 되네...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1조원 이상 재정 손실이 생기도록 양곡관리법 개정안이 발의됐나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/951</link>
             <guid>https://factchecker.or.kr/fc_suggests/951</guid>
@@ -258,13 +266,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <guid>https://factchecker.or.kr/fc_suggests/942</guid>
             <pubDate>Thu, 15 Dec 2022 22:11:13 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부 시기 김건희 여사의 의혹을 영상에 나온대로 탈탈(?) 털었으며 무혐의 종결이 충분한 조사로 마무리 된 것인지 궁금합니다&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부의 대북정책 과정 중 잘된 점과 아쉬운 점 실제로 대북정책에 많은 세금이 쓰였는지 궁금합니다. (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/941</link>
-            <guid>https://factchecker.or.kr/fc_suggests/941</guid>
-            <pubDate>Thu, 15 Dec 2022 04:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[극우나 문재인 정부 비난 시 주요 골자인 부동산, 대북 정책을 지적 많이 하는데 문재인 정부의 대북 정책 관한 잘된 점과 아쉬운 점 실제로 대북정책에 많은 세금이 쓰였는지에 대한 팩트가 궁금합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사실은] 특별사면은 임기 초에 '유독' 많았을까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
