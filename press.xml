@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 23:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 00:56:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]尹대통령, "드론부대 창설 앞당기겠다" 사실은?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4802</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4802</guid>
+            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이코리아] 지난 26일 북한 무인기가 남측 영공을 침범해 5시간 넘게 비행하는 사태가 벌어졌다. 이에 윤석열 대통령은 지난 27일 국무회의에서 “북한의 주요 군사시설을 감시 정찰할 드론부대 창설을 계획하고 있었다. 하지만 어제 그 사건을 계기로 해서 드론부대 설치를 최대한 앞당기겠다”며 “최첨단으로 드론을 스텔스 화해서 감시 정찰력을 강화하겠다”고 말했다. 북한 무인기에 대한 대응을 드론부대의 조기 설치로 대응하겠다는 것인데, 우리 군에 드론부대가 없는 건지 가 팩트체크했다. 우선, 우리나라는 이미 육군에 ‘드론봇 전투]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1V3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f822eb4a07592bceb13eb06cf0adb1fcf76146d/d365f2a12791fc7d601d0dfde6b4e510.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈체크K] 주휴수당 폐지되면 내 월급은 얼마나 줄어들까?]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4800</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노조 회계 불투명성 논란 3대 쟁점]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--475e749348189f1dd6875adf9930d5f7b60735ac/526cbd02abb3b84162f25e0928e1fc96.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 국민의힘서 전당대회 앞두고 룰 개정, 과거에도 있었다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4792</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4792</guid>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 구정모 기자 = 국민의힘이 내년 3월 전당대회를 앞두고 당 대표 선출 규정을 개정하기로 하면서 이를 둘러싸고 당내 갈등이 불거...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalF3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cbbe16eb16138969db019ca71741e91a5194a04/32ea633bc98c3420ff4536a09e47a5a9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
