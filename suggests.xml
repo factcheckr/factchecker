@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-04T05:11:46.271Z</updated>
+    <updated>2023-01-04T06:15:54.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰청장은 토요일 관외출타 신고의무가 없나요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/955</id>
+        <link href="https://factchecker.or.kr/fc_suggests/955"/>
+        <updated>2023-01-04T06:15:13.548Z</updated>
+        <content type="html"><![CDATA[이태원 참사 국정조사에서 윤희근 경찰청장이 참사 당일에 놀러가서 술 먹었다는 걸 인정했는데요
+경찰 최고 책임자가 서울 한복판에 인파가 몰릴 게 뻔히 보이는 날 놀러가서 술 먹었다는 것도 웃긴데 공무원들이 자기 관할 지역을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TSMC는 삼성전자보다 세액감면 혜택을 더 받고 있다?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/954</id>
@@ -78,14 +86,5 @@
         <updated>2022-12-20T06:16:23.297Z</updated>
         <content type="html"><![CDATA[오늘 연예인 이루가 음주운전 했다가 적발됐다고 하더라고요. 그래서 트위터를 돌아다니다가 대만 음주운전 처벌과 관련된 내용을 봤는데요. 대만에서는 음주운전자 차량에 색깔이 다른 번호판을 달게 한다고 하더라고요.
 진짜인가 의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이완용이 3.1운동을 두고 "공공에 민폐되는 행위 하지 말고 집에 돌아가 공부와 생업에 힘쓰라"고 했나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/945</id>
-        <link href="https://factchecker.or.kr/fc_suggests/945"/>
-        <updated>2022-12-20T03:12:50.916Z</updated>
-        <content type="html"><![CDATA[인터넷 커뮤니티에서 이완용이 했다는 말이라면서 돌아다니는 내용이 있는데요
-이완용이 3.1운동을 조롱하면서 시위라는 게 꼭 힘도 없는 것들이 한다고 했다고 하더라고요
-댓글을 보니까 공공에 민폐되는 행위 하지 말고 집에 돌아...]]></content>
     </entry>
 </feed>
