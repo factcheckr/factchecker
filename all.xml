@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 07:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 08:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,30 @@ https://www.hankyung.com/opinion/article/2022110195241
 진짜인가 의...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[알고보니] SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4817</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4817</guid>
+            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb0ccf8291ba8b92adf88e2f753dcf513d532e95/1403c8ddb5ddb0e88b9aa09f82d441aa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사실은] "신종변이, 복통·설사 유발"…전문가에 물어보니 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4816</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4816</guid>
+            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이와 함께, 중국에서 퍼지고 있는 코로나 신종 변이가 복통과 설사를 유발한다는 이야기가 나오면서 우리 주식시장에서 제약회사 주가가 한때 요동치기도 했습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8af40c3f743de3a9ad4b5cfddbfd5f9b5f75630/51dfe44f8b9673c8d5251091df79afc8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 당선 후 첫 신년 기자회견 ‘패싱’, 윤석열 대통령이 처음? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4815</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4815</guid>
+            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이코리아] 윤석열 대통령이 취임 후 첫 신년 기자회견을 건너뛰자, 야당의 비판이 거세지고 있다. 야당은 대통령이 신년 기자회견을 ‘패스’한 것은 직선제 도입 이후 처음이라며, 윤 대통령이 ‘불통의 벽’을 쌓고 있다고 비판하고 있다.앞서 윤 대통령은 지난 1일 용산 대통령실에서 취임 후 첫 신년사를 발표했다. 기자들이 참석해 질의응답을 하는 신년 기자회견은 생략하고 이를 신년사 발표로 대체한 셈이다. 다만 윤 대통령은 지난달 30일 조선일보와 단독 인터뷰를 갖고 정치·경제·외교 현안과 노동·연금·교육 등 3대 개혁, 아내 김건희 여]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFl3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6d457ba8d6fe185df6ee19748e8748de7bd5789b/6e5735d7c423e08e766f6448c4e1943b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4814</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4814</guid>
@@ -323,30 +347,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <guid>https://factchecker.or.kr/fc_archives/press/4808</guid>
             <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘이 내년 3월 8일 열릴 전당대회에서 차기 당대표를 ‘당원 투표 100%’ 방식으로 선출키로 확정한 것을 두고 당 내에서 갑론을박이 이어지고 있습니다. 국민의힘 비상대책위원회 (사진=연합뉴스)국민의힘 비상대책위원회는 지난 19일 당대표 선출에서 당원 선거인단의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]北무인기 대응 전력 예산 '50% 삭감' 맞나 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4807</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4807</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e2ed90144f8e6b636a6be33398464e2bee03e36/564b0b1c49aa2dfc6867976f6e612009.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈, 노웅래 증거 공개 “당연한 임무”?…이전 장관들과 달랐다 [팩트체크] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4806</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4806</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크]18대 국회 이후 체포동의 대상 의원 13명당시 법무부장관 7명 발언과 비교해 봤다]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3d3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82e33e8a7b2795230bd2fad1b3eb268d0e9e719d/b04d08c79160ee7a7f57c71a37cbc0ac.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 특별사면은 임기 초에 '유독' 많았을까 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4805</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4805</guid>
-            <pubDate>Wed, 28 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 1,373명에 대한 특별사면을 단행했습니다. 이명박 전 대통령의 잔형 집행 면제와 복권이 이뤄졌습니다. 김경수 전 지사는 복권 없이 잔형 집행만 면제됐습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2d3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4294c94e8ea9709c999d2568db8248c55b088c77/3ac7fafdf22c12888bb543ecf47fb5a5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
