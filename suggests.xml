@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-06T06:16:19.333Z</updated>
+    <updated>2023-01-06T07:12:01.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정전협정에 북한 도발에 대한 동일 방식 대응 관련 내용이 있습니까?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/956</id>
+        <link href="https://factchecker.or.kr/fc_suggests/956"/>
+        <updated>2023-01-06T07:11:14.835Z</updated>
+        <content type="html"><![CDATA[북한 무인기가 비행금지구역까지 들어왔다는 게 어제 밝혀졌습니다
+군은 거짓 발표를 해놓고도 제대로 된 사과도 안 하고, 대통령실은 비행금지구역까지 들어왔다는 걸 밝혀낸 국회의원이 문제라는 듯이 어처구니 없는 대응을 하고 있...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰청장은 토요일 관외출타 신고의무가 없나요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/955</id>
@@ -78,13 +86,5 @@
         <updated>2022-12-21T09:11:33.946Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 문재인 케어를 중단하겠다고 해서 논란이 커지고 있는데요. 트위터를 돌아다니다 보니까 이런 내용도 있어서 사실인지 검증 요청합니다.
 이미지를 보니까 일자리 예산, 청년 일자리 지원 사업, 지역화폐 예산, 중소...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만에선 음주운전자가 형광 번호판을 달도록 한다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/946</id>
-        <link href="https://factchecker.or.kr/fc_suggests/946"/>
-        <updated>2022-12-20T06:16:23.297Z</updated>
-        <content type="html"><![CDATA[오늘 연예인 이루가 음주운전 했다가 적발됐다고 하더라고요. 그래서 트위터를 돌아다니다가 대만 음주운전 처벌과 관련된 내용을 봤는데요. 대만에서는 음주운전자 차량에 색깔이 다른 번호판을 달게 한다고 하더라고요.
-진짜인가 의...]]></content>
     </entry>
 </feed>
