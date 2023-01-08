@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-08T12:20:34.348Z</updated>
+    <updated>2023-01-08T13:15:44.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이런글이 돕니다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/957</id>
+        <link href="https://factchecker.or.kr/fc_suggests/957"/>
+        <updated>2023-01-08T13:15:01.376Z</updated>
+        <content type="html"><![CDATA[💥2023년에 이렇게 달라졌다🎯
+(🆕️1)건강보험료(1.49%)인상ㅇ.직장가입자(소득×%)(3.495%➡️3.545%)ㅇ.지역가입자(부과점수×원)(205.3원➡️208.4원)&nbsp;
+(🆕️2)장기요양보험료(4.4%)인상&nbsp;건보료...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정전협정에 북한 도발에 대한 동일 방식 대응 관련 내용이 있습니까?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/956</id>
@@ -78,13 +87,5 @@
         <updated>2022-12-26T09:11:34.565Z</updated>
         <content type="html"><![CDATA[민경욱 전 국회의원이 트위터에 문재인 전 대통령이 소방관 아버지를 잃고 슬픔에 젖어있는 어린 상주를 웃는 표정으로 뒤로 잡아 끌었다면서 사진을 올렸는데요.
 민경욱 의원은 소방관 아버지를 잃은 아이한테 의전을 따졌는데 기자...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부가 이렇게 많은 민생 예산을 삭감했다는 게 사실인가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/947</id>
-        <link href="https://factchecker.or.kr/fc_suggests/947"/>
-        <updated>2022-12-21T09:11:33.946Z</updated>
-        <content type="html"><![CDATA[윤석열 정부가 문재인 케어를 중단하겠다고 해서 논란이 커지고 있는데요. 트위터를 돌아다니다 보니까 이런 내용도 있어서 사실인지 검증 요청합니다.
-이미지를 보니까 일자리 예산, 청년 일자리 지원 사업, 지역화폐 예산, 중소...]]></content>
     </entry>
 </feed>

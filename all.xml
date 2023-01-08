@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 12:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 13:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,15 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이런글이 돕니다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/957</link>
+            <guid>https://factchecker.or.kr/fc_suggests/957</guid>
+            <pubDate>Sun, 08 Jan 2023 13:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[💥2023년에 이렇게 달라졌다🎯
+(🆕️1)건강보험료(1.49%)인상ㅇ.직장가입자(소득×%)(3.495%➡️3.545%)ㅇ.지역가입자(부과점수×원)(205.3원➡️208.4원)&nbsp;
+(🆕️2)장기요양보험료(4.4%)인상&nbsp;건보료...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정전협정에 북한 도발에 대한 동일 방식 대응 관련 내용이 있습니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/956</link>
             <guid>https://factchecker.or.kr/fc_suggests/956</guid>
@@ -260,14 +269,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Mon, 26 Dec 2022 09:11:34 GMT</pubDate>
             <content:encoded><![CDATA[민경욱 전 국회의원이 트위터에 문재인 전 대통령이 소방관 아버지를 잃고 슬픔에 젖어있는 어린 상주를 웃는 표정으로 뒤로 잡아 끌었다면서 사진을 올렸는데요.
 민경욱 의원은 소방관 아버지를 잃은 아이한테 의전을 따졌는데 기자...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부가 이렇게 많은 민생 예산을 삭감했다는 게 사실인가요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/947</link>
-            <guid>https://factchecker.or.kr/fc_suggests/947</guid>
-            <pubDate>Wed, 21 Dec 2022 09:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부가 문재인 케어를 중단하겠다고 해서 논란이 커지고 있는데요. 트위터를 돌아다니다 보니까 이런 내용도 있어서 사실인지 검증 요청합니다.
-이미지를 보니까 일자리 예산, 청년 일자리 지원 사업, 지역화폐 예산, 중소...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
