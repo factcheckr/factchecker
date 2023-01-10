@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-10T11:11:25.073Z</updated>
+    <updated>2023-01-10T12:23:16.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중국인 건강보험 가입자 낸 보험료 대비 받은 혜택]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/959</id>
+        <link href="https://factchecker.or.kr/fc_suggests/959"/>
+        <updated>2023-01-10T12:22:35.146Z</updated>
+        <content type="html"><![CDATA[중국인 건강보험 가입자 낸 보험료 대비 받은 혜택 이라는 그래프가 있습니다.&nbsp;
+제가 알아 보니 이게 맞다 아니다 논란이 있던데 사실을 정확히 찾을 수가 없습니다.&nbsp;
+국민의힘 서정숙 의원실에서 낸 자료가 맞나요?&nbsp;
+외국인 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외국인 건강보험 중국인만 3800억 적자… 尹 정부, ‘얌체 수급’ 손볼 듯]]></title>
         <id>https://factchecker.or.kr/fc_suggests/958</id>
@@ -78,13 +88,5 @@
         <link href="https://factchecker.or.kr/fc_suggests/950"/>
         <updated>2022-12-27T09:11:28.874Z</updated>
         <content type="html"><![CDATA[어제 북한 무인 정찰기가 서울 상공을 활보해서 다들 안보가 무너졌다고 비판하고 있는데요. 트위터를 보니까 윤석열 대통령이 그 시간에 이상민 장관과 만찬을 즐겼다는 내용이 있네요. 선제타격도 하겠다던 대통령인데 북한 무인 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백두산이 곧 폭발한다는 사실이 근거가 충분한가요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/949</id>
-        <link href="https://factchecker.or.kr/fc_suggests/949"/>
-        <updated>2022-12-27T09:11:28.890Z</updated>
-        <content type="html"><![CDATA[백두산이 곧 폭발한다는 뉴스가 인터넷에 여럿 올라와 있습니다.
-뉴스들에 근거가 타당한지 검증해주십시오.]]></content>
     </entry>
 </feed>
