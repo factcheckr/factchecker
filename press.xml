@@ -4,9 +4,41 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 01:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까? | 연합뉴스]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4826</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4826</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[(서울=연합뉴스) 구정모 기자 = 윤석열 대통령이 새해 벽두에 중대선거구제의 필요성을 언급하며 이 문제가 정치권의 화두로 떠올랐다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUl3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5aa2e5e8ef3692516911188dc1c3cb3d1e39bd8/9aa51d386882fa5b1ac16e3bf77d2eb9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크]SKT 40% 점유율 붕괴? MZ세대 알뜰폰 열풍 때문?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4825</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4825</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUV3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b8526e0db36a285a8507e1498ab9fc8ac56e99a0/7020d681037ba21e845de5f1caded45d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트와이] "헝가리식 대출 탕감 정책이 결혼율 20% 올렸다"...사실일까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4827</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4827</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[앵커]나경원 저출산고령화사회위원회 부위원장이 언급한 ...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU13IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0fdcafe6ee0c7fffcf6e31a97dd07e93b845b09d/3ec6c4f0430b3f597015a228b6558a52.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] 러시아의 X-55 순항미슬 재사용은 미슬 재고 고갈 때문일까?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4824</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4824</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2022년 11월 26일, 연합뉴스는 영(국 국방부) 러, 순항미사일서 핵탄두 빼고 쏜 듯…미사일 고갈 정황이라는 제목의 기사를 냈다.(그림 1)이어 동아일보, 문화일보, 중앙일보 등이 같은 내용의 기사를 냈으며 심지어 MBC 뉴스, SBS 뉴스 등의 방송사 사이트도 이 흐름에 동참했다.(단 방송사 사이트의 기사들이 실제로 방송에서 송출된 것인지의 여부는 불분명하다.)국내 매체들이 이렇게 일제히 보도할 정도의 사안이고 보면 러시아 미슬이 고갈된 것이 분명하다는, 뭔가 굉장한 내용이 나올 거 같아 기사를 한 번 살펴봤다. 2]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUF3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6a698608f13e7ab3c2689be99795b5226e4f89d1/4c366a717ea2268030062dbd5fbbdd7a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[사실은] '신현영 징계 요청'으로 본 '의원 징계'의 정치학]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4823</link>
@@ -53,38 +85,6 @@
             <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 새해부터 식품을 판매할 수 있는 기한이 종전의 유통기한에서 소비기한으로 바뀌면서 식품이...]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5f1b47dacc12861c2b2f76719a88a9e2dfcfd0f8/d6c23ca4619d2ae906b3df95cac70a92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알고보니] SRT열차 멈추면 KTX 투입? 이상한 철도 경쟁]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4817</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4817</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알고보니 시작합니다. 지난 연말 수서고속철도, SRT의 선로에 전기가 끊기는 사고로 160대가 넘는 열차가 줄줄이 지연됐습니다. 불편을 겪은 승객들은, 분명 SRT 열차 사고인데 ...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb0ccf8291ba8b92adf88e2f753dcf513d532e95/1403c8ddb5ddb0e88b9aa09f82d441aa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] "신종변이, 복통·설사 유발"…전문가에 물어보니]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4816</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4816</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이와 함께, 중국에서 퍼지고 있는 코로나 신종 변이가 복통과 설사를 유발한다는 이야기가 나오면서 우리 주식시장에서 제약회사 주가가 한때 요동치기도 했습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8af40c3f743de3a9ad4b5cfddbfd5f9b5f75630/51dfe44f8b9673c8d5251091df79afc8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 당선 후 첫 신년 기자회견 ‘패싱’, 윤석열 대통령이 처음?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4815</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4815</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이코리아] 윤석열 대통령이 취임 후 첫 신년 기자회견을 건너뛰자, 야당의 비판이 거세지고 있다. 야당은 대통령이 신년 기자회견을 ‘패스’한 것은 직선제 도입 이후 처음이라며, 윤 대통령이 ‘불통의 벽’을 쌓고 있다고 비판하고 있다.앞서 윤 대통령은 지난 1일 용산 대통령실에서 취임 후 첫 신년사를 발표했다. 기자들이 참석해 질의응답을 하는 신년 기자회견은 생략하고 이를 신년사 발표로 대체한 셈이다. 다만 윤 대통령은 지난달 30일 조선일보와 단독 인터뷰를 갖고 정치·경제·외교 현안과 노동·연금·교육 등 3대 개혁, 아내 김건희 여]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFl3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6d457ba8d6fe185df6ee19748e8748de7bd5789b/6e5735d7c423e08e766f6448c4e1943b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 전장연 시위 '강대강 대치', 왜 출구 못 찾나]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4814</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4814</guid>
-            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘(3일)도 지하철 탑승 시위는 원천 봉쇄됐습니다. 1분도 지체할 수 없다는 오세훈 서울시장의 말에, 서울교통공사는 법원이 허..]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE13IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6007070ff0711dcd60cd20d8c59527a8df06afb9/bb1183222b89589e71421e48eefd2f50.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
