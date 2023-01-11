@@ -4,9 +4,33 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목조 건물은 화재시 더 위험하다? [FACT IN 뉴스]]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4830</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4830</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 11월 세계일보가 보도한 ‘탄소중립 시대, 나무를 다시 생각한다’ 시리즈 기사에 대한 누리꾼 반응이다. 목조 건축이 탄소중립의 한 방법이라는 기사 내용에 안전 문제를 제기한 것이었다. 반면 임업계에서는 목구조 건물이 철근콘크리트 구조 건물과 비교해 화재 시 더 위험하다...]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6fbc54d0b429b70e43e3d19629a6d88d412d7657/799d24eac8a227ca2c778185eeea21bb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[北무인기 비행금지구역 침범...지도 30분만 보면 알 수 있다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4829</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4829</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 26일 우리 영공을 침범한 북한 무인기가 용산 비행금지구역에 진입했던 것으로 알려졌습니다. 야당에서 북한 무인기가 비행금지구역을 침범했을 가능성을 제기하자 국방부는 사실이 아니라고 반박했는데, 뒤늦게서야 진입 사실을 시인한 겁니다.여권은 최초로 의혹을 제기한 더불어민주당 김병주 의원에게 자료 입수 경위의 의혹을 제기했습니다. 김은혜 홍보수석은 5일 야당 의원이 언론에 주장한 말은 당시 시점으로는 국방부도 합참도 모르는 것이었는데 이런 자료는 어디에서 받았느냐며 김 의원의 자료 입수를 의심했습니다. 국민의힘 신원식 의원도]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3df08aee3f6d15d335323b47f1bcbbaac5196eaa/fe72dfb255e7b5c7a77c5f0eb87f83b8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트체크] "文정권 때 北 무인기 37일간 침투" 사실 아니다]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4828</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4828</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이코리아] 주호영 국민의힘 원내대표가 지난 6일 원내대책회의에서 북한 무인기의 남측 영공 침투 사건과 관련해 무인기가 이번에 처음 넘어온 것도 아니고, 2017년 6월 37일간 우리나라를 휘젓고 다녔다. 성주 사드 기지를 정찰했음에도 지난 문재인 정권은 침투 사실조차 파악하지 못하고 있었다고 말했다.주 원내대표는 하루아침에 (무인기 침투) 대비책이 만들어지는 것이 아니다. 시스템을 구축하고 우리의 대응책을 마련하는데 수년이 걸리는데, 집권한 지 7∼8개월밖에 안 된 이 정부가 대비할 방법은 없었다며 대부분 책임은 문재인]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVl3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bbe9b0d53058e8245db0b2d84e5de8e3170893a2/7e78607799299bf35fb28341800ba30f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 중대선거구제, 지역주의 양당제 정치구도 해소할 대안 될까? | 연합뉴스]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4826</link>
@@ -61,30 +85,6 @@
             <guid>https://factchecker.or.kr/fc_archives/press/4821</guid>
             <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령이 신년사 발표로 계묘년 첫 업무를 시작했다. 윤 대통령은 지난 1일 오전 10시 용산 대통령실에서 열린 신년 인사회에서 “대한민국의 미래와 운명이 달린 노동·교육·연금 ‘3대 개혁’을 더 이상 미룰 수 없다”며 “위대한 국민 여러분과 함께 새로운 도약을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] "한국만 연장근로, 주 단위로 엄격히 관리", 사실은?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4820</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4820</guid>
-            <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이코리아] 윤석열 정부의 노동시장 개편의 핵심은 주 52시간제를 바꾸는 것이다. 고용노동부는 지난달 발표된 전문가 논의기구 미래노동시장 연구회 권고안을 토대로 근로시간 제도 개편안을 마련 중이다. 권고안은 현행 주 단위인 연장근로시간을 월 단위 이상으로 관리해 보다 탄력적으로 일할 수 있도록 한 것이 골자다.앞서 이정식 고용노동부 장관은 지난 12월 15일 국정과제 점검 회의에서 근로시간은 우리나라가 거의 유일하게 글로벌 스탠더드에 맞지 않게, 세계적 추세에 맞지 않게 연장근로를 주 단위로 엄격하게 관리를 하고 있다]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4592d5bf45292fea1ad2d0fe9f64d2a21af857e8/4b8049ef6cfad93a3eec27a002b21b18.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크]"文 정권 때 무인기 침투 사실도 몰랐다"는 주호영 원내대표의 주장]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4819</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4819</guid>
-            <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[주호영 국민의힘 원내대표는 오늘(6일) 원내대책회의에서 “무인기가 이번에 처음 넘어온 것도 아니고, 2017년 6월에 37일간 우리나라를 휘젓고 다녔다. 성주 사드 기지를 정찰했음에도 지난 문재인 정권은 침투 사실조차 파악하지 못하고 있었다”고 지적했다. 최근 발생한 북한 무인기 사건과 관련 대통령실이 위치한 용산 상공을 비행한 사실이 드러난 것에 대해 야]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHd3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d4c81e528bb6e65b91a57a3787478d9c6a0dc735/d3c8cba6b0f9619b7fe5c36681abf484.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4818</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4818</guid>
-            <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 정성호 기자 이아미 인턴기자 = 새해부터 식품을 판매할 수 있는 기한이 종전의 유통기한에서 소비기한으로 바뀌면서 식품이...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5f1b47dacc12861c2b2f76719a88a9e2dfcfd0f8/d6c23ca4619d2ae906b3df95cac70a92.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
