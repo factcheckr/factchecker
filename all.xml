@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 23:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 00:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[어제 북한 무인 정찰기가 서울 상공을 활보해서 다들 안보가 무너졌다고 비판하고 있는데요. 트위터를 보니까 윤석열 대통령이 그 시간에 이상민 장관과 만찬을 즐겼다는 내용이 있네요. 선제타격도 하겠다던 대통령인데 북한 무인 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사실은] 역사 왜곡 적극 대응 한다더니…'일본군 위안부' 삭제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4831</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4831</guid>
+            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학생들 교과서를 만들 때 교육부가 내놓은 교육과정이라는 게 그 지침이 되는데 최근 개정된 교육과정에 5·18 광주 민주화운동이 빠져서 논란이 된 데 이어 일본군 위안부 문제 역시 담겨있지 않은 것으로 확인됐습니다.]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWt3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--caddc6adc68cd8ae5d5811846fadccbfc36f5548/6ef4a5c685b7b9cc1661bb021a1bb67a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[목조 건물은 화재시 더 위험하다? [FACT IN 뉴스] (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4830</link>
             <guid>https://factchecker.or.kr/fc_archives/press/4830</guid>
@@ -342,13 +350,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 수그러들었던 국내 코로나19 확산에 대한 우려가 중국 내 코로나19 대유행을 계기로 다시 고개를 들고 있다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDR3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c32d66deedd9374f24083f24b786729a62cb819e/8abe0492e538c2f25418a33eb45caa6e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 尹, 신년 기자회견을 패스한 유일한 대통령이다? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4821</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4821</guid>
-            <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령이 신년사 발표로 계묘년 첫 업무를 시작했다. 윤 대통령은 지난 1일 오전 10시 용산 대통령실에서 열린 신년 인사회에서 “대한민국의 미래와 운명이 달린 노동·교육·연금 ‘3대 개혁’을 더 이상 미룰 수 없다”며 “위대한 국민 여러분과 함께 새로운 도약을...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비닐봉지는 해양 플라스틱 쓰레기 중 0.8 %에 불과하다? (팩트체크넷 ─ 팩트체크 ─ 시민)]]></title>
