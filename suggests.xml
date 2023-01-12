@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-12T08:16:40.553Z</updated>
+    <updated>2023-01-12T09:15:35.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당이 정부 입법 법안을 단 하나도 통과시켜주지 않는 게 민주화 이후 처음 있는 일이다?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/960</id>
+        <link href="https://factchecker.or.kr/fc_suggests/960"/>
+        <updated>2023-01-12T09:13:52.266Z</updated>
+        <content type="html"><![CDATA[정치인 장예찬 씨가 아침 라디오에 나와서 한 말인데요
+민주당이 정부 입법 법안을 하나도 처리해주지 않았다고 하네요
+이게 사실인가요?
+장예찬 씨 말로는 민주화 이후에 처음 있는 일이라고 하는데 정말 그런지 궁금하네요
+사실인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국인 건강보험 가입자 낸 보험료 대비 받은 혜택]]></title>
         <id>https://factchecker.or.kr/fc_suggests/959</id>
@@ -81,12 +92,5 @@
         <content type="html"><![CDATA[양곡관리법 개정안이 법제사법위원회를 건너 뛰고 국회 표결로 간다는 기사들이 나오고 있습니다.
 그런데 담당부처인 농림축산식품부 장관은 개정안이 시행되면 1조원이 넘는 재정 손실이 생길 거라면서 개정안을 비판하네요.
 반대로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무인정찰기가 서울 상공을 활보하는동안 대통령은 만찬을 즐겼다는 게 사실인가요?????]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/950</id>
-        <link href="https://factchecker.or.kr/fc_suggests/950"/>
-        <updated>2022-12-27T09:11:28.874Z</updated>
-        <content type="html"><![CDATA[어제 북한 무인 정찰기가 서울 상공을 활보해서 다들 안보가 무너졌다고 비판하고 있는데요. 트위터를 보니까 윤석열 대통령이 그 시간에 이상민 장관과 만찬을 즐겼다는 내용이 있네요. 선제타격도 하겠다던 대통령인데 북한 무인 ...]]></content>
     </entry>
 </feed>
