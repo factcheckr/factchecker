@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 05:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,20 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/962</link>
+            <guid>https://factchecker.or.kr/fc_suggests/962</guid>
+            <pubDate>Tue, 17 Jan 2023 05:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[사업진행 정도와 예산 사용처 시기 등 정확히 알고 싶어요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/961</link>
+            <guid>https://factchecker.or.kr/fc_suggests/961</guid>
+            <pubDate>Tue, 17 Jan 2023 05:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[사업진행 정도와 예산 사용처 시기 등 정확히 알고 싶어요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[민주당이 정부 입법 법안을 단 하나도 통과시켜주지 않는 게 민주화 이후 처음 있는 일이다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/960</link>
             <guid>https://factchecker.or.kr/fc_suggests/960</guid>
@@ -257,23 +271,6 @@ https://www.hankyung.com/opinion/article/2022110195241
 &nbsp;
 내용이 jtbc뉴스여서 이게 진짜 있는 기사인가 찾아보니 실제로 존재하네요
 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법이 없어서 서울시장이 구청 행사 안전점검을 할 수 없다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/952</link>
-            <guid>https://factchecker.or.kr/fc_suggests/952</guid>
-            <pubDate>Thu, 29 Dec 2022 08:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 국정조사에서 오세훈 서울시장이 법이 없어서 안전점검을 할 수 없다고 발언했다는데 이게 사실인가요?
-서울시에서 진행되는 행사를 시장이나 시 차원에서 점검을 할 수 없도록 법이 만들어져 있다는 게 이해가 안 되네...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1조원 이상 재정 손실이 생기도록 양곡관리법 개정안이 발의됐나요? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/951</link>
-            <guid>https://factchecker.or.kr/fc_suggests/951</guid>
-            <pubDate>Thu, 29 Dec 2022 05:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[양곡관리법 개정안이 법제사법위원회를 건너 뛰고 국회 표결로 간다는 기사들이 나오고 있습니다.
-그런데 담당부처인 농림축산식품부 장관은 개정안이 시행되면 1조원이 넘는 재정 손실이 생길 거라면서 개정안을 비판하네요.
-반대로 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다? | 연합뉴스 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
