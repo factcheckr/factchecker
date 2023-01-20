@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-20T20:13:29.298Z</updated>
+    <updated>2023-01-20T21:11:21.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우회전 신호등 어기면 20만원 벌금? 사실은 달랐다]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/963</id>
+        <link href="https://factchecker.or.kr/fc_suggests/963"/>
+        <updated>2023-01-20T21:10:38.502Z</updated>
+        <content type="html"><![CDATA[1. 경찰청 공식 보도자료: https://bit.ly/3GUPzrV
+2. 일반 시민들이 검증한 내용들- 유튜브 콘텐츠: https://youtu.be/YsX949ci7gE?t=50(관련 콘텐츠에 경찰청 해명이 포함되어 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팩트체크]]></title>
         <id>https://factchecker.or.kr/fc_suggests/962</id>
@@ -79,15 +87,5 @@
         <updated>2023-01-03T10:12:46.686Z</updated>
         <content type="html"><![CDATA[기사를 보다가 황당한 주장이 있어서 사실인지 확인 요청합니다
 국민의힘 송언석 원내수석부대표라는 사람이 TSMC 공장이 일본에 지어진다면서 반도체 투자에 대한 세액 공제율을 6%에서 8%까지 올리는 것에 그쳤다면서 20%까...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방부가 드론 방어 방법으로 독수리 훈련을 발표했다?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/953</id>
-        <link href="https://factchecker.or.kr/fc_suggests/953"/>
-        <updated>2023-01-03T03:12:44.780Z</updated>
-        <content type="html"><![CDATA[북한 무인기가 아무런 저지 없이 침투한 후에 국방부에서 살아있는 독수리로 방어하는 방법을 대책으로 내놨다는 온라인 커뮤니티 게시글이 있습니다
-&nbsp;
-내용이 jtbc뉴스여서 이게 진짜 있는 기사인가 찾아보니 실제로 존재하네요
-...]]></content>
     </entry>
 </feed>

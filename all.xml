@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 20:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 21:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,14 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우회전 신호등 어기면 20만원 벌금? 사실은 달랐다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/963</link>
+            <guid>https://factchecker.or.kr/fc_suggests/963</guid>
+            <pubDate>Fri, 20 Jan 2023 21:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[1. 경찰청 공식 보도자료: https://bit.ly/3GUPzrV
+2. 일반 시민들이 검증한 내용들- 유튜브 콘텐츠: https://youtu.be/YsX949ci7gE?t=50(관련 콘텐츠에 경찰청 해명이 포함되어 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[팩트체크 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/962</link>
             <guid>https://factchecker.or.kr/fc_suggests/962</guid>
@@ -261,16 +269,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Tue, 03 Jan 2023 10:12:46 GMT</pubDate>
             <content:encoded><![CDATA[기사를 보다가 황당한 주장이 있어서 사실인지 확인 요청합니다
 국민의힘 송언석 원내수석부대표라는 사람이 TSMC 공장이 일본에 지어진다면서 반도체 투자에 대한 세액 공제율을 6%에서 8%까지 올리는 것에 그쳤다면서 20%까...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국방부가 드론 방어 방법으로 독수리 훈련을 발표했다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/953</link>
-            <guid>https://factchecker.or.kr/fc_suggests/953</guid>
-            <pubDate>Tue, 03 Jan 2023 03:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[북한 무인기가 아무런 저지 없이 침투한 후에 국방부에서 살아있는 독수리로 방어하는 방법을 대책으로 내놨다는 온라인 커뮤니티 게시글이 있습니다
-&nbsp;
-내용이 jtbc뉴스여서 이게 진짜 있는 기사인가 찾아보니 실제로 존재하네요
-...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
