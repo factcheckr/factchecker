@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 07:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,13 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[text (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/964</link>
+            <guid>https://factchecker.or.kr/fc_suggests/964</guid>
+            <pubDate>Sun, 22 Jan 2023 08:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우회전 신호등 어기면 20만원 벌금? 사실은 달랐다 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/963</link>
             <guid>https://factchecker.or.kr/fc_suggests/963</guid>
@@ -261,14 +268,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <pubDate>Wed, 04 Jan 2023 06:15:13 GMT</pubDate>
             <content:encoded><![CDATA[이태원 참사 국정조사에서 윤희근 경찰청장이 참사 당일에 놀러가서 술 먹었다는 걸 인정했는데요
 경찰 최고 책임자가 서울 한복판에 인파가 몰릴 게 뻔히 보이는 날 놀러가서 술 먹었다는 것도 웃긴데 공무원들이 자기 관할 지역을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TSMC는 삼성전자보다 세액감면 혜택을 더 받고 있다? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/954</link>
-            <guid>https://factchecker.or.kr/fc_suggests/954</guid>
-            <pubDate>Tue, 03 Jan 2023 10:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[기사를 보다가 황당한 주장이 있어서 사실인지 확인 요청합니다
-국민의힘 송언석 원내수석부대표라는 사람이 TSMC 공장이 일본에 지어진다면서 반도체 투자에 대한 세액 공제율을 6%에서 8%까지 올리는 것에 그쳤다면서 20%까...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[알고보니] 연봉 3억 6천에도 지원자 0명‥지역 공공의료 해법은? (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
