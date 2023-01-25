@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-01-25T09:14:06.984Z</updated>
+    <updated>2023-01-25T10:18:29.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고유식별자]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/965</id>
+        <link href="https://factchecker.or.kr/fc_suggests/965"/>
+        <updated>2023-01-25T10:17:42.021Z</updated>
+        <content type="html"><![CDATA[안녕하세요 고유식별자 정광현 예요 프라이버시의 손해 인권의의한정신적인피해보상 오픈 라이브주인공 정광현 예요&nbsp; &nbsp; 정신적인피해보상]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text]]></title>
         <id>https://factchecker.or.kr/fc_suggests/964</id>
@@ -78,13 +85,5 @@
         <updated>2023-01-06T07:11:14.835Z</updated>
         <content type="html"><![CDATA[북한 무인기가 비행금지구역까지 들어왔다는 게 어제 밝혀졌습니다
 군은 거짓 발표를 해놓고도 제대로 된 사과도 안 하고, 대통령실은 비행금지구역까지 들어왔다는 걸 밝혀낸 국회의원이 문제라는 듯이 어처구니 없는 대응을 하고 있...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰청장은 토요일 관외출타 신고의무가 없나요?]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/955</id>
-        <link href="https://factchecker.or.kr/fc_suggests/955"/>
-        <updated>2023-01-04T06:15:13.548Z</updated>
-        <content type="html"><![CDATA[이태원 참사 국정조사에서 윤희근 경찰청장이 참사 당일에 놀러가서 술 먹었다는 걸 인정했는데요
-경찰 최고 책임자가 서울 한복판에 인파가 몰릴 게 뻔히 보이는 날 놀러가서 술 먹었다는 것도 웃긴데 공무원들이 자기 관할 지역을...]]></content>
     </entry>
 </feed>
