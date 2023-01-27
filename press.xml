@@ -4,7 +4,7 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 성일종·김기현 의원 등 발언... 전문가 2022년 하반기 수입가격 급등이 원인]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1V3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c3170ab18574def1720d47ee9a1871f8c807dc5/6ffbfd560d1b5f71cbf455c04c86f8f3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈&팩트(201)] 안주 없이 ‘술’만 마시면 살이 안 찐다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4857</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4857</guid>
+            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[시사위크=연미선 기자 오랫동안 지속됐던 사회적 거리두기가 작년부터 끝나면서 우리 사회는 엔데믹을 맞이했다. 코로나19 확산 이후 외식업계 영업시간 제한과 거리두기로 줄어들었던 음주문화가 일상이 회복되면서 다시 증가할 것으로 전망되는 가운데, 최근 건강에 대한 관심도가 높아지면서 건강하게 음주를 즐기려는 소비자들이 많아지고 있다.이 때문에 소비자들은 술을 마시더라도 살이 덜 찌는 방법을 고민하기도 한다. 이에 안주를 먹지 않으면 살이 찌지 않는다는 속설도 돌았다. 술에는 열량이 있어도 인체에 필요한 영양성분이 없는 빈 칼로리이기 때문]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a0115284926d42028710bb7e5260b98bdffdeb7/f651f472096237dbce2e5068efc8692a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 보일러 '외출 버튼' 누를까 말까? '난방비 아끼는 법']]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다.]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjR3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74e35165aeffb0f02265caba1321f702ae8be7c9/064ccc384f63d313b876d8f788c9d6bb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 남는 쌀 정부 매입 의무화하면 쌀값 떨어진다? | 연합뉴스]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4847</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4847</guid>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[(서울=연합뉴스) 이웅 기자 = 쌀값 안정을 위해 과잉생산된 쌀을 정부가 의무적으로 매입(시장격리)하게 하는 양곡관리법 개정안을 둘러싼 논란...]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjB3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72bdb98aa6cfc8d190c7be0b1d316ddf467195df/b051c4851f18984e99a28ba9af3f337b.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
