@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 05:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 06:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,13 @@ https://www.hankyung.com/opinion/article/2022110195241
             <enclosure url="https://factchecker.or.kr/packs/media/images/halftrue_sign-c32ae58bd3c24a8e6a45ab8696c4b06a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[escorts (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
+            <link>https://factchecker.or.kr/fc_suggests/966</link>
+            <guid>https://factchecker.or.kr/fc_suggests/966</guid>
+            <pubDate>Fri, 27 Jan 2023 06:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[Table of ContentsExcitement About RealtorAll about RealtorNot known Factual Statements About Realtor The Realtor IdeasRealt...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고유식별자 (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factchecker.or.kr/fc_suggests/965</link>
             <guid>https://factchecker.or.kr/fc_suggests/965</guid>
@@ -259,14 +266,6 @@ https://www.hankyung.com/opinion/article/2022110195241
             <content:encoded><![CDATA[💥2023년에 이렇게 달라졌다🎯
 (🆕️1)건강보험료(1.49%)인상ㅇ.직장가입자(소득×%)(3.495%➡️3.545%)ㅇ.지역가입자(부과점수×원)(205.3원➡️208.4원)&nbsp;
 (🆕️2)장기요양보험료(4.4%)인상&nbsp;건보료...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정전협정에 북한 도발에 대한 동일 방식 대응 관련 내용이 있습니까? (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
-            <link>https://factchecker.or.kr/fc_suggests/956</link>
-            <guid>https://factchecker.or.kr/fc_suggests/956</guid>
-            <pubDate>Fri, 06 Jan 2023 07:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[북한 무인기가 비행금지구역까지 들어왔다는 게 어제 밝혀졌습니다
-군은 거짓 발표를 해놓고도 제대로 된 사과도 안 하고, 대통령실은 비행금지구역까지 들어왔다는 걸 밝혀낸 국회의원이 문제라는 듯이 어처구니 없는 대응을 하고 있...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“헝가리식 저출산대책이 출산율을 끌어올린다?” [팩트체크] - 매일경제 (팩트체크넷 ─ 팩트체크 ─ 언론사)]]></title>
