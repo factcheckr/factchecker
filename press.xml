@@ -4,9 +4,17 @@
         <title>팩트체크넷 ─ 팩트체크 ─ 언론사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 00:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 오세훈 시장, "재임 기간에 공관 사용하지 않겠다"고 했다?]]></title>
+            <link>https://factchecker.or.kr/fc_archives/press/4858</link>
+            <guid>https://factchecker.or.kr/fc_archives/press/4858</guid>
+            <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울시가 3월 말부터 오세훈 서울시장이 공관을 사용한다고 공지하자, 야당은 재임 기간 공관을 사용하지 않겠다던 약속을 뒤집었다고 지적했습니다.더불어민주당 안귀령 상근부대변인은 25일 논평을 통해 오세훈 시장이 쓸 공관은 신축 공사와 리모델링에 이미 75억 원이 투입되었음에도 지난해 안전 진단을 이유로 입주 기업을 모두 내보낸 뒤 10억 원을 들여 리모델링 했다며 낭비 없는 시정 운영을 위해 솔선수범하겠다는 오세훈 시장의 말은 새빨간 거짓말이라고 비판했습니다. 오세훈 시장이 재임 기간 공관을 사용하지 않겠다고 약속했다는]]></content:encoded>
+            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb293IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--20517624369ba1a9fe697d76247536449616efab/d533cac4988a06f39d1c99cd2263e0b2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“헝가리식 저출산대책이 출산율을 끌어올린다?” [팩트체크] - 매일경제]]></title>
             <link>https://factchecker.or.kr/fc_archives/press/4856</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[시사위크=권정두 기자 기획재정부 복권위원회는 지난 11일 ‘2022년도 복권 인식도 조사’ 결과를 발표했다. 이에 따르면, 지난해 복권판매액은 6조4,292억원으로 잠정 집계됐다. 이는 사상 최대치이자 처음으로 6조원대를 돌파한 것이다. 그런데, 이러한 소식을 전한 보도에서 눈에 띄게 자주 등장한 표현이 있다. 바로 ‘불황엔 복권’이다. 역대 최대치를 기록한 복권판매액을 최근의 경제상황과 연결 지으면서 이러한 속설이 대거 언급됐다. 경제가 어려워지면 복권에 희망을 거는 사람들이 늘어난다는 게 이 속설의 골자다.그렇다면, 정말로 불황]]></content:encoded>
             <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0V3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--17bfaa7cac5e6c3016ba7793dc9ef915300bd6f1/02bf5e09c6b3a80de4243d1ffc2d68e2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은] 성균관 "차례상에 전 안 올려도 됩니다"…진짜?]]></title>
-            <link>https://factchecker.or.kr/fc_archives/press/4848</link>
-            <guid>https://factchecker.or.kr/fc_archives/press/4848</guid>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[연휴 앞두고 고향 갈 생각에 들뜬 사람들이 있지만, 반대로 명절이 다가오는 게 스트레스라는 사람들도 있습니다. 차례상에 올릴 음식 준비하는 것도 이런 걱정거리 가운데 하나인데, 이제는 시대에 맞게 간소하게 해도 된다는 주장이 있습니다.]]></content:encoded>
-            <enclosure url="https://factchecker.or.kr/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjR3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--74e35165aeffb0f02265caba1321f702ae8be7c9/064ccc384f63d313b876d8f788c9d6bb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
