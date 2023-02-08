@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-02-08T09:14:23.110Z</updated>
+    <updated>2023-02-08T10:15:35.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[콩(콩으로된제품) 많이먹으면 남자의 성기능이 저하된다는데 진짜인가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/967</id>
+        <link href="https://factchecker.or.kr/fc_suggests/967"/>
+        <updated>2023-02-08T10:14:48.075Z</updated>
+        <content type="html"><![CDATA[정확한 출처지는 알수가 없는데 콩많이먹으면 속칭 고자가 된다는 말이 있던데
+진짜인지 가짜인지.
+진짜라면 대체 얼마나 많이 먹어야 성기능이 떨어지는건지 궁금해요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2023-02-08T09:13:34.100Z</updated>
+        <updated>2023-02-08T10:14:48.017Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 newzealandescor
 2023.01.27 14:48:31]]></content>
@@ -77,14 +86,5 @@ newzealandescor
         <link href="https://factchecker.or.kr/fc_suggests/958"/>
         <updated>2023-01-09T15:17:41.901Z</updated>
         <content type="html"><![CDATA[이것 때문에 주위분들이 물어 봐서 중국인 수급 통계가 정확한게 맞나요? 중국인들 따로 낸 보험료를 정확히 알수 없다고 하던데... 사실이 뭔지 알수가 없네요. 확인 좀 부탁드립니다.&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런글이 돕니다]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/957</id>
-        <link href="https://factchecker.or.kr/fc_suggests/957"/>
-        <updated>2023-01-08T13:15:01.376Z</updated>
-        <content type="html"><![CDATA[💥2023년에 이렇게 달라졌다🎯
-(🆕️1)건강보험료(1.49%)인상ㅇ.직장가입자(소득×%)(3.495%➡️3.545%)ㅇ.지역가입자(부과점수×원)(205.3원➡️208.4원)&nbsp;
-(🆕️2)장기요양보험료(4.4%)인상&nbsp;건보료...]]></content>
     </entry>
 </feed>
