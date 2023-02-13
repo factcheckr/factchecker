@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-02-13T02:25:08.933Z</updated>
+    <updated>2023-02-13T03:18:42.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 열풍을 끌고 있는 메타버스 소셜앱 "본디" 이용자의 개인정보는 안녕하신가요?]]></title>
+        <id>https://factchecker.or.kr/fc_suggests/969</id>
+        <link href="https://factchecker.or.kr/fc_suggests/969"/>
+        <updated>2023-02-13T03:17:56.226Z</updated>
+        <content type="html"><![CDATA[최근 10대, 20대 사이에서 열풍을 끌고 있는 앱이 하나 있습니다.
+이 앱의 이름은 본디 인데요, 출시 한지 며칠 되지 않아 핸드폰 앱스토어, 구글 스토어 랭킹에 상위권에 올라갔습니다.
+하지만 최근 이 앱에 대해 개발사...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팩트체크넷이 폐지된다고 하는 데 사실인가요?]]></title>
         <id>https://factchecker.or.kr/fc_suggests/968</id>
@@ -29,10 +38,10 @@
 진짜라면 대체 얼마나 많이 먹어야 성기능이 떨어지는건지 궁금해요.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2023-02-13T02:24:25.612Z</updated>
+        <updated>2023-02-13T03:17:56.169Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 newzealandescor
 2023.01.27 14:48:31]]></content>
@@ -83,15 +92,5 @@ newzealandescor
 이게 사실인가요?
 장예찬 씨 말로는 민주화 이후에 처음 있는 일이라고 하는데 정말 그런지 궁금하네요
 사실인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국인 건강보험 가입자 낸 보험료 대비 받은 혜택]]></title>
-        <id>https://factchecker.or.kr/fc_suggests/959</id>
-        <link href="https://factchecker.or.kr/fc_suggests/959"/>
-        <updated>2023-01-10T12:22:35.146Z</updated>
-        <content type="html"><![CDATA[중국인 건강보험 가입자 낸 보험료 대비 받은 혜택 이라는 그래프가 있습니다.&nbsp;
-제가 알아 보니 이게 맞다 아니다 논란이 있던데 사실을 정확히 찾을 수가 없습니다.&nbsp;
-국민의힘 서정숙 의원실에서 낸 자료가 맞나요?&nbsp;
-외국인 ...]]></content>
     </entry>
 </feed>
