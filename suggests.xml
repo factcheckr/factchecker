@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factchecker.or.kr/fc_suggests</id>
     <title>팩트체크넷 ─ 검증센터 ─ 검증 제안</title>
-    <updated>2023-02-17T01:03:18.748Z</updated>
+    <updated>2023-02-17T02:50:01.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://factchecker.or.kr/android-icon-192x192.png</icon>
     <entry>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://factchecker.or.kr/fc_suggests</id>
         <link href="https://factchecker.or.kr/fc_suggests"/>
-        <updated>2023-02-17T01:02:36.843Z</updated>
+        <updated>2023-02-17T02:49:18.479Z</updated>
         <content type="html"><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 newzealandescor
 2023.01.27 14:48:31]]></content>
