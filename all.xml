@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 20:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 21:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,7 +223,7 @@ https://www.hankyung.com/opinion/article/2022110195241
             <title><![CDATA[undefined (팩트체크넷 ─ 검증센터 ─ 검증 제안)]]></title>
             <link>https://factcheckr.github.io/factchecker/all.xml</link>
             <guid>https://factcheckr.github.io/factchecker/all.xml</guid>
-            <pubDate>Fri, 24 Feb 2023 20:13:39 GMT</pubDate>
+            <pubDate>Fri, 24 Feb 2023 21:09:52 GMT</pubDate>
             <content:encoded><![CDATA[게시글 운영 정책 위반으로 비공개된 게시글입니다.
 newzealandescor
 2023.01.27 14:48:31]]></content:encoded>
